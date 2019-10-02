@@ -45,6 +45,11 @@ As part of the processing steps the desktop and mobile views are combined to get
 To analyse the data, we are plotting a line graph from January 1st 2008 to August 30 2019 with different lines and colors representing the number of views
 
 <attach figure here>
+  
+To perform the above steps the following Python libraries were used
+1) requests - To perform API requests
+2) pandas - Python data processing library
+3) matplotlib - Data plotting tool 
 
 
 ### Data Caveats

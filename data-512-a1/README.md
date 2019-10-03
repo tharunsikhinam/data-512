@@ -3,7 +3,7 @@
 The goal of this project is to construct, analyze and publish a dataset of monthly traffic on English Wikipedia from January 1st 2008 to August 30 2019. 
 The project aims to follow the best practices for conducting open scientific research focussing on repoducibility.
 
-The project documents the following steps in this [IPython notebook](./data-512-a1/hcds-a1-data-curation.ipynb) 
+The project documents the following steps in this [IPython notebook](./hcds-a1-data-curation.ipynb) 
 1) Data Acquisition
 2) Data Processing
 3) Data Analysis

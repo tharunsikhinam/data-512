@@ -27,7 +27,8 @@ The project documents the following steps in this [IPython notebook](./data-512-
 ```
 
 All the raw data is stored under [data/raw](./data/raw) and the cleaned data in stored under [data/clean](./data/clean)
-Analysis is done in data-512-a1/hcds-a1-data-curation.ipynb notebook 
+
+Analysis is done in [IPython Notebook](./hcds-a1-data-curation.ipynb)
 
 ### Data
 
@@ -66,17 +67,17 @@ As part of the processing steps the desktop and mobile views are combined to get
 #### Data Analysis
 To analyse the data, we are plotting a line graph from January 1st 2008 to August 30 2019 with different lines and colors representing the number of views
 
-![Visualization](./english-wikipedia-views-2008-2019.png)
+![Visualization](./english-wikipedia-views-2008-2019.jpg)
   
 To perform the above steps the following Python libraries were used
-1) requests - To perform API requests
-2) pandas - Python data processing library
-3) matplotlib - Data plotting tool 
+1) [requests](https://pypi.org/project/requests/2.7.0/) - To perform API requests
+2) [pandas](https://pandas.pydata.org/) - Python data processing library
+3) [matplotlib](https://matplotlib.org/) - Data plotting tool 
 
 
 ### Data Caveats
 
-The legacy API doesn't differentiate between organic traffic and others (web crawlers). The number of pageviews may be inflated.
+The legacy API doesn't differentiate between organic traffic and others (web crawlers). The number of pagecounts may be inflated.
 
 ### License and Terms of Use
 

@@ -26,8 +26,8 @@ The project documents the following steps in this [IPython notebook](./data-512-
 └── hcds-a1-data-curation.ipynb
 ```
 
-All the raw data is stored under data/raw and the cleaned data in stored under data/clean
-Analysis is done in data-512-a1/hcds-a1-data-curation.ipynb notebook
+All the raw data is stored under [data/raw](./data/raw) and the cleaned data in stored under [data/clean](./data/clean)
+Analysis is done in data-512-a1/hcds-a1-data-curation.ipynb notebook 
 
 ### Data
 
@@ -37,11 +37,7 @@ The data is collected from Wikimedia REST API's.
 
 2) The Pageviews API ([documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews), [endpoint](https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end)) provides access to desktop, mobile web, and mobile app traffic data from July 2015 through last month.
 
-### License and Terms of Use
 
-Terms of Use: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions
-
-The code is available under [MIT License](../LICENSE)
 
 ### Data Decription
 
@@ -70,7 +66,7 @@ As part of the processing steps the desktop and mobile views are combined to get
 #### Data Analysis
 To analyse the data, we are plotting a line graph from January 1st 2008 to August 30 2019 with different lines and colors representing the number of views
 
-[]
+![Visualization](./english-wikipedia-views-2008-2019.png)
   
 To perform the above steps the following Python libraries were used
 1) requests - To perform API requests
@@ -81,4 +77,10 @@ To perform the above steps the following Python libraries were used
 ### Data Caveats
 
 The legacy API doesn't differentiate between organic traffic and others (web crawlers). The number of pageviews may be inflated.
+
+### License and Terms of Use
+
+Wikimedia [Terms of Use](https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions)
+
+The code is available under [MIT License](../LICENSE)
 

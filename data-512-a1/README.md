@@ -47,8 +47,8 @@ The columns in the file represent the following
   
   | Column  | Value | Description|
 |--------------|-------------|---------------|
-| year | yyyy | specific Year of a record in yyyy format |
-| month | mm | specific Month of a record in mm format |
+| year | yyyy | year in yyyy format |
+| month | mm | month in mm format |
 | pagecount_all_views | num_views |  The total number of pagecounts (mobile + web)|
 | pagecount_desktop_views | num_views | Number of desktop pagecounts |
 | pagecount_mobile_views | num_views | Number of mobile pagecounts|

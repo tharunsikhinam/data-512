@@ -77,7 +77,7 @@ To perform the above steps the following Python libraries were used
 
 ### Data Caveats
 
-The legacy API doesn't differentiate between organic traffic and others (web crawlers). The number of pageviews may be inflated.
+The legacy API doesn't differentiate between organic traffic and others (web crawlers). The number of pagecounts may be inflated.
 
 ### License and Terms of Use
 

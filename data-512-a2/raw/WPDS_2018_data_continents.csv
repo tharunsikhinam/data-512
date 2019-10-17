@@ -1,0 +1,202 @@
+Geography,Population mid-2018 (millions),continent
+Algeria,42.7,AFRICA
+Egypt,97,AFRICA
+Libya,6.5,AFRICA
+Morocco,35.2,AFRICA
+Sudan,41.7,AFRICA
+Tunisia,11.6,AFRICA
+Western Sahara,0.6,AFRICA
+Benin,11.5,AFRICA
+Burkina Faso,20.3,AFRICA
+Cape Verde,0.6,AFRICA
+Cote d'Ivoire,24.9,AFRICA
+Gambia,2.2,AFRICA
+Ghana,29.5,AFRICA
+Guinea,11.9,AFRICA
+Guinea-Bissau,1.9,AFRICA
+Liberia,4.9,AFRICA
+Mali,19.4,AFRICA
+Mauritania,4.5,AFRICA
+Niger,22.2,AFRICA
+Nigeria,195.9,AFRICA
+Senegal,16.3,AFRICA
+Sierra Leone,7.7,AFRICA
+Togo,8,AFRICA
+Burundi,11.8,AFRICA
+Comoros,0.8,AFRICA
+Djibouti,1,AFRICA
+Eritrea,6,AFRICA
+Ethiopia,107.5,AFRICA
+Kenya,51,AFRICA
+Madagascar,26.3,AFRICA
+Malawi,19.1,AFRICA
+Mauritius,1.3,AFRICA
+Mozambique,30.5,AFRICA
+Rwanda,12.6,AFRICA
+Seychelles,0.1,AFRICA
+Somalia,15.2,AFRICA
+South Sudan,13,AFRICA
+Tanzania,59.1,AFRICA
+Uganda,44.1,AFRICA
+Zambia,17.7,AFRICA
+Zimbabwe,14,AFRICA
+Angola,30.4,AFRICA
+Cameroon,25.6,AFRICA
+Central African Republic,4.7,AFRICA
+Chad,15.4,AFRICA
+Congo,5.4,AFRICA
+"Congo, Dem. Rep.",84.3,AFRICA
+Equatorial Guinea,1.3,AFRICA
+Gabon,2.1,AFRICA
+Sao Tome and Principe,0.2,AFRICA
+Botswana,2.2,AFRICA
+eSwatini,1.4,AFRICA
+Lesotho,2.3,AFRICA
+Namibia,2.5,AFRICA
+South Africa,57.7,AFRICA
+Canada,37.2,NORTHERN AMERICA
+United States,328,NORTHERN AMERICA
+Belize,0.4,LATIN AMERICA AND THE CARIBBEAN
+Costa Rica,5,LATIN AMERICA AND THE CARIBBEAN
+El Salvador,6.5,LATIN AMERICA AND THE CARIBBEAN
+Guatemala,17.2,LATIN AMERICA AND THE CARIBBEAN
+Honduras,9,LATIN AMERICA AND THE CARIBBEAN
+Mexico,130.8,LATIN AMERICA AND THE CARIBBEAN
+Nicaragua,6.3,LATIN AMERICA AND THE CARIBBEAN
+Panama,4.2,LATIN AMERICA AND THE CARIBBEAN
+Antigua and Barbuda,0.1,LATIN AMERICA AND THE CARIBBEAN
+Bahamas,0.4,LATIN AMERICA AND THE CARIBBEAN
+Barbados,0.3,LATIN AMERICA AND THE CARIBBEAN
+Cuba,11.1,LATIN AMERICA AND THE CARIBBEAN
+Curacao,0.2,LATIN AMERICA AND THE CARIBBEAN
+Dominica,0.07,LATIN AMERICA AND THE CARIBBEAN
+Dominican Republic,10.8,LATIN AMERICA AND THE CARIBBEAN
+Grenada,0.1,LATIN AMERICA AND THE CARIBBEAN
+Haiti,10.8,LATIN AMERICA AND THE CARIBBEAN
+Jamaica,2.9,LATIN AMERICA AND THE CARIBBEAN
+Puerto Rico,3.3,LATIN AMERICA AND THE CARIBBEAN
+St. Kitts-Nevis,0.05,LATIN AMERICA AND THE CARIBBEAN
+Saint Lucia,0.2,LATIN AMERICA AND THE CARIBBEAN
+St. Vincent and the Grenadines,0.1,LATIN AMERICA AND THE CARIBBEAN
+Trinidad and Tobago,1.4,LATIN AMERICA AND THE CARIBBEAN
+Argentina,44.5,LATIN AMERICA AND THE CARIBBEAN
+Bolivia,11.3,LATIN AMERICA AND THE CARIBBEAN
+Brazil,209.4,LATIN AMERICA AND THE CARIBBEAN
+Chile,18.6,LATIN AMERICA AND THE CARIBBEAN
+Colombia,49.8,LATIN AMERICA AND THE CARIBBEAN
+Ecuador,17,LATIN AMERICA AND THE CARIBBEAN
+Guyana,0.8,LATIN AMERICA AND THE CARIBBEAN
+Paraguay,6.9,LATIN AMERICA AND THE CARIBBEAN
+Peru,32.2,LATIN AMERICA AND THE CARIBBEAN
+Suriname,0.6,LATIN AMERICA AND THE CARIBBEAN
+Uruguay,3.5,LATIN AMERICA AND THE CARIBBEAN
+Venezuela,31.8,LATIN AMERICA AND THE CARIBBEAN
+Armenia,3,ASIA
+Azerbaijan,9.9,ASIA
+Bahrain,1.5,ASIA
+Cyprus,1.2,ASIA
+Georgia,3.9,ASIA
+Iraq,40.2,ASIA
+Israel,8.5,ASIA
+Jordan,10.2,ASIA
+Kuwait,4.2,ASIA
+Lebanon,6.1,ASIA
+Oman,4.7,ASIA
+Qatar,2.7,ASIA
+Saudi Arabia,33.4,ASIA
+Syria,18.3,ASIA
+Turkey,81.3,ASIA
+United Arab Emirates,9.5,ASIA
+Yemen,28.9,ASIA
+Kazakhstan,18.4,ASIA
+Kyrgyzstan,6.1,ASIA
+Tajikistan,9.1,ASIA
+Turkmenistan,5.9,ASIA
+Uzbekistan,32.9,ASIA
+Afghanistan,36.5,ASIA
+Bangladesh,166.4,ASIA
+Bhutan,0.8,ASIA
+India,"1,371.30",ASIA
+Iran,81.6,ASIA
+Maldives,0.4,ASIA
+Nepal,29.7,ASIA
+Pakistan,200.6,ASIA
+Sri Lanka,21.7,ASIA
+Brunei,0.4,ASIA
+Cambodia,16,ASIA
+Indonesia,265.2,ASIA
+Laos,7,ASIA
+Malaysia,32.5,ASIA
+Myanmar,53.9,ASIA
+Philippines,107,ASIA
+Singapore,5.8,ASIA
+Thailand,66.2,ASIA
+Timor-Leste,1.2,ASIA
+Vietnam,94.7,ASIA
+China,"1,393.80",ASIA
+Japan,126.5,ASIA
+"Korea, North",25.6,ASIA
+"Korea, South",51.8,ASIA
+Mongolia,3.2,ASIA
+Taiwan,23.6,ASIA
+Denmark,5.8,EUROPE
+Estonia,1.3,EUROPE
+Finland,5.5,EUROPE
+Iceland,0.4,EUROPE
+Ireland,4.9,EUROPE
+Latvia,1.9,EUROPE
+Lithuania,2.8,EUROPE
+Norway,5.3,EUROPE
+Sweden,10.2,EUROPE
+United Kingdom,66.4,EUROPE
+Austria,8.8,EUROPE
+Belgium,11.4,EUROPE
+France,65.1,EUROPE
+Germany,82.8,EUROPE
+Liechtenstein,0.04,EUROPE
+Luxembourg,0.6,EUROPE
+Monaco,0.04,EUROPE
+Netherlands,17.2,EUROPE
+Switzerland,8.5,EUROPE
+Belarus,9.5,EUROPE
+Bulgaria,7,EUROPE
+Czechia,10.6,EUROPE
+Hungary,9.8,EUROPE
+Moldova,3.5,EUROPE
+Poland,38.4,EUROPE
+Romania,19.5,EUROPE
+Russia,147.3,EUROPE
+Slovakia,5.4,EUROPE
+Ukraine,42.3,EUROPE
+Albania,2.9,EUROPE
+Andorra,0.08,EUROPE
+Bosnia-Herzegovina,3.5,EUROPE
+Croatia,4.1,EUROPE
+Greece,10.6,EUROPE
+Italy,60.6,EUROPE
+Kosovo,1.8,EUROPE
+Macedonia,2.1,EUROPE
+Malta,0.5,EUROPE
+Montenegro,0.6,EUROPE
+Portugal,10.3,EUROPE
+San Marino,0.03,EUROPE
+Serbia,7,EUROPE
+Slovenia,2.1,EUROPE
+Spain,46.7,EUROPE
+Australia,24.1,OCEANIA
+Federated States of Micronesia,0.1,OCEANIA
+Fiji,0.9,OCEANIA
+French Polynesia,0.3,OCEANIA
+Guam,0.2,OCEANIA
+Kiribati,0.1,OCEANIA
+Marshall Islands,0.06,OCEANIA
+Nauru,0.01,OCEANIA
+New Caledonia,0.3,OCEANIA
+New Zealand,4.9,OCEANIA
+Palau,0.02,OCEANIA
+Papua New Guinea,8.5,OCEANIA
+Samoa,0.2,OCEANIA
+Solomon Islands,0.7,OCEANIA
+Tonga,0.1,OCEANIA
+Tuvalu,0.01,OCEANIA
+Vanuatu,0.3,OCEANIA

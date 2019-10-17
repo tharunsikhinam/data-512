@@ -33,7 +33,7 @@ The data is obtained from multiple sources as listed below.
 
 1. Wikipedia politicians by country dataset is stored at [raw/page_data.csv](./raw/page_data.csv)
 
-Wikipedia articles data is found at this https://figshare.com/articles/Untitled_Item/5513449. The data contains articles of political figures by country. It is titled page_data.csv. The data is licensed under CC-BY 4.0 license. The data is stored in ./raw/page_data.csv
+Wikipedia articles data is found at this https://figshare.com/articles/Untitled_Item/5513449. The data contains articles of political figures by country. It is titled page_data.csv. The data is licensed under CC-BY 4.0 license.  
   
   | Column  | Description  
 |--------------|------------- 
@@ -41,7 +41,7 @@ Wikipedia articles data is found at this https://figshare.com/articles/Untitled_
 | country | country of origin
 | rev_id | revision id of the article
 
-2. Population data is stored at [raw/WPDS_2018_data.csv](./raw/WPDS_2018_data.csv)] 
+2. Population data is stored at [raw/WPDS_2018_data.csv](./raw/WPDS_2018_data.csv)
 
 The population data contains world populations for 207 countries as of 2018. The data was provided to us as part of the assignment. This data is obtained form the world population datasheet published by the Population Reference bureau. There is no License attributed to this data, by default all rights are reserved to the owners of this data.
 
@@ -51,7 +51,18 @@ The population data contains world populations for 207 countries as of 2018. The
 | Population mid-2018 (millions) | population in millions
 
 
-3. ORES ratings  
+3. Population data with continents  [raw/WPDS_2018_data_continents.csv](./raw/WPDS_2018_data_continents.csv)
+
+This dataset is an extension of the previous one, a new column continent is added and this is tagging is done manually on Excel
+
+  | Column  | Description  
+|--------------|------------- 
+| Geography | Country or region
+| Population mid-2018 (millions) | population in millions
+| continent | region the country belongs to
+
+
+4. ORES ratings  
 
 Objective Revision Evaluation Service is used to estimate the quality of an article. The documentation for ORES API can be found at https://www.mediawiki.org/wiki/ORES.  We make RESTful API calls to this service to find out the quality of Wikipedia articles and store this data in [raw/ores_data.csv](./raw/ores_data.csv)
 

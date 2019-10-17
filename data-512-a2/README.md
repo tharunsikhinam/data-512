@@ -9,6 +9,24 @@ With this combined data, we conduct the following analysis
 
 Data acquisition, processing and analysis steps are all recorded in this IPython Notebook
 
+## Directory Structure
+
+```
+.
+├── README.md
+├── clean
+│   ├── articles_no_ratings.csv
+│   ├── wp_wpds_countries-no_match.csv
+│   └── wp_wpds_politicians_by_country.csv
+├── hcds-a2-bias.ipynb
+└── raw
+    ├── WPDS_2018_data.csv
+    ├── WPDS_2018_data_continents.csv
+    ├── ores_data.csv
+    └── page_data.csv
+```
+
+
 ## Data
 
 The data is obtained from multiple sources as listed below.
@@ -563,7 +581,7 @@ I also  expected to find more number of English Wikipedia articles from English 
 
 By looking at the Top 10 countries by relative quality. We observe North Korea and Saudi Arabia at the top of the list. This result is quite suspect, since North Korea and Saudia Arabia have quite a bad rep in the public media and their goverments are generally oppresive. It is also not surprising to see countries with the lowest populations have the highest coverage. Since they would have the best high quality articles proportion. 
 
-This leads me to think, if the metric for coverage was the right one? Populations might not be a good measure for calculating coverage. If the population increases x2 it doesn't correlate to twice the number of politicians or twice the number of English Wikipedia articles. Also, the scale at which populations work (millions and billions) is not comparable to the number of high quality articles (hundreds and thousands)
+This leads me to think, if the metric for coverage was the right one? Populations might not be a good measure for calculating coverage. If the population increases x2 it doesn't correlate to twice the number of politicians or twice the number of English Wikipedia articles. Also, the scale at which populations work (millions and billions) is not comparable to the number of high quality articles (hundreds and thousands). 
 
 By looking at the documentation for ORES API we find that the service ranks articles not on the English or the grammar but on the structure of the page. This might not be the best indicator for quality of politican articles. 
 

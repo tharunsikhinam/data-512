@@ -7,7 +7,7 @@ With this combined data, we conduct the following analysis
 - countries with highest and lowest proportion of high quality articles
 - rank geographic regions by articles per person and proportion of high quality articles
 
-Data acquisition, processing and analysis steps are all recorded in this IPython Notebook
+Data acquisition, processing and analysis steps are all recorded in this (IPython Notebook)[./hcds-a2-bias.ipynb]
 
 ## Directory Structure
 

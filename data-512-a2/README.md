@@ -7,7 +7,25 @@ With this combined data, we conduct the following analysis
 - countries with highest and lowest proportion of high quality articles
 - rank geographic regions by articles per person and proportion of high quality articles
 
-Data acquisition, processing and analysis steps are all recorded in this IPython Notebook
+Data acquisition, processing and analysis steps are all recorded in this [IPython Notebook](./hcds-a2-bias.ipynb)
+
+## Directory Structure
+
+```
+.
+├── README.md
+├── clean
+│   ├── articles_no_ratings.csv
+│   ├── wp_wpds_countries-no_match.csv
+│   └── wp_wpds_politicians_by_country.csv
+├── hcds-a2-bias.ipynb
+└── raw
+    ├── WPDS_2018_data.csv
+    ├── WPDS_2018_data_continents.csv
+    ├── ores_data.csv
+    └── page_data.csv
+```
+
 
 ## Data
 
@@ -15,7 +33,7 @@ The data is obtained from multiple sources as listed below.
 
 1. Wikipedia politicians by country dataset is stored at [raw/page_data.csv](./raw/page_data.csv)
 
-Wikipedia articles data is found at this https://figshare.com/articles/Untitled_Item/5513449. The data contains articles of political figures by country. It is titled page_data.csv. The data is licensed under CC-BY 4.0 license. The data is stored in ./raw/page_data.csv
+Wikipedia articles data is found at this https://figshare.com/articles/Untitled_Item/5513449. The data contains articles of political figures by country. It is titled page_data.csv. The data is licensed under CC-BY 4.0 license.  
   
   | Column  | Description  
 |--------------|------------- 
@@ -23,7 +41,7 @@ Wikipedia articles data is found at this https://figshare.com/articles/Untitled_
 | country | country of origin
 | rev_id | revision id of the article
 
-2. Population data is stored at [raw/WPDS_2018_data.csv](./raw/WPDS_2018_data.csv)] 
+2. Population data is stored at [raw/WPDS_2018_data.csv](./raw/WPDS_2018_data.csv)
 
 The population data contains world populations for 207 countries as of 2018. The data was provided to us as part of the assignment. This data is obtained form the world population datasheet published by the Population Reference bureau. There is no License attributed to this data, by default all rights are reserved to the owners of this data.
 
@@ -33,7 +51,18 @@ The population data contains world populations for 207 countries as of 2018. The
 | Population mid-2018 (millions) | population in millions
 
 
-3. ORES ratings  
+3. Population data with continents  [raw/WPDS_2018_data_continents.csv](./raw/WPDS_2018_data_continents.csv)
+
+This dataset is an extension of the previous one, a new column continent is added and this is tagging is done manually on Excel
+
+  | Column  | Description  
+|--------------|------------- 
+| Geography | Country or region
+| Population mid-2018 (millions) | population in millions
+| continent | region the country belongs to
+
+
+4. ORES ratings  
 
 Objective Revision Evaluation Service is used to estimate the quality of an article. The documentation for ORES API can be found at https://www.mediawiki.org/wiki/ORES.  We make RESTful API calls to this service to find out the quality of Wikipedia articles and store this data in [raw/ores_data.csv](./raw/ores_data.csv)
 
@@ -553,23 +582,21 @@ To perform the above steps the following Python libraries were used
 
 #### 1.  What biases did you expect to find in the data, and why? 
 
-Since the analysis is performed on English Wikipedia articles, there is bias in this analysis. The articles would  be of high-quality from English speaking countries since English is their first language. The articles written in non-English speaking countries, might find their politician articles to be of higher quality in their native language.
+On first glance at page_data.csv some of the titles are clearly not Politicans. Some of these titles include "Information Minister of the Palestinian Nation" , "Finance Minister of ..", "List of politicians in Poland". We are trying to analyze the number of articles on 'political figures' and currently we are not filtering out such titles. We are not currently accounting for these kinds of titles. This can impact every step of the downstream analysis. 
 
-By looking at the data some of the titles are not Politican Names but the designation of the post such as "Information Minister of the Palestinian Nation" , "Finance Minister of", "List of politicians in Poland". This can affect downstream analysis. This makes me wonder what is the criteria for choosing an article as a politican article. 
-
-I also  expected to find more number of English Wikipedia articles from English Speaking countries compared to the rest of the world. Since certain language articles are not accounted for as part of our analysis, we can't judge the quality of articles from just the English Wikipedia subset. If these languages are not supported by Wiki/ORES you would find those countries to have poorer quality of articles regardless of other factors.
+Since the analysis is performed only on English Wikipedia articles, we are not accounting for the articles written in the countries native language. I would expect to find more number of articles from English speaking countries. Since the analysis is performed on English Wikipedia articles, there is bias in this analysis. The articles would be of high-quality from English speaking countries since English is their first language. The articles written in non-English speaking countries, might find their politician articles to be of higher quality in their native language. Not accounting for articles written in other language might introduce a sampling bias in the analysis.
 
 #### 2. What potential sources of bias did you discover in the course of your data processing and analysis?
 
-By looking at the Top 10 countries by relative quality. We observe North Korea and Saudi Arabia at the top of the list. This result is quite suspect, since North Korea and Saudia Arabia have quite a bad rep in the public media and their goverments are generally oppresive. It is also not surprising to see countries with the lowest populations have the highest coverage. Since they would have the best high quality articles proportion. 
+By looking at the Top 10 countries by relative quality. We see North Korea is at the top of the list. This result is quite suspect, since North Korea has quite a bad reputation in the public media and their goverments are generally oppresive. It is also not surprising to see countries with the lowest populations have the highest coverage. Since they would have the best high quality articles proportion. 
 
-This leads me to think, if the metric for coverage was the right one? Populations might not be a good measure for calculating coverage. If the population increases x2 it doesn't correlate to twice the number of politicians or twice the number of English Wikipedia articles. Also, the scale at which populations work (millions and billions) is not comparable to the number of high quality articles (hundreds and thousands)
-
-By looking at the documentation for ORES API we find that the service ranks articles not on the English or the grammar but on the structure of the page. This might not be the best indicator for quality of politican articles. 
+Most populous countries such as India, Indonesia and China have the least coverage relative to population. This leads me to think, if the metric we are using is the right one? Populations might not be a good measure for calculating coverage. If the population increases x2 it doesn't correlate to twice the number of politicians or twice the number of English Wikipedia articles. Also, the scale at which populations work (millions and billions) is not comparable to the number of high quality articles (hundreds and thousands). This is dependent on many other factors as described in the next answer.
 
 #### 3. How might a researched supplement or transform this dataset to potentially correct for the limitations/biases you created?
 
-The data in the analysis can be enriched by adding more context to each article, such as who is the author and where does the author reside? It might be helpful to know if the person writing the article actually is a citizen of the country. Additionally, I am not entirely confident that page_data.csv contains all the politician related articles in Wikipedia. More articles are added by the day, and it would be interesting to know what are the data collection methods used to fetch this data
+The data in the analysis can be enriched by adding more context to each article, such as who is the author and where does the author reside? It might be helpful to know if the person writing the article actually is a citizen of the country. 
+
+The output of articles from a nation is dependent on other factors such as the literacy rate, access to Internet/ Wikipedia and the censorship laws in that country. When treating Wikipedia as the dataset, one should also consider the articles written in languages written in the other languages. Having such additional information can help us address bias and make sure we are not reporting false information
 
 
 #### References

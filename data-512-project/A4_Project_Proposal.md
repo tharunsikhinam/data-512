@@ -1,9 +1,11 @@
 ## A4: Project Proposal
 ## Tharun Sikhinam
+
+## An exploratory data analysis on the transfer market of the the BIG 5 European Soccer Leagues (England, Spain, France, Germany and Italy) 
  
 ### Motivation/problem statement: 
 
-The purpose of this project is to perform an Exploratory Data Analysis on the Transfer Market of the Big Five European Soccer Leagues. This analysis is particularly interesting with the large sums of foreign investment and the increase in the number of sports agents in recent years. With each clubs bringing in vast amounts of money through TV rights and other sources, it would be interesting to know how the clubs have put this money to use. A detailed analysis of the economics of the football transfer market can help player scouts and clubs make informed decisions. 
+The purpose of this project is to perform an Exploratory Data Analysis on the Transfer Market of the Big Five European Soccer Leagues. This analysis is particularly interesting with the large sums of foreign investment and the increase in the number of sports agents in recent years. With each clubs bringing in vast amounts of money through TV rights and other sources, it would be interesting to know how the clubs have put this money to use. A detailed analysis of the economics of the football transfer market can help uncover hidden patterns and help player scouts and clubs make informed decisions. 
 
 Furthermore, combining the transfer market data with player ratings will help us understand what factors affect the value of a player in the transfer market. It would be interesting to identify player trends and make future predictions if possible.
  
@@ -20,6 +22,8 @@ After reading the Terms of Use, it clearly states that
 
 ```  4.8. With the transmission of Content, Transfermarkt grants you the irrevocable, temporally and spatially unlimited and transferable right to reproduce, distribute, publish, issue, make publicly accessible, modify, translate and store the Content. This includes the right to edit, design, adapt to the file formats required for use, and to change and / or improve the presentation quality. ```
 
+Furthermore looking at the https://www.transfermarkt.co.uk/robots.txt , the pages we want to scrap off of are not disallowed and are open to web crawlers and scrapers. 
+
 This dataset consists of all transfers in the European football market from 1990-2019. The data consists of a player name, club-out, club-in along with the transfer value grouped by different leagues. The dataset also consists of free transfers and loans as well. Most of the data is updated and contributed by the users of the website, and there might be few factual inaccuracies in the transfer figures stated.
 
 2) The other dataset we will be using as part of this analysis is the FIFA player rating dataset obtained from this kaggle link https://www.kaggle.com/karangadiya/fifa19
@@ -35,4 +39,68 @@ This dataset holds important information about the player such as Player Country
 I haven’t obtained the player ratings dataset that is licensed to be used for academic purposes yet. I would have to search for alternative sources of data or not perform the second part of the analysis as part of this project. 
 
 I might potentially encounter another problem when trying to join the two datasets. Since each player doesn’t have a unique identifier, the joins should be done on first name, last name basis which might not be the best way to join the two datasets. 
+
+(Update: I do not have the permissions to the second dataset and plan not to do the second part of the analysis. Instead I plan to deep dive into the English Premier League and pose more research questions in that area)
+
+
+
+### Introduction: 
+
+Transfer windows are as busy a time as any other in the football world. The game attracts so much attention that even when the ball is not rolling, the eyes of the entire world are on football. Transfers occur all year round and in every corner of the globe, but activity on the transfer market is typically at its peak during the summer and winter season. 
+
+The purpose of this project is to study of the economics in play from 1990 - 2019 in the transfer market of the top 5 european leagues. It would be interesting to know how the trends have changed over the years. And by looking closely at the data, one hopes to uncover any hidden trends and explain the rise of the elite clubs in the European continent. With each clubs bringing in vast amounts of money through TV rights and other sources, it would be interesting to know how the clubs have put this money to use. 
+
+## Research Questions and/or hypotheses:
+
+Some of the research questions that the project hopes to answer are:
+
+Q1: Players from which country are the most valued by year ? 
+
+It would be interesting to identify players of which country are the most valued by year. From this analysis dating back to 1990, we could identify the countries that output the best footballing talent and categorize them by different positions on the pitch (Midfielder, Striker, Defender). This would help us answer questions such as "Which country produces the best defenders?"
+
+As a result of this analysis, we can test the following hypothesis:
+H1: Country winning the world cup is associated with an increase in transfers/value of players from that country in the subsequent years
+
+As an example, the hypothesis is that players from Germany are more valued after their world cup win in 2014 compared to the previous four years.
+
+Q2: How has the spending in the top 5 soccer leagues increased over the years ? 
+
+New transfer records are broken and each club is spending more every year. By doing an exploratory analysis on the transfer spendings of the top 5 European leagues, we can identify some of the top spenders by year and decade. 
+
+Over the recent years, there has been a massive influx of foreign investment into European soccer clubs. Some of these clubs include Manchester City, Chelsea and Paris Saint-Germain. It would be intresting to know how the spending patterns have changed over the years for these three clubs in particular.
+
+Q3: Has the spending gap grown between the top tier and lower league teams ?
+
+As television rights and alternate sources of income increase for the big clubs, we observe the clubs in the lower tiers struggling to stay afloat. With the mega rich clubs spending more each year, we plan to investigate the gap in spending between the top tier leagues and lower leagues from 1990-2019 for the top 5 european soccer leagues
+
+H2: The introduction of the UEFA Financial Fair Play Regulations caused a significant drop in spending from the top European clubs
+
+The Financial Fair Play Regulartions (FFP) was introduced to prevent the mega rich clubs from spending increasing amounts of money and to prevent the poorer clubs from going bankrupt. Football clubs spent exorbant amounts of money in pursuit of the European Cup. By analyzing the transfer market, we aim to see if the FFP had a significant impact on the transfer spendings.
+
+### Background and/or Related Work: 
+
+The best resource for transfmer markets is the official FIFA TMS[[1]](https://www.fifatms.com/data-reports/reports/). This link holds a summary reports for each transfer window in the european leagues dating back to 2013. The analysis concentrates on a particular transfer window and not the trends over the years. While the report talks about how each country is represented, the players are not classified on their Position (Striker, Midfield etc.,) Through this analysis we wish to answer questions such as "Which country produces the best strikers?"
+
+KPMG also publishes reports on clubs valuations and their spendings[[2]](https://www.footballbenchmark.com/documents/files/public/KPMG%20Football%20Clubs%20Valuation%20The%20European%20Elite%202018%20web.pdf). These reports also serve as useful guidelines so that I don't replicate any existing work. Most of these papers focus on a short duration of time, and this motivated me to explore the trends dating back to 1990 and correlating some of the trends found to real-life events. 
+
+The wealth gap between the top clubs and lower level clubs has been evident for a while [[3]](https://www.usatoday.com/story/sports/soccer/2018/01/16/uefa-warns-of-growing-wealth-gap-in-top-clubs-finance-study/109521284/), but it would be intersting to know what the exact numbers are. And how this wealth gap has been changing over the years. This can inform football policy makers to design better laws to safeguard the values and spirit of the game. 
+
+### Methodology:
+
+
+
+
+
+
+
+
+
+
+
+## References
+
+1) https://www.footballbenchmark.com/documents/files/public/KPMG%20Football%20Clubs%20Valuation%20The%20European%20Elite%202018%20web.pdf
+
+2) https://www.usatoday.com/story/sports/soccer/2018/01/16/uefa-warns-of-growing-wealth-gap-in-top-clubs-finance-study/109521284/
+
 

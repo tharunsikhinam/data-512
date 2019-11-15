@@ -1,7 +1,7 @@
-## A4: Project Proposal
+# A4: Project Proposal
 ## Tharun Sikhinam
 
-## An exploratory data analysis on the transfer market of the the BIG 5 European Soccer Leagues (England, Spain, France, Germany and Italy) 
+# An exploratory data analysis on the transfer market of the the BIG 5 European Soccer Leagues (England, Spain, France, Germany and Italy) 
  
 ### Motivation/problem statement: 
 
@@ -43,8 +43,10 @@ I might potentially encounter another problem when trying to join the two datase
 (Update: I do not have the permissions to the second dataset and plan not to do the second part of the analysis. Instead I plan to deep dive into the English Premier League and pose more research questions in that area)
 
 
+# A5: Project Plan
+## Tharun Sikhinam
 
-### Introduction: 
+## Introduction: 
 
 Transfer windows are as busy a time as any other in the football world. The game attracts so much attention that even when the ball is not rolling, the eyes of the entire world are on football. Transfers occur all year round and in every corner of the globe, but activity on the transfer market is typically at its peak during the summer and winter season. 
 

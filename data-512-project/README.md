@@ -37,12 +37,74 @@ This dataset consists of all transfers in the European football market from 1991
 
 ## IV. Research Questions
 
-- <b>Q1. How has the transfer spending increased in the top 5 European Leagues?</b>
-- <b>Q2. Which clubs spent the most and received the most transfer fee on players from 2010-2018?</b>
-- <b> Q3. How have transfers fees moved betwen the leagues from 2010-2018? </b>
-- <b> Q4. How has the wealth gap changed amongst the European elite? </b>
-- <b> Q5. Investigating the spending trends of Manchester City, Chelsea and Paris Saint-Germain </b>
-- <b> Q6. Which country produces the best footballing talent? </b>
+Data collection and analysis procedure is recorded in this [IPython Notebook](./Data-512-Analysis.ipynb)
 
+### <b>Q1. How has the transfer spending increased in the top 5 European Leagues?</b>
+![Visualization](./images/q1.png)
+### Results
+- Transfer spending has been steadily increasing for all European leagues since 1991
+- The spending gap between Premier League and the others  shows a steep increase since the 2010.
+- The percentage change in median price of player from 1990’s to 2018 is 521%
+- The rise TV rights revenue can be an explanation for the rise in Premier League Transfer Spending (https://www.usatoday.com/story/sports/soccer/2019/05/21/english-premier-league-broadcast-rights-rise-to-12-billion/39500789/) 
+###  <b>Q2. Which clubs spent the most and received the most transfer fee on players from 2010-2018?</b>
+Which clubs spent the most on players from 2010-2018?
+![Visualization](./images/q21.png)
+Which clubs received the highest transfer fees on players from 2010-2018?
+![Visualization](./images/q22.png)
+
+### <b> Q3. How have transfers fees moved betwen the leagues from 2010-2018? </b> . 
+League with highest imports - Premier League (England)
+![Visualization](./images/q31.png) 
+  
+  
+League with highest exports - La Liga (Spain)
+![Visualization](./images/q32.png)
+### Results
+- The highest spending clubs are Manchester City, Chelsea and PSG. It would be interesting to know how the transfer trends have changed for these three clubs (explored in q5)
+- The club with highest transfer fees received is Monaco a relatively small club from Ligue 1 (France). We also notice Benfica another club from Liga Nos (Portugal) that receives high transfer fees. This goes to show that the club spending the highest doesn't necessarily sell their players for a high value
+- 4 of the top 10 highest spending clubs are from the English Premier League, which leads us into the next question. 
+
+### <b> Q4. How has the wealth gap changed amongst the European elite? </b>
+![Visualization](./images/q4.png)
+### Results
+- We observe a huge wealth inequality between the top and bottom clubs in Ligue 1, Serie A and Primera Division
+- The difference is not so significant for English Premier League and the Bundesliga
+- This is still a cause for concern since the top 5 clubs hold a disproportionate share of wealth in the top flight clubs
+- These top 5 clubs in their respective leagues have won the domestic or international titles since 2010 (except for Leicester City in 2016).
+- High transfer spending for domestic and international performance can lead to inequality between leagues and clubs. 
+### <b> Q5. Investigating the spending trends of Manchester City, Chelsea and Paris Saint-Germain </b>
+![Visualization](./images/q5.png)
+### Results
+- Chelsea, Manchester City and PSG have challenged the European elite in the past decade partly due to their huge spending
+- Chelsea’s investment grew by over 234%, while Paris Saint Germain’s by 477% and Manchester City’s by 621% 
+- The huge transfer spendings can be attributed to the massive amounts of foreign investment into clubs
+
+<b>Amount & time to first title</b>
+- Chelsea - £470.5 million (2 yrs)
+- Manchester City - £761 million (5 yrs)
+- Paris SaintGermain - £421 million  (2 ys)
+
+## V. Limitations
+- All of the data is collected and maintained by users of the transfermarkt.co.uk website. There might be inaccuracies in the stated transfer figures. 
+- These inaccuracies might be more frequent as we go back the years (1990-2000)
+- As part of the analysis players on loan and free transfers are not being considered, this could change the results of the analysis
+
+## VI. Conclusion
+
+- By analyzing the transfer market we are now aware of some of the big spenders in the European leagues and the hyper-inflation in transfer fees in the English Premier League
+
+- With clubs raking in huge amounts of revenue, checks and balances need to be put into place to prevent the sport from being dominated from a few European elite clubs. which could lead to an European Super League
+
+- High transfer spending for domestic and international performance can lead to wealth inequality between leagues and clubs. 
+
+- The increase in foreign investments into European Clubs has led to the rise of super-rich clubs
+
+- Clubs chasing success are spending more and more on players, which creates an unequal playing field for all the clubs. Although, it might not be feasible to completely curb the spending of these clubs, regulations need to be put in place to prevent such clubs from taking over.
+
+## VII. References
+1. FIFA TMS reports https://www.fifatms.com/data-reports/reports/
+2. Evaluation football clubs in Europe - A report by KPMG https://www.footballbenchmark.com/library/football_clubs_valuation_the_european_elite_2019
+3. Wealth gap in the top European Clubs https://www.usatoday.com/story/sports/soccer/2018/01/16/uefa-warns-of-growing-wealth-gap-in-top-clubs-finance-study/109521284/
+4. British Inflation Calculator http://inflation.iamkate.com/
 
 

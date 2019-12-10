@@ -1,0 +1,400 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,nat,fee_cleaned,league_name,year,season
+Atlético Madrid,Juan Esnáider,23,Centre-Forward,Real Madrid,£2.16m,in,Argentina;Spain;,2.16,Primera Division,1996,1996/1997
+Atlético Madrid,Radek Bejbl,23,Defensive Midfield,Slavia Prague,£810k,in,Czech Republic;,0.81,Primera Division,1996,1996/1997
+Atlético Madrid,Daniel Prodan,24,Centre-Back,Steaua Bukarest,£315k,in,Romania;,0.315,Primera Division,1996,1996/1997
+Atlético Madrid,Pablo Alfaro,27,Centre-Back,Racing,Free transfer,in,Spain;,NA,Primera Division,1996,1996/1997
+Atlético Madrid,Santiago Ezquerro,19,Centre-Forward,CA Osasuna,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Atlético Madrid,Veljko Paunovic,18,Centre-Forward,Marbella FC,?,in,Serbia;Spain;,NA,Primera Division,1996,1996/1997
+Atlético Madrid,Djordje Tomic,23,Central Midfield,Guingamp,?,in,Serbia;,NA,Primera Division,1996,1996/1997
+Atlético Madrid,Juan Carlos Aguilera,27,Right-Back,CD Tenerife,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Atlético Madrid,Yordi,21,Centre-Forward,Sevilla FC,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Atlético Madrid,Ivo,18,Defender,Unknown,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Atlético Madrid,Diego Simeone,26,Central Midfield,Inter,£5.40m,out,Argentina;Italy;,5.4,Primera Division,1996,1996/1997
+Atlético Madrid,Fernando Correa,22,Forward,Racing,Loan,out,Uruguay;Italy;,0,Primera Division,1996,1996/1997
+Atlético Madrid,Lyuboslav Penev,29,Centre-Forward,SD Compostela,?,out,Bulgaria;,NA,Primera Division,1996,1996/1997
+Atlético Madrid,Iván Rocha,27,Left-Back,CD Logroñés,Loan,out,Brazil;,0,Primera Division,1996,1996/1997
+Atlético Madrid,Dani,23,Right-Back,CD Tenerife,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Atlético Madrid,Pirri Mori,25,Attacking Midfield,SD Compostela,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Atlético Madrid,José Soler,29,Midfielder,CF Extremadura,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Atlético Madrid,Tomás,35,Right-Back,Marbella FC,?,out,Spain;,NA,Primera Division,1996,1996/1997
+FC Barcelona,Ronaldo,19,Centre-Forward,PSV Eindhoven,£13.50m,in,Brazil;Spain;,13.5,Primera Division,1996,1996/1997
+FC Barcelona,Vítor Baía,26,Goalkeeper,FC Porto,£5.85m,in,Portugal;,5.85,Primera Division,1996,1996/1997
+FC Barcelona,Giovanni,24,Centre-Forward,Santos FC,£4.95m,in,Brazil;,4.95,Primera Division,1996,1996/1997
+FC Barcelona,Fernando Couto,26,Centre-Back,AC Parma,£4.95m,in,Portugal;,4.95,Primera Division,1996,1996/1997
+FC Barcelona,Laurent Blanc,30,Sweeper,AJ Auxerre,£4.14m,in,France;,4.14,Primera Division,1996,1996/1997
+FC Barcelona,Hristo Stoichkov,30,Left Winger,AC Parma,£2.16m,in,Bulgaria;,2.16,Primera Division,1996,1996/1997
+FC Barcelona,Luis Enrique,26,Right Midfield,Real Madrid,Free transfer,in,Spain;,NA,Primera Division,1996,1996/1997
+FC Barcelona,Juan Antonio Pizzi,28,Centre-Forward,CD Tenerife,Free transfer,in,Spain;Argentina;,NA,Primera Division,1996,1996/1997
+FC Barcelona,Goran Vucevic,25,Central Midfield,Mérida UD,"End of loanJun 30, 1996",in,Croatia;,0,Primera Division,1996,1996/1997
+FC Barcelona,Gheorghe Hagi,31,Attacking Midfield,Galatasaray,£3.38m,out,Romania;Turkey;,3.38,Primera Division,1996,1996/1997
+FC Barcelona,Meho Kodro,29,Centre-Forward,CD Tenerife,£2.70m,out,Bosnia-Herzegovina;Spain;,2.7,Primera Division,1996,1996/1997
+FC Barcelona,Jordi Cruijff,22,Defensive Midfield,Man Utd,£2.25m,out,Netherlands;Spain;,2.25,Primera Division,1996,1996/1997
+FC Barcelona,Robert Prosinecki,27,Central Midfield,Sevilla FC,£1.50m,out,Croatia;,1.5,Primera Division,1996,1996/1997
+FC Barcelona,Toni Velamazán,19,Right Midfield,Real Oviedo,Loan fee:£270k,out,Spain;,0.27,Primera Division,1996,1996/1997
+FC Barcelona,Thomas Christiansen,23,Centre-Forward,Real Oviedo,Free transfer,out,Spain;Denmark;,NA,Primera Division,1996,1996/1997
+FC Barcelona,José Mari Bakero,33,Attacking Midfield,Tiburones Rojos,Free transfer,out,Spain;,NA,Primera Division,1996,1996/1997
+FC Barcelona,Lluís Carreras,23,Left-Back,RCD Mallorca,?,out,Spain;,NA,Primera Division,1996,1996/1997
+FC Barcelona,Juan Carlos Moreno,21,Left Midfield,FC Barcelona B,-,out,Spain;,0,Primera Division,1996,1996/1997
+Real Zaragoza,Vladislav Radimov,20,Central Midfield,CSKA Moscow,£2.25m,in,Russia;,2.25,Primera Division,1996,1996/1997
+Real Zaragoza,Ander Garitano,27,Left Midfield,Athletic,£810k,in,Spain;,0.81,Primera Division,1996,1996/1997
+Real Zaragoza,Kily González,21,Left Midfield,Boca Juniors,£630k,in,Argentina;Spain;,0.63,Primera Division,1996,1996/1997
+Real Zaragoza,Miquel Soler,31,Left-Back,Real Madrid,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Real Zaragoza,Quique Sánchez Flores,31,Right-Back,Real Madrid,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Real Zaragoza,Otto Konrad,32,Goalkeeper,Casino Salzburg,?,in,Austria;,NA,Primera Division,1996,1996/1997
+Real Zaragoza,Lalo,19,Midfielder,UD Casetas,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Real Zaragoza,Fernando Cáceres,27,Centre-Back,Boca Juniors,£3.60m,out,Argentina;Spain;,3.6,Primera Division,1996,1996/1997
+Real Zaragoza,Paqui,25,Left-Back,Hércules CF,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Zaragoza,Andoni Cedrún,36,Goalkeeper,CD Logroñés,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Zaragoza,Sergio Berti,27,Left Midfield,River Plate,?,out,Argentina;,NA,Primera Division,1996,1996/1997
+Real Betis Balompié,Finidi George,25,Right Winger,Ajax,£9.00m,in,Nigeria;,9,Primera Division,1996,1996/1997
+Real Betis Balompié,Toni Prats,24,Goalkeeper,Celta de Vigo,Free transfer,in,Spain;,NA,Primera Division,1996,1996/1997
+Real Betis Balompié,Albert Nadj,21,Defensive Midfield,Partizan,?,in,Serbia;Hungary;,NA,Primera Division,1996,1996/1997
+Real Betis Balompié,Nenad Bjelica,24,Central Midfield,Albacete,?,in,Croatia;,NA,Primera Division,1996,1996/1997
+Real Betis Balompié,Luis Fernández,23,Left-Back,Racing,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Real Betis Balompié,Virgilio Ferreira,23,Centre-Forward,Cerro Porteño,?,in,Paraguay;,NA,Primera Division,1996,1996/1997
+Real Betis Balompié,José Luis Diezma,28,Goalkeeper,Celta de Vigo,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Betis Balompié,José Mari,25,Attacking Midfield,Athletic,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Betis Balompié,Virgilio Ferreira,23,Centre-Forward,CF Extremadura,Loan,out,Paraguay;,0,Primera Division,1996,1996/1997
+Real Betis Balompié,Óscar Arpón,21,Central Midfield,Racing,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Betis Balompié,José Menéndez,32,Midfielder,Albacete,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Betis Balompié,Vlada Stosic,31,Midfielder,Atlante,?,out,Serbia;,NA,Primera Division,1996,1996/1997
+Real Betis Balompié,Sánchez Jara,26,Midfielder,Racing,?,out,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Adolfo Baines,24,Goalkeeper,SD Huesca,Free transfer,in,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Rubén Sosa,30,Centre-Forward,Bor. Dortmund,Free transfer,in,Uruguay;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Kelly,21,Attacking Midfield,Bragantino,Free transfer,in,Brazil;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Ivan Adzic,23,Right Midfield,CD Toledo,Free transfer,in,Serbia;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Ricardo Canals,26,Centre-Back,Huracán,?,in,Uruguay;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Iván Rocha,27,Left-Back,Atlético Madrid,Loan,in,Brazil;,0,Primera Division,1996,1996/1997
+CD Logroñés,Jorge Aizkorreta,22,Goalkeeper,Athletic,?,in,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Sotero López,23,Left-Back,Albacete,?,in,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Voro,32,Centre-Back,Dep. La Coruña,?,in,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Agustín Abadía,34,Left Midfield,SD Compostela,?,in,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Danilo Baltierra,27,Midfielder,Peñarol,?,in,Uruguay;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Jesús Dulce,25,Right-Back,SD Compostela,?,in,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,José Luis Morales,23,Forward,RCD Mallorca,?,in,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Jochen Kientz,23,Centre-Back,RCD Mallorca,?,in,Germany;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Andoni Cedrún,36,Goalkeeper,Real Zaragoza,?,in,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Ricardo Cavas,22,Left-Back,Logroñés B,-,in,Spain;,0,Primera Division,1996,1996/1997
+CD Logroñés,Nebojsa Gudelj,26,Left-Back,CD Toledo,?,out,Serbia;Bosnia-Herzegovina;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Óscar Herreros,25,Right-Back,CD Numancia,?,out,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Roberto Matute,23,Centre-Forward,Chaves,?,out,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Arturo,27,Defender,Marino Luanco,?,out,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Estéfano Izaguirre,25,Defender,UD Almería,?,out,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Antonio Acosta,24,Midfielder,Getafe,?,out,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Felipe Herrero,26,Centre-Back,CD Toledo,?,out,Spain;,NA,Primera Division,1996,1996/1997
+CD Logroñés,Iván Rocha,28,Left-Back,Atl. Madrid B,"End of loanJul 1, 1997",out,Brazil;,0,Primera Division,1996,1996/1997
+CD Logroñés,Simeón,22,Defensive Midfield,Villarreal,,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,Júlio César,17,Centre-Back,Marathón,Free transfer,in,Brazil;Spain;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,Hárold Lozano,24,Central Midfield,América,?,in,Colombia;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,Víctor,22,Centre-Forward,CD Toledo,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,Agustín Elduayen,31,Goalkeeper,Dep. La Coruña,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,Edu Manga,29,Attacking Midfield,Atlético-PR,?,in,Brazil;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,Iván Campo,22,Defensive Midfield,Valencia,Free transfer,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,Rubén Baraja,20,Central Midfield,Atl. Madrid B,Free transfer,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,Carlos Pavón,22,Centre-Forward,Correcaminos,Free transfer,out,Honduras;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,Agustin Vara,23,Right-Back,Atl. Madrid B,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,Amado Guevara,20,Attacking Midfield,CD Motagua,?,out,Honduras;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,Sejad Halilovic,27,Central Midfield,H. Beer Sheva,?,out,Bosnia-Herzegovina;Croatia;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,José María Cidoncha,26,Defender,Málaga CF,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,Francisco Manuel Ruano,21,Right Midfield,Levante,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Valladolid CF,Gregorio Fonseca,30,Forward,Retired,-,out,Spain;,0,Primera Division,1996,1996/1997
+Real Valladolid CF,Aljosa Asanovic,30,Central Midfield,Hajduk Split,"End of loanJun 30, 1996",out,Croatia;,0,Primera Division,1996,1996/1997
+Rayo Vallecano,Horacio Ameli,22,Centre-Back,CA Colón,£360k,in,Argentina;Italy;,0.36,Primera Division,1996,1996/1997
+Rayo Vallecano,Pedro Contreras,24,Goalkeeper,Real Madrid B,Loan,in,Spain;,0,Primera Division,1996,1996/1997
+Rayo Vallecano,Dmitri Radchenko,25,Centre-Forward,Dep. La Coruña,?,in,Russia;,NA,Primera Division,1996,1996/1997
+Rayo Vallecano,José María López,31,Left-Back,Mérida UD,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Rayo Vallecano,Juan Muñiz,27,Centre-Back,Sporting Gijón,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Rayo Vallecano,Diego Klimowicz,21,Centre-Forward,Instituto AC,?,in,Argentina;Spain;,NA,Primera Division,1996,1996/1997
+Rayo Vallecano,Fabrice Moreau,28,Midfielder,SC Toulon 83,?,in,Cameroon;France;,NA,Primera Division,1996,1996/1997
+Rayo Vallecano,Roberto Peragón,18,Right Winger,Rayo B,-,in,Spain;,0,Primera Division,1996,1996/1997
+Rayo Vallecano,Yassine Abdellaoui,21,Left Midfield,NAC Breda,,in,Netherlands;Morocco;,NA,Primera Division,1996,1996/1997
+Rayo Vallecano,Míchel,20,Attacking Midfield,UD Almería,Loan,out,Spain;,0,Primera Division,1996,1996/1997
+Rayo Vallecano,Wilfred Agbonavbare,29,Goalkeeper,Écija Balompié,?,out,Nigeria;,NA,Primera Division,1996,1996/1997
+Rayo Vallecano,Daniel Aquino,31,Forward,Albacete,?,out,Argentina;Spain;,NA,Primera Division,1996,1996/1997
+Rayo Vallecano,Antonio Calderón,29,Central Midfield,UE Lleida,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Rayo Vallecano,Onésimo,27,Midfielder,Sevilla FC,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Rayo Vallecano,Nino Lema,31,Defender,Retired,-,out,Spain;,0,Primera Division,1996,1996/1997
+Sevilla FC,Robert Prosinecki,27,Central Midfield,FC Barcelona,£1.50m,in,Croatia;,1.5,Primera Division,1996,1996/1997
+Sevilla FC,Vasilios Tsiartas,23,Attacking Midfield,AEK Athens,£1.35m,in,Greece;,1.35,Primera Division,1996,1996/1997
+Sevilla FC,Bebeto,32,Centre-Forward,Flamengo,£900k,in,Brazil;,0.9,Primera Division,1996,1996/1997
+Sevilla FC,Mirsad Hibic,22,Centre-Back,Hajduk Split,£630k,in,Bosnia-Herzegovina;Croatia;,0.63,Primera Division,1996,1996/1997
+Sevilla FC,Salva Ballesta,21,Centre-Forward,Écija Balompié,£180k,in,Spain;,0.18,Primera Division,1996,1996/1997
+Sevilla FC,Matías Almeyda,22,Defensive Midfield,River Plate,£135k,in,Argentina;Italy;,0.135,Primera Division,1996,1996/1997
+Sevilla FC,Petros Marinakis,28,Defensive Midfield,Olympiacos,Free transfer,in,Greece;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Sebastián Corona,19,Centre-Back,Betis B,Free transfer,in,Spain;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Antonio Gómez,22,Midfielder,Real Madrid,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Axel,27,Central Midfield,São Paulo,?,in,Brazil;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Luis Miguel Ramis,25,Centre-Back,CD Tenerife,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Onésimo,27,Midfielder,Rayo Vallecano,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Ivica Mornar,22,Centre-Forward,E. Frankfurt,?,in,Croatia;Belgium;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Thomas Rytter,22,Right-Back,Lyngby BK,?,in,Denmark;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Cristian Colusso,19,Forward,CA Rosario,?,in,Argentina;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Loren,22,Midfielder,Sevilla B,-,in,Spain;,0,Primera Division,1996,1996/1997
+Sevilla FC,José Luque,19,Left Midfield,Sevilla B,-,in,Spain;,0,Primera Division,1996,1996/1997
+Sevilla FC,Jesús Galván,21,Right-Back,Sevilla B,-,in,Spain;,0,Primera Division,1996,1996/1997
+Sevilla FC,Juan Velasco,19,Right-Back,Sevilla FC C,-,in,Spain;,0,Primera Division,1996,1996/1997
+Sevilla FC,Davor Suker,28,Centre-Forward,Real Madrid,£9.90m,out,Croatia;,9.9,Primera Division,1996,1996/1997
+Sevilla FC,Bebeto,32,Centre-Forward,EC Vitória,Free transfer,out,Brazil;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Carlitos,20,Forward,RCD Mallorca,Free transfer,out,Spain;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Petros Marinakis,28,Defensive Midfield,OFI Crete,Free transfer,out,Greece;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Francisco Pineda,25,Forward,CF Extremadura,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Agostinho,20,Left Winger,UD Salamanca,?,out,Portugal;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Diego,36,Centre-Back,Albacete,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Moacir,26,Midfielder,Atlético-MG,?,out,Brazil;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Quique Estebaranz,30,Centre-Forward,CF Extremadura,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Juanito,31,Centre-Back,CF Extremadura,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Víctor Javier Ferreras,24,Right-Back,Hércules CF,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Yordi,21,Centre-Forward,Atlético Madrid,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Gabriel Moya,30,Midfielder,Valencia,,out,Spain;,NA,Primera Division,1996,1996/1997
+Sevilla FC,Dejan Petkovic,23,Attacking Midfield,Real Madrid,"End of loanJun 30, 1996",out,Serbia;,0,Primera Division,1996,1996/1997
+Real Madrid,Predrag Mijatović,27,Centre-Forward,Valencia,£12.60m,in,Montenegro;Serbia;,12.6,Primera Division,1996,1996/1997
+Real Madrid,Davor Suker,28,Centre-Forward,Sevilla FC,£9.90m,in,Croatia;,9.9,Primera Division,1996,1996/1997
+Real Madrid,Zé Roberto,22,Left Midfield,Portuguesa,£8.10m,in,Brazil;Germany;,8.1,Primera Division,1996,1996/1997
+Real Madrid,Clarence Seedorf,20,Central Midfield,Sampdoria,£7.74m,in,Netherlands;Suriname;,7.74,Primera Division,1996,1996/1997
+Real Madrid,Roberto Carlos,23,Left-Back,Inter,£5.40m,in,Brazil;Spain;,5.4,Primera Division,1996,1996/1997
+Real Madrid,Christian Panucci,23,Right-Back,Milan,£3.72m,in,Italy;,3.72,Primera Division,1996,1996/1997
+Real Madrid,Bodo Illgner,29,Goalkeeper,1. FC Köln,£1.80m,in,Germany;,1.8,Primera Division,1996,1996/1997
+Real Madrid,Secretário,26,Right-Back,FC Porto,£1.35m,in,Portugal;,1.35,Primera Division,1996,1996/1997
+Real Madrid,Guti,19,Central Midfield,Real Madrid B,-,in,Spain;,0,Primera Division,1996,1996/1997
+Real Madrid,Dejan Petkovic,23,Attacking Midfield,Sevilla FC,"End of loanJun 30, 1996",in,Serbia;,0,Primera Division,1996,1996/1997
+Real Madrid,Iván Zamorano,29,Centre-Forward,Inter,£2.25m,out,Chile;,2.25,Primera Division,1996,1996/1997
+Real Madrid,Juan Esnáider,23,Centre-Forward,Atlético Madrid,£2.16m,out,Argentina;Spain;,2.16,Primera Division,1996,1996/1997
+Real Madrid,Dejan Petkovic,24,Attacking Midfield,Racing,£900k,out,Serbia;,0.9,Primera Division,1996,1996/1997
+Real Madrid,Luis Enrique,26,Right Midfield,FC Barcelona,Free transfer,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Madrid,Michael Laudrup,32,Attacking Midfield,Vissel Kobe,Free transfer,out,Denmark;,NA,Primera Division,1996,1996/1997
+Real Madrid,Jaime,23,Defensive Midfield,Racing,Loan,out,Spain;,0,Primera Division,1996,1996/1997
+Real Madrid,Míchel,33,Right Midfield,Atletico Celaya,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Madrid,Sandro,21,Central Midfield,Málaga CF,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Madrid,Freddy Rincón,29,Central Midfield,Palmeiras,?,out,Colombia;,NA,Primera Division,1996,1996/1997
+Real Madrid,Miquel Soler,31,Left-Back,Real Zaragoza,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Madrid,Antonio Gómez,22,Midfielder,Sevilla FC,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Madrid,Quique Sánchez Flores,31,Right-Back,Real Zaragoza,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Athletic Bilbao,Ismael Urzaiz,24,Centre-Forward,Espanyol,Free transfer,in,Spain;,NA,Primera Division,1996,1996/1997
+Athletic Bilbao,Bixente Lizarazu,26,Left-Back,G. Bordeaux,Free transfer,in,France;,NA,Primera Division,1996,1996/1997
+Athletic Bilbao,José Mari,25,Attacking Midfield,Real Betis,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Athletic Bilbao,Sergio Korino,21,Centre-Back,Bilbao Athletic,-,in,Spain;,0,Primera Division,1996,1996/1997
+Athletic Bilbao,César Caneda,18,Centre-Back,Bilbao Athletic,-,in,Spain;,0,Primera Division,1996,1996/1997
+Athletic Bilbao,Imanol Etxeberria,23,Goalkeeper,Bilbao Athletic,-,in,Spain;,0,Primera Division,1996,1996/1997
+Athletic Bilbao,Ander Garitano,27,Left Midfield,Real Zaragoza,£810k,out,Spain;,0.81,Primera Division,1996,1996/1997
+Athletic Bilbao,Edu Alonso,22,Right-Back,SD Eibar,Free transfer,out,Spain;,NA,Primera Division,1996,1996/1997
+Athletic Bilbao,Ricardo Mendiguren,28,Centre-Forward,UD Las Palmas,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Athletic Bilbao,Andoni Lakabeg,27,Right-Back,Celta de Vigo,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Athletic Bilbao,Ernesto Valverde,32,Centre-Forward,RCD Mallorca,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Athletic Bilbao,Bolo,22,Centre-Forward,CA Osasuna,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Athletic Bilbao,Jorge Aizkorreta,22,Goalkeeper,CD Logroñés,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Athletic Bilbao,José Manuel Galdames,25,Centre-Back,SD Compostela,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Racing Santander,Vladimir Beschastnykh,22,Centre-Forward,Werder Bremen,£1.80m,in,Russia;,1.8,Primera Division,1996,1996/1997
+Racing Santander,Dejan Petkovic,24,Attacking Midfield,Real Madrid,£900k,in,Serbia;,0.9,Primera Division,1996,1996/1997
+Racing Santander,Fernando Correa,22,Forward,Atlético Madrid,Loan,in,Uruguay;Italy;,0,Primera Division,1996,1996/1997
+Racing Santander,Diego López,21,Centre-Back,River Plate,?,in,Uruguay;Spain;,NA,Primera Division,1996,1996/1997
+Racing Santander,Óscar Arpón,21,Central Midfield,Real Betis,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Racing Santander,Javi López,22,Defender,CD Leganés,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Racing Santander,Paco Sanz,23,Right Midfield,Real Oviedo,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Racing Santander,Jaime,23,Defensive Midfield,Real Madrid,Loan,in,Spain;,0,Primera Division,1996,1996/1997
+Racing Santander,Fernando Morán,20,Right Midfield,Real Madrid B,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Racing Santander,Sánchez Jara,26,Midfielder,Real Betis,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Racing Santander,Fernando Marcos,27,Goalkeeper,Albacete,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Racing Santander,Sergey Shustikov,25,Centre-Back,Torpedo Moscow,?,in,Russia;,NA,Primera Division,1996,1996/1997
+Racing Santander,Gabriel Schürrer,24,Centre-Back,Lanús,?,in,Argentina;Spain;,NA,Primera Division,1996,1996/1997
+Racing Santander,José Luis Zalazar,32,Attacking Midfield,Albacete,?,in,Uruguay;,NA,Primera Division,1996,1996/1997
+Racing Santander,Mario Bermejo,17,Second Striker,Racing B,-,in,Spain;,0,Primera Division,1996,1996/1997
+Racing Santander,Dmitri Ulyanov,25,Attacking Midfield,CSKA Moscow,,in,Russia;,NA,Primera Division,1996,1996/1997
+Racing Santander,Pablo Alfaro,27,Centre-Back,Atlético Madrid,Free transfer,out,Spain;,NA,Primera Division,1996,1996/1997
+Racing Santander,Luis Fernández,23,Left-Back,Real Betis,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Racing Santander,Gontzal Suances,23,Forward,CD Toledo,Loan,out,Spain;,0,Primera Division,1996,1996/1997
+Racing Santander,Tomás González,33,Midfielder,Marino Luanco,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Racing Santander,Sergey Shustikov,26,Centre-Back,CSKA Moscow,Loan,out,Russia;,0,Primera Division,1996,1996/1997
+Racing Santander,Dmitri Popov,29,Right-Back,SD Compostela,?,out,Russia;,NA,Primera Division,1996,1996/1997
+Racing Santander,Chus Herrera,21,Midfielder,Racing Ferrol,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Racing Santander,Mutiu Adepoju,25,Central Midfield,Real Sociedad,?,out,Nigeria;,NA,Primera Division,1996,1996/1997
+Racing Santander,Andrey Zygmantovich,33,Central Midfield,Retired,-,out,Belarus;,0,Primera Division,1996,1996/1997
+CD Tenerife,Meho Kodro,29,Centre-Forward,FC Barcelona,£2.70m,in,Bosnia-Herzegovina;Spain;,2.7,Primera Division,1996,1996/1997
+CD Tenerife,Oliver Neuville,23,Centre-Forward,Servette FC,Free transfer,in,Germany;,NA,Primera Division,1996,1996/1997
+CD Tenerife,Aurelio Vidmar,29,Centre-Forward,FC Sion,?,in,Australia;Slovenia;,NA,Primera Division,1996,1996/1997
+CD Tenerife,Sizwe Motaung,26,Right-Back,FC St. Gallen,?,in,South Africa;,NA,Primera Division,1996,1996/1997
+CD Tenerife,Dani,23,Right-Back,Atlético Madrid,?,in,Spain;,NA,Primera Division,1996,1996/1997
+CD Tenerife,Sergio Ballesteros,20,Centre-Back,Levante,?,in,Spain;,NA,Primera Division,1996,1996/1997
+CD Tenerife,Juan Antonio Pizzi,28,Centre-Forward,FC Barcelona,Free transfer,out,Spain;Argentina;,NA,Primera Division,1996,1996/1997
+CD Tenerife,Marino,21,Goalkeeper,UD Lanzarote,Free transfer,out,Spain;,NA,Primera Division,1996,1996/1997
+CD Tenerife,José María Buljubasich,25,Goalkeeper,UE Lleida,?,out,Argentina;Italy;,NA,Primera Division,1996,1996/1997
+CD Tenerife,Toni,28,Defender,UD Las Palmas,?,out,Spain;,NA,Primera Division,1996,1996/1997
+CD Tenerife,Juan Carlos Aguilera,27,Right-Back,Atlético Madrid,?,out,Spain;,NA,Primera Division,1996,1996/1997
+CD Tenerife,Luis Miguel Ramis,25,Centre-Back,Sevilla FC,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Sociedad,Darko Kovacevic,22,Centre-Forward,Sheff Wed,£7.20m,in,Serbia;,7.2,Primera Division,1996,1996/1997
+Real Sociedad,Mutiu Adepoju,25,Central Midfield,Racing,?,in,Nigeria;,NA,Primera Division,1996,1996/1997
+Real Sociedad,Hakan Mild,25,Central Midfield,IFK Göteborg,?,in,Sweden;,NA,Primera Division,1996,1996/1997
+Real Sociedad,Juan Gómez,25,Defender,River Plate,?,in,Argentina;,NA,Primera Division,1996,1996/1997
+Real Sociedad,Mikel Aranburu,17,Defensive Midfield,Real Sociedad B,-,in,Spain;,0,Primera Division,1996,1996/1997
+Real Sociedad,Raúl Iglesias,21,Goalkeeper,Real Sociedad B,-,in,Spain;,0,Primera Division,1996,1996/1997
+Real Sociedad,Marcus Pürk,21,Centre-Forward,Sturm Graz,?,out,Austria;,NA,Primera Division,1996,1996/1997
+Real Sociedad,Miguel Ramírez,26,Centre-Back,Monterrey,?,out,Chile;,NA,Primera Division,1996,1996/1997
+Real Sociedad,Unai Emery,24,Centre-Back,CD Toledo,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Sociedad,Valeri Karpin,27,Right Midfield,Valencia,?,out,Russia;Estonia;,NA,Primera Division,1996,1996/1997
+Real Sociedad,José Mari Lumbreras,35,Central Midfield,Retired,-,out,Spain;,0,Primera Division,1996,1996/1997
+RCD Espanyol Barcelona,Nicolas Ouédec,24,Centre-Forward,FC Nantes,£2.07m,in,France;,2.07,Primera Division,1996,1996/1997
+RCD Espanyol Barcelona,Pascal Olmeta,35,Goalkeeper,Olympique Lyon,?,in,France;,NA,Primera Division,1996,1996/1997
+RCD Espanyol Barcelona,Nenad Pralija,25,Defensive Midfield,Hajduk Split,?,in,Croatia;,NA,Primera Division,1996,1996/1997
+RCD Espanyol Barcelona,José Cobos,28,Left-Back,Paris SG,?,in,France;,NA,Primera Division,1996,1996/1997
+RCD Espanyol Barcelona,Dominique Lemoine,31,Attacking Midfield,Exc. Mouscron,?,in,Belgium;,NA,Primera Division,1996,1996/1997
+RCD Espanyol Barcelona,Adolfo Aldana,30,Right Midfield,Dep. La Coruña,?,in,Spain;,NA,Primera Division,1996,1996/1997
+RCD Espanyol Barcelona,Miodrag Andjelkovic,18,Centre-Forward,OFK Beograd,?,in,Serbia;Kosovo;,NA,Primera Division,1996,1996/1997
+RCD Espanyol Barcelona,Raúl Tamudo,18,Centre-Forward,RCD Espanyol B,-,in,Spain;,0,Primera Division,1996,1996/1997
+RCD Espanyol Barcelona,Ismael Urzaiz,24,Centre-Forward,Athletic,Free transfer,out,Spain;,NA,Primera Division,1996,1996/1997
+RCD Espanyol Barcelona,Miodrag Andjelkovic,19,Centre-Forward,UD Almería,?,out,Serbia;Kosovo;,NA,Primera Division,1996,1996/1997
+RCD Espanyol Barcelona,Miguel,26,Defender,UD Salamanca,?,out,Spain;,NA,Primera Division,1996,1996/1997
+RCD Espanyol Barcelona,Florin Raducioiu,26,Centre-Forward,West Ham,Loan,out,Romania;Italy;,0,Primera Division,1996,1996/1997
+CF Extremadura,Igor Gluscevic,22,Centre-Forward,Vojvodina,Free transfer,in,Montenegro;,NA,Primera Division,1996,1996/1997
+CF Extremadura,Juanito,31,Centre-Back,Sevilla FC,?,in,Spain;,NA,Primera Division,1996,1996/1997
+CF Extremadura,Carlos Duré,26,Forward,Ferro,?,in,Argentina;,NA,Primera Division,1996,1996/1997
+CF Extremadura,Carlos Navarro,30,Goalkeeper,Boca Juniors,?,in,Colombia;Argentina;,NA,Primera Division,1996,1996/1997
+CF Extremadura,Iván Pérez,20,Centre-Forward,Real Madrid B,Loan,in,Spain;,0,Primera Division,1996,1996/1997
+CF Extremadura,Virgilio Ferreira,23,Centre-Forward,Real Betis,Loan,in,Paraguay;,0,Primera Division,1996,1996/1997
+CF Extremadura,José Soler,29,Midfielder,Atlético Madrid,?,in,Spain;,NA,Primera Division,1996,1996/1997
+CF Extremadura,Walter Silvani,25,Forward,U. de Chile,?,in,Argentina;,NA,Primera Division,1996,1996/1997
+CF Extremadura,Quique Estebaranz,30,Centre-Forward,Sevilla FC,?,in,Spain;,NA,Primera Division,1996,1996/1997
+CF Extremadura,Francisco Javier García Pimienta,21,Forward,FC Barcelona B,Loan,in,Spain;,0,Primera Division,1996,1996/1997
+CF Extremadura,Francisco Pineda,25,Forward,Sevilla FC,?,in,Spain;,NA,Primera Division,1996,1996/1997
+CF Extremadura,José Basualdo,33,Right Midfield,Boca Juniors,?,in,Argentina;,NA,Primera Division,1996,1996/1997
+CF Extremadura,Diego Rangel,18,Centre-Back,Extremadura B,-,in,Spain;,0,Primera Division,1996,1996/1997
+CF Extremadura,Carlos Sastre,27,Midfielder,SD Compostela,?,out,Spain;,NA,Primera Division,1996,1996/1997
+CF Extremadura,Manuel Alfredo Mosquera,27,Forward,SD Compostela,?,out,Spain;,NA,Primera Division,1996,1996/1997
+CF Extremadura,Antonio Valentín,31,Forward,Retired,-,out,Spain;,0,Primera Division,1996,1996/1997
+CF Extremadura,Manolo Peña,34,Forward,Retired,-,out,Spain;,0,Primera Division,1996,1996/1997
+CF Extremadura,Vladan Dimitrijevic,23,Defender,Retired,-,out,Serbia;,0,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Rivaldo,24,Attacking Midfield,Palmeiras,£10.80m,in,Brazil;Spain;,10.8,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Flávio Conceição,22,Central Midfield,Palmeiras,£9.90m,in,Brazil;Spain;,9.9,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Hélder Cristóvão,25,Centre-Back,Benfica,£3.69m,in,Portugal;Angola;,3.69,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Nuno Espírito Santo,22,Goalkeeper,Vit. Guimarães,£2.25m,in,Portugal;Sao Tome and Principe;,2.25,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Noureddine Naybet,26,Centre-Back,Sporting CP,£1.44m,in,Morocco;,1.44,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Jérôme Bonnissel,22,Left-Back,Montpellier,Free transfer,in,France;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Petr Kouba,27,Goalkeeper,Sparta Praha,?,in,Czech Republic;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Mickaël Madar,28,Centre-Forward,Monaco,?,in,France;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Renaldo,26,Centre-Forward,Atlético-MG,?,in,Brazil;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Armando,25,Right-Back,Real Oviedo,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Corentin Martins,26,Attacking Midfield,AJ Auxerre,?,in,France;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Djalminha,25,Central Midfield,Palmeiras,?,in,Brazil;Spain;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Jacques Songo'o,32,Goalkeeper,FC Metz,?,in,Cameroon;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Bebeto,32,Centre-Forward,Flamengo,£2.25m,out,Brazil;,2.25,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Branko Milovanovic,23,Midfielder,Vit. Guimarães,Free transfer,out,Serbia;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Francisco Liaño,32,Goalkeeper,Sporting Gijón,Free transfer,out,Spain;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Luis López Rekarte,34,Right-Back,RCD Mallorca,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Voro,32,Centre-Back,CD Logroñés,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Juan Garrido Canales,30,Goalkeeper,UD Las Palmas,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Agustín Elduayen,31,Goalkeeper,Real Valladolid,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Villarroya,29,Left Midfield,Sporting Gijón,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Dmitri Radchenko,25,Centre-Forward,Rayo Vallecano,?,out,Russia;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Adolfo Aldana,30,Right Midfield,Espanyol,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Deportivo de La Coruña,Pedro Riesco,26,Forward,Alavés,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Celta de Vigo,Aleksandr Mostovoy,27,Central Midfield,R. Strasbourg,£1.80m,in,Russia;Portugal;,1.8,Primera Division,1996,1996/1997
+Celta de Vigo,Haim Revivo,24,Attacking Midfield,Maccabi Haifa,£900k,in,Israel;,0.9,Primera Division,1996,1996/1997
+Celta de Vigo,José Luis Diezma,28,Goalkeeper,Real Betis,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Celta de Vigo,Daniel Dutuel,28,Attacking Midfield,G. Bordeaux,?,in,France;,NA,Primera Division,1996,1996/1997
+Celta de Vigo,Juan Manuel Prieto,25,Centre-Forward,CP Mérida,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Celta de Vigo,Andoni Lakabeg,27,Right-Back,Athletic,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Celta de Vigo,Richard Dutruel,23,Goalkeeper,Paris SG,?,in,France;,NA,Primera Division,1996,1996/1997
+Celta de Vigo,Mazinho,30,Defensive Midfield,Valencia,?,in,Brazil;,NA,Primera Division,1996,1996/1997
+Celta de Vigo,Josema,27,Right-Back,UD Salamanca,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Celta de Vigo,José del Solar,28,Central Midfield,UD Salamanca,?,in,Peru;,NA,Primera Division,1996,1996/1997
+Celta de Vigo,Javi González,22,Right Midfield,Celta U19,-,in,Spain;,0,Primera Division,1996,1996/1997
+Celta de Vigo,Míchel Salgado,20,Right-Back,UD Salamanca,Loan,out,Spain;,0,Primera Division,1996,1996/1997
+Celta de Vigo,Toni Prats,24,Goalkeeper,Real Betis,Free transfer,out,Spain;,NA,Primera Division,1996,1996/1997
+Celta de Vigo,Mariano Hoyas,25,Right-Back,Mérida UD,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Celta de Vigo,Goran Milojevic,31,Midfielder,Mérida UD,?,out,Serbia;,NA,Primera Division,1996,1996/1997
+Celta de Vigo,Hermes Desio,26,Midfielder,UD Salamanca,?,out,Argentina;,NA,Primera Division,1996,1996/1997
+Celta de Vigo,Vicente Álvarez,36,Midfielder,Retired,-,out,Spain;,0,Primera Division,1996,1996/1997
+Valencia CF,Ariel Ortega,22,Attacking Midfield,River Plate,£2.70m,in,Argentina;,2.7,Primera Division,1996,1996/1997
+Valencia CF,Leandro Machado,20,Centre-Forward,Internacional,Free transfer,in,Brazil;,NA,Primera Division,1996,1996/1997
+Valencia CF,Iván Campo,22,Defensive Midfield,Real Valladolid,Free transfer,in,Spain;,NA,Primera Division,1996,1996/1997
+Valencia CF,Claudio López,21,Second Striker,Racing Club,Free transfer,in,Argentina;Spain;,NA,Primera Division,1996,1996/1997
+Valencia CF,Romário,30,Centre-Forward,Flamengo,?,in,Brazil;,NA,Primera Division,1996,1996/1997
+Valencia CF,Valeri Karpin,27,Right Midfield,Real Sociedad,?,in,Russia;Estonia;,NA,Primera Division,1996,1996/1997
+Valencia CF,Fernando Cáceres,27,Centre-Back,Boca Juniors,?,in,Argentina;Spain;,NA,Primera Division,1996,1996/1997
+Valencia CF,Goran Vlaovic,23,Centre-Forward,Padova,?,in,Croatia;,NA,Primera Division,1996,1996/1997
+Valencia CF,Francisco Farinós,18,Defensive Midfield,Valencia B,-,in,Spain;,0,Primera Division,1996,1996/1997
+Valencia CF,Gabriel Moya,30,Midfielder,Sevilla FC,,in,Spain;,NA,Primera Division,1996,1996/1997
+Valencia CF,Predrag Mijatović,27,Centre-Forward,Real Madrid,£12.60m,out,Montenegro;Serbia;,12.6,Primera Division,1996,1996/1997
+Valencia CF,José Gálvez,22,Centre-Forward,RCD Mallorca,Loan,out,Spain;,0,Primera Division,1996,1996/1997
+Valencia CF,Mazinho,30,Defensive Midfield,Celta de Vigo,?,out,Brazil;,NA,Primera Division,1996,1996/1997
+Valencia CF,Carlos Arroyo,30,Midfielder,Villarreal,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Valencia CF,Rafa Gómez,22,Goalkeeper,Racing Ferrol,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Valencia CF,David Albelda,18,Defensive Midfield,Villarreal,Loan,out,Spain;,0,Primera Division,1996,1996/1997
+Valencia CF,Viola,27,Centre-Forward,Palmeiras,?,out,Brazil;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Francisco Liaño,32,Goalkeeper,Dep. La Coruña,Free transfer,in,Spain;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Francisco Oliete,26,Defender,Albacete,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Rónald Gómez,21,Centre-Forward,LD Alajuelense,?,in,Costa Rica;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Villarroya,29,Left Midfield,Dep. La Coruña,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Souza,27,Midfielder,Botafogo,?,in,Brazil;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Luna,24,Centre-Forward,Albacete,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Dmitri Cheryshev,27,Centre-Forward,Dinamo Moscow,?,in,Russia;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Yuri Nikiforov,25,Sweeper,Spartak Moscow,?,in,Russia;Ukraine;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Urbano,21,Centre-Back,Sporting B,-,in,Spain;,0,Primera Division,1996,1996/1997
+Sporting Gijón,Juanjo González,22,Goalkeeper,Sporting B,-,in,Spain;,0,Primera Division,1996,1996/1997
+Sporting Gijón,Mario Cotelo,21,Right Midfield,CD Badajoz,Loan,out,Spain;,0,Primera Division,1996,1996/1997
+Sporting Gijón,Marcos Sequeiros,22,Centre-Forward,CD Badajoz,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Rogelio Lamar,23,Left-Back,Levante,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Marcel Sabou,30,Midfielder,Desportivo Aves,?,out,Romania;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Eloy,32,Centre-Forward,CD Badajoz,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Iván Iglesias,24,Central Midfield,Real Oviedo,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Caco Morán,23,Midfielder,Levante,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Dani Bouzas,22,Attacking Midfield,Albacete,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Rasheed Yekini,33,Centre-Forward,Vitória Setúbal,?,out,Nigeria;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,José Manuel,22,Right Midfield,RCD Mallorca,Loan,out,Spain;,0,Primera Division,1996,1996/1997
+Sporting Gijón,Juan Muñiz,27,Centre-Back,Rayo Vallecano,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Ramón Fernández,23,Goalkeeper,CD Ourense,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Rafa Navarro,24,Midfielder,Villarreal,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Sporting Gijón,Julio Salinas,34,Centre-Forward,Yokohama Marinos,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Toni Velamazán,19,Right Midfield,FC Barcelona,Loan fee:£270k,in,Spain;,0.27,Primera Division,1996,1996/1997
+Real Oviedo,Thomas Christiansen,23,Centre-Forward,FC Barcelona,Free transfer,in,Spain;Denmark;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Paulo Bento,27,Defensive Midfield,Benfica,?,in,Portugal;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Mitko Stojkovski,23,Defensive Midfield,Red Star,?,in,North Macedonia;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Iván Iglesias,24,Central Midfield,Sporting Gijón,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Fernando Gamboa,25,Centre-Back,Boca Juniors,?,in,Argentina;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Juan José Borrelli,25,Attacking Midfield,Panathinaikos,?,in,Argentina;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Abel Xavier,23,Right-Back,Bari,?,in,Portugal;Mozambique;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Nebojsa Scepanovic,28,Midfielder,Villarreal,"End of loanJun 30, 1996",in,Montenegro;,0,Primera Division,1996,1996/1997
+Real Oviedo,Pablo José Maqueda,25,Forward,RCD Mallorca,"End of loanJun 1, 1996",in,Spain;,0,Primera Division,1996,1996/1997
+Real Oviedo,Nikola Jerkan,31,Centre-Back,Nottm Forest,?,out,Croatia;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Pedro Alberto Cano,27,Centre-Back,Alavés,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Pablo José Maqueda,25,Forward,Avispa Fukuoka,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Andrés De la Rosa,26,Centre-Back,UE Lleida,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Paco Sanz,23,Right Midfield,Racing,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Manuel Cuervo,24,Midfielder,Pontevedra,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Armando,25,Right-Back,Dep. La Coruña,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Real Oviedo,Carlos Muñoz Cobo,34,Forward,Puebla FC,?,out,Spain;,NA,Primera Division,1996,1996/1997
+SD Compostela,Juan Viedma Schenkhuizen,21,Defensive Midfield,NEC Nijmegen,Free transfer,in,Netherlands;Spain;,NA,Primera Division,1996,1996/1997
+SD Compostela,Rafa Gómez,22,Goalkeeper,Racing Ferrol,?,in,Spain;,NA,Primera Division,1996,1996/1997
+SD Compostela,Lyuboslav Penev,29,Centre-Forward,Atlético Madrid,?,in,Bulgaria;,NA,Primera Division,1996,1996/1997
+SD Compostela,William,28,Centre-Back,SC Bastia,?,in,Brazil;Portugal;,NA,Primera Division,1996,1996/1997
+SD Compostela,Pirri Mori,25,Attacking Midfield,Atlético Madrid,?,in,Spain;,NA,Primera Division,1996,1996/1997
+SD Compostela,Dmitri Popov,29,Right-Back,Racing,?,in,Russia;,NA,Primera Division,1996,1996/1997
+SD Compostela,José Manuel Galdames,25,Centre-Back,Athletic,?,in,Spain;,NA,Primera Division,1996,1996/1997
+SD Compostela,Carlos Sastre,27,Midfielder,CF Extremadura,?,in,Spain;,NA,Primera Division,1996,1996/1997
+SD Compostela,Goran Saula,25,Centre-Back,Vojvodina,?,in,Serbia;,NA,Primera Division,1996,1996/1997
+SD Compostela,Saïd Chiba,25,Defensive Midfield,Hilal,?,in,Morocco;,NA,Primera Division,1996,1996/1997
+SD Compostela,Manuel Alfredo Mosquera,27,Forward,CF Extremadura,?,in,Spain;,NA,Primera Division,1996,1996/1997
+SD Compostela,Changui,19,Centre-Forward,Compostela U19,-,in,Spain;,0,Primera Division,1996,1996/1997
+SD Compostela,Juan Carlos Paniagua Prieto,30,Forward,UD Almería,?,out,Spain;,NA,Primera Division,1996,1996/1997
+SD Compostela,Festus Agu,21,Centre-Forward,CD Ourense,?,out,Nigeria;,NA,Primera Division,1996,1996/1997
+SD Compostela,Virgilio Hernández,27,Left-Back,CP Mérida,?,out,Spain;France;,NA,Primera Division,1996,1996/1997
+SD Compostela,Jesús Dulce,25,Right-Back,CD Logroñés,?,out,Spain;,NA,Primera Division,1996,1996/1997
+SD Compostela,Changui,19,Centre-Forward,Unknown,Loan,out,Spain;,0,Primera Division,1996,1996/1997
+SD Compostela,Agustín Abadía,34,Left Midfield,CD Logroñés,?,out,Spain;,NA,Primera Division,1996,1996/1997
+SD Compostela,Fernando Tocornal,35,Centre-Back,CD Badajoz,?,out,Spain;,NA,Primera Division,1996,1996/1997
+SD Compostela,Fernando Peralta,35,Goalkeeper,Retired,-,out,Spain;,0,Primera Division,1996,1996/1997
+Hércules CF,Flavio Maestri,23,Centre-Forward,Sport. Cristal,?,in,Peru;,NA,Primera Division,1996,1996/1997
+Hércules CF,Diego López,22,Midfielder,UD Almería,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Hércules CF,Víctor Javier Ferreras,24,Right-Back,Sevilla FC,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Hércules CF,Peter Rufai,33,Goalkeeper,Farense,?,in,Nigeria;,NA,Primera Division,1996,1996/1997
+Hércules CF,Peter Artner,30,Defensive Midfield,Casino Salzburg,?,in,Austria;,NA,Primera Division,1996,1996/1997
+Hércules CF,Gaëtan Huard,34,Goalkeeper,G. Bordeaux,?,in,France;,NA,Primera Division,1996,1996/1997
+Hércules CF,Sandro Mendes,19,Defensive Midfield,Vitória Setúbal,?,in,Cape Verde;Portugal;,NA,Primera Division,1996,1996/1997
+Hércules CF,Paqui,25,Left-Back,Real Zaragoza,?,in,Spain;,NA,Primera Division,1996,1996/1997
+Hércules CF,Andrey Moh,30,Centre-Back,CD Toledo,?,in,Russia;,NA,Primera Division,1996,1996/1997
+Hércules CF,Gabriel Amato,26,Centre-Forward,River Plate,?,in,Argentina;,NA,Primera Division,1996,1996/1997
+Hércules CF,Nemanja Miljanovic,25,Midfielder,Elfsborg,?,in,Sweden;Serbia;,NA,Primera Division,1996,1996/1997
+Hércules CF,Gonzalo Arguiñano,34,Centre-Back,Albacete,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Hércules CF,Joaquín Valerio,23,Goalkeeper,Albacete,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Hércules CF,José Francisco Sigüenza Soto,30,Forward,Real Murcia,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Hércules CF,David De la Hera,29,Midfielder,Albacete,?,out,Spain;,NA,Primera Division,1996,1996/1997
+Hércules CF,Francisco Abellán,31,Goalkeeper,Retired,-,out,Spain;,0,Primera Division,1996,1996/1997
+Hércules CF,Pascual Parra,34,Midfielder,Retired,-,out,Spain;,0,Primera Division,1996,1996/1997

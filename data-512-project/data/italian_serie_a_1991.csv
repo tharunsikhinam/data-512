@@ -1,0 +1,343 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,nat,fee_cleaned,league_name,year,season
+Milan AC,Zvonimir Boban,22,Attacking Midfield,1.HSK Gradanski,£1.35m,in,Croatia;,1.35,Serie A,1991,1991/1992
+Milan AC,Diego Fuser,22,Right Midfield,Fiorentina,Free transfer,in,Italy;,NA,Serie A,1991,1991/1992
+Milan AC,Aldo Serena,31,Centre-Forward,Inter,?,in,Italy;,NA,Serie A,1991,1991/1992
+Milan AC,Enzo Gambaro,25,Left-Back,AC Parma,?,in,Italy;,NA,Serie A,1991,1991/1992
+Milan AC,Giovanni Cornacchini,25,Centre-Forward,Piacenza,?,in,Italy;,NA,Serie A,1991,1991/1992
+Milan AC,Roberto Bandirali,19,Centre-Back,Milan U19,-,in,Italy;,0,Serie A,1991,1991/1992
+Milan AC,Zvonimir Boban,22,Attacking Midfield,Bari,Loan fee:£180k,out,Croatia;,0.18,Serie A,1991,1991/1992
+Milan AC,Massimo Taibi,21,Goalkeeper,Como,£45k,out,Italy;,0.045,Serie A,1991,1991/1992
+Milan AC,Giovane Elber,18,Centre-Forward,Grasshoppers,Loan,out,Brazil;,0,Serie A,1991,1991/1992
+Milan AC,Giovanni Stroppa,23,Attacking Midfield,Lazio,?,out,Italy;,NA,Serie A,1991,1991/1992
+Milan AC,Gianluca Gaudenzi,25,Midfielder,Cagliari Calcio,?,out,Italy;,NA,Serie A,1991,1991/1992
+Milan AC,Giandomenico Costi,22,Sweeper,Messina,?,out,Italy;,NA,Serie A,1991,1991/1992
+Milan AC,Stefano Nava,22,Centre-Back,AC Parma,Loan,out,Italy;,0,Serie A,1991,1991/1992
+Milan AC,Massimo Agostini,27,Centre-Forward,AC Parma,?,out,Italy;,NA,Serie A,1991,1991/1992
+Milan AC,Fabio Bellotti,19,Midfielder,Lecce,?,out,Italy;,NA,Serie A,1991,1991/1992
+Milan AC,Angelo Carbone,23,Right Midfield,Bari,Loan,out,Italy;,0,Serie A,1991,1991/1992
+Milan AC,Andrea Pazzagli,31,Goalkeeper,Bologna,?,out,Italy;,NA,Serie A,1991,1991/1992
+Milan AC,Stefano Carobbi,27,Right-Back,Fiorentina,?,out,Italy;,NA,Serie A,1991,1991/1992
+AS Roma,Thomas Häßler,25,Attacking Midfield,Juventus,£6.93m,in,Germany;,6.93,Serie A,1991,1991/1992
+AS Roma,Marco De Marchi,24,Centre-Back,Juventus,Loan,in,Italy;,0,Serie A,1991,1991/1992
+AS Roma,Luigi Garzya,21,Centre-Back,Lecce,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Roma,Ferro Tontini,21,Goalkeeper,Cosenza,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Roma,Claudio Caniggia,24,Right Winger,Verona,?,in,Argentina;,NA,Serie A,1991,1991/1992
+AS Roma,Valter Bonacina,26,Defensive Midfield,Atalanta,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Roma,Andrea Orocini,19,Midfielder,Celano,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Roma,Alessio Scarchilli,18,Attacking Midfield,Roma U19,-,in,Italy;,0,Serie A,1991,1991/1992
+AS Roma,Thomas Berthold,26,Centre-Back,Bayern Munich,£1.26m,out,Germany;,1.26,Serie A,1991,1991/1992
+AS Roma,Stefano Desideri,25,Right Midfield,Inter,?,out,Italy;,NA,Serie A,1991,1991/1992
+AS Roma,Massimiliano Anastasi,19,Defender,Como,?,out,Italy;,NA,Serie A,1991,1991/1992
+AS Roma,Luca Alidori,20,Goalkeeper,Chieti,?,out,Italy;,NA,Serie A,1991,1991/1992
+AS Roma,Dario Rossi,19,Defender,Ternana,?,out,Italy;,NA,Serie A,1991,1991/1992
+AS Roma,Angelo Peruzzi,21,Goalkeeper,Juventus,?,out,Italy;,NA,Serie A,1991,1991/1992
+AS Roma,Manuel Gerolin,30,Midfielder,Bologna,?,out,Italy;,NA,Serie A,1991,1991/1992
+AS Roma,Giampiero Maini,19,Defensive Midfield,Lecce,?,out,Italy;,NA,Serie A,1991,1991/1992
+AS Roma,Bruno Conti,36,Right Winger,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+FC Internazionale,Massimiliano Caniato,23,Goalkeeper,Calcio Monza,?,in,Italy;,NA,Serie A,1991,1991/1992
+FC Internazionale,Marcello Montanari,25,Sweeper,Lucchese,?,in,Italy;,NA,Serie A,1991,1991/1992
+FC Internazionale,Massimo Ciocci,23,Centre-Forward,Cesena,?,in,Italy;,NA,Serie A,1991,1991/1992
+FC Internazionale,Angelo Orlando,25,Defender,Udinese Calcio,?,in,Italy;,NA,Serie A,1991,1991/1992
+FC Internazionale,Beniamino Abate,29,Goalkeeper,Messina,?,in,Italy;,NA,Serie A,1991,1991/1992
+FC Internazionale,Stefano Desideri,25,Right Midfield,AS Roma,?,in,Italy;,NA,Serie A,1991,1991/1992
+FC Internazionale,Dino Baggio,19,Defensive Midfield,Juventus,Loan,in,Italy;,0,Serie A,1991,1991/1992
+FC Internazionale,Marco Delvecchio,18,Centre-Forward,Inter U19,-,in,Italy;,0,Serie A,1991,1991/1992
+FC Internazionale,Andrea Mandorlini,30,Defensive Midfield,Udinese Calcio,?,out,Italy;,NA,Serie A,1991,1991/1992
+FC Internazionale,Astutillo Malgioglio,33,Goalkeeper,Atalanta,?,out,Italy;,NA,Serie A,1991,1991/1992
+FC Internazionale,Maurizio Iorio,32,Forward,Genoa,?,out,Italy;,NA,Serie A,1991,1991/1992
+FC Internazionale,Aldo Serena,31,Centre-Forward,Milan,?,out,Italy;,NA,Serie A,1991,1991/1992
+FC Internazionale,Paolo Stringara,28,Defensive Midfield,Avellino,?,out,Italy;,NA,Serie A,1991,1991/1992
+FC Internazionale,Massimiliano Tacchinardi,19,Defender,Messina,?,out,Italy;,NA,Serie A,1991,1991/1992
+FC Internazionale,Paolo Orlandoni,18,Goalkeeper,Mantova,Loan,out,Italy;,0,Serie A,1991,1991/1992
+FC Internazionale,Pasquale Rocco,20,Defensive Midfield,AC Venezia 1907,?,out,Italy;,NA,Serie A,1991,1991/1992
+FC Internazionale,Marco Barollo,19,Midfielder,Lecce,Loan,out,Italy;,0,Serie A,1991,1991/1992
+FC Internazionale,Luciano Bodini,37,Goalkeeper,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+AC Parma,Antonio Benarrivo,22,Left-Back,Padova,Free transfer,in,Italy;,NA,Serie A,1991,1991/1992
+AC Parma,Marco Ballotta,27,Goalkeeper,Cesena,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Parma,Alberto Di Chiara,27,Left-Back,Fiorentina,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Parma,Mario Lemme,18,Midfielder,Vastese,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Parma,Stefano Nava,22,Centre-Back,Milan,Loan,in,Italy;,0,Serie A,1991,1991/1992
+AC Parma,Ivo Pulga,27,Defensive Midfield,Cagliari Calcio,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Parma,Massimo Agostini,27,Centre-Forward,Milan,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Parma,Stefano Rossini,20,Left-Back,Udinese Calcio,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Parma,Marco Ferrari,24,Goalkeeper,Avellino,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Parma,Giampaolo Morabito,21,Centre-Back,Pavia,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Parma,Aldo Monza,21,Midfielder,Modena,Loan,out,Italy;,0,Serie A,1991,1991/1992
+AC Parma,Rocco De Marco,28,Defensive Midfield,Avellino,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Parma,Enzo Gambaro,25,Left-Back,Milan,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Parma,Giovanni Sorce,21,Forward,Lucchese,?,out,Italy;,NA,Serie A,1991,1991/1992
+Genoa 1893,Gianluca Berti,24,Goalkeeper,Olbia,£450k,in,Italy;,0.45,Serie A,1991,1991/1992
+Genoa 1893,Branco,27,Left-Back,FC Porto,?,in,Brazil;,NA,Serie A,1991,1991/1992
+Genoa 1893,Andrea Bianchi,22,Midfielder,Lucchese,?,in,Italy;,NA,Serie A,1991,1991/1992
+Genoa 1893,Fabio Visca,21,Midfielder,Prato,?,in,Italy;,NA,Serie A,1991,1991/1992
+Genoa 1893,Maurizio Iorio,32,Forward,Inter,?,in,Italy;,NA,Serie A,1991,1991/1992
+Genoa 1893,Igor Dobrovolski,23,Attacking Midfield,Servette FC,Loan,out,Russia;,0,Serie A,1991,1991/1992
+Genoa 1893,Cristian Trapella,19,Defender,Fiorenzuola,?,out,Italy;,NA,Serie A,1991,1991/1992
+Genoa 1893,Matteo Baghino,20,Midfielder,Barletta,?,out,Italy;,NA,Serie A,1991,1991/1992
+Genoa 1893,Elio Signorelli,21,Right Winger,Casertana,Loan,out,Italy;,0,Serie A,1991,1991/1992
+Genoa 1893,Fernando Silva,0,Midfielder,Casertana,Loan,out,Brazil;,0,Serie A,1991,1991/1992
+Genoa 1893,Cristiano Scazzola,19,Right Midfield,Massese,?,out,Italy;,NA,Serie A,1991,1991/1992
+Genoa 1893,Marco Sgrò,21,Attacking Midfield,Fiorenzuola,?,out,Italy;,NA,Serie A,1991,1991/1992
+Genoa 1893,Ottorino Piotti,36,Goalkeeper,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+Verona FC,Michele Serena,21,Right-Back,Calcio Monza,?,in,Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Ermanno Pelucchi,24,Midfielder,Pro Sesto,?,in,Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Alessandro Renica,28,Sweeper,SSC Napoli,?,in,Italy;France;,NA,Serie A,1991,1991/1992
+Verona FC,Alessandro Zaninelli,32,Goalkeeper,Brescia,?,in,Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Luca Pellegrini,28,Defender,Sampdoria,?,in,Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Dragan Stojkovic,26,Attacking Midfield,Marseille,Loan,in,Serbia;,0,Serie A,1991,1991/1992
+Verona FC,Stefano Fattori,19,Centre-Back,Verona U19,-,in,Italy;,0,Serie A,1991,1991/1992
+Verona FC,Andrea Guerra,18,Defensive Midfield,Verona U19,-,in,Italy;,0,Serie A,1991,1991/1992
+Verona FC,Alessandro Sturba,19,Midfielder,Verona U19,-,in,Italy;,0,Serie A,1991,1991/1992
+Verona FC,Claudio Caniggia,24,Right Winger,AS Roma,?,out,Argentina;,NA,Serie A,1991,1991/1992
+Verona FC,Alessandro Cucciari,21,Defensive Midfield,Modena,?,out,Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Nicola Ragagnin,19,Midfielder,Juventus,?,out,Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Stefano Fattori,19,Centre-Back,FC Alzano,Loan,out,Italy;,0,Serie A,1991,1991/1992
+Verona FC,Massimiliano De Silvestro,19,Forward,Pavia,?,out,Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Francesco Toldo,19,Goalkeeper,Trento,?,out,Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Antonio Elia Acerbis,31,Midfielder,Giulianova,?,out,Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Tullio Gritti,32,Forward,Mantova,?,out,Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Víctor Sotomayor,23,Centre-Back,FC Zürich,?,out,Argentina;,NA,Serie A,1991,1991/1992
+Verona FC,Florin Raducioiu,21,Centre-Forward,Bari,?,out,Romania;Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Walter Bianchi,27,Right-Back,Cosenza,?,out,Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Vittorio Pusceddu,27,Left-Back,SSC Napoli,?,out,Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Gianni Migliorini,19,Midfielder,Trento,?,out,Italy;,NA,Serie A,1991,1991/1992
+Verona FC,Silvano Martina,38,Goalkeeper,Retired,-,out,Italy;Bosnia-Herzegovina;,0,Serie A,1991,1991/1992
+Verona FC,Simone Pasinato,18,Defender,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+Verona FC,Luciano Favero,33,Centre-Back,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+AS Bari,David Platt,25,Attacking Midfield,Aston Villa,£7.43m,in,England;,7.43,Serie A,1991,1991/1992
+AS Bari,Robert Jarni,22,Left-Back,Hajduk Split,£2.25m,in,Croatia;,2.25,Serie A,1991,1991/1992
+AS Bari,Zvonimir Boban,22,Attacking Midfield,Milan,Loan fee:£180k,in,Croatia;,0.18,Serie A,1991,1991/1992
+AS Bari,Nicola Caccia,21,Centre-Forward,FC Empoli,Free transfer,in,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Florin Raducioiu,21,Centre-Forward,Verona,?,in,Romania;Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Carlo Sassarini,19,Left-Back,Spezia,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Vito Grieco,20,Centre-Back,Molfetta,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Federico Giampaolo,21,Attacking Midfield,Spezia,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Fabio Calcaterra,26,Defender,Cesena,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Francesco Pisicchio,21,Centre-Forward,Salernitana,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Frank Farina,26,Forward,Club Brugge,?,in,Australia;,NA,Serie A,1991,1991/1992
+AS Bari,Ivan Rizzardi,24,Left-Back,SSC Napoli,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Daniele Fortunato,28,Defensive Midfield,Juventus,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Gian Paolo Manighetti,22,Right-Back,Piacenza,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Angelo Carbone,23,Right Midfield,Milan,Loan,in,Italy;,0,Serie A,1991,1991/1992
+AS Bari,Domenico Progna,27,Centre-Back,Atalanta,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Alessio Brogi,25,Forward,Modena,?,in,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Nicola Caccia,21,Centre-Forward,Modena,Free transfer,out,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Lorenzo Amoruso,20,Centre-Back,Mantova,Loan,out,Italy;,0,Serie A,1991,1991/1992
+AS Bari,Pietro Maiellaro,27,Midfielder,Fiorentina,?,out,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Frank Farina,27,Forward,Notts County,Loan,out,Australia;,0,Serie A,1991,1991/1992
+AS Bari,Fabio Lupo,26,Midfielder,Ancona,?,out,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Pietro Parente,19,Midfielder,Taranto,Loan,out,Italy;,0,Serie A,1991,1991/1992
+AS Bari,Massimiliano Tangorra,21,Defender,Triestina,Loan,out,Italy;,0,Serie A,1991,1991/1992
+AS Bari,Gerson,24,Central Midfield,Fenerbahce,Loan,out,Brazil;,0,Serie A,1991,1991/1992
+AS Bari,Tomaso Tatti,18,Forward,Spezia,?,out,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Massimo Carrera,27,Centre-Back,Juventus,?,out,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Francesco Pisicchio,21,Centre-Forward,Taranto,?,out,Italy;,NA,Serie A,1991,1991/1992
+AS Bari,Gian Paolo Manighetti,22,Right-Back,Piacenza,Loan,out,Italy;,0,Serie A,1991,1991/1992
+AS Bari,Antonio Di Gennaro,32,Midfielder,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+AS Bari,Alessandro Di Seri,19,Goalkeeper,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+AS Bari,Giacomo Dicara,21,Centre-Back,Pescara,"End of loanJun 30, 1991",out,Italy;,0,Serie A,1991,1991/1992
+SS Lazio,Thomas Doll,25,Attacking Midfield,Hamburger SV,£6.75m,in,Germany;,6.75,Serie A,1991,1991/1992
+SS Lazio,Berardino Capocchiano,25,Centre-Forward,1860 Munich,£81k,in,Italy;,0.081,Serie A,1991,1991/1992
+SS Lazio,Luigi Corino,25,Defender,Triestina,?,in,Italy;,NA,Serie A,1991,1991/1992
+SS Lazio,Maurizio Neri,26,Centre-Forward,AC Pisa,?,in,Italy;,NA,Serie A,1991,1991/1992
+SS Lazio,Rufo Emiliano Verga,21,Centre-Back,Bologna,?,in,Italy;,NA,Serie A,1991,1991/1992
+SS Lazio,Stefano Melchiori,25,Midfielder,Reggiana,?,in,Italy;,NA,Serie A,1991,1991/1992
+SS Lazio,Giovanni Stroppa,23,Attacking Midfield,Milan,?,in,Italy;,NA,Serie A,1991,1991/1992
+SS Lazio,Flavio Roma,17,Goalkeeper,Lazio U19,-,in,Italy;,0,Serie A,1991,1991/1992
+SS Lazio,Luca Monari,19,Centre-Back,Andria,?,out,Italy;,NA,Serie A,1991,1991/1992
+SS Lazio,Armando Madonna,28,Right Midfield,Piacenza,?,out,Italy;,NA,Serie A,1991,1991/1992
+SS Lazio,Franco Marchegiani,26,Defensive Midfield,AC Pisa,?,out,Italy;,NA,Serie A,1991,1991/1992
+SS Lazio,Giampaolo Saurini,22,Centre-Forward,Brescia,?,out,Italy;,NA,Serie A,1991,1991/1992
+SS Lazio,Davide Lampugnani,22,Defender,Messina,?,out,Italy;,NA,Serie A,1991,1991/1992
+SS Lazio,Pedro Troglio,25,Defensive Midfield,Ascoli,?,out,Argentina;,NA,Serie A,1991,1991/1992
+SS Lazio,Sergio Domini,30,Midfielder,Brescia,?,out,Italy;,NA,Serie A,1991,1991/1992
+SS Lazio,Fabio Ercoli,19,Defender,Andria,?,out,Italy;,NA,Serie A,1991,1991/1992
+SS Lazio,Rufo Emiliano Verga,22,Centre-Back,Fiorentina,?,out,Italy;,NA,Serie A,1991,1991/1992
+SS Lazio,Alessandro Bertoni,32,Forward,Reggiana,?,out,Italy;,NA,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Filippo Maniero,19,Centre-Forward,Padova,?,in,Italy;,NA,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Patrick Vervoort,26,Left Midfield,G. Bordeaux,?,in,Belgium;,NA,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Pedro Troglio,25,Defensive Midfield,Lazio,?,in,Argentina;,NA,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Michele Menolascina,21,Central Midfield,Monopoli,?,in,Italy;,NA,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Oliver Bierhoff,23,Centre-Forward,Casino Salzburg,?,in,Germany;,NA,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Massimo Piscedda,29,Sweeper,Avellino,?,in,Italy;,NA,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Casagrande,28,Second Striker,Torino,£3.06m,out,Brazil;,3.06,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Mustafa Arslanovic,31,Defender,Hallescher FC,?,out,Bosnia-Herzegovina;,NA,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Giovanni Spinelli,20,Forward,Messina,?,out,Italy;,NA,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Antonio Sabato,33,Midfielder,Alessandria,?,out,Italy;,NA,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Giorgio Enzo,29,Midfielder,Taranto,?,out,Italy;,NA,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Luigi Bugiardini,19,Midfielder,Giulianova,Loan,out,Italy;,0,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Zvjezdan Cvetkovic,31,Sweeper,Unknown,?,out,Croatia;,NA,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Stefano Di Chiara,34,Defender,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Christian Giovannini,21,Midfielder,Retired,-,out,Italy;Canada;,0,Serie A,1991,1991/1992
+Ascoli Calcio 1898,Stefano Colantuono,28,Defender,Career break,-,out,Italy;,0,Serie A,1991,1991/1992
+Torino Calcio,Casagrande,28,Second Striker,Ascoli,£3.06m,in,Brazil;,3.06,Serie A,1991,1991/1992
+Torino Calcio,Luca Marchegiani,25,Goalkeeper,Brescia,?,in,Italy;,NA,Serie A,1991,1991/1992
+Torino Calcio,Luca Pastine,20,Goalkeeper,Massese,?,in,Italy;,NA,Serie A,1991,1991/1992
+Torino Calcio,Carmelo Puglisi,19,Midfielder,Messina,?,in,Italy;,NA,Serie A,1991,1991/1992
+Torino Calcio,Enzo Scifo,25,Attacking Midfield,AJ Auxerre,?,in,Belgium;,NA,Serie A,1991,1991/1992
+Torino Calcio,Marco Sinigaglia,23,Midfielder,Como,?,in,Italy;,NA,Serie A,1991,1991/1992
+Torino Calcio,Paolo Poggi,20,Centre-Forward,AC Venezia 1907,?,in,Italy;,NA,Serie A,1991,1991/1992
+Torino Calcio,Marco Bertelli,19,Forward,Carrarese,?,in,Italy;,NA,Serie A,1991,1991/1992
+Torino Calcio,Andrea Sottil,17,Centre-Back,Torino U19,-,in,Italy;,0,Serie A,1991,1991/1992
+Torino Calcio,Christian Vieri,17,Centre-Forward,Torino U19,-,in,Italy;Australia;,0,Serie A,1991,1991/1992
+Torino Calcio,Dino Baggio,19,Defensive Midfield,Juventus,£4.50m,out,Italy;,4.5,Serie A,1991,1991/1992
+Torino Calcio,Benny Carbone,19,Second Striker,Casertana,Loan,out,Italy;,0,Serie A,1991,1991/1992
+Torino Calcio,Gianluca Atzori,20,Defender,Ternana,?,out,Italy;,NA,Serie A,1991,1991/1992
+Torino Calcio,Daniele Delli Carri,19,Centre-Back,Lucchese,Loan,out,Italy;,0,Serie A,1991,1991/1992
+Torino Calcio,Marcello Albino,19,Left Winger,Pro Sesto,?,out,Italy;,NA,Serie A,1991,1991/1992
+Torino Calcio,Haris Skoro,28,Centre-Forward,FC Zürich,?,out,Bosnia-Herzegovina;,NA,Serie A,1991,1991/1992
+Torino Calcio,Alvise Zago,22,Midfielder,AC Pisa,Loan,out,Italy;,0,Serie A,1991,1991/1992
+Torino Calcio,Francesco Romano,31,Defensive Midfield,AC Venezia 1907,?,out,Italy;,NA,Serie A,1991,1991/1992
+Torino Calcio,Giuseppe Carillo,26,Right Midfield,AC Venezia 1907,?,out,Italy;,NA,Serie A,1991,1991/1992
+Torino Calcio,Müller,25,Second Striker,São Paulo,?,out,Brazil;,NA,Serie A,1991,1991/1992
+Torino Calcio,Alessandro Brunetti,20,Forward,Lucchese,?,out,Italy;,NA,Serie A,1991,1991/1992
+Torino Calcio,Franco Tancredi,36,Goalkeeper,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+Torino Calcio,Amarildo,26,Forward,Cesena,"End of loanJun 1, 1991",out,Brazil;,0,Serie A,1991,1991/1992
+AC Fiorentina,Gabriel Batistuta,22,Centre-Forward,Boca Juniors,£2.25m,in,Argentina;Italy;,2.25,Serie A,1991,1991/1992
+AC Fiorentina,Rufo Emiliano Verga,22,Centre-Back,Lazio,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Mazinho,25,Defensive Midfield,Lecce,?,in,Brazil;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Giuseppe Antonaccio,19,Left-Back,Barletta,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Massimiliano Memmo,17,Forward,Renato Curi Ang,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Vittorio Tosto,17,Left-Back,Cariatese,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Stefano Carobbi,27,Right-Back,Milan,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Giovanni Bucaro,20,Centre-Back,Foggia,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Pietro Maiellaro,27,Midfielder,Bari,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Marco Branca,26,Centre-Forward,Sampdoria,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Emiliano Biliotti,16,Attacking Midfield,Grosseto,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Alessandro Mannini,33,Goalkeeper,Pescara,?,in,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Giacomo Banchelli,18,Centre-Forward,Fiorentina U19,-,in,Italy;,0,Serie A,1991,1991/1992
+AC Fiorentina,Diego Fuser,22,Right Midfield,Milan,Free transfer,out,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Lubos Kubik,27,Central Midfield,FC Metz,?,out,Czech Republic;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Giuseppe Volpecina,30,Left-Back,Casertana,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Marco Landucci,27,Goalkeeper,Lucchese,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Giovanni Bucaro,20,Centre-Back,Modena,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Alberto Di Chiara,27,Left-Back,AC Parma,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Giuseppe Antonaccio,19,Left-Back,Pro Sesto,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Roberto Del Lama,19,Forward,Barletta,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Alessandro Antinori,20,Midfielder,Prato,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Marius Lacatus,27,Centre-Forward,Real Oviedo,?,out,Romania;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Renato Buso,21,Right Midfield,Sampdoria,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Marco Nappi,25,Second Striker,Udinese Calcio,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Giacomo Callegari,20,Midfielder,Siena,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Andrea Vascotto,19,Midfielder,Barletta,?,out,Italy;,NA,Serie A,1991,1991/1992
+AC Fiorentina,Andrea Basciu,19,Forward,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+Juventus FC,Jürgen Kohler,25,Centre-Back,Bayern Munich,£6.75m,in,Germany;,6.75,Serie A,1991,1991/1992
+Juventus FC,Dino Baggio,19,Defensive Midfield,Torino,£4.50m,in,Italy;,4.5,Serie A,1991,1991/1992
+Juventus FC,Antonio Conte,21,Central Midfield,Lecce,£3.24m,in,Italy;,3.24,Serie A,1991,1991/1992
+Juventus FC,Stefan Reuter,24,Right Midfield,Bayern Munich,£2.61m,in,Germany;,2.61,Serie A,1991,1991/1992
+Juventus FC,Nicola Ragagnin,19,Midfielder,Verona,?,in,Italy;,NA,Serie A,1991,1991/1992
+Juventus FC,Fabio Marchioro,23,Goalkeeper,Vicenza,?,in,Italy;,NA,Serie A,1991,1991/1992
+Juventus FC,Andrea Caverzan,22,Left Midfield,Casale,?,in,Italy;,NA,Serie A,1991,1991/1992
+Juventus FC,Angelo Peruzzi,21,Goalkeeper,AS Roma,?,in,Italy;,NA,Serie A,1991,1991/1992
+Juventus FC,Massimo Carrera,27,Centre-Back,Bari,?,in,Italy;,NA,Serie A,1991,1991/1992
+Juventus FC,Thomas Häßler,25,Attacking Midfield,AS Roma,£6.93m,out,Germany;,6.93,Serie A,1991,1991/1992
+Juventus FC,Marco Montebugnoli,19,Midfielder,Unknown,?,out,Italy;,NA,Serie A,1991,1991/1992
+Juventus FC,Dario Bonetti,29,Centre-Back,Sampdoria,?,out,Italy;,NA,Serie A,1991,1991/1992
+Juventus FC,Daniele Fortunato,28,Defensive Midfield,Bari,?,out,Italy;,NA,Serie A,1991,1991/1992
+Juventus FC,Andrea Caverzan,23,Left Midfield,Licata,?,out,Italy;,NA,Serie A,1991,1991/1992
+Juventus FC,Adriano Bonaiuti,24,Goalkeeper,Padova,?,out,Italy;,NA,Serie A,1991,1991/1992
+Juventus FC,Lamberto Piovanelli,27,Centre-Forward,Atalanta,?,out,Italy;,NA,Serie A,1991,1991/1992
+Juventus FC,Michele De Min,18,Forward,Unknown,?,out,Italy;,NA,Serie A,1991,1991/1992
+Juventus FC,Dino Baggio,19,Defensive Midfield,Inter,Loan,out,Italy;,0,Serie A,1991,1991/1992
+Juventus FC,Marco De Marchi,24,Centre-Back,AS Roma,Loan,out,Italy;,0,Serie A,1991,1991/1992
+Juventus FC,Nicolò Napoli,29,Right-Back,Cagliari Calcio,?,out,Italy;,NA,Serie A,1991,1991/1992
+Juventus FC,Cristiano Bellucci,19,Defender,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+Juventus FC,Andrea De Min,20,Centre-Back,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+Foggia Calcio,Igor Shalimov,22,Attacking Midfield,Spartak Moscow,£270k,in,Russia;,0.27,Serie A,1991,1991/1992
+Foggia Calcio,Mauro Rosin,26,Goalkeeper,Reggina,?,in,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Gianluca Musumeci,21,Midfielder,Enna Calcio,?,in,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Dan Petrescu,23,Right-Back,Steaua Bukarest,?,in,Romania;England;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Angelo Consagra,27,Defender,Triestina,?,in,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Igor Kolyvanov,23,Left Winger,Dinamo Moscow,?,in,Russia;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Salvatore Matrecano,20,Centre-Back,Turris Calcio,?,in,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Carlo Ricchetti,21,Right Winger,Monopoli,?,in,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Antonio Manicone,24,Defensive Midfield,Udinese Calcio,?,out,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Giovanni Bucaro,20,Centre-Back,Fiorentina,?,out,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Carlo Ricchetti,21,Right Winger,Nola,?,out,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Mario Massimo Caruso,21,Attacking Midfield,Modena,?,out,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Paolo List,28,Defender,Bologna,?,out,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Santo Ardizzone,24,Midfielder,Trento,?,out,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Stefano Casale,20,Right Midfield,Siena,?,out,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Emilio Zangara,32,Goalkeeper,Salernitana,?,out,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Aldo Di Corcia,19,Forward,Latina Calcio,?,out,Italy;,NA,Serie A,1991,1991/1992
+Foggia Calcio,Severo De Felice,18,Goalkeeper,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+Atalanta BC,Lamberto Piovanelli,27,Centre-Forward,Juventus,?,in,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Giuseppe Minaudo,24,Midfielder,Ancona,?,in,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Carlo Cornacchia,26,Right-Back,Cagliari Calcio,?,in,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Claudio Clementi,22,Centre-Forward,Taranto,?,in,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Stefano Sottili,21,Centre-Back,Barletta,?,in,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Emanuele Tresoldi,17,Left-Back,SPAL,?,in,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Astutillo Malgioglio,33,Goalkeeper,Inter,?,in,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Carlos Bianchezi,26,Centre-Forward,Palmeiras,?,in,Brazil;,NA,Serie A,1991,1991/1992
+Atalanta BC,Mauro Valentini,27,Defender,Cagliari Calcio,?,in,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Mirco Poloni,16,Central Midfield,Atalanta U19,-,in,Italy;,0,Serie A,1991,1991/1992
+Atalanta BC,Federico Pisani,16,Forward,Atalanta U19,-,in,Italy;,0,Serie A,1991,1991/1992
+Atalanta BC,Renzo Contratto,31,Right-Back,Udinese Calcio,?,out,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Fabrizio Catelli,21,Central Midfield,Como,?,out,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Tiziano De Patre,22,Left Midfield,AC Venezia 1907,?,out,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Evair,26,Centre-Forward,Palmeiras,?,out,Brazil;,NA,Serie A,1991,1991/1992
+Atalanta BC,Domenico Progna,27,Centre-Back,Bari,?,out,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Riccardo Bracaloni,21,Central Midfield,Pontedera,Loan,out,Italy;,0,Serie A,1991,1991/1992
+Atalanta BC,Mirko Guerrieri,21,Goalkeeper,CPR Ospitaletto,?,out,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Davide Pinato,27,Goalkeeper,Piacenza,?,out,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Valter Bonacina,26,Defensive Midfield,AS Roma,?,out,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Giovanni Bonavita,19,Left Winger,SPAL,?,out,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Claudio Maretti,18,Defender,Cosenza,?,out,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Claudio Clementi,22,Centre-Forward,AC Venezia 1907,?,out,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Filippo Maniero,18,Centre-Forward,Padova,?,out,Italy;,NA,Serie A,1991,1991/1992
+Atalanta BC,Marco Monti,23,Centre-Back,Reggiana,?,out,Italy;,NA,Serie A,1991,1991/1992
+UC Sampdoria,Renato Buso,21,Right Midfield,Fiorentina,?,in,Italy;,NA,Serie A,1991,1991/1992
+UC Sampdoria,Dario Bonetti,29,Centre-Back,Juventus,?,in,Italy;,NA,Serie A,1991,1991/1992
+UC Sampdoria,Silas,25,Central Midfield,Cesena,?,in,Brazil;,NA,Serie A,1991,1991/1992
+UC Sampdoria,Alessandro Orlando,21,Left-Back,Udinese Calcio,?,in,Italy;,NA,Serie A,1991,1991/1992
+UC Sampdoria,Oleksii Mykhaylychenko,28,Central Midfield,Rangers,Free transfer,out,Ukraine;,NA,Serie A,1991,1991/1992
+UC Sampdoria,Michele Mignani,19,Centre-Back,SPAL,?,out,Italy;,NA,Serie A,1991,1991/1992
+UC Sampdoria,Luca Pellegrini,28,Defender,Verona,?,out,Italy;,NA,Serie A,1991,1991/1992
+UC Sampdoria,Giovanni Dall'Igna,18,Right-Back,USC Baracca Lugo 1909,Loan,out,Italy;,0,Serie A,1991,1991/1992
+UC Sampdoria,Marco Branca,26,Centre-Forward,Fiorentina,?,out,Italy;,NA,Serie A,1991,1991/1992
+UC Sampdoria,Alessandro Lupo,18,Midfielder,FC Empoli,?,out,Italy;,NA,Serie A,1991,1991/1992
+UC Sampdoria,Umberto Calcagno,20,Midfielder,USC Baracca Lugo 1909,?,out,Italy;,NA,Serie A,1991,1991/1992
+UC Sampdoria,Giuseppe Dossena,33,Central Midfield,Perugia,?,out,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Pierpaolo Bisoli,24,Right Midfield,Viareggio,?,in,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Matteo Villa,21,Centre-Back,Reggiana,?,in,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Flavio Chiti,21,Right-Back,Modena,?,in,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Nicolò Napoli,29,Right-Back,Juventus,?,in,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Andrea Pistella,25,Centre-Forward,Barletta,?,in,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Gianluca Gaudenzi,25,Midfielder,Milan,?,in,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Antonio Criniti,20,Forward,Catanzaro,?,in,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Emilio Budruni,21,Forward,Pro Calcio Acilia,?,in,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Ivo Pulga,27,Defensive Midfield,AC Parma,?,out,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Raffaele Paolino,22,Left Winger,AC Venezia 1907,?,out,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Marco Cabras,20,Midfielder,Selargius,?,out,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Mauro Valentini,27,Defender,Atalanta,?,out,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Roberto Manca,20,Forward,Torres,?,out,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Carlo Cornacchia,26,Right-Back,Atalanta,?,out,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Felice Falaguerra,20,Forward,Ischia,?,out,Italy;,NA,Serie A,1991,1991/1992
+Cagliari Calcio,Maurizio Coppola,26,Central Midfield,Cosenza,?,out,Italy;,NA,Serie A,1991,1991/1992
+US Cremonese,Matjaz Florjancic,23,Midfielder,HNK Rijeka,£225k,in,Slovenia;,0.225,Serie A,1991,1991/1992
+US Cremonese,Ruben Pereira,23,Midfielder,Danubio FC,?,in,Uruguay;,NA,Serie A,1991,1991/1992
+US Cremonese,Ruben Fabian Pereira,23,Defensive Midfield,Danubio FC,?,in,Uruguay;,NA,Serie A,1991,1991/1992
+US Cremonese,Jose Pirri,18,Midfielder,Cremonese Giov.,-,in,Italy;,0,Serie A,1991,1991/1992
+US Cremonese,Alessandro Bertazzoli,19,Defender,Unknown,?,out,Italy;,NA,Serie A,1991,1991/1992
+US Cremonese,Luciano Arisi,25,Goalkeeper,Perugia,?,out,Italy;,NA,Serie A,1991,1991/1992
+US Cremonese,Davide Baronio,23,Defender,Siena,?,out,Italy;,NA,Serie A,1991,1991/1992
+US Cremonese,Gabriele Gallina,19,Forward,Retired,-,out,Italy;,0,Serie A,1991,1991/1992
+SSC Napoli,Laurent Blanc,25,Sweeper,Montpellier,?,in,France;,NA,Serie A,1991,1991/1992
+SSC Napoli,Stefano De Agostini,26,Defensive Midfield,Reggiana,?,in,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Vittorio Pusceddu,27,Left-Back,Verona,?,in,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Michele Padovano,24,Centre-Forward,AC Pisa,?,in,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Gianni Marco Sansonetti,26,Goalkeeper,AS Giarre Calcio,?,in,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Ernesto Gallo,18,Midfielder,Vigor Trani,Free transfer,out,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Giuseppe Incocciati,27,Centre-Forward,Bologna,?,out,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Giuseppe Malafronte,19,Forward,Virtus Lanciano,?,out,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Ivan Rizzardi,24,Left-Back,Bari,?,out,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Luca Altomare,17,Central Midfield,Reggiana,?,out,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Leo Flavio,19,Defender,Carrarese,?,out,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Alessandro Renica,28,Sweeper,Verona,?,out,Italy;France;,NA,Serie A,1991,1991/1992
+SSC Napoli,Gianluca Francesconi,19,Centre-Back,Reggiana,?,out,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Salvatore Calemme,19,Midfielder,Casale,?,out,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Antonio Telari,19,Defender,AJ Fano,?,out,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Marco Baroni,27,Centre-Back,Bologna,?,out,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Diego Maradona,30,Attacking Midfield,Without Club,-,out,Argentina;,0,Serie A,1991,1991/1992
+SSC Napoli,Giuseppe Taglialatela,22,Goalkeeper,Palermo,,out,Italy;,NA,Serie A,1991,1991/1992
+SSC Napoli,Giorgio Venturin,22,Central Midfield,Torino,"End of loanJun 30, 1991",out,Italy;,0,Serie A,1991,1991/1992

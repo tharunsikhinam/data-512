@@ -1,0 +1,454 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,nat,fee_cleaned,league_name,year,season
+Cardiff City,Eddie Newton,20,Defensive Midfield,Chelsea,Loan,in,England;,0,Championship,1991,1991/1992
+Cardiff City,Paul Ramsey,28,Defensive Midfield,Leicester,?,in,Northern Ireland;,NA,Championship,1991,1991/1992
+Cardiff City,Gerry Harrison,19,Midfielder,Bristol City,Loan,in,England;,0,Championship,1991,1991/1992
+Cardiff City,Alan Walsh,35,Left Midfield,Huddersfield,?,in,England;,NA,Championship,1991,1991/1992
+Cardiff City,Tony Bird,16,Forward,Unknown,?,in,Wales;,NA,Championship,1991,1991/1992
+Cardiff City,Andy Gorman,16,Right-Back,Cardiff U18,-,in,Wales;,0,Championship,1991,1991/1992
+Cardiff City,Chris Summers,19,Forward,Barry Town,?,out,Wales;,NA,Championship,1991,1991/1992
+Cardiff City,Phil Heath,26,Forward,Aldershot,?,out,England;,NA,Championship,1991,1991/1992
+Cardiff City,Gerry Harrison,20,Midfielder,Bristol City,"End of loanMay 31, 1992",out,England;,0,Championship,1991,1991/1992
+Cardiff City,Eddie Newton,20,Defensive Midfield,Chelsea,"End of loanMay 1, 1992",out,England;,0,Championship,1991,1991/1992
+Fulham FC,Sean Farrell,22,Forward,Luton,£126k,in,England;,0.126,Championship,1991,1991/1992
+Fulham FC,Andy Cole,19,Centre-Forward,Arsenal,Loan,in,England;Jamaica;,0,Championship,1991,1991/1992
+Fulham FC,Keith Branagan,25,Goalkeeper,Millwall,Loan,in,Ireland;,0,Championship,1991,1991/1992
+Fulham FC,Lee Harrison,20,Goalkeeper,Charlton,Loan,in,England;,0,Championship,1991,1991/1992
+Fulham FC,David Byrne,30,Midfielder,Watford,Loan,in,England;,0,Championship,1991,1991/1992
+Fulham FC,Justin Skinner,22,Midfielder,Bristol Rovers,£162k,out,England;,0.162,Championship,1991,1991/1992
+Fulham FC,Brian Talbot,37,Central Midfield,Aldershot,?,out,England;,NA,Championship,1991,1991/1992
+Fulham FC,Laurence Batty,27,Goalkeeper,Brentford,?,out,England;,NA,Championship,1991,1991/1992
+Fulham FC,Gary Cobb,22,Midfielder,Chesham,?,out,England;,NA,Championship,1991,1991/1992
+Fulham FC,Tony Parks,28,Goalkeeper,West Ham,?,out,England;,NA,Championship,1991,1991/1992
+Fulham FC,Leroy Rosenior,26,Forward,West Ham,?,out,England;Sierra Leone;,NA,Championship,1991,1991/1992
+Fulham FC,Gordon Davies,35,Forward,Wrexham,?,out,Wales;,NA,Championship,1991,1991/1992
+Fulham FC,Michael Cole,24,Forward,Chelmsford City,?,out,England;,NA,Championship,1991,1991/1992
+Fulham FC,Lee Harrison,20,Goalkeeper,Charlton,"End of loanDec 1, 1991",out,England;,0,Championship,1991,1991/1992
+Fulham FC,David Byrne,30,Midfielder,Watford,"End of loanFeb 28, 1992",out,England;,0,Championship,1991,1991/1992
+Fulham FC,Andy Cole,20,Centre-Forward,Arsenal,"End of loanDec 1, 1991",out,England;Jamaica;,0,Championship,1991,1991/1992
+Fulham FC,Graham Baker,33,Midfielder,Retired,-,out,England;,0,Championship,1991,1991/1992
+Huddersfield Town,Peter Butler,25,Midfielder,Southend United,Loan,in,England;,0,Championship,1991,1991/1992
+Huddersfield Town,Chris Billy,18,Midfielder,Unknown,?,in,England;,NA,Championship,1991,1991/1992
+Huddersfield Town,Frank Stapleton,34,Centre-Forward,Blackburn,?,in,Ireland;,NA,Championship,1991,1991/1992
+Huddersfield Town,Alan Walsh,34,Left Midfield,Walsall,?,in,England;,NA,Championship,1991,1991/1992
+Huddersfield Town,Phil Starbuck,22,Centre-Forward,Nottm Forest,?,in,England;,NA,Championship,1991,1991/1992
+Huddersfield Town,Simon Ireland,20,Midfielder,Wrexham,"End of loanMay 31, 1992",in,England;,0,Championship,1991,1991/1992
+Huddersfield Town,Simon Ireland,20,Midfielder,Wrexham,Free transfer,out,England;,NA,Championship,1991,1991/1992
+Huddersfield Town,Garry Haylock,21,Forward,Shelbourne,?,out,England;,NA,Championship,1991,1991/1992
+Huddersfield Town,Jason Byrne,19,Attacking Midfield,Bray Wanderers,?,out,Ireland;,NA,Championship,1991,1991/1992
+Huddersfield Town,Robert Wilson,30,Attacking Midfield,Rotherham,?,out,England;,NA,Championship,1991,1991/1992
+Huddersfield Town,Dudley Lewis,28,Defender,Wrexham,?,out,Wales;,NA,Championship,1991,1991/1992
+Huddersfield Town,Frank Stapleton,35,Centre-Forward,Bradford,?,out,Ireland;,NA,Championship,1991,1991/1992
+Huddersfield Town,Alan Walsh,35,Left Midfield,Cardiff,?,out,England;,NA,Championship,1991,1991/1992
+Huddersfield Town,Peter Butler,25,Midfielder,Southend United,"End of loanMay 31, 1992",out,England;,0,Championship,1991,1991/1992
+Huddersfield Town,Steve Hardwick,34,Goalkeeper,Retired,-,out,England;,0,Championship,1991,1991/1992
+Huddersfield Town,Keith Edwards,33,Centre-Forward,Retired,-,out,England;,0,Championship,1991,1991/1992
+Leeds United,Rod Wallace,21,Right Winger,Southampton,£1.71m,in,England;,1.71,Championship,1991,1991/1992
+Leeds United,Eric Cantona,25,Second Striker,Nîmes Olympique,£1.35m,in,France;,1.35,Championship,1991,1991/1992
+Leeds United,Tony Dorigo,25,Left-Back,Chelsea,£1.33m,in,England;Australia;,1.33,Championship,1991,1991/1992
+Leeds United,Steve Hodge,28,Central Midfield,Nottm Forest,£923k,in,England;,0.923,Championship,1991,1991/1992
+Leeds United,Jon Newsome,20,Defender,Sheff Wed,£180k,in,England;,0.18,Championship,1991,1991/1992
+Leeds United,David Wetherall,20,Centre-Back,Sheff Wed,£162k,in,England;,0.162,Championship,1991,1991/1992
+Leeds United,Ray Wallace,21,Defender,Southampton,£117k,in,England;,0.117,Championship,1991,1991/1992
+Leeds United,Mervyn Day,36,Goalkeeper,Luton,"End of loanApr 5, 1992",in,England;,0,Championship,1991,1991/1992
+Leeds United,Tony Agana,28,Forward,Notts County,Loan,in,England;,0,Championship,1991,1991/1992
+Leeds United,Dylan Kerr,24,Left-Back,Doncaster,"End of loanDec 1, 1991",in,England;Malta;,0,Championship,1991,1991/1992
+Leeds United,Bobby Davison,32,Forward,Derby,"End of loanMar 5, 1992",in,England;,0,Championship,1991,1991/1992
+Leeds United,Ray Wallace,22,Defender,Swansea,"End of loanMay 31, 1992",in,England;,0,Championship,1991,1991/1992
+Leeds United,Andy Williams,29,Midfielder,Port Vale,"End of loanJan 31, 1992",in,England;,0,Championship,1991,1991/1992
+Leeds United,Gary Kelly,16,Right-Back,Leeds U18,-,in,Ireland;,0,Championship,1991,1991/1992
+Leeds United,Glynn Snodin,31,Left-Back,Oldham Athletic,"End of loanDec 31, 1991",in,England;,0,Championship,1991,1991/1992
+Leeds United,Imre Varadi,32,Centre-Forward,Luton,"End of loanMay 1, 1992",in,England;Hungary;,0,Championship,1991,1991/1992
+Leeds United,Dylan Kerr,25,Left-Back,Blackpool,"End of loanMay 1, 1992",in,England;Malta;,0,Championship,1991,1991/1992
+Leeds United,Bobby Davison,32,Forward,Sheffield Utd.,"End of loanMay 31, 1992",in,England;,0,Championship,1991,1991/1992
+Leeds United,Jim Beglin,27,Left-Back,Blackburn,"End of loanJun 30, 1991",in,Ireland;,0,Championship,1991,1991/1992
+Leeds United,Chris Kamara,33,Defensive Midfield,Luton,£169k,out,England;,0.169,Championship,1991,1991/1992
+Leeds United,Andy Crosby,18,Centre-Back,Doncaster,Free transfer,out,England;,NA,Championship,1991,1991/1992
+Leeds United,Dylan Kerr,24,Left-Back,Blackpool,Loan,out,England;Malta;,0,Championship,1991,1991/1992
+Leeds United,Dylan Kerr,24,Left-Back,Doncaster,Loan,out,England;Malta;,0,Championship,1991,1991/1992
+Leeds United,Neil Edwards,20,Goalkeeper,Stockport,£5k,out,Wales;,0.005,Championship,1991,1991/1992
+Leeds United,Mervyn Day,36,Goalkeeper,Sheffield Utd.,Loan,out,England;,0,Championship,1991,1991/1992
+Leeds United,Simon Grayson,22,Right-Back,Leicester,?,out,England;,NA,Championship,1991,1991/1992
+Leeds United,Bobby Davison,32,Forward,Derby,Loan,out,England;,0,Championship,1991,1991/1992
+Leeds United,Mervyn Day,36,Goalkeeper,Luton,Loan,out,England;,0,Championship,1991,1991/1992
+Leeds United,Glynn Snodin,31,Left-Back,Rotherham,Loan,out,England;,0,Championship,1991,1991/1992
+Leeds United,Ray Wallace,22,Defender,Swansea,Loan,out,England;,0,Championship,1991,1991/1992
+Leeds United,John Pearson,27,Forward,Barnsley FC,?,out,England;,NA,Championship,1991,1991/1992
+Leeds United,Imre Varadi,32,Centre-Forward,Luton,Loan,out,England;Hungary;,0,Championship,1991,1991/1992
+Leeds United,Glynn Snodin,31,Left-Back,Oldham Athletic,Loan,out,England;,0,Championship,1991,1991/1992
+Leeds United,Bobby Davison,32,Forward,Sheffield Utd.,Loan,out,England;,0,Championship,1991,1991/1992
+Leeds United,Andy Williams,29,Midfielder,Port Vale,Loan,out,England;,0,Championship,1991,1991/1992
+Leeds United,Jim Beglin,28,Left-Back,Retired,-,out,Ireland;,0,Championship,1991,1991/1992
+Leeds United,Tony Agana,28,Forward,Notts County,"End of loanApr 1, 1992",out,England;,0,Championship,1991,1991/1992
+Leeds United,Peter Haddock,29,Centre-Back,Retired,-,out,England;,0,Championship,1991,1991/1992
+West Bromwich Albion,Bob Taylor,24,Centre-Forward,Bristol City,£297k,in,England;,0.297,Championship,1991,1991/1992
+West Bromwich Albion,Kwame Ampadu,20,Midfielder,Arsenal,£63k,in,Ireland;England;,0.063,Championship,1991,1991/1992
+West Bromwich Albion,Frank Sinclair,20,Centre-Back,Chelsea,Loan,in,Jamaica;England;,0,Championship,1991,1991/1992
+West Bromwich Albion,Jonathan Gould,23,Goalkeeper,Halifax Town,Free transfer,in,Scotland;,NA,Championship,1991,1991/1992
+West Bromwich Albion,Andy Dibble,26,Goalkeeper,Man City,Loan,in,Wales;,0,Championship,1991,1991/1992
+West Bromwich Albion,Wayne Fereday,28,Right Winger,Bournemouth,?,in,England;,NA,Championship,1991,1991/1992
+West Bromwich Albion,Paul Raven,21,Defender,Doncaster,"End of loanMay 31, 1992",in,England;,0,Championship,1991,1991/1992
+West Bromwich Albion,Colin West,29,Centre-Forward,Port Vale,"End of loanJan 1, 1992",in,England;,0,Championship,1991,1991/1992
+West Bromwich Albion,Gary Bannister,31,Centre-Forward,Oxford United,"End of loanMay 1, 1992",in,England;,0,Championship,1991,1991/1992
+West Bromwich Albion,Stacy Coldicott,17,Midfielder,West Brom U18,-,in,England;,0,Championship,1991,1991/1992
+West Bromwich Albion,Alan Miller,21,Goalkeeper,Arsenal,,in,England;,NA,Championship,1991,1991/1992
+West Bromwich Albion,Don Goodman,25,Forward,Sunderland,£977k,out,England;,0.977,Championship,1991,1991/1992
+West Bromwich Albion,Ugo Ehiogu,18,Centre-Back,Aston Villa,£54k,out,England;Nigeria;,0.054,Championship,1991,1991/1992
+West Bromwich Albion,Tony Ford,32,Right Midfield,Grimsby Town,£51k,out,England;,0.051,Championship,1991,1991/1992
+West Bromwich Albion,Gary Bannister,31,Centre-Forward,Oxford United,Loan,out,England;,0,Championship,1991,1991/1992
+West Bromwich Albion,Colin Anderson,29,Defensive Midfield,Walsall,Free transfer,out,England;,NA,Championship,1991,1991/1992
+West Bromwich Albion,Mel Rees,25,Goalkeeper,Sheffield Utd.,£29k,out,Wales;,0.029,Championship,1991,1991/1992
+West Bromwich Albion,Sam Allardyce,36,Centre-Back,Limerick FC,?,out,England;,NA,Championship,1991,1991/1992
+West Bromwich Albion,Paul Raven,21,Defender,Doncaster,Loan,out,England;,0,Championship,1991,1991/1992
+West Bromwich Albion,Colin West,28,Centre-Forward,Port Vale,Loan,out,England;,0,Championship,1991,1991/1992
+West Bromwich Albion,Andy Dibble,27,Goalkeeper,Man City,"End of loanMay 31, 1992",out,Wales;,0,Championship,1991,1991/1992
+West Bromwich Albion,Alan Miller,21,Goalkeeper,Birmingham,,out,England;,NA,Championship,1991,1991/1992
+West Bromwich Albion,Vince Bartram,23,Goalkeeper,Bournemouth,,out,England;,NA,Championship,1991,1991/1992
+Derby County,Paul Kitson,21,Centre-Forward,Leicester,£1.80m,in,England;,1.8,Championship,1991,1991/1992
+Derby County,Tommy Johnson,21,Centre-Forward,Notts County,£1.80m,in,England;,1.8,Championship,1991,1991/1992
+Derby County,Marco Gabbiadini,24,Centre-Forward,Crystal Palace,£1.35m,in,England;Italy;,1.35,Championship,1991,1991/1992
+Derby County,Darren Wassall,23,Defender,Nottm Forest,£676k,in,England;,0.676,Championship,1991,1991/1992
+Derby County,Paul Simpson,25,Midfielder,Oxford United,£540k,in,England;,0.54,Championship,1991,1991/1992
+Derby County,Simon Coleman,23,Defender,Middlesbrough,£458k,in,England;,0.458,Championship,1991,1991/1992
+Derby County,Ian Ormondroyd,26,Forward,Aston Villa,£391k,in,England;,0.391,Championship,1991,1991/1992
+Derby County,Steve Sutton,30,Goalkeeper,Nottm Forest,£342k,in,England;,0.342,Championship,1991,1991/1992
+Derby County,Andy Comyn,22,Centre-Back,Aston Villa,£270k,in,England;,0.27,Championship,1991,1991/1992
+Derby County,Bobby Davison,32,Forward,Leeds,Loan,in,England;,0,Championship,1991,1991/1992
+Derby County,Mark Stallard,17,Centre-Forward,Derby U18,-,in,England;,0,Championship,1991,1991/1992
+Derby County,Tom Curtis,18,Midfielder,Derby U18,-,in,England;,0,Championship,1991,1991/1992
+Derby County,Trevor Hebberd,33,Midfielder,Portsmouth,"End of loanNov 6, 1991",in,England;,0,Championship,1991,1991/1992
+Derby County,Dean Saunders,27,Centre-Forward,Liverpool,£2.97m,out,Wales;,2.97,Championship,1991,1991/1992
+Derby County,Mark Wright,27,Centre-Back,Liverpool,£2.57m,out,England;,2.57,Championship,1991,1991/1992
+Derby County,Mick Harford,32,Centre-Forward,Luton,£338k,out,England;,0.338,Championship,1991,1991/1992
+Derby County,Peter Shilton,42,Goalkeeper,Plymouth,Free transfer,out,England;,NA,Championship,1991,1991/1992
+Derby County,Ian Wilson,33,Central Midfield,Bury,?,out,Scotland;,NA,Championship,1991,1991/1992
+Derby County,Phil Gee,27,Forward,Leicester,?,out,England;,NA,Championship,1991,1991/1992
+Derby County,Steve Cross,31,Defender,Bristol Rovers,?,out,England;,NA,Championship,1991,1991/1992
+Derby County,Ian Ormondroyd,27,Forward,Leicester,?,out,England;,NA,Championship,1991,1991/1992
+Derby County,Trevor Hebberd,33,Midfielder,Chesterfield FC,?,out,England;,NA,Championship,1991,1991/1992
+Derby County,Trevor Hebberd,33,Midfielder,Portsmouth,Loan,out,England;,0,Championship,1991,1991/1992
+Derby County,Nick Pickering,27,Left-Back,Darlington,?,out,England;,NA,Championship,1991,1991/1992
+Derby County,Bobby Davison,32,Forward,Leeds,"End of loanMar 5, 1992",out,England;,0,Championship,1991,1991/1992
+Middlesbrough FC,Andy Payton,24,Forward,Hull City,£807k,in,England;,0.807,Championship,1991,1991/1992
+Middlesbrough FC,Paul Wilkinson,26,Centre-Forward,Watford,£627k,in,England;,0.627,Championship,1991,1991/1992
+Middlesbrough FC,Alan Moore,16,Midfielder,Barnsley FC,£450k,in,Ireland;,0.45,Championship,1991,1991/1992
+Middlesbrough FC,Ian Ironside,27,Goalkeeper,Scarborough,£90k,in,England;,0.09,Championship,1991,1991/1992
+Middlesbrough FC,Curtis Fleming,22,Right-Back,St. Patricks,£54k,in,Ireland;England;,0.054,Championship,1991,1991/1992
+Middlesbrough FC,Graham Kavanagh,17,Central Midfield,Home Farm,Free transfer,in,Ireland;,NA,Championship,1991,1991/1992
+Middlesbrough FC,Jonathan Gittens,28,Defender,Southampton,Loan,in,England;,0,Championship,1991,1991/1992
+Middlesbrough FC,Willie Falconer,25,Centre-Forward,Watford,Free transfer,in,Scotland;,NA,Championship,1991,1991/1992
+Middlesbrough FC,Brian Marwood,31,Attacking Midfield,Sheffield Utd.,Loan,in,England;,0,Championship,1991,1991/1992
+Middlesbrough FC,Andy Collett,18,Goalkeeper,Unknown,?,in,England;,NA,Championship,1991,1991/1992
+Middlesbrough FC,Rab Shannon,25,Defender,Dundee FC,?,in,Scotland;,NA,Championship,1991,1991/1992
+Middlesbrough FC,Andy Peake,30,Midfielder,Charlton,?,in,England;,NA,Championship,1991,1991/1992
+Middlesbrough FC,John Hewitt,28,Forward,Celtic,Loan,in,Scotland;,0,Championship,1991,1991/1992
+Middlesbrough FC,Ian Ironside,27,Goalkeeper,Scarborough,"End of loanMar 1, 1992",in,England;,0,Championship,1991,1991/1992
+Middlesbrough FC,Alan Kernaghan,24,Centre-Back,Charlton,"End of loanJun 30, 1991",in,Ireland;,0,Championship,1991,1991/1992
+Middlesbrough FC,Tony Mowbray,27,Defender,Celtic,£1.04m,out,England;,1.04,Championship,1991,1991/1992
+Middlesbrough FC,Simon Coleman,23,Defender,Derby,£458k,out,England;,0.458,Championship,1991,1991/1992
+Middlesbrough FC,Colin Cooper,24,Left-Back,Millwall,£405k,out,England;,0.405,Championship,1991,1991/1992
+Middlesbrough FC,Kevin Poole,28,Goalkeeper,Leicester,£50k,out,England;,0.05,Championship,1991,1991/1992
+Middlesbrough FC,Ian Ironside,27,Goalkeeper,Scarborough,Loan,out,England;,0,Championship,1991,1991/1992
+Middlesbrough FC,Martin Russell,24,Midfielder,Portadown,Free transfer,out,Ireland;,NA,Championship,1991,1991/1992
+Middlesbrough FC,John Wark,33,Attacking Midfield,Ipswich,?,out,Scotland;,NA,Championship,1991,1991/1992
+Middlesbrough FC,Ian Baird,27,Centre-Forward,Heart of Midl.,?,out,England;,NA,Championship,1991,1991/1992
+Middlesbrough FC,Gary Hamilton,25,Midfielder,Darlington,?,out,Scotland;,NA,Championship,1991,1991/1992
+Middlesbrough FC,Trevor Putney,31,Midfielder,Watford,?,out,England;,NA,Championship,1991,1991/1992
+Middlesbrough FC,Jonathan Gittens,28,Defender,Southampton,"End of loanMay 31, 1992",out,England;,0,Championship,1991,1991/1992
+Middlesbrough FC,John Hewitt,28,Forward,Celtic,"End of loanDec 1, 1991",out,Scotland;,0,Championship,1991,1991/1992
+Bristol City,Andy Cole,20,Centre-Forward,Arsenal,£1.35m,in,England;Jamaica;,1.35,Championship,1991,1991/1992
+Bristol City,Keith Welch,22,Goalkeeper,Rochdale,£218k,in,England;,0.218,Championship,1991,1991/1992
+Bristol City,Russell Osman,32,Centre-Back,Southampton,£90k,in,England;,0.09,Championship,1991,1991/1992
+Bristol City,Mark Gavin,27,Forward,Watford,£61k,in,Scotland;,0.061,Championship,1991,1991/1992
+Bristol City,Rob Edwards,18,Centre-Back,Carlisle United,Free transfer,in,Wales;,NA,Championship,1991,1991/1992
+Bristol City,Gerry Harrison,19,Midfielder,Watford,Free transfer,in,England;,NA,Championship,1991,1991/1992
+Bristol City,Raymond Atteveld,25,Centre-Back,West Ham,?,in,Netherlands;,NA,Championship,1991,1991/1992
+Bristol City,Terry Connor,28,Forward,Swansea,?,in,England;,NA,Championship,1991,1991/1992
+Bristol City,Dariusz Dziekanowski,29,Forward,Celtic,?,in,Poland;,NA,Championship,1991,1991/1992
+Bristol City,Ronnie Sinclair,27,Goalkeeper,Walsall,"End of loanNov 20, 1991",in,Scotland;,0,Championship,1991,1991/1992
+Bristol City,Gerry Harrison,20,Midfielder,Cardiff,"End of loanMay 31, 1992",in,England;,0,Championship,1991,1991/1992
+Bristol City,Bob Taylor,24,Centre-Forward,West Brom,£297k,out,England;,0.297,Championship,1991,1991/1992
+Bristol City,David Rennie,27,Defensive Midfield,Birmingham,£131k,out,Scotland;,0.131,Championship,1991,1991/1992
+Bristol City,Louie Donowa,26,Central Midfield,Birmingham,£63k,out,England;,0.063,Championship,1991,1991/1992
+Bristol City,Ronnie Sinclair,27,Goalkeeper,Stoke City,?,out,Scotland;,NA,Championship,1991,1991/1992
+Bristol City,Ronnie Sinclair,26,Goalkeeper,Walsall,Loan,out,Scotland;,0,Championship,1991,1991/1992
+Bristol City,Gerry Harrison,19,Midfielder,Cardiff,Loan,out,England;,0,Championship,1991,1991/1992
+Bristol City,John Bailey,34,Left-Back,Retired,-,out,England;,0,Championship,1991,1991/1992
+Nottingham Forest,John Moncur,25,Central Midfield,Ipswich,£2.23m,in,England;,2.23,Championship,1991,1991/1992
+Nottingham Forest,Kingsley Black,23,Left Midfield,Luton,£1.62m,in,Northern Ireland;,1.62,Championship,1991,1991/1992
+Nottingham Forest,Teddy Sheringham,25,Centre-Forward,Millwall,£1.49m,in,England;,1.49,Championship,1991,1991/1992
+Nottingham Forest,Chris Hope,18,Central Midfield,Darlington,Free transfer,in,England;,NA,Championship,1991,1991/1992
+Nottingham Forest,Tommy Gaynor,28,Forward,Newcastle,?,in,Ireland;,NA,Championship,1991,1991/1992
+Nottingham Forest,Thorvaldur Örlygsson,25,Midfielder,Fram Reykjavík,?,in,Iceland;,NA,Championship,1991,1991/1992
+Nottingham Forest,Alan Mahood,18,Central Midfield,Morton,?,in,Scotland;,NA,Championship,1991,1991/1992
+Nottingham Forest,Andy Marriott,21,Goalkeeper,Burnley,"End of loanDec 31, 1991",in,Wales;England;,0,Championship,1991,1991/1992
+Nottingham Forest,Terry Wilson,22,Centre-Back,Newcastle,"End of loanSep 1, 1991",in,Scotland;,0,Championship,1991,1991/1992
+Nottingham Forest,Steve Sutton,30,Goalkeeper,Luton,"End of loanMar 5, 1992",in,England;,0,Championship,1991,1991/1992
+Nottingham Forest,Scot Gemmill,20,Central Midfield,Nottingham U18,-,in,Scotland;,0,Championship,1991,1991/1992
+Nottingham Forest,Franz Carr,24,Forward,Sheff Wed,"End of loanJun 30, 1991",in,England;,0,Championship,1991,1991/1992
+Nottingham Forest,Steve Hodge,28,Central Midfield,Leeds,£923k,out,England;,0.923,Championship,1991,1991/1992
+Nottingham Forest,Nigel Jemson,22,Forward,Sheff Wed,£900k,out,England;,0.9,Championship,1991,1991/1992
+Nottingham Forest,Garry Parker,26,Midfielder,Aston Villa,£878k,out,England;,0.878,Championship,1991,1991/1992
+Nottingham Forest,Darren Wassall,23,Defender,Derby,£676k,out,England;,0.676,Championship,1991,1991/1992
+Nottingham Forest,Steve Sutton,30,Goalkeeper,Derby,£342k,out,England;,0.342,Championship,1991,1991/1992
+Nottingham Forest,Franz Carr,24,Forward,Newcastle,£270k,out,England;,0.27,Championship,1991,1991/1992
+Nottingham Forest,John Moncur,25,Central Midfield,Swindon Town,£99k,out,England;,0.099,Championship,1991,1991/1992
+Nottingham Forest,Andy Marriott,20,Goalkeeper,Burnley,Loan,out,Wales;England;,0,Championship,1991,1991/1992
+Nottingham Forest,Brian Rice,27,Midfielder,Falkirk FC,?,out,Scotland;,NA,Championship,1991,1991/1992
+Nottingham Forest,Steve Sutton,30,Goalkeeper,Luton,Loan,out,England;,0,Championship,1991,1991/1992
+Nottingham Forest,Terry Wilson,22,Centre-Back,Newcastle,Loan,out,Scotland;,0,Championship,1991,1991/1992
+Nottingham Forest,Phil Starbuck,22,Centre-Forward,Huddersfield,?,out,England;,NA,Championship,1991,1991/1992
+Swansea City,Roger Freestone,23,Goalkeeper,Chelsea,£57k,in,Wales;,0.057,Championship,1991,1991/1992
+Swansea City,John Cornforth,23,Midfielder,Sunderland,£50k,in,Wales;,0.05,Championship,1991,1991/1992
+Swansea City,Joey Beauchamp,20,Left Midfield,Oxford United,Loan,in,England;,0,Championship,1991,1991/1992
+Swansea City,Ray Wallace,22,Defender,Leeds,Loan,in,England;,0,Championship,1991,1991/1992
+Swansea City,Reuben Agboola,29,Left-Back,Sunderland,?,in,Nigeria;England;,NA,Championship,1991,1991/1992
+Swansea City,Shaun Chapple,18,Midfielder,Swansea U18,-,in,Wales;,0,Championship,1991,1991/1992
+Swansea City,Chris Coleman,21,Centre-Back,Crystal Palace,£1.18m,out,Wales;Ireland;,1.18,Championship,1991,1991/1992
+Swansea City,Paul Raynor,25,Midfielder,Cambridge Utd.,Free transfer,out,England;,NA,Championship,1991,1991/1992
+Swansea City,David D'Auria,21,Midfielder,Merthyr Town,Free transfer,out,Wales;,NA,Championship,1991,1991/1992
+Swansea City,Tommy Hutchison,43,Left Midfield,Merthyr Town,?,out,Scotland;,NA,Championship,1991,1991/1992
+Swansea City,Mark Kendall,32,Goalkeeper,Burnley,Loan,out,Wales;,0,Championship,1991,1991/1992
+Swansea City,Terry Connor,28,Forward,Bristol City,?,out,England;,NA,Championship,1991,1991/1992
+Swansea City,Joey Beauchamp,21,Left Midfield,Oxford United,"End of loanMay 31, 1992",out,England;,0,Championship,1991,1991/1992
+Swansea City,Ray Wallace,22,Defender,Leeds,"End of loanMay 31, 1992",out,England;,0,Championship,1991,1991/1992
+Swansea City,Paul Miller,31,Centre-Back,Retired,-,out,England;,0,Championship,1991,1991/1992
+Brentford FC,Brian Statham,22,Right-Back,Spurs,£75k,in,England;,0.075,Championship,1991,1991/1992
+Brentford FC,Chris Hughton,33,Left-Back,West Ham,Free transfer,in,Ireland;,NA,Championship,1991,1991/1992
+Brentford FC,Tony Finnigan,29,Central Midfield,Swindon Town,Free transfer,in,England;,NA,Championship,1991,1991/1992
+Brentford FC,Zbigniew Kruszyński,31,Defender,Wimbledon FC,?,in,Poland;,NA,Championship,1991,1991/1992
+Brentford FC,Perry Suckling,25,Goalkeeper,Crystal Palace,Loan,in,England;,0,Championship,1991,1991/1992
+Brentford FC,Tony Sealy,32,Forward,MYPA,?,in,England;,NA,Championship,1991,1991/1992
+Brentford FC,Brian Statham,22,Right-Back,Spurs,Loan,in,England;,0,Championship,1991,1991/1992
+Brentford FC,Laurence Batty,27,Goalkeeper,Fulham,?,in,England;,NA,Championship,1991,1991/1992
+Brentford FC,John Buttigieg,27,Defender,Swindon Town,"End of loanJun 1, 1991",in,Malta;,0,Championship,1991,1991/1992
+Brentford FC,Mark Fleming,21,Left-Back,Farnborough,Free transfer,out,England;,NA,Championship,1991,1991/1992
+Brentford FC,Allan Cockram,27,Midfielder,Woking FC,Free transfer,out,England;,NA,Championship,1991,1991/1992
+Brentford FC,Richard Cadette,26,Centre-Forward,Falkirk FC,?,out,England;,NA,Championship,1991,1991/1992
+Brentford FC,John Buttigieg,27,Defender,Floriana,?,out,Malta;,NA,Championship,1991,1991/1992
+Brentford FC,Jason Cousins,20,Centre-Back,Wycombe,?,out,England;,NA,Championship,1991,1991/1992
+Brentford FC,Jason Goodliffe,18,Centre-Back,Hayes & Yeading,?,out,England;,NA,Championship,1991,1991/1992
+Brentford FC,Clive Goodyear,30,Defender,Ernest Borel,?,out,England;,NA,Championship,1991,1991/1992
+Brentford FC,Keith Jones,26,Midfielder,Southend United,?,out,England;,NA,Championship,1991,1991/1992
+Brentford FC,Perry Suckling,26,Goalkeeper,Crystal Palace,"End of loanMay 31, 1992",out,England;,0,Championship,1991,1991/1992
+Brentford FC,Brian Statham,22,Right-Back,Spurs,"End of loanFeb 27, 1992",out,England;,0,Championship,1991,1991/1992
+Brentford FC,Wilf Rostron,34,Left-Back,Retired,-,out,England;,0,Championship,1991,1991/1992
+Sheffield Wednesday,Chris Woods,31,Goalkeeper,Rangers,£1.22m,in,England;,1.22,Championship,1991,1991/1992
+Sheffield Wednesday,Paul Warhurst,21,Centre-Back,Oldham Athletic,£945k,in,England;,0.945,Championship,1991,1991/1992
+Sheffield Wednesday,Nigel Jemson,22,Forward,Nottm Forest,£900k,in,England;,0.9,Championship,1991,1991/1992
+Sheffield Wednesday,Mike Williams,21,Forward,Maltby,?,in,England;,NA,Championship,1991,1991/1992
+Sheffield Wednesday,Viv Anderson,34,Right-Back,Man Utd,?,in,England;,NA,Championship,1991,1991/1992
+Sheffield Wednesday,Julian Watts,20,Defender,Rotherham,?,in,England;,NA,Championship,1991,1991/1992
+Sheffield Wednesday,Ryan Anthony Jones,17,Midfielder,Unknown,?,in,Wales;,NA,Championship,1991,1991/1992
+Sheffield Wednesday,Kevin Pressman,24,Goalkeeper,Stoke City,"End of loanMay 31, 1992",in,England;,0,Championship,1991,1991/1992
+Sheffield Wednesday,Marlon Beresford,22,Goalkeeper,Northampt. Town,"End of loanDec 1, 1991",in,England;,0,Championship,1991,1991/1992
+Sheffield Wednesday,Jon Newsome,20,Defender,Leeds,£180k,out,England;,0.18,Championship,1991,1991/1992
+Sheffield Wednesday,David Wetherall,20,Centre-Back,Leeds,£162k,out,England;,0.162,Championship,1991,1991/1992
+Sheffield Wednesday,Kevin Pressman,24,Goalkeeper,Stoke City,Loan,out,England;,0,Championship,1991,1991/1992
+Sheffield Wednesday,Lawrie Madden,35,Defender,Wolves,Free transfer,out,England;,NA,Championship,1991,1991/1992
+Sheffield Wednesday,Marlon Beresford,21,Goalkeeper,Northampt. Town,Loan,out,England;,0,Championship,1991,1991/1992
+Sheffield Wednesday,Steve McCall,31,Defensive Midfield,Plymouth,£36k,out,England;,0.036,Championship,1991,1991/1992
+Sheffield Wednesday,Chris Turner,32,Goalkeeper,Leyton Orient,?,out,England;,NA,Championship,1991,1991/1992
+Sheffield Wednesday,Franz Carr,24,Forward,Nottm Forest,"End of loanJun 30, 1991",out,England;,0,Championship,1991,1991/1992
+Hull City,Dave Norton,26,Midfielder,Notts County,£90k,in,England;,0.09,Championship,1991,1991/1992
+Hull City,Stuart Young,18,Centre-Forward,Arsenal,?,in,Australia;,NA,Championship,1991,1991/1992
+Hull City,John Pearson,28,Forward,Barnsley FC,Loan,in,England;,0,Championship,1991,1991/1992
+Hull City,Alan Fettis,20,Goalkeeper,Ards FC,?,in,Northern Ireland;,NA,Championship,1991,1991/1992
+Hull City,Andy Payton,24,Forward,Middlesbrough,£807k,out,England;,0.807,Championship,1991,1991/1992
+Hull City,Peter Swan,24,Centre-Back,Port Vale,?,out,England;,NA,Championship,1991,1991/1992
+Hull City,Gwyn Thomas,33,Central Midfield,Carlisle United,?,out,Wales;,NA,Championship,1991,1991/1992
+Hull City,Ian McParland,29,Centre-Forward,Dunfermline A.,?,out,Scotland;,NA,Championship,1991,1991/1992
+Hull City,Iain Hesford,31,Goalkeeper,Maidstone,?,out,England;,NA,Championship,1991,1991/1992
+Hull City,John Pearson,28,Forward,Barnsley FC,"End of loanMay 31, 1992",out,England;,0,Championship,1991,1991/1992
+Hull City,Gareth Roberts,30,Midfielder,Retired,-,out,England;,0,Championship,1991,1991/1992
+Hull City,Dave Norton,26,Midfielder,Notts County,"End of loanJun 1, 1991",out,England;,0,Championship,1991,1991/1992
+Preston North End,Neil Whitworth,19,Centre-Back,Man Utd,Loan,in,England;,0,Championship,1991,1991/1992
+Preston North End,Gareth Ainsworth,18,Right Midfield,Northwich Victoria,Free transfer,in,England;,NA,Championship,1991,1991/1992
+Preston North End,George Berry,33,Centre-Back,Peterborough,?,in,Wales;,NA,Championship,1991,1991/1992
+Preston North End,Lee Cartwright,18,Right Winger,Preston U18,-,in,England;,0,Championship,1991,1991/1992
+Preston North End,Ian Bogie,23,Midfielder,Millwall,£150k,out,England;,0.15,Championship,1991,1991/1992
+Preston North End,Nathan Peel,19,Centre-Forward,Sheffield Utd.,£51k,out,England;,0.051,Championship,1991,1991/1992
+Preston North End,Graham Easter,21,Right Winger,Northwich Victoria,Free transfer,out,England;,NA,Championship,1991,1991/1992
+Preston North End,Steve Harper,22,Midfielder,Burnley,Free transfer,out,England;,NA,Championship,1991,1991/1992
+Preston North End,Ian Nolan,21,Defender,Tranmere Rovers,£14k,out,Northern Ireland;,0.014,Championship,1991,1991/1992
+Preston North End,George Berry,34,Centre-Back,Aldershot,Loan,out,Wales;,0,Championship,1991,1991/1992
+Preston North End,Sammy McIlroy,36,Central Midfield,Northwich Victoria,?,out,Northern Ireland;,NA,Championship,1991,1991/1992
+Preston North End,Neil Whitworth,19,Centre-Back,Man Utd,"End of loanFeb 1, 1992",out,England;,0,Championship,1991,1991/1992
+Preston North End,Mick Rathbone,32,Left-Back,Retired,-,out,England;,0,Championship,1991,1991/1992
+Blackburn Rovers,Duncan Shearer,29,Centre-Forward,Swindon Town,£1.26m,in,Scotland;,1.26,Championship,1991,1991/1992
+Blackburn Rovers,Mike Newell,26,Centre-Forward,Everton,£1.17m,in,England;,1.17,Championship,1991,1991/1992
+Blackburn Rovers,Colin Hendry,25,Centre-Back,Man City,£945k,in,Scotland;,0.945,Championship,1991,1991/1992
+Blackburn Rovers,Alan Wright,20,Left-Back,Blackpool,£540k,in,England;,0.54,Championship,1991,1991/1992
+Blackburn Rovers,Stuart Munro,28,Left-Back,Rangers,£473k,in,Scotland;,0.473,Championship,1991,1991/1992
+Blackburn Rovers,Matt Dickins,21,Goalkeeper,Lincoln City,£315k,in,England;,0.315,Championship,1991,1991/1992
+Blackburn Rovers,Gordon Cowans,33,Midfielder,Aston Villa,£207k,in,England;,0.207,Championship,1991,1991/1992
+Blackburn Rovers,Chris Price,31,Centre-Back,Aston Villa,£108k,in,England;,0.108,Championship,1991,1991/1992
+Blackburn Rovers,Roy Wegerle,27,Forward,QPR,?,in,United States;South Africa;,NA,Championship,1991,1991/1992
+Blackburn Rovers,David Speedie,31,Centre-Forward,Liverpool,?,in,Scotland;,NA,Championship,1991,1991/1992
+Blackburn Rovers,Russell Beardsmore,23,Central Midfield,Man Utd,Loan,in,England;,0,Championship,1991,1991/1992
+Blackburn Rovers,Peter Thorne,18,Centre-Forward,Blackburn U18,-,in,England;,0,Championship,1991,1991/1992
+Blackburn Rovers,Peter Baah,18,Right Winger,Blackburn U18,-,in,England;,0,Championship,1991,1991/1992
+Blackburn Rovers,John Millar,24,Left-Back,Heart of Midl.,Free transfer,out,Scotland;,NA,Championship,1991,1991/1992
+Blackburn Rovers,Mike Duxbury,32,Right-Back,Bradford,?,out,England;,NA,Championship,1991,1991/1992
+Blackburn Rovers,Frank Stapleton,34,Centre-Forward,Huddersfield,?,out,Ireland;,NA,Championship,1991,1991/1992
+Blackburn Rovers,Neil Oliver,24,Defender,Falkirk FC,?,out,England;,NA,Championship,1991,1991/1992
+Blackburn Rovers,Lenny Johnrose,22,Defensive Midfield,Hartlepool Utd.,?,out,England;,NA,Championship,1991,1991/1992
+Blackburn Rovers,Russell Beardsmore,23,Central Midfield,Man Utd,"End of loanJan 1, 1992",out,England;,0,Championship,1991,1991/1992
+Blackburn Rovers,Alan Irvine,33,Right Winger,Retired,-,out,Scotland;,0,Championship,1991,1991/1992
+Blackburn Rovers,Terry Gennoe,38,Goalkeeper,Retired,-,out,England;,0,Championship,1991,1991/1992
+Blackburn Rovers,Jim Beglin,27,Left-Back,Leeds,"End of loanJun 30, 1991",out,Ireland;,0,Championship,1991,1991/1992
+Stoke City,Mark Stein,25,Centre-Forward,Oxford United,£100k,in,England;,0.1,Championship,1991,1991/1992
+Stoke City,Vince Overson,29,Centre-Back,Birmingham,£59k,in,England;,0.059,Championship,1991,1991/1992
+Stoke City,Adrian Heath,31,Attacking Midfield,Man City,£54k,in,England;,0.054,Championship,1991,1991/1992
+Stoke City,Kevin Pressman,24,Goalkeeper,Sheff Wed,Loan,in,England;,0,Championship,1991,1991/1992
+Stoke City,Mark Stein,25,Centre-Forward,Oxford United,Loan,in,England;,0,Championship,1991,1991/1992
+Stoke City,Tony Parks,28,Goalkeeper,West Ham,?,in,England;,NA,Championship,1991,1991/1992
+Stoke City,Ronnie Sinclair,27,Goalkeeper,Bristol City,?,in,Scotland;,NA,Championship,1991,1991/1992
+Stoke City,Noel Blake,30,Centre-Back,Bradford,"End of loanMay 31, 1992",in,England;Jamaica;,0,Championship,1991,1991/1992
+Stoke City,Tony Gallimore,20,Defender,Carlisle United,"End of loanFeb 25, 1992",in,England;,0,Championship,1991,1991/1992
+Stoke City,Tony Gallimore,20,Defender,Carlisle United,"End of loanMay 31, 1992",in,England;,0,Championship,1991,1991/1992
+Stoke City,Tony Gallimore,20,Defender,Carlisle United,Loan,out,England;,0,Championship,1991,1991/1992
+Stoke City,Tony Gallimore,19,Defender,Carlisle United,Loan,out,England;,0,Championship,1991,1991/1992
+Stoke City,Mickey Thomas,36,Left Midfield,Wrexham,?,out,Wales;,NA,Championship,1991,1991/1992
+Stoke City,Vince Hilaire,31,Midfielder,Exeter City,?,out,England;,NA,Championship,1991,1991/1992
+Stoke City,Derek Statham,32,Left-Back,Walsall,?,out,England;,NA,Championship,1991,1991/1992
+Stoke City,Noel Blake,30,Centre-Back,Bradford,Loan,out,England;Jamaica;,0,Championship,1991,1991/1992
+Stoke City,Cliff Carr,26,Left-Back,Shrewsbury,?,out,England;,NA,Championship,1991,1991/1992
+Stoke City,Kevin Pressman,24,Goalkeeper,Sheff Wed,"End of loanMay 31, 1992",out,England;,0,Championship,1991,1991/1992
+Stoke City,Mark Stein,25,Centre-Forward,Oxford United,"End of loanNov 6, 1991",out,England;,0,Championship,1991,1991/1992
+Birmingham City,David Rennie,27,Defensive Midfield,Bristol City,£131k,in,Scotland;,0.131,Championship,1991,1991/1992
+Birmingham City,Louie Donowa,26,Central Midfield,Bristol City,£63k,in,England;,0.063,Championship,1991,1991/1992
+Birmingham City,Chris Swailes,21,Centre-Back,Boston United,Free transfer,in,England;,NA,Championship,1991,1991/1992
+Birmingham City,Paul Fenwick,22,Centre-Back,Unknown,?,in,Canada;England;,NA,Championship,1991,1991/1992
+Birmingham City,Ian Atkins,34,Centre-Back,Colchester Utd.,?,in,England;,NA,Championship,1991,1991/1992
+Birmingham City,Robert Taylor,20,Centre-Forward,Norwich,?,in,England;,NA,Championship,1991,1991/1992
+Birmingham City,John Cheesewright,18,Goalkeeper,Tottenham U18,?,in,England;,NA,Championship,1991,1991/1992
+Birmingham City,Alan Miller,21,Goalkeeper,West Brom,,in,England;,NA,Championship,1991,1991/1992
+Birmingham City,Dennis Bailey,25,Forward,QPR,£194k,out,England;,0.194,Championship,1991,1991/1992
+Birmingham City,Vince Overson,29,Centre-Back,Stoke City,£59k,out,England;,0.059,Championship,1991,1991/1992
+Birmingham City,Mark Rutherford,19,Left Midfield,Shelbourne,Free transfer,out,England;,NA,Championship,1991,1991/1992
+Birmingham City,Mark Yates,21,Attacking Midfield,Burnley,£44k,out,England;,0.044,Championship,1991,1991/1992
+Birmingham City,Greg Downs,32,Left-Back,Hereford Utd.,?,out,England;,NA,Championship,1991,1991/1992
+Birmingham City,Robert Hopkins,29,Forward,Shrewsbury,?,out,England;,NA,Championship,1991,1991/1992
+Birmingham City,Dougie Bell,31,Midfielder,Partick Thistle,?,out,Scotland;,NA,Championship,1991,1991/1992
+Birmingham City,Robert Taylor,20,Centre-Forward,Leyton Orient,?,out,England;,NA,Championship,1991,1991/1992
+Birmingham City,Sean Francis,19,Forward,Cobh Ramblers,?,out,England;Ireland;,NA,Championship,1991,1991/1992
+Birmingham City,Colin Gordon,28,Centre-Forward,Leicester,?,out,Scotland;,NA,Championship,1991,1991/1992
+Birmingham City,Trevor Aylott,33,Centre-Forward,Oxford United,?,out,England;,NA,Championship,1991,1991/1992
+Wigan Athletic,Tony Pennock,20,Goalkeeper,Stockport,Free transfer,in,Wales;,NA,Championship,1991,1991/1992
+Wigan Athletic,Ray Woods,25,Attacking Midfield,Coventry,?,out,England;,NA,Championship,1991,1991/1992
+Wigan Athletic,Phil Hughes,26,Goalkeeper,Rochdale,?,out,Northern Ireland;,NA,Championship,1991,1991/1992
+Wigan Athletic,David Fairclough,34,Centre-Forward,Retired,-,out,England;,0,Championship,1991,1991/1992
+Queens Park Rangers,Gary Penrice,27,Centre-Forward,Aston Villa,£709k,in,England;,0.709,Championship,1991,1991/1992
+Queens Park Rangers,Ian Holloway,28,Right Midfield,Bristol Rovers,£259k,in,England;,0.259,Championship,1991,1991/1992
+Queens Park Rangers,Dennis Bailey,25,Forward,Birmingham,£194k,in,England;,0.194,Championship,1991,1991/1992
+Queens Park Rangers,Garry Thompson,31,Forward,Crystal Palace,£158k,in,England;,0.158,Championship,1991,1991/1992
+Queens Park Rangers,Tony Witter,27,Centre-Back,Crystal Palace,£140k,in,England;,0.14,Championship,1991,1991/1992
+Queens Park Rangers,Paul Parker,27,Right-Back,Man Utd,£2.19m,out,England;,2.19,Championship,1991,1991/1992
+Queens Park Rangers,Tony Witter,27,Centre-Back,Millwall,£113k,out,England;,0.113,Championship,1991,1991/1992
+Queens Park Rangers,Kenny Sansom,32,Left-Back,Coventry,?,out,England;,NA,Championship,1991,1991/1992
+Queens Park Rangers,Gary Waddock,30,Defensive Midfield,Swindon Town,Loan,out,Ireland;,0,Championship,1991,1991/1992
+Queens Park Rangers,Mark Falco,30,Centre-Forward,Millwall,?,out,England;,NA,Championship,1991,1991/1992
+Queens Park Rangers,Dominic Iorfa,23,Centre-Forward,Galatasaray,?,out,Nigeria;,NA,Championship,1991,1991/1992
+Queens Park Rangers,Roy Wegerle,27,Forward,Blackburn,?,out,United States;South Africa;,NA,Championship,1991,1991/1992
+Queens Park Rangers,Brian Law,21,Centre-Back,Career break,-,out,Wales;,0,Championship,1991,1991/1992
+Reading FC,Kevin Dillon,31,Midfielder,Newcastle,Free transfer,in,England;,NA,Championship,1991,1991/1992
+Reading FC,Mark McGhee,34,Centre-Forward,Brage,Free transfer,in,Scotland;,NA,Championship,1991,1991/1992
+Reading FC,David Byrne,30,Midfielder,Watford,Loan,in,England;,0,Championship,1991,1991/1992
+Reading FC,Allan Cockram,27,Midfielder,Woking FC,?,in,England;,NA,Championship,1991,1991/1992
+Reading FC,Steve Morrow,21,Right-Back,Arsenal,Loan,in,Northern Ireland;,0,Championship,1991,1991/1992
+Reading FC,Neale Cooper,27,Central Midfield,Aberdeen FC,?,in,Scotland;,NA,Championship,1991,1991/1992
+Reading FC,Michael Gilkes,26,Left Midfield,Chelsea,"End of loanMar 3, 1992",in,Barbados;England;,0,Championship,1991,1991/1992
+Reading FC,David Lee,22,Centre-Back,Chelsea,Loan,in,England;,0,Championship,1991,1991/1992
+Reading FC,Steve Moran,30,Second Striker,Exeter City,?,out,England;,NA,Championship,1991,1991/1992
+Reading FC,Michael Gilkes,26,Left Midfield,Chelsea,Loan,out,Barbados;England;,0,Championship,1991,1991/1992
+Reading FC,Michael Gilkes,26,Left Midfield,Southampton,Loan,out,Barbados;England;,0,Championship,1991,1991/1992
+Reading FC,Neale Cooper,28,Central Midfield,Dunfermline A.,?,out,Scotland;,NA,Championship,1991,1991/1992
+Reading FC,Steve Morrow,21,Right-Back,Arsenal,"End of loanMar 1, 1992",out,Northern Ireland;,0,Championship,1991,1991/1992
+Reading FC,David Byrne,30,Midfielder,Watford,"End of loanAug 31, 1991",out,England;,0,Championship,1991,1991/1992
+Reading FC,David Lee,22,Centre-Back,Chelsea,"End of loanMar 1, 1992",out,England;,0,Championship,1991,1991/1992
+Reading FC,Steve Morrow,20,Right-Back,Arsenal,"End of loanJun 30, 1991",out,Northern Ireland;,0,Championship,1991,1991/1992
+Reading FC,Matthew Edwards,19,Attacking Midfield,Spurs,"End of loanJun 1, 1991",out,England;,0,Championship,1991,1991/1992
+Millwall FC,John Colquhoun,27,Right Winger,Heart of Midl.,£720k,in,Scotland;,0.72,Championship,1991,1991/1992
+Millwall FC,Colin Cooper,24,Left-Back,Middlesbrough,£405k,in,England;,0.405,Championship,1991,1991/1992
+Millwall FC,Ian Bogie,23,Midfielder,Preston NE,£150k,in,England;,0.15,Championship,1991,1991/1992
+Millwall FC,Tony Witter,27,Centre-Back,QPR,£113k,in,England;,0.113,Championship,1991,1991/1992
+Millwall FC,Phil Barber,26,Midfielder,Crystal Palace,£104k,in,England;,0.104,Championship,1991,1991/1992
+Millwall FC,Kasey Keller,22,Goalkeeper,Portland Pilots,Free transfer,in,United States;,NA,Championship,1991,1991/1992
+Millwall FC,Aidan Davison,23,Goalkeeper,Blackpool,?,in,Northern Ireland;,NA,Championship,1991,1991/1992
+Millwall FC,Mark Falco,30,Centre-Forward,QPR,?,in,England;,NA,Championship,1991,1991/1992
+Millwall FC,Keith Branagan,25,Goalkeeper,Gillingham FC,"End of loanMar 1, 1992",in,Ireland;,0,Championship,1991,1991/1992
+Millwall FC,Tony Witter,27,Centre-Back,Plymouth,"End of loanFeb 9, 1992",in,England;,0,Championship,1991,1991/1992
+Millwall FC,Teddy Sheringham,25,Centre-Forward,Nottm Forest,£1.49m,out,England;,1.49,Championship,1991,1991/1992
+Millwall FC,Steve Wood,28,Centre-Back,Southampton,£432k,out,England;,0.432,Championship,1991,1991/1992
+Millwall FC,Tony Witter,27,Centre-Back,Plymouth,Loan,out,England;,0,Championship,1991,1991/1992
+Millwall FC,Kevin O'Callaghan,29,Left Winger,Southend United,Free transfer,out,Ireland;,NA,Championship,1991,1991/1992
+Millwall FC,Keith Branagan,25,Goalkeeper,Gillingham FC,Loan,out,Ireland;,0,Championship,1991,1991/1992
+Millwall FC,Keith Branagan,25,Goalkeeper,Fulham,Loan,out,Ireland;,0,Championship,1991,1991/1992
+Millwall FC,Darren Morgan,23,Midfielder,Bradford,Free transfer,out,England;,NA,Championship,1991,1991/1992
+Millwall FC,Les Briley,34,Midfielder,Brighton,?,out,England;,NA,Championship,1991,1991/1992
+Millwall FC,Mick McCarthy,33,Centre-Back,Retired,-,out,Ireland;England;,0,Championship,1991,1991/1992
+Luton Town,Phil Gray,22,Centre-Forward,Spurs,£540k,in,Northern Ireland;,0.54,Championship,1991,1991/1992
+Luton Town,Mick Harford,32,Centre-Forward,Derby,£338k,in,England;,0.338,Championship,1991,1991/1992
+Luton Town,Steve Thompson,26,Midfielder,Bolton,£180k,in,England;,0.18,Championship,1991,1991/1992
+Luton Town,Chris Kamara,33,Defensive Midfield,Leeds,£169k,in,England;,0.169,Championship,1991,1991/1992
+Luton Town,Trevor Peake,34,Centre-Back,Coventry,£129k,in,England;,0.129,Championship,1991,1991/1992
+Luton Town,Mervyn Day,36,Goalkeeper,Leeds,Loan,in,England;,0,Championship,1991,1991/1992
+Luton Town,Brian Stein,33,Centre-Forward,Annecy FC,?,in,England;,NA,Championship,1991,1991/1992
+Luton Town,Steve Sutton,30,Goalkeeper,Nottm Forest,Loan,in,England;,0,Championship,1991,1991/1992
+Luton Town,Imre Varadi,32,Centre-Forward,Leeds,Loan,in,England;Hungary;,0,Championship,1991,1991/1992
+Luton Town,Scott Oakes,NA,Forward,Leicester,?,in,England;,NA,Championship,1991,1991/1992
+Luton Town,Juergen Sommer,23,Goalkeeper,Brighton,"End of loanMay 31, 1992",in,United States;,0,Championship,1991,1991/1992
+Luton Town,Jamie Campbell,18,Left-Back,Luton U18,-,in,England;,0,Championship,1991,1991/1992
+Luton Town,Kingsley Black,23,Left Midfield,Nottm Forest,£1.62m,out,Northern Ireland;,1.62,Championship,1991,1991/1992
+Luton Town,Matt Jackson,19,Right-Back,Everton,£810k,out,England;,0.81,Championship,1991,1991/1992
+Luton Town,Graham Rodger,24,Centre-Back,Grimsby Town,£153k,out,England;,0.153,Championship,1991,1991/1992
+Luton Town,Sean Farrell,22,Forward,Fulham,£126k,out,England;,0.126,Championship,1991,1991/1992
+Luton Town,Paul Holsgrove,22,Central Midfield,Heracles,Free transfer,out,England;,NA,Championship,1991,1991/1992
+Luton Town,Lars Elstrup,28,Centre-Forward,Odense BK,?,out,Denmark;,NA,Championship,1991,1991/1992
+Luton Town,Richard Cooke,25,Forward,Bournemouth,?,out,England;,NA,Championship,1991,1991/1992
+Luton Town,Dave Beaumont,27,Defender,Hibernian FC,?,out,Scotland;,NA,Championship,1991,1991/1992
+Luton Town,Mervyn Day,36,Goalkeeper,Leeds,"End of loanApr 5, 1992",out,England;,0,Championship,1991,1991/1992
+Luton Town,Steve Williams,32,Central Midfield,Exeter City,?,out,England;,NA,Championship,1991,1991/1992
+Luton Town,Steve Thompson,26,Midfielder,Leicester,?,out,England;,NA,Championship,1991,1991/1992
+Luton Town,Darron McDonough,28,Midfielder,Newcastle,?,out,England;,NA,Championship,1991,1991/1992
+Luton Town,Juergen Sommer,22,Goalkeeper,Brighton,Loan,out,United States;,0,Championship,1991,1991/1992
+Luton Town,Imre Varadi,32,Centre-Forward,Leeds,"End of loanMay 1, 1992",out,England;Hungary;,0,Championship,1991,1991/1992
+Luton Town,Trevor Peake,40,Centre-Back,Retired,-,out,England;,0,Championship,1991,1991/1992
+Luton Town,Sean Farrell,22,Forward,Northampt. Town,"End of loanSep 13, 1991",out,England;,0,Championship,1991,1991/1992
+Luton Town,Steve Sutton,30,Goalkeeper,Nottm Forest,"End of loanMar 5, 1992",out,England;,0,Championship,1991,1991/1992
+Barnsley FC,David Currie,28,Forward,Oldham Athletic,£323k,in,England;,0.323,Championship,1991,1991/1992
+Barnsley FC,Gareth Williams,24,Midfielder,Aston Villa,£225k,in,England;,0.225,Championship,1991,1991/1992
+Barnsley FC,Lee Butler,25,Goalkeeper,Aston Villa,£177k,in,England;,0.177,Championship,1991,1991/1992
+Barnsley FC,Neil Redfearn,26,Midfielder,Oldham Athletic,£155k,in,England;,0.155,Championship,1991,1991/1992
+Barnsley FC,Neil Whitworth,19,Centre-Back,Man Utd,Loan,in,England;,0,Championship,1991,1991/1992
+Barnsley FC,John Pearson,27,Forward,Leeds,?,in,England;,NA,Championship,1991,1991/1992
+Barnsley FC,Steve Davis,25,Defender,Burnley,?,in,England;,NA,Championship,1991,1991/1992
+Barnsley FC,Phil Whitehead,22,Goalkeeper,Scunthorpe Utd.,"End of loanMay 31, 1992",in,England;,0,Championship,1991,1991/1992
+Barnsley FC,Nicky Eaden,18,Right-Back,Barnsley U18,-,in,England;,0,Championship,1991,1991/1992
+Barnsley FC,Andy Liddell,18,Forward,Barnsley U18,-,in,Scotland;,0,Championship,1991,1991/1992
+Barnsley FC,John Pearson,28,Forward,Hull City,"End of loanMay 31, 1992",in,England;,0,Championship,1991,1991/1992
+Barnsley FC,Alan Moore,16,Midfielder,Middlesbrough,£450k,out,Ireland;,0.45,Championship,1991,1991/1992
+Barnsley FC,Andy Saville,27,Centre-Forward,Hartlepool Utd.,£60k,out,England;,0.06,Championship,1991,1991/1992
+Barnsley FC,John Pearson,28,Forward,Hull City,Loan,out,England;,0,Championship,1991,1991/1992
+Barnsley FC,Clive Baker,32,Goalkeeper,Coventry,?,out,England;,NA,Championship,1991,1991/1992
+Barnsley FC,Phil Whitehead,21,Goalkeeper,Scunthorpe Utd.,Loan,out,England;,0,Championship,1991,1991/1992
+Barnsley FC,Neil Whitworth,19,Centre-Back,Man Utd,End of loan-,out,England;,0,Championship,1991,1991/1992
+Charlton Athletic,Garry Nelson,30,Centre-Forward,Brighton,£50k,in,England;,0.05,Championship,1991,1991/1992
+Charlton Athletic,Steve Gatting,32,Central Midfield,Brighton,?,in,England;,NA,Championship,1991,1991/1992
+Charlton Athletic,Chris Wilder,24,Right-Back,Sheffield Utd.,Loan,in,England;,0,Championship,1991,1991/1992
+Charlton Athletic,David Whyte,20,Forward,Crystal Palace,Loan,in,England;,0,Championship,1991,1991/1992
+Charlton Athletic,John Bumstead,32,Midfielder,Chelsea,?,in,England;,NA,Championship,1991,1991/1992
+Charlton Athletic,Leroy Rosenior,27,Forward,West Ham,?,in,England;Sierra Leone;,NA,Championship,1991,1991/1992
+Charlton Athletic,Alan Pardew,29,Midfielder,Crystal Palace,?,in,England;,NA,Championship,1991,1991/1992
+Charlton Athletic,Lee Harrison,20,Goalkeeper,Gillingham FC,"End of loanMay 1, 1992",in,England;,0,Championship,1991,1991/1992
+Charlton Athletic,Kim Grant,18,Centre-Forward,Charlton U18,-,in,Ghana;England;,0,Championship,1991,1991/1992
+Charlton Athletic,Anthony Barness,18,Right-Back,Charlton U18,-,in,England;,0,Championship,1991,1991/1992
+Charlton Athletic,Lee Harrison,20,Goalkeeper,Fulham,"End of loanDec 1, 1991",in,England;,0,Championship,1991,1991/1992
+Charlton Athletic,Paul Mortimer,23,Midfielder,Aston Villa,£395k,out,England;,0.395,Championship,1991,1991/1992
+Charlton Athletic,Gary Breen,17,Centre-Back,Maidstone,Free transfer,out,Ireland;,NA,Championship,1991,1991/1992
+Charlton Athletic,Lee Harrison,20,Goalkeeper,Fulham,Loan,out,England;,0,Championship,1991,1991/1992
+Charlton Athletic,Lee Harrison,20,Goalkeeper,Gillingham FC,Loan,out,England;,0,Championship,1991,1991/1992
+Charlton Athletic,Andy Peake,30,Midfielder,Middlesbrough,?,out,England;,NA,Championship,1991,1991/1992
+Charlton Athletic,Mark Reid,29,Left-Back,St. Mirren,?,out,Scotland;,NA,Championship,1991,1991/1992
+Charlton Athletic,Chris Wilder,24,Right-Back,Sheffield Utd.,"End of loanFeb 26, 1992",out,England;,0,Championship,1991,1991/1992
+Charlton Athletic,Alan Kernaghan,24,Centre-Back,Middlesbrough,"End of loanJun 30, 1991",out,Ireland;,0,Championship,1991,1991/1992

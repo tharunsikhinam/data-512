@@ -1,0 +1,579 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,nat,fee_cleaned,league_name,year,season
+SC Bastia,Luka Kikabidze,19,Left Midfield,FC Locomotive,£90k,in,Georgia;,0.09,Ligue 1,2014,2014/2015
+SC Bastia,Gaël Danic,33,Left Winger,Olympique Lyon,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+SC Bastia,Lyes Houri,19,Central Midfield,Valenciennes B,Free transfer,in,France;Morocco;,NA,Ligue 1,2014,2014/2015
+SC Bastia,Juan Pablo Pino,27,Right Winger,Olympiacos,Free transfer,in,Colombia;,NA,Ligue 1,2014,2014/2015
+SC Bastia,Floyd Ayité,25,Left Winger,Reims,Free transfer,in,Togo;France;,NA,Ligue 1,2014,2014/2015
+SC Bastia,Florian Marange,28,Left-Back,FC Sochaux,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+SC Bastia,Alphonse Areola,21,Goalkeeper,Paris SG,Loan,in,France;Philippines;,0,Ligue 1,2014,2014/2015
+SC Bastia,Brandão,34,Centre-Forward,Saint-Étienne,Free transfer,in,Brazil;France;,NA,Ligue 1,2014,2014/2015
+SC Bastia,Giovanni Sio,25,Centre-Forward,FC Basel,Loan,in,Cote d'Ivoire;France;,0,Ligue 1,2014,2014/2015
+SC Bastia,Christopher Maboulou,24,Centre-Forward,LB Châteauroux,Free transfer,in,Congo;France;,NA,Ligue 1,2014,2014/2015
+SC Bastia,Joao Rodríguez,18,Centre-Forward,Chelsea U21,Loan,in,Colombia;,0,Ligue 1,2014,2014/2015
+SC Bastia,Hervin Ongenda,19,Attacking Midfield,Paris SG,Loan,in,France;DR Congo;,0,Ligue 1,2014,2014/2015
+SC Bastia,Junior Tallo,21,Centre-Forward,AS Roma,Loan,in,Cote d'Ivoire;,0,Ligue 1,2014,2014/2015
+SC Bastia,El-Hadji Ba,21,Defensive Midfield,Sunderland,Loan,in,France;Senegal;,0,Ligue 1,2014,2014/2015
+SC Bastia,Mathieu Peybernes,23,Centre-Back,FC Sochaux,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+SC Bastia,Apodi,27,Right-Back,Querétaro FC,?,in,Brazil;,NA,Ligue 1,2014,2014/2015
+SC Bastia,Benjamin Mokulu,24,Centre-Forward,KV Mechelen,Loan,in,DR Congo;Belgium;,0,Ligue 1,2014,2014/2015
+SC Bastia,Guillaume Gillet,30,Defensive Midfield,RSC Anderlecht,Loan,in,Belgium;,0,Ligue 1,2014,2014/2015
+SC Bastia,Famoussa Koné,20,Centre-Forward,SC Bastia B,-,in,Mali;,0,Ligue 1,2014,2014/2015
+SC Bastia,Joseph Barbato,19,Centre-Forward,SC Bastia B,-,in,France;,0,Ligue 1,2014,2014/2015
+SC Bastia,Cyril Fogacci,17,Goalkeeper,SC Bastia U19,-,in,France;,0,Ligue 1,2014,2014/2015
+SC Bastia,Abdoulaye Keita,20,Defensive Midfield,SC Bastia B,-,in,Mali;,0,Ligue 1,2014,2014/2015
+SC Bastia,Joseph Barbato,20,Centre-Forward,US Colomiers,"End of loanFeb 1, 2015",in,France;,0,Ligue 1,2014,2014/2015
+SC Bastia,François Kamano,18,Left Winger,SC Bastia B,-,in,Guinea;,0,Ligue 1,2014,2014/2015
+SC Bastia,Romain Achilli,21,Left-Back,SC Bastia B,-,in,France;,0,Ligue 1,2014,2014/2015
+SC Bastia,Matthieu Sans,26,Centre-Back,G. Ajaccio,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+SC Bastia,Christophe Vincent,21,Defensive Midfield,CA Bastia,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+SC Bastia,Florent André,23,Left Winger,GS Consolat M.,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+SC Bastia,Wahbi Khazri,23,Attacking Midfield,G. Bordeaux,£1.80m,out,Tunisia;France;,1.8,Ligue 1,2014,2014/2015
+SC Bastia,Adama Ba,20,Right Winger,FC Niort,Loan,out,Mauritania;,0,Ligue 1,2014,2014/2015
+SC Bastia,Féthi Harek,31,Left-Back,Nîmes Olympique,Free transfer,out,Algeria;France;,NA,Ligue 1,2014,2014/2015
+SC Bastia,Matthieu Sans,26,Centre-Back,FC Niort,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+SC Bastia,Toifilou Maoulida,35,Centre-Forward,Nîmes Olympique,Free transfer,out,France;Comoros;,NA,Ligue 1,2014,2014/2015
+SC Bastia,Joseph Barbato,20,Centre-Forward,US Colomiers,Loan,out,France;,0,Ligue 1,2014,2014/2015
+SC Bastia,Julien Sablé,33,Defensive Midfield,Retired,-,out,France;,0,Ligue 1,2014,2014/2015
+SC Bastia,Ilan,33,Centre-Forward,Retired,-,out,Brazil;Italy;,0,Ligue 1,2014,2014/2015
+SC Bastia,Maka Mary,25,Centre-Back,Without Club,-,out,France;Mali;,0,Ligue 1,2014,2014/2015
+SC Bastia,Joao Rodríguez,18,Centre-Forward,Chelsea U21,"End of loanJan 8, 2015",out,Colombia;,0,Ligue 1,2014,2014/2015
+SC Bastia,Mickaël Landreau,35,Goalkeeper,Retired,-,out,France;,0,Ligue 1,2014,2014/2015
+SC Bastia,Apodi,27,Right-Back,Without Club,-,out,Brazil;,0,Ligue 1,2014,2014/2015
+SC Bastia,Hervin Ongenda,20,Attacking Midfield,Paris SG,"End of loanJun 30, 2015",out,France;DR Congo;,0,Ligue 1,2014,2014/2015
+SC Bastia,Juan Pablo Pino,27,Right Winger,Without Club,-,out,Colombia;,0,Ligue 1,2014,2014/2015
+SC Bastia,Florent André,23,Left Winger,Without Club,-,out,France;,0,Ligue 1,2014,2014/2015
+SC Bastia,Benjamin Mokulu,25,Centre-Forward,KV Mechelen,"End of loanJan 12, 2015",out,DR Congo;Belgium;,0,Ligue 1,2014,2014/2015
+SC Bastia,Milos Krasic,29,Central Midfield,Fenerbahce,"End of loanJun 30, 2014",out,Serbia;,0,Ligue 1,2014,2014/2015
+SC Bastia,Gianni Bruno,22,Centre-Forward,LOSC Lille,"End of loanJun 30, 2014",out,Belgium;Italy;,0,Ligue 1,2014,2014/2015
+SC Bastia,Florian Raspentino,25,Centre-Forward,Marseille,"End of loanJun 30, 2014",out,France;,0,Ligue 1,2014,2014/2015
+SC Bastia,Sambou Yatabaré,25,Central Midfield,Olympiacos,"End of loanJun 30, 2014",out,Mali;France;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Isaac Kiese Thelin,22,Centre-Forward,Malmö FF,£3.15m,in,Sweden;DR Congo;,3.15,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Wahbi Khazri,23,Attacking Midfield,SC Bastia,£1.80m,in,Tunisia;France;,1.8,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Diego Contento,24,Left-Back,Bayern Munich,£900k,in,Germany;Italy;,0.9,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Clément Chantôme,27,Defensive Midfield,Paris SG,£630k,in,France;,0.63,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Nicolas Pallois,26,Centre-Back,FC Niort,£450k,in,France;,0.45,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Tiago Ilori,21,Centre-Back,Liverpool,Loan,in,Portugal;England;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Thomas Touré,20,Left Winger,G. Bordeaux B,-,in,Cote d'Ivoire;France;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,David Djigla,18,Left Midfield,G. Bordeaux B,-,in,Benin;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Valentín Vada,18,Central Midfield,G. Bordeaux B,-,in,Argentina;Italy;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Théo Pellenard,20,Left-Back,G. Bordeaux B,-,in,France;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Cédric Yambéré,24,Centre-Back,G. Bordeaux B,-,in,Central African Republic;France;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Rodrigo Castro,21,Left Winger,Red Star FC,"End of loanMar 19, 2015",in,Argentina;Italy;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Gaëtan Laborde,20,Centre-Forward,G. Bordeaux B,-,in,France;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Clément Badin,21,Defensive Midfield,G. Bordeaux B,-,in,France;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Jérôme Prior,18,Goalkeeper,G. Bordeaux B,-,in,France;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Jaroslav Plasil,32,Central Midfield,Catania,"End of loanJun 30, 2014",in,Czech Republic;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Emiliano Sala,23,Centre-Forward,FC Niort,"End of loanJun 30, 2014",in,Argentina;Italy;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Vujadin Savic,23,Centre-Back,Arm. Bielefeld,"End of loanJun 30, 2014",in,Serbia;France;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Hadi Sacko,20,Right Winger,AC Le Havre,"End of loanJun 30, 2014",in,Mali;France;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Lucas Orbán,25,Centre-Back,Valencia,£3.15m,out,Argentina;Spain;,3.15,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Hadi Sacko,20,Right Winger,Sporting B,£900k,out,Mali;France;,0.9,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Emiliano Sala,24,Centre-Forward,SM Caen,Loan,out,Argentina;Italy;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Henrique,31,Centre-Back,Fluminense,Free transfer,out,Brazil;,NA,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Gaëtan Laborde,20,Centre-Forward,Stade Brest 29,Loan,out,France;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Clément Badin,21,Defensive Midfield,Real Avilés CF,Loan,out,France;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,David Bellion,31,Centre-Forward,Red Star FC,Free transfer,out,France;Senegal;,NA,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Kévin Olimpa,26,Goalkeeper,Platanias,Free transfer,out,Martinique;France;,NA,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Guillaume Hoarau,30,Centre-Forward,BSC Young Boys,Free transfer,out,France;Réunion;,NA,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Jérémie Bréchet,35,Centre-Back,G. Ajaccio,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Matthieu Chalmé,33,Right-Back,Career break,-,out,France;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Vujadin Savic,24,Centre-Back,Without Club,-,out,Serbia;France;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Rodrigo Castro,21,Left Winger,Without Club,-,out,Argentina;Italy;,0,Ligue 1,2014,2014/2015
+FC Girondins Bordeaux,Landry N'Guémo,28,Defensive Midfield,Without Club,-,out,Cameroon;France;,0,Ligue 1,2014,2014/2015
+SM Caen,Florian Raspentino,25,Centre-Forward,Marseille,£450k,in,France;,0.45,Ligue 1,2014,2014/2015
+SM Caen,Damien Da Silva,26,Centre-Back,Clermont Foot,£270k,in,France;Portugal;,0.27,Ligue 1,2014,2014/2015
+SM Caen,Nicolas Benezet,23,Left Winger,Thonon Évian,Loan,in,France;,0,Ligue 1,2014,2014/2015
+SM Caen,Sloan Privat,24,Centre-Forward,KAA Gent,Loan,in,French Guiana;France;,0,Ligue 1,2014,2014/2015
+SM Caen,Alaeddine Yahia,33,Centre-Back,Lens,Free transfer,in,Tunisia;France;,NA,Ligue 1,2014,2014/2015
+SM Caen,Emiliano Sala,24,Centre-Forward,G. Bordeaux,Loan,in,Argentina;Italy;,0,Ligue 1,2014,2014/2015
+SM Caen,Jordan Adéoti,25,Defensive Midfield,Stade Lavallois,Free transfer,in,Benin;France;,NA,Ligue 1,2014,2014/2015
+SM Caen,Julien Féret,31,Attacking Midfield,Stade Rennais,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+SM Caen,Hervé Bazile,24,Left Winger,Poiré-sur-Vie,Free transfer,in,Haiti;France;,NA,Ligue 1,2014,2014/2015
+SM Caen,Rémy Vercoutre,34,Goalkeeper,Olympique Lyon,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+SM Caen,Emmanuel Imorou,25,Left-Back,Clermont Foot,Free transfer,in,Benin;France;,NA,Ligue 1,2014,2014/2015
+SM Caen,Yannick M'Bone,21,Centre-Back,Fréjus-St-Raph.,"End of loanJun 30, 2014",in,Cameroon;France;,0,Ligue 1,2014,2014/2015
+SM Caen,Yrondu Musavu-King,22,Centre-Back,ES Uzès PdG,"End of loanJun 30, 2014",in,Gabon;,0,Ligue 1,2014,2014/2015
+SM Caen,Mathieu Duhamel,30,Centre-Forward,Thonon Évian,Loan,out,France;,0,Ligue 1,2014,2014/2015
+SM Caen,Thomas Bosmel,26,Goalkeeper,AC Arles,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+SM Caen,Laurent Karim Agouazi,30,Defensive Midfield,Atromitos Athen,Free transfer,out,Algeria;France;,NA,Ligue 1,2014,2014/2015
+SM Caen,Florian Raspentino,25,Centre-Forward,Dijon,Loan,out,France;,0,Ligue 1,2014,2014/2015
+SM Caen,Fayçal Fajr,25,Attacking Midfield,Elche CF,Free transfer,out,Morocco;France;,NA,Ligue 1,2014,2014/2015
+SM Caen,Molla Wagué,23,Centre-Back,Granada CF,Free transfer,out,Mali;France;,NA,Ligue 1,2014,2014/2015
+SM Caen,Jean-Jacques Pierre,34,Centre-Back,SCO Angers,Loan,out,Haiti;France;,0,Ligue 1,2014,2014/2015
+SM Caen,Aurélien Montaroup,28,Left-Back,US Créteil,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+SM Caen,Yannick M'Bone,21,Centre-Back,Fréjus-St-Raph.,Free transfer,out,Cameroon;France;,NA,Ligue 1,2014,2014/2015
+SM Caen,Kyeong-jung Kim,23,Right Winger,FC Olympic,"End of loanJun 30, 2014",out,"Korea, South;",0,Ligue 1,2014,2014/2015
+SM Caen,Mathias Autret,23,Attacking Midfield,FC Lorient,"End of loanJun 30, 2014",out,France;,0,Ligue 1,2014,2014/2015
+SM Caen,Jonathan Kodjia,24,Centre-Forward,Reims,"End of loanJun 30, 2014",out,Cote d'Ivoire;France;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Nicki Bille Nielsen,26,Centre-Forward,Rosenborg BK,£1.80m,in,Denmark;,1.8,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Benjamin Leroy,25,Goalkeeper,Tours FC,£225k,in,France;,0.225,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Fabien Camus,29,Attacking Midfield,KRC Genk,Loan,in,Tunisia;France;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Dany Nounkeu,28,Centre-Back,Galatasaray,Loan,in,Cameroon;France;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Milos Ninkovic,29,Attacking Midfield,Red Star,Free transfer,in,Serbia;,NA,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Gaël Givet,32,Centre-Back,AC Arles,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Gianni Bruno,22,Centre-Forward,LOSC Lille,Free transfer,in,Belgium;Italy;,NA,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Modou Sougou,29,Right Winger,Marseille,Loan,in,Senegal;Portugal;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Mathieu Duhamel,30,Centre-Forward,SM Caen,Loan,in,France;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Yeltsin Tejeda,22,Defensive Midfield,Saprissa,?,in,Costa Rica;,NA,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Nicolás Blandi,25,Centre-Forward,San Lorenzo,Loan,in,Argentina;Italy;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Gilles Sunu,23,Centre-Forward,FC Lorient,?,in,Togo;France;,NA,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Jesper Juelsgaard,25,Left-Back,FC Midtjylland,?,in,Denmark;,NA,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,David Ramírez,21,Centre-Forward,Saprissa,Loan,in,Costa Rica;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Zakariya Abarouaï,20,Centre-Forward,FC Évian B,-,in,Morocco;France;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Adrien Thomasson,20,Attacking Midfield,OC Vannes,"End of loanJun 30, 2014",in,France;Croatia;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Ali M'Madi,24,Left Winger,G. Ajaccio,"End of loanJun 30, 2014",in,Comoros;France;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Kévin Bérigaud,26,Centre-Forward,Montpellier,£2.70m,out,France;,2.7,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Gianni Bruno,23,Centre-Forward,FC Lorient,Loan,out,Belgium;Italy;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Fabrice Ehret,34,Left-Back,AS Nancy,Free transfer,out,France;Switzerland;,NA,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Eric Tié Bi,24,Defensive Midfield,Asteras Tripoli,Free transfer,out,Cote d'Ivoire;France;,NA,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Ali M'Madi,24,Left Winger,G. Ajaccio,Free transfer,out,Comoros;France;,NA,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Gaël Givet,33,Centre-Back,AC Arles,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Nicolas Benezet,23,Left Winger,SM Caen,Loan,out,France;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Maxime Blanc,22,Central Midfield,AC Arles,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Bertrand Laquait,37,Goalkeeper,Valenciennes FC,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Diaranké Fofana,24,Centre-Back,U Cluj,?,out,France;Mali;,NA,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Mickaël Salamone,22,Goalkeeper,Without Club,-,out,France;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Túlio de Melo,29,Centre-Forward,Without Club,-,out,Brazil;France;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Facundo Bertoglio,24,Attacking Midfield,Dynamo Kyiv,"End of loanJun 30, 2014",out,Argentina;Italy;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Ilan Boccara,21,Defensive Midfield,Ajax U21,"End of loanJun 30, 2014",out,Israel;Netherlands;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Marco Ruben,27,Centre-Forward,Dynamo Kyiv,"End of loanJun 30, 2014",out,Argentina;Spain;,0,Ligue 1,2014,2014/2015
+Thonon Évian Grand Genève FC,Modou Sougou,29,Right Winger,Marseille,"End of loanJun 30, 2014",out,Senegal;Portugal;,0,Ligue 1,2014,2014/2015
+EA Guingamp,Ronnie Schwartz,24,Centre-Forward,Randers FC,£1.71m,in,Denmark;,1.71,Ligue 1,2014,2014/2015
+EA Guingamp,Jonas Lössl,25,Goalkeeper,FC Midtjylland,£450k,in,Denmark;,0.45,Ligue 1,2014,2014/2015
+EA Guingamp,Benjamin Angoua,27,Centre-Back,Valenciennes FC,Free transfer,in,Cote d'Ivoire;,NA,Ligue 1,2014,2014/2015
+EA Guingamp,Jérémy Pied,25,Right-Back,OGC Nice,Loan,in,France;,0,Ligue 1,2014,2014/2015
+EA Guingamp,Maxime Baca,31,Right-Back,FC Lorient,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+EA Guingamp,Lars Jacobsen,34,Right-Back,FC Copenhagen,Free transfer,in,Denmark;,NA,Ligue 1,2014,2014/2015
+EA Guingamp,Julien Cardy,32,Defensive Midfield,AC Arles,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+EA Guingamp,Sylvain Marveaux,28,Attacking Midfield,Newcastle,Loan,in,Martinique;France;,0,Ligue 1,2014,2014/2015
+EA Guingamp,Sambou Yatabaré,25,Central Midfield,Olympiacos,Loan,in,Mali;France;,0,Ligue 1,2014,2014/2015
+EA Guingamp,Yannis Salibur,23,Right Winger,Clermont Foot,?,in,France;DR Congo;,NA,Ligue 1,2014,2014/2015
+EA Guingamp,Tiécoro Keita,20,Left Winger,EA Guingamp B,-,in,Mali;,0,Ligue 1,2014,2014/2015
+EA Guingamp,Thierry Argelier,27,Right-Back,OC Vannes,"End of loanJun 30, 2014",in,France;Guadeloupe;,0,Ligue 1,2014,2014/2015
+EA Guingamp,Mustapha Yatabaré,28,Centre-Forward,Trabzonspor,£2.25m,out,Mali;France;,2.25,Ligue 1,2014,2014/2015
+EA Guingamp,Fatih Atik,30,Central Midfield,Trabzonspor,Free transfer,out,Turkey;France;,NA,Ligue 1,2014,2014/2015
+EA Guingamp,Jonathan Martins Pereira,28,Right-Back,Troyes,Free transfer,out,France;Portugal;,NA,Ligue 1,2014,2014/2015
+EA Guingamp,Vivian,32,Centre-Back,FC Sochaux,Free transfer,out,Brazil;Italy;,NA,Ligue 1,2014,2014/2015
+EA Guingamp,Mana Dembélé,25,Centre-Forward,AS Nancy,Loan,out,Mali;France;,0,Ligue 1,2014,2014/2015
+EA Guingamp,Paul Babiloni,24,Left-Back,AC Ajaccio,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+EA Guingamp,Thierry Argelier,27,Right-Back,Poiré-sur-Vie,Free transfer,out,France;Guadeloupe;,NA,Ligue 1,2014,2014/2015
+EA Guingamp,Tiécoro Keita,20,Left Winger,Paris FC,Free transfer,out,Mali;,NA,Ligue 1,2014,2014/2015
+EA Guingamp,Steeven Langil,26,Left Winger,Mouscron,?,out,Martinique;France;,NA,Ligue 1,2014,2014/2015
+EA Guingamp,Grégory Cerdan,32,Centre-Back,Without Club,-,out,France;,0,Ligue 1,2014,2014/2015
+EA Guingamp,Guy Ndy Assembé,28,Goalkeeper,AS Nancy,"End of loanJun 30, 2014",out,Cameroon;France;,0,Ligue 1,2014,2014/2015
+RC Lens,Dimitri Kevin Cavaré,19,Right-Back,Stade Rennais,Loan,in,Guadeloupe;France;,0,Ligue 1,2014,2014/2015
+RC Lens,Benjamin Boulenger,24,Left-Back,RC Lens B,-,in,France;,0,Ligue 1,2014,2014/2015
+RC Lens,Abdoul Ba,20,Centre-Back,RC Lens B,-,in,Mauritania;France;,0,Ligue 1,2014,2014/2015
+RC Lens,Taylor Moore,17,Centre-Back,RC Lens U19,-,in,England;,0,Ligue 1,2014,2014/2015
+RC Lens,Dimitri Kevin Cavaré,19,Right-Back,RC Lens B,-,in,Guadeloupe;France;,0,Ligue 1,2014,2014/2015
+RC Lens,Aristote Madiani,19,Right Midfield,RC Lens B,-,in,France;,0,Ligue 1,2014,2014/2015
+RC Lens,Valentin Belon,19,Goalkeeper,RC Lens B,-,in,France;,0,Ligue 1,2014,2014/2015
+RC Lens,Dimitri Kevin Cavaré,19,Right-Back,Stade Rennais,£2.70m,out,Guadeloupe;France;,2.7,Ligue 1,2014,2014/2015
+RC Lens,Alaeddine Yahia,33,Centre-Back,SM Caen,Free transfer,out,Tunisia;France;,NA,Ligue 1,2014,2014/2015
+RC Lens,Rémy Bonne,25,Left-Back,AC Arles,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+RC Lens,Alassane Touré,25,Right-Back,Astra Giurgiu,Free transfer,out,France;Senegal;,NA,Ligue 1,2014,2014/2015
+RC Lens,Pierre Ducasse,27,Defensive Midfield,Without Club,-,out,France;,0,Ligue 1,2014,2014/2015
+RC Lens,Samuel Atrous,24,Goalkeeper,Without Club,-,out,France;Algeria;,0,Ligue 1,2014,2014/2015
+RC Lens,Danijel Ljuboja,35,Centre-Forward,Retired,-,out,Serbia;France;,0,Ligue 1,2014,2014/2015
+RC Lens,Edgar Salli,21,Right Winger,Monaco,"End of loanJun 30, 2014",out,Cameroon;,0,Ligue 1,2014,2014/2015
+RC Lens,Marcel Tisserand,21,Centre-Back,Monaco,"End of loanJun 30, 2014",out,DR Congo;France;,0,Ligue 1,2014,2014/2015
+RC Lens,Alphonse Areola,21,Goalkeeper,Paris SG,"End of loanJun 30, 2014",out,France;Philippines;,0,Ligue 1,2014,2014/2015
+FC Lorient,Jordan Ayew,22,Centre-Forward,Marseille,£3.60m,in,Ghana;France;,3.6,Ligue 1,2014,2014/2015
+FC Lorient,Romain Philippoteaux,26,Left Midfield,Dijon,£2.25m,in,France;,2.25,Ligue 1,2014,2014/2015
+FC Lorient,Benjamin Jeannot,22,Centre-Forward,AS Nancy,£900k,in,France;,0.9,Ligue 1,2014,2014/2015
+FC Lorient,Didier Ndong,20,Central Midfield,CS Sfaxien,£855k,in,Gabon;,0.855,Ligue 1,2014,2014/2015
+FC Lorient,Gianni Bruno,23,Centre-Forward,Thonon Évian,Loan,in,Belgium;Italy;,0,Ligue 1,2014,2014/2015
+FC Lorient,Sadio Diallo,23,Central Midfield,Stade Rennais,Loan,in,Guinea;,0,Ligue 1,2014,2014/2015
+FC Lorient,Walid Mesloub,28,Central Midfield,AC Le Havre,Free transfer,in,Algeria;France;,NA,Ligue 1,2014,2014/2015
+FC Lorient,Vincent Le Goff,24,Left-Back,FC Istres,?,in,France;,NA,Ligue 1,2014,2014/2015
+FC Lorient,Mehdi Mostefa,30,Defensive Midfield,AC Ajaccio,?,in,Algeria;France;,NA,Ligue 1,2014,2014/2015
+FC Lorient,François Bellugou,27,Defensive Midfield,AS Nancy,?,in,France;,NA,Ligue 1,2014,2014/2015
+FC Lorient,Pierre Lavenant,18,Attacking Midfield,Lorient B,-,in,France;,0,Ligue 1,2014,2014/2015
+FC Lorient,Marvin Gakpa,20,Central Midfield,Lorient B,-,in,France;Algeria;,0,Ligue 1,2014,2014/2015
+FC Lorient,Baptiste Reynet,24,Goalkeeper,Dijon,"End of loanFeb 1, 2015",in,France;,0,Ligue 1,2014,2014/2015
+FC Lorient,Mathias Autret,23,Attacking Midfield,SM Caen,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+FC Lorient,Benjamin Lecomte,23,Goalkeeper,Dijon,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+FC Lorient,Rémi Mulumba,21,Defensive Midfield,Dijon,"End of loanJun 30, 2014",in,DR Congo;France;,0,Ligue 1,2014,2014/2015
+FC Lorient,Cheick Touré,21,Centre-Back,Bourg-Péronnas,"End of loanJun 30, 2014",in,Cote d'Ivoire;,0,Ligue 1,2014,2014/2015
+FC Lorient,Simon Falette,22,Centre-Back,Stade Brest 29,"End of loanJun 30, 2014",in,Guinea;France;,0,Ligue 1,2014,2014/2015
+FC Lorient,Vincent Aboubakar,22,Centre-Forward,FC Porto,£11.07m,out,Cameroon;,11.07,Ligue 1,2014,2014/2015
+FC Lorient,Bruno Ecuele Manga,26,Centre-Back,Cardiff,£5.67m,out,Gabon;France;,5.67,Ligue 1,2014,2014/2015
+FC Lorient,Jérémie Aliadière,31,Centre-Forward,Umm Salal,£360k,out,France;,0.36,Ligue 1,2014,2014/2015
+FC Lorient,Bryan Pelé,22,Left Midfield,Stade Brest 29,£180k,out,France;,0.18,Ligue 1,2014,2014/2015
+FC Lorient,Enzo Réale,23,Central Midfield,AC Arles,Loan,out,France;Italy;,0,Ligue 1,2014,2014/2015
+FC Lorient,Kévin Monnet-Paquet,25,Left Winger,Saint-Étienne,Free transfer,out,France;Rwanda;,NA,Ligue 1,2014,2014/2015
+FC Lorient,Baptiste Reynet,23,Goalkeeper,Dijon,Loan,out,France;,0,Ligue 1,2014,2014/2015
+FC Lorient,Maxime Baca,31,Right-Back,Guingamp,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+FC Lorient,Cheick Doukouré,21,Defensive Midfield,FC Metz,Free transfer,out,Cote d'Ivoire;France;,NA,Ligue 1,2014,2014/2015
+FC Lorient,Simon Falette,22,Centre-Back,Stade Brest 29,Free transfer,out,Guinea;France;,NA,Ligue 1,2014,2014/2015
+FC Lorient,Rémi Mulumba,21,Defensive Midfield,AJ Auxerre,Loan,out,DR Congo;France;,0,Ligue 1,2014,2014/2015
+FC Lorient,Baptiste Reynet,24,Goalkeeper,Dijon,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+FC Lorient,Grégory Bourillon,30,Centre-Back,Reims,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+FC Lorient,Maxence Derrien,20,Centre-Back,US Avranches,Loan,out,France;,0,Ligue 1,2014,2014/2015
+FC Lorient,Gilles Sunu,23,Centre-Forward,Thonon Évian,?,out,Togo;France;,NA,Ligue 1,2014,2014/2015
+FC Lorient,Alain Traoré,26,Attacking Midfield,Monaco,Loan,out,Burkina Faso;France;,0,Ligue 1,2014,2014/2015
+FC Lorient,Julien Quercia,28,Centre-Forward,Career break,-,out,France;,0,Ligue 1,2014,2014/2015
+FC Lorient,Cheick Touré,21,Centre-Back,Lorient B,-,out,Cote d'Ivoire;,0,Ligue 1,2014,2014/2015
+FC Lorient,Sadio Diallo,23,Central Midfield,Stade Rennais,"End of loanJun 30, 2014",out,Guinea;,0,Ligue 1,2014,2014/2015
+FC Lorient,Larry Azouni,20,Central Midfield,Marseille,"End of loanJun 30, 2014",out,Tunisia;France;,0,Ligue 1,2014,2014/2015
+Olympique Lyon,Christophe Jallet,30,Right-Back,Paris SG,£1.35m,in,France;,1.35,Ligue 1,2014,2014/2015
+Olympique Lyon,Lindsay Rose,22,Centre-Back,Valenciennes FC,£1.35m,in,Mauritius;France;,1.35,Ligue 1,2014,2014/2015
+Olympique Lyon,Maxwel Cornet,18,Right Winger,FC Metz,£360k,in,Cote d'Ivoire;France;,0.36,Ligue 1,2014,2014/2015
+Olympique Lyon,Corentin Tolisso,19,Central Midfield,Olymp. Lyon B,-,in,France;Togo;,0,Ligue 1,2014,2014/2015
+Olympique Lyon,Lucas Mocio,20,Goalkeeper,Olymp. Lyon B,-,in,France;,0,Ligue 1,2014,2014/2015
+Olympique Lyon,Alassane Plea,21,Centre-Forward,AJ Auxerre,"End of loanJun 30, 2014",in,France;Mali;,0,Ligue 1,2014,2014/2015
+Olympique Lyon,Mohamed Yattara,20,Centre-Forward,SCO Angers,"End of loanJun 30, 2014",in,Guinea;,0,Ligue 1,2014,2014/2015
+Olympique Lyon,Naby Sarr,20,Centre-Back,Sporting CP,£900k,out,Senegal;France;,0.9,Ligue 1,2014,2014/2015
+Olympique Lyon,Alassane Plea,21,Centre-Forward,OGC Nice,£450k,out,France;Mali;,0.45,Ligue 1,2014,2014/2015
+Olympique Lyon,Gaël Danic,33,Left Winger,SC Bastia,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+Olympique Lyon,Bafétimbi Gomis,28,Centre-Forward,Swansea,Free transfer,out,France;Senegal;,NA,Ligue 1,2014,2014/2015
+Olympique Lyon,Rémy Vercoutre,34,Goalkeeper,SM Caen,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+Olympique Lyon,Jimmy Briand,29,Centre-Forward,Hannover 96,Free transfer,out,France;Martinique;,NA,Ligue 1,2014,2014/2015
+Olympique Lyon,Jérémy Frick,21,Goalkeeper,Servette FC,Loan,out,Switzerland;,0,Ligue 1,2014,2014/2015
+Olympique Lyon,Théo Defourny,22,Goalkeeper,RE Virton,Free transfer,out,Belgium;France;,NA,Ligue 1,2014,2014/2015
+Olympique Lyon,Miguel Lopes,27,Right-Back,Sporting CP,"End of loanJun 30, 2014",out,Portugal;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Michy Batshuayi,20,Centre-Forward,Standard Liège,£5.40m,in,Belgium;DR Congo;,5.4,Ligue 1,2014,2014/2015
+Olympique Marseille,Romain Alessandrini,25,Right Winger,Stade Rennais,£4.50m,in,France;,4.5,Ligue 1,2014,2014/2015
+Olympique Marseille,Dória,19,Centre-Back,Botafogo,£4.50m,in,Brazil;,4.5,Ligue 1,2014,2014/2015
+Olympique Marseille,Abdelaziz Barrada,25,Attacking Midfield,Al-Jazira,£4.05m,in,Morocco;France;,4.05,Ligue 1,2014,2014/2015
+Olympique Marseille,Lucas Ocampos,20,Left Winger,Monaco,Loan,in,Argentina;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Maxime López,16,Central Midfield,Marseille U19,-,in,France;Algeria;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Baptiste Aloé,20,Centre-Back,Marseille B,-,in,France;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Julien Fabri,20,Goalkeeper,Marseille B,-,in,France;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Billel Omrani,21,Centre-Forward,AC Arles,"End of loanJun 30, 2014",in,Algeria;France;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Foued Kadir,30,Attacking Midfield,Stade Rennais,"End of loanJun 30, 2014",in,Algeria;France;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Jordan Ayew,22,Centre-Forward,FC Sochaux,"End of loanJun 30, 2014",in,Ghana;France;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Florian Raspentino,25,Centre-Forward,SC Bastia,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Senah Mango,22,Centre-Back,Luzenac AP,"End of loanJun 30, 2014",in,Togo;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Larry Azouni,20,Central Midfield,FC Lorient,"End of loanJun 30, 2014",in,Tunisia;France;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Modou Sougou,29,Right Winger,Thonon Évian,"End of loanJun 30, 2014",in,Senegal;Portugal;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Morgan Amalfitano,29,Right Winger,West Brom,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Mathieu Valbuena,29,Attacking Midfield,Dinamo Moscow,£6.30m,out,France;,6.3,Ligue 1,2014,2014/2015
+Olympique Marseille,Lucas Mendes,24,Centre-Back,El-Jaish,£4.50m,out,Brazil;,4.5,Ligue 1,2014,2014/2015
+Olympique Marseille,Jordan Ayew,22,Centre-Forward,FC Lorient,£3.60m,out,Ghana;France;,3.6,Ligue 1,2014,2014/2015
+Olympique Marseille,Morgan Amalfitano,29,Right Winger,West Ham,£900k,out,France;,0.9,Ligue 1,2014,2014/2015
+Olympique Marseille,Florian Raspentino,25,Centre-Forward,SM Caen,£450k,out,France;,0.45,Ligue 1,2014,2014/2015
+Olympique Marseille,Modou Sougou,29,Right Winger,Thonon Évian,Loan,out,Senegal;Portugal;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Larry Azouni,20,Central Midfield,Nîmes Olympique,Free transfer,out,Tunisia;France;,NA,Ligue 1,2014,2014/2015
+Olympique Marseille,Saber Khalifa,27,Centre-Forward,Club Africain,Loan,out,Tunisia;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Gennaro Bracigliano,34,Goalkeeper,Chennaiyin FC,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+Olympique Marseille,Laurent Abergel,21,Defensive Midfield,AC Ajaccio,Loan,out,France;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Souleymane Diawara,35,Centre-Back,OGC Nice,Free transfer,out,Senegal;France;,NA,Ligue 1,2014,2014/2015
+Olympique Marseille,Dória,20,Centre-Back,São Paulo,Loan,out,Brazil;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Foued Kadir,30,Attacking Midfield,Real Betis,Loan,out,Algeria;France;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Kevin Osei,23,Right Winger,Marseille B,-,out,Ghana;France;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Benoît Cheyrou,33,Defensive Midfield,Without Club,-,out,France;,0,Ligue 1,2014,2014/2015
+Olympique Marseille,Senah Mango,22,Centre-Back,Without Club,-,out,Togo;,0,Ligue 1,2014,2014/2015
+FC Metz,Fakhreddine Ben Youssef,23,Right Winger,CS Sfaxien,£1.08m,in,Tunisia;,1.08,Ligue 1,2014,2014/2015
+FC Metz,Sergey Krivets,28,Attacking Midfield,BATE Borisov,£900k,in,Belarus;,0.9,Ligue 1,2014,2014/2015
+FC Metz,Juan Falcón,25,Centre-Forward,Zamora,£810k,in,Venezuela;,0.81,Ligue 1,2014,2014/2015
+FC Metz,Ferjani Sassi,22,Central Midfield,CS Sfaxien,£450k,in,Tunisia;,0.45,Ligue 1,2014,2014/2015
+FC Metz,Guirane N'Daw,30,Defensive Midfield,Asteras Tripoli,Free transfer,in,Senegal;France;,NA,Ligue 1,2014,2014/2015
+FC Metz,Federico Andrada,20,Centre-Forward,River Plate,Loan,in,Argentina;,0,Ligue 1,2014,2014/2015
+FC Metz,Florent Malouda,34,Left Winger,Trabzonspor,Free transfer,in,French Guiana;France;,NA,Ligue 1,2014,2014/2015
+FC Metz,Jonathan Rivierez,25,Centre-Back,AC Le Havre,Free transfer,in,France;French Guiana;,NA,Ligue 1,2014,2014/2015
+FC Metz,Cheick Doukouré,21,Defensive Midfield,FC Lorient,Free transfer,in,Cote d'Ivoire;France;,NA,Ligue 1,2014,2014/2015
+FC Metz,Modibo Maïga,26,Centre-Forward,West Ham,Loan,in,Mali;,0,Ligue 1,2014,2014/2015
+FC Metz,José Luis Palomino,24,Centre-Back,Argentinos Jrs.,?,in,Argentina;,NA,Ligue 1,2014,2014/2015
+FC Metz,Janis Ikaunieks,19,Attacking Midfield,Liepaja,?,in,Latvia;,NA,Ligue 1,2014,2014/2015
+FC Metz,David Oberhauser,23,Goalkeeper,Without Club,-,in,France;,0,Ligue 1,2014,2014/2015
+FC Metz,Kwame Nsor,21,Centre-Forward,FC Metz B,-,in,Ghana;,0,Ligue 1,2014,2014/2015
+FC Metz,Médéric Deher,19,Right-Back,FC Metz B,-,in,France;,0,Ligue 1,2014,2014/2015
+FC Metz,Alhassane Keita,22,Centre-Forward,US Boulogne,"End of loanJun 30, 2014",in,Guinea;,0,Ligue 1,2014,2014/2015
+FC Metz,Moussa Gueye,25,Centre-Forward,Coimbra,"End of loanJun 30, 2014",in,Senegal;,0,Ligue 1,2014,2014/2015
+FC Metz,Ali Bamba,22,Left-Back,R. Strasbourg,"End of loanJun 30, 2014",in,Cote d'Ivoire;,0,Ligue 1,2014,2014/2015
+FC Metz,Samy Kehli,23,Attacking Midfield,RE Virton,"End of loanJun 30, 2014",in,France;Algeria;,0,Ligue 1,2014,2014/2015
+FC Metz,Diafra Sakho,24,Centre-Forward,West Ham,£4.50m,out,Senegal;,4.5,Ligue 1,2014,2014/2015
+FC Metz,Maxwel Cornet,18,Right Winger,Olympique Lyon,£360k,out,Cote d'Ivoire;France;,0.36,Ligue 1,2014,2014/2015
+FC Metz,Eduardo,33,Centre-Forward,Ríver-PI,Free transfer,out,Brazil;,NA,Ligue 1,2014,2014/2015
+FC Metz,Thibaut Bourgeois,24,Second Striker,CA Bastia,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+FC Metz,Karim Lancina,27,Defensive Midfield,SAS Epinal,Free transfer,out,Niger;Libya;,NA,Ligue 1,2014,2014/2015
+FC Metz,Médéric Deher,19,Right-Back,Luçon VF,Loan,out,France;,0,Ligue 1,2014,2014/2015
+FC Metz,Mayoro N'Doye,22,Central Midfield,R. Strasbourg,Loan,out,Senegal;,0,Ligue 1,2014,2014/2015
+FC Metz,Alhassane Keita,22,Centre-Forward,Lierse SK,Loan,out,Guinea;,0,Ligue 1,2014,2014/2015
+FC Metz,Thomas Didillon,18,Goalkeeper,Seraing United,Loan,out,France;,0,Ligue 1,2014,2014/2015
+FC Metz,Abdallah Ndour,20,Left-Back,R. Strasbourg,Loan,out,Senegal;,0,Ligue 1,2014,2014/2015
+FC Metz,Romain Inez,26,Centre-Back,Botev Plovdiv,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+FC Metz,Daniel O'Shaughnessy,19,Centre-Back,Brentford U21,Free transfer,out,Finland;Ireland;,NA,Ligue 1,2014,2014/2015
+FC Metz,Ali Bamba,23,Left-Back,Seraing United,Loan,out,Cote d'Ivoire;,0,Ligue 1,2014,2014/2015
+FC Metz,Samy Kehli,23,Attacking Midfield,Seraing United,Loan,out,France;Algeria;,0,Ligue 1,2014,2014/2015
+FC Metz,Moussa Gueye,25,Centre-Forward,Seraing United,?,out,Senegal;,NA,Ligue 1,2014,2014/2015
+FC Metz,Luciano Teixeira,20,Defensive Midfield,Without Club,-,out,Guinea-Bissau;Portugal;,0,Ligue 1,2014,2014/2015
+FC Metz,Yves Angani,23,Centre-Forward,FC Système,"End of loanJun 30, 2014",out,DR Congo;,0,Ligue 1,2014,2014/2015
+FC Metz,Nicolas Fauvergue,29,Centre-Forward,Reims,"End of loanJun 30, 2014",out,France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Bernardo Silva,20,Right Winger,Benfica,£14.18m,in,Portugal;,14.18,Ligue 1,2014,2014/2015
+AS Monaco,Aymen Abdennour,24,Centre-Back,Toulouse,£11.70m,in,Tunisia;,11.7,Ligue 1,2014,2014/2015
+AS Monaco,Tiemoué Bakayoko,19,Defensive Midfield,Stade Rennais,£7.20m,in,France;Cote d'Ivoire;,7.2,Ligue 1,2014,2014/2015
+AS Monaco,Paul Nardi,20,Goalkeeper,AS Nancy,£2.70m,in,France;,2.7,Ligue 1,2014,2014/2015
+AS Monaco,Seydou Sy,18,Goalkeeper,Milan U19,Free transfer,in,Senegal;,NA,Ligue 1,2014,2014/2015
+AS Monaco,Bernardo Silva,19,Right Winger,Benfica,Loan,in,Portugal;,0,Ligue 1,2014,2014/2015
+AS Monaco,Alain Traoré,26,Attacking Midfield,FC Lorient,Loan,in,Burkina Faso;France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Maarten Stekelenburg,31,Goalkeeper,Fulham,Loan,in,Netherlands;,0,Ligue 1,2014,2014/2015
+AS Monaco,Matheus Carvalho,22,Right Winger,Fluminense,Loan,in,Brazil;,0,Ligue 1,2014,2014/2015
+AS Monaco,Wallace,19,Centre-Back,Braga,Loan,in,Brazil;,0,Ligue 1,2014,2014/2015
+AS Monaco,Almamy Touré,18,Centre-Back,Monaco U19,-,in,France;Mali;,0,Ligue 1,2014,2014/2015
+AS Monaco,Abdou Aziz Thiam,17,Defensive Midfield,Monaco B,-,in,France;Senegal;,0,Ligue 1,2014,2014/2015
+AS Monaco,Dylan Bahamboula,19,Attacking Midfield,Monaco B,-,in,Congo;France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Abdou Diallo,18,Centre-Back,Monaco B,-,in,France;Senegal;,0,Ligue 1,2014,2014/2015
+AS Monaco,Aboubakar Kamara,19,Centre-Forward,Monaco B,-,in,France;Mauritania;,0,Ligue 1,2014,2014/2015
+AS Monaco,Martin Sourzac,22,Goalkeeper,RWDM Brussels,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Delvin N'Dinga,26,Defensive Midfield,Olympiacos,"End of loanJun 30, 2014",in,Congo;France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Marcel Tisserand,21,Centre-Back,Lens,"End of loanJun 30, 2014",in,DR Congo;France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Borja López,20,Centre-Back,Rayo Vallecano,"End of loanJun 30, 2014",in,Spain;,0,Ligue 1,2014,2014/2015
+AS Monaco,Jérémy Labor,22,Centre-Back,RWDM Brussels,"End of loanJun 30, 2014",in,France;Guadeloupe;,0,Ligue 1,2014,2014/2015
+AS Monaco,Tristan Dingomé,23,Central Midfield,AC Le Havre,"End of loanJun 30, 2014",in,Cameroon;France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Carl Medjani,29,Defensive Midfield,Valenciennes FC,"End of loanJun 30, 2014",in,Algeria;France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Gaetano Monachello,20,Centre-Forward,Ergotelis,"End of loanJun 30, 2014",in,Italy;,0,Ligue 1,2014,2014/2015
+AS Monaco,Edgar Salli,21,Right Winger,Lens,"End of loanJun 30, 2014",in,Cameroon;,0,Ligue 1,2014,2014/2015
+AS Monaco,Jérôme Phojo,21,Right-Back,CA Bastia,"End of loanJun 30, 2014",in,France;Martinique;,0,Ligue 1,2014,2014/2015
+AS Monaco,Gary Kagelmacher,26,Centre-Back,Valenciennes FC,"End of loanJun 30, 2014",in,Uruguay;Germany;,0,Ligue 1,2014,2014/2015
+AS Monaco,Lacina Traoré,24,Centre-Forward,Everton,"End of loanJun 30, 2014",in,Cote d'Ivoire;,0,Ligue 1,2014,2014/2015
+AS Monaco,James Rodríguez,23,Attacking Midfield,Real Madrid,£67.50m,out,Colombia;Spain;,67.5,Ligue 1,2014,2014/2015
+AS Monaco,Falcao,28,Centre-Forward,Man Utd,Loan fee:£6.84m,out,Colombia;,6.84,Ligue 1,2014,2014/2015
+AS Monaco,Emmanuel Rivière,24,Centre-Forward,Newcastle,£5.69m,out,Martinique;France;,5.69,Ligue 1,2014,2014/2015
+AS Monaco,Gary Kagelmacher,26,Centre-Back,1860 Munich,£180k,out,Uruguay;Germany;,0.18,Ligue 1,2014,2014/2015
+AS Monaco,Marcel Tisserand,21,Centre-Back,Toulouse,Loan,out,DR Congo;France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Mounir Obbadi,31,Central Midfield,Hellas Verona,Loan,out,Morocco;France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Paul Nardi,20,Goalkeeper,AS Nancy,Loan,out,France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Carl Medjani,29,Defensive Midfield,Trabzonspor,Free transfer,out,Algeria;France;,NA,Ligue 1,2014,2014/2015
+AS Monaco,Nacer Barazite,24,Attacking Midfield,FC Utrecht,Free transfer,out,Netherlands;Morocco;,NA,Ligue 1,2014,2014/2015
+AS Monaco,Jérôme Phojo,21,Right-Back,AC Arles,Free transfer,out,France;Martinique;,NA,Ligue 1,2014,2014/2015
+AS Monaco,Éric Abidal,34,Left-Back,Olympiacos,Free transfer,out,France;Martinique;,NA,Ligue 1,2014,2014/2015
+AS Monaco,Edgar Salli,22,Right Winger,Coimbra,Loan,out,Cameroon;,0,Ligue 1,2014,2014/2015
+AS Monaco,Tristan Dingomé,23,Central Midfield,Mouscron,Free transfer,out,Cameroon;France;,NA,Ligue 1,2014,2014/2015
+AS Monaco,Lucas Ocampos,20,Left Winger,Marseille,Loan,out,Argentina;,0,Ligue 1,2014,2014/2015
+AS Monaco,Jérémy Labor,22,Centre-Back,Zulte Waregem,Free transfer,out,France;Guadeloupe;,NA,Ligue 1,2014,2014/2015
+AS Monaco,Delvin N'Dinga,26,Defensive Midfield,Olympiacos,Loan,out,Congo;France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Axel Maraval,20,Goalkeeper,AC Arles,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+AS Monaco,Jessy Pi,20,Defensive Midfield,Troyes,Loan,out,France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Borja López,20,Centre-Back,Dep. La Coruña,Loan,out,Spain;,0,Ligue 1,2014,2014/2015
+AS Monaco,Gaetano Monachello,20,Centre-Forward,Virtus Lanciano,Loan,out,Italy;,0,Ligue 1,2014,2014/2015
+AS Monaco,Nicolas Isimat-Mirin,22,Centre-Back,PSV Eindhoven,Loan,out,France;Guadeloupe;,0,Ligue 1,2014,2014/2015
+AS Monaco,Bernardo Silva,20,Right Winger,Benfica,"End of loanJan 19, 2015",out,Portugal;,0,Ligue 1,2014,2014/2015
+AS Monaco,Sébastien Chabbert,36,Goalkeeper,Retired,-,out,France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Martin Sourzac,22,Goalkeeper,Monaco B,-,out,France;,0,Ligue 1,2014,2014/2015
+AS Monaco,Andreas Wolf,32,Centre-Back,Retired,-,out,Germany;,0,Ligue 1,2014,2014/2015
+AS Monaco,Flavio Roma,40,Goalkeeper,Retired,-,out,Italy;,0,Ligue 1,2014,2014/2015
+AS Monaco,Sergio Romero,27,Goalkeeper,Sampdoria,"End of loanJun 30, 2014",out,Argentina;Italy;,0,Ligue 1,2014,2014/2015
+AS Monaco,Aymen Abdennour,24,Centre-Back,Toulouse,"End of loanJun 30, 2014",out,Tunisia;,0,Ligue 1,2014,2014/2015
+HSC Montpellier,Kévin Bérigaud,26,Centre-Forward,Thonon Évian,£2.70m,in,France;,2.7,Ligue 1,2014,2014/2015
+HSC Montpellier,Sébastien Wüthrich,24,Left Midfield,FC Sion,£450k,in,Switzerland;,0.45,Ligue 1,2014,2014/2015
+HSC Montpellier,Jean Deza,21,Left Winger,USM Porres,£450k,in,Peru;,0.45,Ligue 1,2014,2014/2015
+HSC Montpellier,Lucas Barrios,29,Centre-Forward,Spartak Moscow,Loan,in,Paraguay;Argentina;,0,Ligue 1,2014,2014/2015
+HSC Montpellier,Florian Sotoca,24,Centre-Forward,AS Béziers,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+HSC Montpellier,Paul Lasne,25,Defensive Midfield,AC Ajaccio,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+HSC Montpellier,Dylan Gissi,23,Centre-Back,Olimpo,Free transfer,in,Switzerland;Argentina;,NA,Ligue 1,2014,2014/2015
+HSC Montpellier,Jérôme Roussillon,22,Left-Back,FC Sochaux,?,in,France;Guadeloupe;,NA,Ligue 1,2014,2014/2015
+HSC Montpellier,Steve Mounié,19,Centre-Forward,HSC Montpellier B,-,in,Benin;France;,0,Ligue 1,2014,2014/2015
+HSC Montpellier,Gianni Seraf,19,Attacking Midfield,HSC Montpellier B,-,in,France;Algeria;,0,Ligue 1,2014,2014/2015
+HSC Montpellier,Anthony Ribelin,18,Central Midfield,HSC Montpellier B,-,in,France;,0,Ligue 1,2014,2014/2015
+HSC Montpellier,Quentin Cornette,20,Right Winger,HSC Montpellier B,-,in,France;,0,Ligue 1,2014,2014/2015
+HSC Montpellier,Bryan Dabo,22,Defensive Midfield,Blackburn,"End of loanJun 30, 2014",in,Burkina Faso;France;,0,Ligue 1,2014,2014/2015
+HSC Montpellier,Emanuel Herrera,27,Centre-Forward,Tigres UANL,"End of loanJun 30, 2014",in,Argentina;,0,Ligue 1,2014,2014/2015
+HSC Montpellier,Rémy Cabella,24,Attacking Midfield,Newcastle,£9.00m,out,France;Italy;,9,Ligue 1,2014,2014/2015
+HSC Montpellier,Benjamin Stambouli,24,Centre-Back,Spurs,£5.31m,out,France;Algeria;,5.31,Ligue 1,2014,2014/2015
+HSC Montpellier,Víctor Montaño,30,Centre-Forward,Toluca,Free transfer,out,Colombia;France;,NA,Ligue 1,2014,2014/2015
+HSC Montpellier,Yassine Jebbour,23,Right-Back,Varese,Loan,out,Morocco;France;,0,Ligue 1,2014,2014/2015
+HSC Montpellier,Garry Bocaly,26,Right-Back,AC Arles,Free transfer,out,France;Martinique;,NA,Ligue 1,2014,2014/2015
+HSC Montpellier,Jean Deza,21,Left Winger,Alianza Lima,Loan,out,Peru;,0,Ligue 1,2014,2014/2015
+HSC Montpellier,Teddy Mézague,24,Centre-Back,Mouscron,Free transfer,out,France;Cameroon;,NA,Ligue 1,2014,2014/2015
+HSC Montpellier,Jérôme Roussillon,22,Left-Back,FC Sochaux,Loan,out,France;Guadeloupe;,0,Ligue 1,2014,2014/2015
+HSC Montpellier,Emanuel Herrera,27,Centre-Forward,CS Emelec,Free transfer,out,Argentina;,NA,Ligue 1,2014,2014/2015
+HSC Montpellier,Jonathan Tinhan,25,Centre-Forward,FC Istres,Free transfer,out,Benin;France;,NA,Ligue 1,2014,2014/2015
+HSC Montpellier,Jeffrey Assoumin,21,Right-Back,HSC Montpellier B,-,out,France;Cameroon;,0,Ligue 1,2014,2014/2015
+HSC Montpellier,Jean Deza,21,Left Winger,USM Porres,"End of loanJun 30, 2014",out,Peru;,0,Ligue 1,2014,2014/2015
+HSC Montpellier,M'Baye Niang,19,Centre-Forward,AC Milan,"End of loanJun 30, 2014",out,Senegal;France;,0,Ligue 1,2014,2014/2015
+FC Nantes,Itay Shechter,27,Centre-Forward,Hapoel Tel Aviv,£378k,in,Israel;Romania;,0.378,Ligue 1,2014,2014/2015
+FC Nantes,Johan Audel,30,Left Winger,VfB Stuttgart,Free transfer,in,Martinique;France;,NA,Ligue 1,2014,2014/2015
+FC Nantes,Yacine Bammou,22,Centre-Forward,FC Nantes B,-,in,Morocco;France;,0,Ligue 1,2014,2014/2015
+FC Nantes,Abdoulaye Touré,20,Defensive Midfield,FC Nantes B,-,in,France;Guinea;,0,Ligue 1,2014,2014/2015
+FC Nantes,Anthony Walongwa,21,Centre-Back,FC Nantes B,-,in,DR Congo;France;,0,Ligue 1,2014,2014/2015
+FC Nantes,Léo Dubois,19,Right-Back,FC Nantes B,-,in,France;,0,Ligue 1,2014,2014/2015
+FC Nantes,Valentin Rongier,19,Central Midfield,FC Nantes B,-,in,France;,0,Ligue 1,2014,2014/2015
+FC Nantes,Aristote N'Dongala,20,Left Winger,FC Nantes B,-,in,DR Congo;France;,0,Ligue 1,2014,2014/2015
+FC Nantes,Nassim Badri,20,Goalkeeper,FC Nantes B,-,in,France;Algeria;,0,Ligue 1,2014,2014/2015
+FC Nantes,Kian Hansen,25,Centre-Back,Esbjerg fB,"End of loanJun 30, 2014",in,Denmark;,0,Ligue 1,2014,2014/2015
+FC Nantes,Fernando Aristeguieta,22,Centre-Forward,Philadelphia,Loan,out,Venezuela;Spain;,0,Ligue 1,2014,2014/2015
+FC Nantes,Itay Shechter,27,Centre-Forward,Maccabi Haifa,Free transfer,out,Israel;Romania;,NA,Ligue 1,2014,2014/2015
+FC Nantes,Adrien Trebel,23,Central Midfield,Standard Liège,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+FC Nantes,Birama Touré,22,Defensive Midfield,Stade Brest 29,Loan,out,Mali;,0,Ligue 1,2014,2014/2015
+FC Nantes,Abdoulaye Touré,20,Defensive Midfield,Poiré-sur-Vie,Loan,out,France;Guinea;,0,Ligue 1,2014,2014/2015
+FC Nantes,Filip Djordjevic,26,Centre-Forward,Lazio,Free transfer,out,Serbia;,NA,Ligue 1,2014,2014/2015
+FC Nantes,Fabrice Pancrate,34,Right Winger,Retired,-,out,France;Martinique;,0,Ligue 1,2014,2014/2015
+FC Nantes,Saad Trabelsi,22,Attacking Midfield,FC Nantes B,-,out,Tunisia;France;,0,Ligue 1,2014,2014/2015
+FC Nantes,Johan Audel,30,Left Winger,VfB Stuttgart,"End of loanJun 30, 2014",out,Martinique;France;,0,Ligue 1,2014,2014/2015
+FC Nantes,Itay Shechter,27,Centre-Forward,Hapoel Tel Aviv,"End of loanJun 30, 2014",out,Israel;Romania;,0,Ligue 1,2014,2014/2015
+FC Nantes,Banel Nicolita,29,Right Winger,Saint-Étienne,"End of loanJun 30, 2014",out,Romania;,0,Ligue 1,2014,2014/2015
+OGC Nice,Niklas Hult,24,Left-Back,Elfsborg,£720k,in,Sweden;,0.72,Ligue 1,2014,2014/2015
+OGC Nice,Alassane Plea,21,Centre-Forward,Olympique Lyon,£450k,in,France;Mali;,0.45,Ligue 1,2014,2014/2015
+OGC Nice,Simon Pouplin,29,Goalkeeper,FC Sochaux,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+OGC Nice,Souleymane Diawara,35,Centre-Back,Marseille,Free transfer,in,Senegal;France;,NA,Ligue 1,2014,2014/2015
+OGC Nice,Julien Vercauteren,21,Attacking Midfield,Lierse SK,?,in,Belgium;,NA,Ligue 1,2014,2014/2015
+OGC Nice,Carlos Eduardo,24,Attacking Midfield,FC Porto,Loan,in,Brazil;,0,Ligue 1,2014,2014/2015
+OGC Nice,Lucas Rougeaux,20,Centre-Back,OGC Nice B,-,in,France;,0,Ligue 1,2014,2014/2015
+OGC Nice,Bryan Constant,20,Centre-Forward,OGC Nice B,-,in,France;Guinea;,0,Ligue 1,2014,2014/2015
+OGC Nice,Jordan Amavi,20,Left-Back,OGC Nice B,-,in,France;,0,Ligue 1,2014,2014/2015
+OGC Nice,Abraham Gneki Guié,27,Centre-Forward,Apol. Limassol,"End of loanJun 30, 2014",in,Cote d'Ivoire;,0,Ligue 1,2014,2014/2015
+OGC Nice,Kévin Gomis,25,Centre-Back,Nottm Forest,"End of loanJun 30, 2014",in,France;Senegal;,0,Ligue 1,2014,2014/2015
+OGC Nice,Joris Delle,24,Goalkeeper,Cercle Brugge,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+OGC Nice,David Ospina,25,Goalkeeper,Arsenal,£3.60m,out,Colombia;,3.6,Ligue 1,2014,2014/2015
+OGC Nice,Timothée Kolodziejczak,22,Centre-Back,Sevilla FC,£2.70m,out,France;Poland;,2.7,Ligue 1,2014,2014/2015
+OGC Nice,Abraham Gneki Guié,27,Centre-Forward,Apol. Limassol,£360k,out,Cote d'Ivoire;,0.36,Ligue 1,2014,2014/2015
+OGC Nice,Jordan Astier,22,Centre-Forward,Fréjus-St-Raph.,Loan,out,France;,0,Ligue 1,2014,2014/2015
+OGC Nice,Nemanja Pejcinovic,26,Centre-Back,Loko Moscow,Free transfer,out,Serbia;Russia;,NA,Ligue 1,2014,2014/2015
+OGC Nice,Lucas Rougeaux,20,Centre-Back,Fréjus-St-Raph.,Loan,out,France;,0,Ligue 1,2014,2014/2015
+OGC Nice,Fabrice Abriel,35,Central Midfield,Valenciennes FC,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+OGC Nice,Lucas Veronese,23,Goalkeeper,SC Amiens,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+OGC Nice,Jérémy Pied,25,Right-Back,Guingamp,Loan,out,France;,0,Ligue 1,2014,2014/2015
+OGC Nice,Darío Cvitanich,30,Centre-Forward,CF Pachuca,?,out,Argentina;Croatia;,NA,Ligue 1,2014,2014/2015
+OGC Nice,Stéphane Bahoken,22,Centre-Forward,R. Strasbourg,?,out,Cameroon;France;,NA,Ligue 1,2014,2014/2015
+OGC Nice,Kévin Anin,27,Central Midfield,Retired,-,out,France;Martinique;,0,Ligue 1,2014,2014/2015
+OGC Nice,Luigi Bruins,27,Central Midfield,Without Club,-,out,Netherlands;Italy;,0,Ligue 1,2014,2014/2015
+OGC Nice,Moussa M'Bow,22,Right-Back,OGC Nice B,-,out,Senegal;,0,Ligue 1,2014,2014/2015
+OGC Nice,Christian Brüls,25,Attacking Midfield,KAA Gent,"End of loanJun 30, 2014",out,Belgium;,0,Ligue 1,2014,2014/2015
+Paris Saint-Germain,David Luiz,27,Centre-Back,Chelsea,£44.55m,in,Brazil;Portugal;,44.55,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Serge Aurier,21,Right-Back,Toulouse,Loan,in,Cote d'Ivoire;,0,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Jeremi Kimmakon,20,Right Winger,Paris SG B,-,in,Cote d'Ivoire;France;,0,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Jean-Kévin Augustin,17,Centre-Forward,Paris SG B,-,in,France;Haiti;,0,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Hervin Ongenda,20,Attacking Midfield,SC Bastia,"End of loanJun 30, 2015",in,France;DR Congo;,0,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Clément Chantôme,26,Defensive Midfield,Toulouse,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Alphonse Areola,21,Goalkeeper,Lens,"End of loanJun 30, 2014",in,France;Philippines;,0,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Jean-Christophe Bahebeck,21,Centre-Forward,Valenciennes FC,"End of loanJun 30, 2014",in,France;Cameroon;,0,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Antoine Conte,20,Centre-Back,Reims,"End of loanJun 30, 2014",in,France;Guinea;,0,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Christophe Jallet,30,Right-Back,Olympique Lyon,£1.35m,out,France;,1.35,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Clément Chantôme,27,Defensive Midfield,G. Bordeaux,£630k,out,France;,0.63,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Kingsley Coman,18,Left Winger,Juventus,Free transfer,out,France;Guadeloupe;,NA,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Antoine Conte,20,Centre-Back,Reims,Free transfer,out,France;Guinea;,NA,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Jérémy Ménez,27,Right Winger,AC Milan,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Alex,32,Centre-Back,AC Milan,Free transfer,out,Brazil;,NA,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Alphonse Areola,21,Goalkeeper,SC Bastia,Loan,out,France;Philippines;,0,Ligue 1,2014,2014/2015
+Paris Saint-Germain,Hervin Ongenda,19,Attacking Midfield,SC Bastia,Loan,out,France;DR Congo;,0,Ligue 1,2014,2014/2015
+Stade Reims,Antoine Conte,20,Centre-Back,Paris SG,Free transfer,in,France;Guinea;,NA,Ligue 1,2014,2014/2015
+Stade Reims,Benjamin Moukandjo,25,Centre-Forward,AS Nancy,Free transfer,in,Cameroon;France;,NA,Ligue 1,2014,2014/2015
+Stade Reims,David N'Gog,25,Centre-Forward,Swansea,Free transfer,in,France;Cameroon;,NA,Ligue 1,2014,2014/2015
+Stade Reims,Grégory Bourillon,30,Centre-Back,FC Lorient,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+Stade Reims,Valentin Roberge,27,Centre-Back,Sunderland,Loan,in,France;,0,Ligue 1,2014,2014/2015
+Stade Reims,Chris Mavinga,23,Centre-Back,Rubin Kazan,Loan,in,DR Congo;France;,0,Ligue 1,2014,2014/2015
+Stade Reims,Yann Benedick,22,Right Winger,R. Strasbourg,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+Stade Reims,Alexi Peuget,23,Defensive Midfield,LB Châteauroux,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+Stade Reims,Nicolas Fauvergue,29,Centre-Forward,FC Metz,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+Stade Reims,Jonathan Kodjia,24,Centre-Forward,SM Caen,"End of loanJun 30, 2014",in,Cote d'Ivoire;France;,0,Ligue 1,2014,2014/2015
+Stade Reims,Grzegorz Krychowiak,24,Defensive Midfield,Sevilla FC,£4.95m,out,Poland;,4.95,Ligue 1,2014,2014/2015
+Stade Reims,Gaëtan Courtet,25,Centre-Forward,Stade Brest 29,Loan,out,France;,0,Ligue 1,2014,2014/2015
+Stade Reims,Floyd Ayité,25,Left Winger,SC Bastia,Free transfer,out,Togo;France;,NA,Ligue 1,2014,2014/2015
+Stade Reims,Bilal Ouali,20,Right Winger,RAEC Mons,Free transfer,out,Algeria;France;,NA,Ligue 1,2014,2014/2015
+Stade Reims,Bocundji Ca,28,Defensive Midfield,LB Châteauroux,Free transfer,out,Guinea-Bissau;France;,NA,Ligue 1,2014,2014/2015
+Stade Reims,Jonathan Kodjia,24,Centre-Forward,SCO Angers,Free transfer,out,Cote d'Ivoire;France;,NA,Ligue 1,2014,2014/2015
+Stade Reims,Atila Turan,22,Left-Back,Kasimpasa,Loan,out,Turkey;France;,0,Ligue 1,2014,2014/2015
+Stade Reims,Eliran Atar,27,Left Winger,Maccabi Haifa,Free transfer,out,Israel;,NA,Ligue 1,2014,2014/2015
+Stade Reims,Nicolas Fauvergue,29,Centre-Forward,AC Ajaccio,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+Stade Reims,Florent Ghisolfi,29,Central Midfield,Retired,-,out,France;,0,Ligue 1,2014,2014/2015
+Stade Reims,Antoine Conte,20,Centre-Back,Paris SG,"End of loanJun 30, 2014",out,France;Guinea;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Dimitri Kevin Cavaré,19,Right-Back,Lens,£2.70m,in,Guadeloupe;France;,2.7,Ligue 1,2014,2014/2015
+Stade Rennais FC,Habib Habibou,27,Centre-Forward,KAA Gent,£2.25m,in,Central African Republic;France;,2.25,Ligue 1,2014,2014/2015
+Stade Rennais FC,Mexer,25,Centre-Back,Nacional,£1.97m,in,Mozambique;,1.97,Ligue 1,2014,2014/2015
+Stade Rennais FC,Philipp Hosiner,25,Centre-Forward,Austria Vienna,£1.71m,in,Austria;,1.71,Ligue 1,2014,2014/2015
+Stade Rennais FC,Gelson Fernandes,27,Defensive Midfield,SC Freiburg,£1.44m,in,Switzerland;Cape Verde;,1.44,Ligue 1,2014,2014/2015
+Stade Rennais FC,Fallou Diagne,25,Centre-Back,SC Freiburg,£1.35m,in,Senegal;France;,1.35,Ligue 1,2014,2014/2015
+Stade Rennais FC,Sanjin Prcic,20,Central Midfield,FC Sochaux,£900k,in,Bosnia-Herzegovina;France;,0.9,Ligue 1,2014,2014/2015
+Stade Rennais FC,Ermir Lenjani,25,Left Midfield,FC St. Gallen,£675k,in,Albania;Kosovo;,0.675,Ligue 1,2014,2014/2015
+Stade Rennais FC,Pedro Henrique,24,Left Winger,FC Zürich,£360k,in,Brazil;,0.36,Ligue 1,2014,2014/2015
+Stade Rennais FC,Edvinas Gertmonas,18,Goalkeeper,Atlantas,£270k,in,Lithuania;,0.27,Ligue 1,2014,2014/2015
+Stade Rennais FC,Benjamin André,23,Central Midfield,AC Ajaccio,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+Stade Rennais FC,Olivier Sorin,33,Goalkeeper,AJ Auxerre,Free transfer,in,France;,NA,Ligue 1,2014,2014/2015
+Stade Rennais FC,Gjoko Zajkov,19,Centre-Back,Rabotnicki,?,in,North Macedonia;,NA,Ligue 1,2014,2014/2015
+Stade Rennais FC,Christian Brüls,25,Attacking Midfield,KAA Gent,?,in,Belgium;,NA,Ligue 1,2014,2014/2015
+Stade Rennais FC,Christopher Dilo,20,Goalkeeper,Without Club,-,in,Guadeloupe;France;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Axel Ngando,21,Attacking Midfield,SCO Angers,"End of loanJun 30, 2015",in,France;Cameroon;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Cheick Diarra,22,Centre-Forward,AJ Auxerre,"End of loanFeb 1, 2015",in,Mali;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Dimitri Foulquier,21,Right-Back,Granada CF,"End of loanJun 30, 2014",in,Guadeloupe;France;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Zana Allée,20,Left Winger,AJ Auxerre,"End of loanJun 30, 2014",in,France;Iraq;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Abdoulaye Sané,21,Centre-Forward,Stade Lavallois,"End of loanJun 30, 2014",in,Senegal;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Cheick Diarra,22,Centre-Forward,FC Istres,"End of loanJun 30, 2014",in,Mali;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Sadio Diallo,23,Central Midfield,FC Lorient,"End of loanJun 30, 2014",in,Guinea;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Axel Ngando,20,Attacking Midfield,AJ Auxerre,"End of loanJun 30, 2014",in,France;Cameroon;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Tiemoué Bakayoko,19,Defensive Midfield,Monaco,£7.20m,out,France;Cote d'Ivoire;,7.2,Ligue 1,2014,2014/2015
+Stade Rennais FC,Romain Alessandrini,25,Right Winger,Marseille,£4.50m,out,France;,4.5,Ligue 1,2014,2014/2015
+Stade Rennais FC,Jonathan Pitroipa,28,Right Winger,Al-Jazira,£4.50m,out,Burkina Faso;,4.5,Ligue 1,2014,2014/2015
+Stade Rennais FC,Dimitri Foulquier,21,Right-Back,Granada CF,£2.25m,out,Guadeloupe;France;,2.25,Ligue 1,2014,2014/2015
+Stade Rennais FC,Sadio Diallo,23,Central Midfield,FC Lorient,Loan,out,Guinea;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Jean-Armel Kana-Biyik,25,Centre-Back,Toulouse,Free transfer,out,Cameroon;France;,NA,Ligue 1,2014,2014/2015
+Stade Rennais FC,Adrien Hunou,20,Attacking Midfield,Clermont Foot,Loan,out,France;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Cheick Diarra,22,Centre-Forward,AJ Auxerre,Loan,out,Mali;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Edvinas Gertmonas,18,Goalkeeper,Atlantas,Loan,out,Lithuania;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Wesley Saïd,19,Right Winger,Stade Lavallois,Loan,out,France;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Dimitri Kevin Cavaré,19,Right-Back,Lens,Loan,out,Guadeloupe;France;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Julien Féret,31,Attacking Midfield,SM Caen,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+Stade Rennais FC,John Boye,27,Centre-Back,K. Erciyesspor,Free transfer,out,Ghana;,NA,Ligue 1,2014,2014/2015
+Stade Rennais FC,Cédric Hountondji,20,Centre-Back,LB Châteauroux,Loan,out,Benin;France;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Axel Ngando,21,Attacking Midfield,SCO Angers,Loan,out,France;Cameroon;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Cheick Diarra,22,Centre-Forward,AJ Auxerre,?,out,Mali;,NA,Ligue 1,2014,2014/2015
+Stade Rennais FC,Abdoulaye Sané,21,Centre-Forward,Rennes B,-,out,Senegal;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Cheick N'Diaye,29,Goalkeeper,Without Club,-,out,Senegal;France;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Silvio Romero,25,Centre-Forward,Lanús,"End of loanJun 30, 2014",out,Argentina;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Foued Kadir,30,Attacking Midfield,Marseille,"End of loanJun 30, 2014",out,Algeria;France;,0,Ligue 1,2014,2014/2015
+Stade Rennais FC,Nélson Oliveira,22,Centre-Forward,Benfica,"End of loanJun 30, 2014",out,Portugal;,0,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Yohan Mollo,24,Left Winger,AS Nancy,£3.60m,in,France;,3.6,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Kévin Monnet-Paquet,25,Left Winger,FC Lorient,Free transfer,in,France;Rwanda;,NA,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Kévin Théophile-Catherine,24,Centre-Back,Cardiff,Loan,in,Martinique;France;,0,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Ricky van Wolfswinkel,25,Centre-Forward,Norwich,Loan,in,Netherlands;,0,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Landry N'Guémo,29,Defensive Midfield,Without Club,-,in,Cameroon;France;,0,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Lynel Kitambala,25,Centre-Forward,AJ Auxerre,"End of loanJun 30, 2014",in,France;DR Congo;,0,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Pierre-Yves Polomat,20,Left-Back,LB Châteauroux,"End of loanJun 30, 2014",in,France;Martinique;,0,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Banel Nicolita,29,Right Winger,FC Nantes,"End of loanJun 30, 2014",in,Romania;,0,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Kévin Mayi,21,Centre-Forward,FC Niort,"End of loanJun 30, 2014",in,France;Gabon;,0,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Danijel Aleksic,23,Attacking Midfield,Lechia Gdansk,Free transfer,out,Serbia;,NA,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Brandão,34,Centre-Forward,SC Bastia,Free transfer,out,Brazil;France;,NA,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Pierre-Yves Polomat,20,Left-Back,Stade Lavallois,Loan,out,France;Martinique;,0,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Lynel Kitambala,25,Centre-Forward,RSC Charleroi,Free transfer,out,France;DR Congo;,NA,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Kévin Mayi,21,Centre-Forward,G. Ajaccio,Free transfer,out,France;Gabon;,NA,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Jean-Pascal Mignot,33,Centre-Back,FC Sochaux,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Banel Nicolita,29,Right Winger,Without Club,-,out,Romania;,0,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Benoît Trémoulinas,28,Left-Back,Dynamo Kyiv,"End of loanJun 30, 2014",out,France;,0,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Yohan Mollo,24,Left Winger,AS Nancy,"End of loanJun 30, 2014",out,France;,0,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Josuha Guilavogui,23,Defensive Midfield,Atlético Madrid,"End of loanJun 30, 2014",out,France;Guinea;,0,Ligue 1,2014,2014/2015
+AS Saint-Étienne,Kurt Zouma,19,Centre-Back,Chelsea,"End of loanJun 30, 2014",out,France;Central African Republic;,0,Ligue 1,2014,2014/2015
+FC Toulouse,Tongo Doumbia,25,Defensive Midfield,Wolves,£1.08m,in,Mali;France;,1.08,Ligue 1,2014,2014/2015
+FC Toulouse,Dragos Grigore,27,Centre-Back,Dinamo Bukarest,£900k,in,Romania;,0.9,Ligue 1,2014,2014/2015
+FC Toulouse,Aleksandar Pesic,22,Centre-Forward,Jagodina,£720k,in,Serbia;,0.72,Ligue 1,2014,2014/2015
+FC Toulouse,Jean-Armel Kana-Biyik,25,Centre-Back,Stade Rennais,Free transfer,in,Cameroon;France;,NA,Ligue 1,2014,2014/2015
+FC Toulouse,Maxime Spano,19,Centre-Back,ES Pennoise,Free transfer,in,Algeria;France;,NA,Ligue 1,2014,2014/2015
+FC Toulouse,Marcel Tisserand,21,Centre-Back,Monaco,Loan,in,DR Congo;France;,0,Ligue 1,2014,2014/2015
+FC Toulouse,William Matheus,24,Left-Back,Palmeiras,?,in,Brazil;,NA,Ligue 1,2014,2014/2015
+FC Toulouse,Lionel Mpasi-Nzau,19,Goalkeeper,Toulouse B,-,in,France;Congo;,0,Ligue 1,2014,2014/2015
+FC Toulouse,Alexis Blin,18,Defensive Midfield,Toulouse B,-,in,France;,0,Ligue 1,2014,2014/2015
+FC Toulouse,Florian David,21,Attacking Midfield,Toulouse B,-,in,Guadeloupe;France;,0,Ligue 1,2014,2014/2015
+FC Toulouse,Aymen Abdennour,24,Centre-Back,Monaco,"End of loanJun 30, 2014",in,Tunisia;,0,Ligue 1,2014,2014/2015
+FC Toulouse,Aymen Abdennour,24,Centre-Back,Monaco,£11.70m,out,Tunisia;,11.7,Ligue 1,2014,2014/2015
+FC Toulouse,Eden Ben Basat,27,Centre-Forward,M. Tel Aviv,£630k,out,Israel;,0.63,Ligue 1,2014,2014/2015
+FC Toulouse,Gaël Vena,21,Centre-Back,SC Amiens,Free transfer,out,France;Cameroon;,NA,Ligue 1,2014,2014/2015
+FC Toulouse,Olivier Blondel,35,Goalkeeper,FC Istres,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+FC Toulouse,Dominik Furman,22,Central Midfield,Legia Warszawa,Loan,out,Poland;,0,Ligue 1,2014,2014/2015
+FC Toulouse,Serge Aurier,21,Right-Back,Paris SG,Loan,out,Cote d'Ivoire;,0,Ligue 1,2014,2014/2015
+FC Toulouse,Mickaël Firmin,23,Centre-Back,Without Club,-,out,France;,0,Ligue 1,2014,2014/2015
+FC Toulouse,Jonathan Zebina,35,Centre-Back,Without Club,-,out,France;Martinique;,0,Ligue 1,2014,2014/2015
+FC Toulouse,Clément Chantôme,26,Defensive Midfield,Paris SG,"End of loanJun 30, 2014",out,France;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Sofiane Boufal,21,Left Winger,SCO Angers,£2.70m,in,Morocco;France;,2.7,Ligue 1,2014,2014/2015
+LOSC Lille,Michael Frey,20,Centre-Forward,BSC Young Boys,£2.70m,in,Switzerland;,2.7,Ligue 1,2014,2014/2015
+LOSC Lille,Sébastien Corchia,23,Right-Back,FC Sochaux,£1.62m,in,France;Italy;,1.62,Ligue 1,2014,2014/2015
+LOSC Lille,Rony Lopes,18,Right Winger,Man City,Loan,in,Portugal;Brazil;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Divock Origi,19,Centre-Forward,Liverpool,Loan,in,Belgium;Kenya;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Youssouf Koné,19,Left-Back,LOSC Lille B,-,in,Mali;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Adama Traoré,19,Central Midfield,LOSC Lille B,-,in,Mali;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Kevin Koubemba,21,Right Winger,LOSC Lille B,-,in,Congo;France;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Abdoulay Diaby,23,Right Winger,Mouscron,"End of loanFeb 2, 2015",in,Mali;France;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Alexandre Oukidja,25,Goalkeeper,Mouscron,"End of loanJun 30, 2014",in,Algeria;France;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Abdoulay Diaby,23,Right Winger,Mouscron,"End of loanJun 30, 2014",in,Mali;France;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Julian Michel,22,Central Midfield,Mouscron,"End of loanJun 30, 2014",in,France;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Gianni Bruno,22,Centre-Forward,SC Bastia,"End of loanJun 30, 2014",in,Belgium;Italy;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Divock Origi,19,Centre-Forward,Liverpool,£11.37m,out,Belgium;Kenya;,11.37,Ligue 1,2014,2014/2015
+LOSC Lille,Pape Souaré,24,Left-Back,Crystal Palace,£4.77m,out,Senegal;,4.77,Ligue 1,2014,2014/2015
+LOSC Lille,Salomon Kalou,29,Left Winger,Hertha BSC,£1.62m,out,Cote d'Ivoire;,1.62,Ligue 1,2014,2014/2015
+LOSC Lille,John Jairo Ruiz,20,Left Winger,KV Oostende,Loan,out,Costa Rica;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Barel Mouko,35,Goalkeeper,Unknown,Free transfer,out,Congo;France;,NA,Ligue 1,2014,2014/2015
+LOSC Lille,Gianni Bruno,22,Centre-Forward,Thonon Évian,Free transfer,out,Belgium;Italy;,NA,Ligue 1,2014,2014/2015
+LOSC Lille,Ronny Rodelin,25,Right Winger,Mouscron,Loan,out,France;Réunion;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Abdoulay Diaby,23,Right Winger,Mouscron,Loan,out,Mali;France;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Julian Jeanvier,22,Centre-Back,Mouscron,Loan,out,Guinea;France;,0,Ligue 1,2014,2014/2015
+LOSC Lille,Julian Michel,22,Central Midfield,Mouscron,Free transfer,out,France;,NA,Ligue 1,2014,2014/2015
+LOSC Lille,Alexandre Oukidja,26,Goalkeeper,R. Strasbourg,Free transfer,out,Algeria;France;,NA,Ligue 1,2014,2014/2015

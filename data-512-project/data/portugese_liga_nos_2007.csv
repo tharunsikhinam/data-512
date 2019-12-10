@@ -1,0 +1,856 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,nat,fee_cleaned,league_name,year,season
+Vitória Guimarães SC,Sinisa Radanovic,27,Centre-Back,Hajduk Kula,£198k,in,Serbia;,0.198,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Roberto,29,Centre-Forward,Varzim,£153k,in,Brazil;Portugal;,0.153,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Marco Aurélio,21,Left Winger,JMalucelli,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,João Alves,26,Central Midfield,Sporting CP,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Carlitos,30,Right Winger,Belenenses SAD,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Miljan Mrdakovic,25,Centre-Forward,M. Tel Aviv,Free transfer,in,Serbia;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Márcio Martins,27,Centre-Back,GE Juventus-SC,Free transfer,in,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Fajardo,28,Attacking Midfield,Naval,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Alan,27,Right Winger,FC Porto,Loan,in,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Andrézinho,25,Right-Back,Vila Nova FC,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Rabiola,18,Centre-Forward,FC Porto,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Luciano Amaral,24,Left-Back,Villa Rio,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Felipe Tigrão,27,Centre-Forward,Tupi FC,?,in,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Paulo Henrique,20,Defensive Midfield,JMalucelli,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Tiago Ronaldo,17,Defensive Midfield,Guimarães U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Vítor Pinto,21,Left-Back,Maria da Fonte,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Pelé,19,Central Midfield,Inter,£1.80m,out,Portugal;,1.8,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Rabiola,17,Centre-Forward,FC Porto,£585k,out,Portugal;,0.585,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Paulo Adriano,30,Defensive Midfield,ACS SR Brasov,£360k,out,Portugal;,0.36,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Tiago Targino,21,Right Winger,Manisaspor,Loan fee:£225k,out,Portugal;Brazil;,0.225,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Rissutt,30,Right-Back,Boavista,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Bacari,23,Centre-Forward,AC Vila Meã,Free transfer,out,Guinea-Bissau;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Vítor Moreno,26,Right-Back,Estrela Amadora,Free transfer,out,Cape Verde;Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Hélder Cabral,23,Left-Back,Estrela Amadora,Free transfer,out,Portugal;Cape Verde;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Amadou Dembelé,28,Defensive Midfield,Villemomble Sports,Free transfer,out,France;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Henrique,27,Centre-Forward,Santa Clara,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Cristiano Brasília,29,Centre-Forward,Daejeon Citizen,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Vinícius,20,Centre-Back,Itaperuna-RJ,?,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Pedro Franco,33,Centre-Back,Without Club,-,out,Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Rabiola,18,Centre-Forward,FC Porto,"End of loanDec 31, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Oumar Tchomogo,29,Attacking Midfield,Without Club,-,out,Benin;,0,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Otacílio,34,Defensive Midfield,Retired,-,out,Brazil;,0,Liga Nos,2007,2007/2008
+Vitória Guimarães SC,Anderson Costa,23,Centre-Forward,Dinamo Zagreb,"End of loanJun 30, 2007",out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Ernesto Farías,27,Centre-Forward,River Plate,£3.60m,in,Argentina;Italy;,3.6,Liga Nos,2007,2007/2008
+FC Porto,Milan Stepanov,24,Centre-Back,Trabzonspor,£3.15m,in,Serbia;,3.15,Liga Nos,2007,2007/2008
+FC Porto,Mario Bolatti,22,Defensive Midfield,Belgrano,£1.80m,in,Argentina;Italy;,1.8,Liga Nos,2007,2007/2008
+FC Porto,Edgar Silva,20,Centre-Forward,Beira-Mar,£1.80m,in,Brazil;,1.8,Liga Nos,2007,2007/2008
+FC Porto,Leandro Lima,21,Attacking Midfield,São Caetano,£1.35m,in,Brazil;,1.35,Liga Nos,2007,2007/2008
+FC Porto,Przemyslaw Kazmierczak,25,Defensive Midfield,Pogon Szczecin,£1.26m,in,Poland;,1.26,Liga Nos,2007,2007/2008
+FC Porto,Mariano González,26,Right Midfield,US Palermo,Loan fee:£1.08m,in,Argentina;Italy;,1.08,Liga Nos,2007,2007/2008
+FC Porto,Luis Aguiar,21,Central Midfield,Liverpool FC,£810k,in,Uruguay;Italy;,0.81,Liga Nos,2007,2007/2008
+FC Porto,Fernando,19,Defensive Midfield,Vila Nova FC,£648k,in,Brazil;Portugal;,0.648,Liga Nos,2007,2007/2008
+FC Porto,Rabiola,17,Centre-Forward,Vit. Guimarães,£585k,in,Portugal;,0.585,Liga Nos,2007,2007/2008
+FC Porto,Jorge Fucile,22,Right-Back,Liverpool FC,£360k,in,Uruguay;Italy;,0.36,Liga Nos,2007,2007/2008
+FC Porto,Lino,30,Left-Back,Coimbra,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+FC Porto,Nuno Espírito Santo,33,Goalkeeper,Desportivo Aves,Free transfer,in,Portugal;Sao Tome and Principe;,NA,Liga Nos,2007,2007/2008
+FC Porto,Edson Henrique,20,Centre-Back,Figueirense FC,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+FC Porto,Rui Pedro,18,Attacking Midfield,FC Porto U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Ukra,19,Right Winger,FC Porto U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Paulo Ribeiro,23,Goalkeeper,Olhanense,"End of loanAug 1, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Zequinha,20,Left Winger,Penafiel,"End of loanDec 1, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Luis Aguiar,22,Central Midfield,Estrela Amadora,"End of loanDec 31, 2007",in,Uruguay;Italy;,0,Liga Nos,2007,2007/2008
+FC Porto,Hugo Ventura,19,Goalkeeper,FC Porto U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Luis Aguiar,22,Central Midfield,Coimbra,"End of loanMay 1, 2008",in,Uruguay;Italy;,0,Liga Nos,2007,2007/2008
+FC Porto,Jorge Monteiro,18,Right Winger,FC Porto U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Hélder Barbosa,20,Left Winger,Coimbra,"End of loanDec 31, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Daniel Candeias,19,Right Winger,FC Porto U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,André Castro,19,Central Midfield,FC Porto U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Lucas Mareque,24,Left-Back,Independiente,"End of loanDec 31, 2007",in,Argentina;Italy;,0,Liga Nos,2007,2007/2008
+FC Porto,Rabiola,18,Centre-Forward,Vit. Guimarães,"End of loanDec 31, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Zequinha,20,Left Winger,GD Tourizense,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,César Peixoto,27,Central Midfield,Espanyol,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Diogo Valente,22,Left Winger,Marítimo,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Areias,30,Left-Back,Celta de Vigo,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Ivanildo,21,Right Winger,Leiria,"End of loanJun 30, 2007",in,Guinea-Bissau;Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Steven Vitória,20,Centre-Back,GD Tourizense,"End of loanJun 30, 2007",in,Canada;Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Fatih Sonkaya,25,Right-Back,Coimbra,"End of loanJun 30, 2007",in,Turkey;Netherlands;,0,Liga Nos,2007,2007/2008
+FC Porto,Leandro Bonfim,23,Attacking Midfield,Nacional,"End of loanJun 30, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+FC Porto,Ezequias,26,Left-Back,Beira-Mar,"End of loanJun 30, 2007",in,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Tarik Sektioui,30,Right Winger,RKC Waalwijk,"End of loanJun 30, 2007",in,Morocco;Netherlands;,0,Liga Nos,2007,2007/2008
+FC Porto,Maciel,28,Right Winger,Braga,"End of loanJun 30, 2007",in,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Nuno André Coelho,21,Centre-Back,Standard Liège,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Hugo Almeida,23,Centre-Forward,Werder Bremen,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,João Pedro,19,Centre-Back,Portimonense,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Cláudio Pitbull,25,Centre-Forward,Coimbra,"End of loanJun 1, 2007",in,Brazil;Italy;,0,Liga Nos,2007,2007/2008
+FC Porto,Paulo Machado,21,Central Midfield,Leiria,"End of loanJun 1, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Bruno Gama,19,Right Winger,Braga,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Bruno Vale,24,Goalkeeper,Leiria,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Anderson,19,Central Midfield,Man Utd,£28.35m,out,Brazil;,28.35,Liga Nos,2007,2007/2008
+FC Porto,Pepe,24,Centre-Back,Real Madrid,£27.00m,out,Portugal;Brazil;,27,Liga Nos,2007,2007/2008
+FC Porto,Ricardo Costa,26,Centre-Back,VfL Wolfsburg,£3.60m,out,Portugal;,3.6,Liga Nos,2007,2007/2008
+FC Porto,Hugo Almeida,23,Centre-Forward,Werder Bremen,£3.15m,out,Portugal;,3.15,Liga Nos,2007,2007/2008
+FC Porto,Lucas Mareque,24,Left-Back,Independiente,£1.26m,out,Argentina;Italy;,1.26,Liga Nos,2007,2007/2008
+FC Porto,Ibson,23,Central Midfield,Flamengo,Loan fee:£630k,out,Brazil;,0.63,Liga Nos,2007,2007/2008
+FC Porto,Hélder Postiga,25,Centre-Forward,Panathinaikos,Loan fee:£225k,out,Portugal;,0.225,Liga Nos,2007,2007/2008
+FC Porto,Fernando,20,Defensive Midfield,Estrela Amadora,Loan,out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Zequinha,20,Left Winger,Gondomar,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Rabiola,18,Centre-Forward,Vit. Guimarães,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Zequinha,20,Left Winger,Penafiel,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Bruno Vale,24,Goalkeeper,Varzim,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Jorge Monteiro,18,Right Winger,GD Ribeirão,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Vieirinha,21,Right Winger,Leixões,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Paulo Machado,21,Central Midfield,Leixões,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Nuno André Coelho,21,Centre-Back,Portimonense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Daniel Candeias,19,Right Winger,Varzim,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,César Peixoto,27,Central Midfield,Braga,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+FC Porto,Areias,30,Left-Back,Belenenses SAD,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Alan,27,Right Winger,Vit. Guimarães,Loan,out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Ukra,19,Right Winger,Varzim,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Rui Pedro,19,Attacking Midfield,Estrela Amadora,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,João Pedro,19,Centre-Back,Penafiel,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Tomislav Sokota,30,Centre-Forward,Dinamo Zagreb,Free transfer,out,Croatia;,NA,Liga Nos,2007,2007/2008
+FC Porto,Leandro Bonfim,23,Attacking Midfield,Vasco da Gama,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+FC Porto,Diogo Valente,22,Left Winger,Leixões,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Maciel,28,Right Winger,Leiria,Free transfer,out,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+FC Porto,Paulo Ribeiro,23,Goalkeeper,Olhanense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Luis Aguiar,22,Central Midfield,Coimbra,Loan,out,Uruguay;Italy;,0,Liga Nos,2007,2007/2008
+FC Porto,Fatih Sonkaya,26,Right-Back,Roda JC,Loan,out,Turkey;Netherlands;,0,Liga Nos,2007,2007/2008
+FC Porto,Bruno Gama,19,Right Winger,Vitória Setúbal,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Edgar Silva,20,Centre-Forward,Coimbra,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+FC Porto,Lucas Mareque,24,Left-Back,Independiente,Loan,out,Argentina;Italy;,0,Liga Nos,2007,2007/2008
+FC Porto,Edson Henrique,20,Centre-Back,Belenenses SAD,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+FC Porto,Steven Vitória,20,Centre-Back,Olhanense,Loan,out,Canada;Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Cláudio Pitbull,25,Centre-Forward,Vitória Setúbal,Loan,out,Brazil;Italy;,0,Liga Nos,2007,2007/2008
+FC Porto,Luis Aguiar,21,Central Midfield,Estrela Amadora,Loan,out,Uruguay;Italy;,0,Liga Nos,2007,2007/2008
+FC Porto,Ivanildo,21,Right Winger,Coimbra,Loan,out,Guinea-Bissau;Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Wason Rentería,21,Centre-Forward,R. Strasbourg,Loan,out,Colombia;,0,Liga Nos,2007,2007/2008
+FC Porto,Jorginho,30,Attacking Midfield,Braga,?,out,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+FC Porto,Ezequias,26,Left-Back,Leixões,Loan,out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Vítor Baía,37,Goalkeeper,Retired,-,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Porto,Jorge Fucile,22,Right-Back,Liverpool FC,"End of loanJun 30, 2007",out,Uruguay;Italy;,0,Liga Nos,2007,2007/2008
+Sporting CP,Milan Purovic,22,Centre-Forward,Red Star,£1.93m,in,Montenegro;Serbia;,1.93,Liga Nos,2007,2007/2008
+Sporting CP,Celsinho,18,Attacking Midfield,Loko Moscow,£1.80m,in,Brazil;,1.8,Liga Nos,2007,2007/2008
+Sporting CP,Vladimir Stojkovic,23,Goalkeeper,FC Nantes,£1.80m,in,Serbia;,1.8,Liga Nos,2007,2007/2008
+Sporting CP,Simon Vukcevic,21,Right Winger,Saturn,£1.80m,in,Montenegro;,1.8,Liga Nos,2007,2007/2008
+Sporting CP,Leandro Romagnoli,26,Attacking Midfield,Tiburones Rojos,£1.35m,in,Argentina;Italy;,1.35,Liga Nos,2007,2007/2008
+Sporting CP,Gladstone,22,Centre-Back,Cruzeiro,Loan fee:£225k,in,Brazil;Italy;,0.225,Liga Nos,2007,2007/2008
+Sporting CP,Marat Izmailov,24,Central Midfield,Loko Moscow,Loan fee:£225k,in,Russia;,0.225,Liga Nos,2007,2007/2008
+Sporting CP,Pedro Silva,26,Right-Back,Corinthians,£180k,in,Brazil;,0.18,Liga Nos,2007,2007/2008
+Sporting CP,Marián Had,24,Centre-Back,Loko Moscow,Loan fee:£90k,in,Slovakia;,0.09,Liga Nos,2007,2007/2008
+Sporting CP,Derlei,31,Centre-Forward,Dinamo Moscow,Free transfer,in,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+Sporting CP,Leandro Grimi,22,Left-Back,AC Milan,Loan,in,Argentina;Italy;,0,Liga Nos,2007,2007/2008
+Sporting CP,Luis Páez,17,Centre-Forward,Tacuary FBC,?,in,Paraguay;Spain;,NA,Liga Nos,2007,2007/2008
+Sporting CP,Rodrigo Tiuí,22,Centre-Forward,Rentistas,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+Sporting CP,Tiago Pinto,19,Left-Back,Sporting U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Yannick Pupo,19,Attacking Midfield,Juventude,"End of loanFeb 1, 2008",in,Brazil;,0,Liga Nos,2007,2007/2008
+Sporting CP,Fábio Paim,19,Right Midfield,Trofense,"End of loanDec 1, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Yannick Pupo,19,Attacking Midfield,Sporting U19,-,in,Brazil;,0,Liga Nos,2007,2007/2008
+Sporting CP,Adrien Silva,18,Central Midfield,Sporting U19,-,in,Portugal;France;,0,Liga Nos,2007,2007/2008
+Sporting CP,Daniel Carriço,19,Centre-Back,Olhanense,"End of loanDec 31, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,André Marques,20,Left-Back,Leiria,"End of loanDec 1, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Alison Almeida,19,Centre-Forward,Sporting U19,-,in,Brazil;,0,Liga Nos,2007,2007/2008
+Sporting CP,Luis Páez,18,Centre-Forward,Sporting U19,-,in,Paraguay;Spain;,0,Liga Nos,2007,2007/2008
+Sporting CP,Fábio Paim,19,Right Midfield,Sporting U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,João Martins,19,Attacking Midfield,Olhanense,"End of loanDec 1, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Celestino,20,Defensive Midfield,Estoril,"End of loanDec 1, 2007",in,Portugal;Cape Verde;,0,Liga Nos,2007,2007/2008
+Sporting CP,Daniel Carriço,18,Centre-Back,Sporting U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Paulo Sérgio,23,Attacking Midfield,Desportivo Aves,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Zezinando,20,Attacking Midfield,Estoril,"End of loanJun 30, 2007",in,Portugal;Guinea-Bissau;,0,Liga Nos,2007,2007/2008
+Sporting CP,Tomané,20,Centre-Forward,Barreirense,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Carlos Saleiro,21,Centre-Forward,Olivais,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Paulo Renato,20,Centre-Back,Real SC,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Emídio Rafael,21,Left-Back,Real SC,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Wender,32,Left Winger,Braga,"End of loanJun 30, 2007",in,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Luís Loureiro,30,Defensive Midfield,Estrela Amadora,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Marcelo Labarthe,22,Defensive Midfield,Vitória Setúbal,"End of loanJun 30, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+Sporting CP,Celestino,20,Defensive Midfield,Olivais,"End of loanJun 30, 2007",in,Portugal;Cape Verde;,0,Liga Nos,2007,2007/2008
+Sporting CP,Mário Felgueiras,20,Goalkeeper,Espinho,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Douala,28,Left Winger,Portsmouth,"End of loanJun 30, 2007",in,Cameroon;Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Silvestre Varela,22,Left Winger,Vitória Setúbal,"End of loanJun 30, 2007",in,Portugal;Cape Verde;,0,Liga Nos,2007,2007/2008
+Sporting CP,André Marques,19,Left-Back,Olivais,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Nani,20,Left Winger,Man Utd,£22.95m,out,Portugal;Cape Verde;,22.95,Liga Nos,2007,2007/2008
+Sporting CP,Ricardo,31,Goalkeeper,Real Betis,£3.60m,out,Portugal;,3.6,Liga Nos,2007,2007/2008
+Sporting CP,Carlos Martins,25,Attacking Midfield,Recr. Huelva,£1.98m,out,Portugal;,1.98,Liga Nos,2007,2007/2008
+Sporting CP,Custódio,24,Defensive Midfield,Dinamo Moscow,£1.35m,out,Portugal;,1.35,Liga Nos,2007,2007/2008
+Sporting CP,Silvestre Varela,22,Left Winger,Recr. Huelva,Loan,out,Portugal;Cape Verde;,0,Liga Nos,2007,2007/2008
+Sporting CP,Mário Felgueiras,20,Goalkeeper,Portimonense,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Sporting CP,Celestino,20,Defensive Midfield,Estrela Amadora,Loan,out,Portugal;Cape Verde;,0,Liga Nos,2007,2007/2008
+Sporting CP,Marcelo Labarthe,22,Defensive Midfield,Grêmio,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+Sporting CP,Tiago Pinto,19,Left-Back,Olivais,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Luís Loureiro,30,Defensive Midfield,Anorthosis,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Sporting CP,Celestino,20,Defensive Midfield,Estoril,Loan,out,Portugal;Cape Verde;,0,Liga Nos,2007,2007/2008
+Sporting CP,Carlos Paredes,31,Defensive Midfield,Olimpia,Free transfer,out,Paraguay;,NA,Liga Nos,2007,2007/2008
+Sporting CP,Rodrigo Tello,27,Left Midfield,Besiktas,Free transfer,out,Chile;,NA,Liga Nos,2007,2007/2008
+Sporting CP,Tomané,20,Centre-Forward,Villarreal CF B,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Sporting CP,Miguel Garcia,24,Right-Back,Reggina,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Sporting CP,João Alves,26,Central Midfield,Vit. Guimarães,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Sporting CP,Douala,28,Left Winger,Saint-Étienne,Free transfer,out,Cameroon;Portugal;,NA,Liga Nos,2007,2007/2008
+Sporting CP,Emídio Rafael,21,Left-Back,Portimonense,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Sporting CP,Fábio Paim,19,Right Midfield,Trofense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Zezinando,20,Attacking Midfield,Atlético CP,Loan,out,Portugal;Guinea-Bissau;,0,Liga Nos,2007,2007/2008
+Sporting CP,Carlos Saleiro,21,Centre-Forward,Fátima,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,João Martins,19,Attacking Midfield,Olivais,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Yannick Pupo,19,Attacking Midfield,Juventude,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+Sporting CP,Daniel Carriço,18,Centre-Back,Olhanense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,André Marques,20,Left-Back,Freamunde,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Tiago Felipe Dos Santos,20,Centre-Back,FC Lugano,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Sporting CP,André Marques,20,Left-Back,Leiria,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Paulo Sérgio,23,Attacking Midfield,Portimonense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Daniel Carriço,19,Centre-Back,AEL Limassol,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Alison Almeida,19,Centre-Forward,Olivais,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+Sporting CP,Fábio Paim,19,Right Midfield,Paços Ferreira,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Sporting CP,Yannick Pupo,19,Attacking Midfield,Palmeiras,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+Sporting CP,Wender,32,Left Winger,Braga,?,out,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+Sporting CP,Marián Had,25,Centre-Back,Loko Moscow,"End of loanDec 1, 2007",out,Slovakia;,0,Liga Nos,2007,2007/2008
+Sporting CP,Leandro Romagnoli,26,Attacking Midfield,Tiburones Rojos,"End of loanJun 30, 2007",out,Argentina;Italy;,0,Liga Nos,2007,2007/2008
+Sporting CP,Alecsandro,26,Centre-Forward,Cruzeiro,"End of loanJun 30, 2007",out,Brazil;,0,Liga Nos,2007,2007/2008
+Sporting CP,Carlos Bueno,27,Centre-Forward,Paris SG,"End of loanJun 30, 2007",out,Uruguay;,0,Liga Nos,2007,2007/2008
+Sporting CP,Marco Caneira,28,Centre-Back,Valencia,"End of loanJun 30, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Óscar Cardozo,24,Centre-Forward,Newell's,£10.50m,in,Paraguay;Portugal;,10.5,Liga Nos,2007,2007/2008
+SL Benfica,Ángel Di María,19,Right Winger,CA Rosario,£7.20m,in,Argentina;Italy;,7.2,Liga Nos,2007,2007/2008
+SL Benfica,Maxi Pereira,23,Right-Back,Defensor,£5.13m,in,Uruguay;,5.13,Liga Nos,2007,2007/2008
+SL Benfica,Ariza Makukula,26,Centre-Forward,Sevilla FC,£3.15m,in,Portugal;DR Congo;,3.15,Liga Nos,2007,2007/2008
+SL Benfica,Gonzalo Bergessio,22,Centre-Forward,Racing Club,£2.25m,in,Argentina;,2.25,Liga Nos,2007,2007/2008
+SL Benfica,Edcarlos,22,Centre-Back,São Paulo,£1.62m,in,Brazil;,1.62,Liga Nos,2007,2007/2008
+SL Benfica,Freddy Adu,18,Attacking Midfield,Salt Lake,£1.35m,in,United States;Ghana;,1.35,Liga Nos,2007,2007/2008
+SL Benfica,Laszlo Sepsi,20,Left-Back,Gloria Bistrita,£1.35m,in,Romania;,1.35,Liga Nos,2007,2007/2008
+SL Benfica,Fábio Coentrão,19,Left-Back,Rio Ave FC,£810k,in,Portugal;,0.81,Liga Nos,2007,2007/2008
+SL Benfica,Andrés Díaz,24,Right Midfield,CA Rosario,£450k,in,Argentina;,0.45,Liga Nos,2007,2007/2008
+SL Benfica,Luís Filipe,28,Right-Back,Braga,£450k,in,Portugal;,0.45,Liga Nos,2007,2007/2008
+SL Benfica,David Luiz,20,Centre-Back,EC Vitória,£450k,in,Brazil;Portugal;,0.45,Liga Nos,2007,2007/2008
+SL Benfica,Rafik Halliche,21,Centre-Back,NA Hussein Dey,£270k,in,Algeria;,0.27,Liga Nos,2007,2007/2008
+SL Benfica,Gilles Binya,22,Centre-Back,MC Oran,£270k,in,Cameroon;,0.27,Liga Nos,2007,2007/2008
+SL Benfica,Cristian Rodríguez,21,Central Midfield,Paris SG,Loan,in,Uruguay;Italy;,0,Liga Nos,2007,2007/2008
+SL Benfica,Marco Zoro,23,Centre-Back,Messina Peloro,Free transfer,in,Cote d'Ivoire;,NA,Liga Nos,2007,2007/2008
+SL Benfica,Sreten Sretenovic,22,Centre-Back,Rad,Free transfer,in,Serbia;,NA,Liga Nos,2007,2007/2008
+SL Benfica,Hans Jörg Butt,33,Goalkeeper,Bay. Leverkusen,Free transfer,in,Germany;,NA,Liga Nos,2007,2007/2008
+SL Benfica,Jaílson,26,Centre-Forward,Rubin Kazan,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+SL Benfica,Marcel,26,Centre-Forward,Cruzeiro,"End of loanApr 1, 2008",in,Brazil;,0,Liga Nos,2007,2007/2008
+SL Benfica,Romeu Ribeiro,18,Defensive Midfield,Benfica U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Marcel,26,Centre-Forward,Grêmio,"End of loanDec 1, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+SL Benfica,Miguel Vítor,18,Centre-Back,Benfica U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Marco Ferreira,29,Right Winger,Leicester,"End of loanDec 1, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Rúben Lima,18,Left-Back,Benfica U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Dabao Yu,19,Centre-Back,Benfica U19,-,in,China;,0,Liga Nos,2007,2007/2008
+SL Benfica,Andrey Karyaka,29,Left Winger,Saturn,"End of loanDec 1, 2007",in,Russia;Ukraine;,0,Liga Nos,2007,2007/2008
+SL Benfica,Diego Souza,22,Centre-Forward,Grêmio,"End of loanDec 31, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+SL Benfica,Fausto,22,Centre-Back,Louletano,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Gustavo Manduca,27,Left Winger,AEK Athens,"End of loanJun 30, 2007",in,Brazil;Italy;,0,Liga Nos,2007,2007/2008
+SL Benfica,Tiago Gomes,20,Left-Back,Estrela Amadora,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Bruno Costa,20,Goalkeeper,Odivelas,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Marcel,25,Centre-Forward,São Paulo,"End of loanJun 30, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+SL Benfica,Azar Karadas,25,Centre-Back,1.FC K'lautern,"End of loanJun 30, 2007",in,Norway;Turkey;,0,Liga Nos,2007,2007/2008
+SL Benfica,Rodolfo Lima,27,Centre-Forward,Portimonense,"End of loanJun 30, 2007",in,Cape Verde;Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,José Fonte,23,Centre-Back,Estrela Amadora,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Hélio Roque,21,Right Winger,Olivais,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Carlitos,24,Left Midfield,FC Sion,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Amoreirinha,22,Centre-Back,Estrela Amadora,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Manuel Fernandes,21,Attacking Midfield,Everton,"End of loanJun 30, 2007",in,Portugal;Cape Verde;,0,Liga Nos,2007,2007/2008
+SL Benfica,Bijou,21,Defensive Midfield,Gondomar,"End of loanJun 30, 2007",in,Cape Verde;Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Simão,27,Left Winger,Atlético Madrid,£18.00m,out,Portugal;,18,Liga Nos,2007,2007/2008
+SL Benfica,Manuel Fernandes,21,Attacking Midfield,Valencia,£16.20m,out,Portugal;Cape Verde;,16.2,Liga Nos,2007,2007/2008
+SL Benfica,Anderson,27,Centre-Back,Olympique Lyon,£3.87m,out,Brazil;,3.87,Liga Nos,2007,2007/2008
+SL Benfica,Diego Souza,22,Centre-Forward,Desp. Brasil,£3.38m,out,Brazil;,3.38,Liga Nos,2007,2007/2008
+SL Benfica,Carlitos,24,Left Midfield,FC Basel,£2.25m,out,Portugal;,2.25,Liga Nos,2007,2007/2008
+SL Benfica,Andrey Karyaka,29,Left Winger,Saturn,£1.80m,out,Russia;Ukraine;,1.8,Liga Nos,2007,2007/2008
+SL Benfica,Gonzalo Bergessio,23,Centre-Forward,San Lorenzo,£1.62m,out,Argentina;,1.62,Liga Nos,2007,2007/2008
+SL Benfica,Amoreirinha,22,Centre-Back,CFR Cluj,£900k,out,Portugal;,0.9,Liga Nos,2007,2007/2008
+SL Benfica,Moretto,29,Goalkeeper,AEK Athens,Loan fee:£720k,out,Brazil;Italy;,0.72,Liga Nos,2007,2007/2008
+SL Benfica,Gustavo Manduca,27,Left Winger,AEK Athens,£675k,out,Brazil;Italy;,0.675,Liga Nos,2007,2007/2008
+SL Benfica,Azar Karadas,25,Centre-Back,SK Brann,£360k,out,Norway;Turkey;,0.36,Liga Nos,2007,2007/2008
+SL Benfica,Andrés Díaz,24,Right Midfield,CA Banfield,Loan fee:£198k,out,Argentina;,0.198,Liga Nos,2007,2007/2008
+SL Benfica,Beto,30,Central Midfield,FC Sion,£180k,out,Brazil;Portugal;,0.18,Liga Nos,2007,2007/2008
+SL Benfica,Bijou,21,Defensive Midfield,Fátima,Free transfer,out,Cape Verde;Portugal;,NA,Liga Nos,2007,2007/2008
+SL Benfica,Rúben Lima,18,Left-Back,Desportivo Aves,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,José Fonte,23,Centre-Back,Crystal Palace,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+SL Benfica,Georgios Karagounis,30,Central Midfield,Panathinaikos,Free transfer,out,Greece;,NA,Liga Nos,2007,2007/2008
+SL Benfica,Sreten Sretenovic,22,Centre-Back,Zaglebie Lubin,Loan,out,Serbia;,0,Liga Nos,2007,2007/2008
+SL Benfica,Manú,24,Right Winger,AEK Athens,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Marco Ferreira,29,Right Winger,Belenenses SAD,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Hélio Roque,21,Right Winger,AEL Limassol,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+SL Benfica,Marco Ferreira,29,Right Winger,Leicester,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Miguelito,26,Left-Back,Braga,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+SL Benfica,João Coimbra,21,Attacking Midfield,Nacional,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Marcel,26,Centre-Forward,Cruzeiro,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+SL Benfica,Marcel,25,Centre-Forward,Grêmio,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+SL Benfica,Rui Nereu,21,Goalkeeper,Coimbra,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+SL Benfica,Tiago Gomes,21,Left-Back,Zaglebie Lubin,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Dabao Yu,19,Centre-Back,Desportivo Aves,Loan,out,China;,0,Liga Nos,2007,2007/2008
+SL Benfica,Rafik Halliche,21,Centre-Back,Nacional,Loan,out,Algeria;,0,Liga Nos,2007,2007/2008
+SL Benfica,Miguel Vítor,18,Centre-Back,Desportivo Aves,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Rodolfo Lima,27,Centre-Forward,PFC Vihren,?,out,Cape Verde;Portugal;,NA,Liga Nos,2007,2007/2008
+SL Benfica,Fábio Coentrão,19,Left-Back,Nacional,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Paulo Jorge,26,Right Winger,Málaga CF,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Bruno Costa,21,Goalkeeper,CS Otopeni,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Pedro Correia,20,Right-Back,Olhanense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Marcel,26,Centre-Forward,Grêmio,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+SL Benfica,Fausto,22,Centre-Back,Bradford,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+SL Benfica,Romeu Ribeiro,18,Defensive Midfield,Desportivo Aves,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,Jaílson,26,Centre-Forward,Braga,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+SL Benfica,Fabrizio Miccoli,28,Centre-Forward,Juventus,"End of loanJun 30, 2007",out,Italy;,0,Liga Nos,2007,2007/2008
+SL Benfica,Derlei,31,Centre-Forward,Dinamo Moscow,"End of loanJun 30, 2007",out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+SL Benfica,David Luiz,20,Centre-Back,EC Vitória,"End of loanJun 30, 2007",out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Roland Linz,26,Centre-Forward,Boavista,£1.80m,in,Austria;,1.8,Liga Nos,2007,2007/2008
+SC Braga,João Pereira,23,Right-Back,Gil Vicente,£360k,in,Portugal;,0.36,Liga Nos,2007,2007/2008
+SC Braga,Pablo Contreras,29,Centre-Back,Celta de Vigo,Free transfer,in,Chile;Spain;,NA,Liga Nos,2007,2007/2008
+SC Braga,César Peixoto,27,Central Midfield,FC Porto,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+SC Braga,Zé Manuel,32,Right Winger,Boavista,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+SC Braga,Hussein Yasser,24,Attacking Midfield,Al Rayyan,Free transfer,in,Qatar;Egypt;,NA,Liga Nos,2007,2007/2008
+SC Braga,Miguelito,26,Left-Back,Benfica,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+SC Braga,Bruno Tiago,26,Central Midfield,Gil Vicente,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+SC Braga,Breno,21,Centre-Back,Náutico,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+SC Braga,Pawel Kieszek,23,Goalkeeper,Pol. Warsaw,Free transfer,in,Poland;,NA,Liga Nos,2007,2007/2008
+SC Braga,Philco,18,Centre-Forward,Atlético-PR U20,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+SC Braga,Anilton Júnior,26,Centre-Back,Desportivo Aves,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+SC Braga,Jahirsino Baylón,18,Centre-Forward,Alianza Lima,?,in,Peru;,NA,Liga Nos,2007,2007/2008
+SC Braga,Jaílson,26,Centre-Forward,Benfica,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+SC Braga,Lenny,19,Right Winger,Fluminense,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+SC Braga,Wender,32,Left Winger,Sporting CP,?,in,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+SC Braga,Jorginho,30,Attacking Midfield,FC Porto,?,in,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+SC Braga,Roberto Brum,28,Defensive Midfield,Coimbra,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+SC Braga,Luisinho,22,Left-Back,Rio Ave FC,"End of loanDec 1, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Stélvio Cruz,18,Defensive Midfield,Braga U19,-,in,Angola;Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,João Mendes,19,Right Winger,Braga U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Matheus,24,Right Winger,Vitória Setúbal,"End of loanDec 31, 2007",in,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Vítor Hugo,19,Right-Back,Braga U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Orlando Sá,19,Centre-Forward,Braga U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Eduardo,24,Goalkeeper,Beira-Mar,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,João Tomás,32,Centre-Forward,Al Arabi,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Luisinho,22,Left-Back,Moreirense,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Jaime,28,Attacking Midfield,Estrela Amadora,"End of loanJun 30, 2007",in,Brazil;Italy;,0,Liga Nos,2007,2007/2008
+SC Braga,Wellington,26,Centre-Back,OFI Crete,"End of loanJun 30, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+SC Braga,Pedro Pereira,23,Right Winger,Vizela,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Kazeem,19,Attacking Midfield,Portimonense,"End of loanJun 30, 2007",in,Nigeria;,0,Liga Nos,2007,2007/2008
+SC Braga,Matheus,24,Right Winger,Beira-Mar,"End of loanJun 30, 2007",in,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Filipe Gonçalves,22,Defensive Midfield,Leixões,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,João Pedro,21,Right-Back,Penafiel,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,William,22,Centre-Back,Gil Vicente,"End of loanJun 30, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+SC Braga,Césinha,27,Second Striker,Rapid Bucharest,£720k,out,Brazil;,0.72,Liga Nos,2007,2007/2008
+SC Braga,Luís Filipe,28,Right-Back,Benfica,£450k,out,Portugal;,0.45,Liga Nos,2007,2007/2008
+SC Braga,Andrade,25,Central Midfield,Vasco da Gama,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+SC Braga,Jaime,28,Attacking Midfield,Racing Ferrol,Free transfer,out,Brazil;Italy;,NA,Liga Nos,2007,2007/2008
+SC Braga,Nem,33,Centre-Back,Paraná,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+SC Braga,Orlando Sá,19,Centre-Forward,Maria da Fonte,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Zé Carlos,32,Centre-Forward,APOEL Nicosia,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+SC Braga,Pedro Costa,25,Right-Back,Coimbra,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+SC Braga,Ricardo Chaves,29,Defensive Midfield,Vitória Setúbal,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+SC Braga,João Mendes,19,Right Winger,Merelinense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Davide Dias,24,Right Winger,Naval,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+SC Braga,Eduardo,24,Goalkeeper,Vitória Setúbal,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Jahirsino Baylón,19,Centre-Forward,Alianza Lima,Loan,out,Peru;,0,Liga Nos,2007,2007/2008
+SC Braga,Luisinho,22,Left-Back,Rio Ave FC,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,William,22,Centre-Back,H. Ramat Gan,?,out,Brazil;,NA,Liga Nos,2007,2007/2008
+SC Braga,Matheus,24,Right Winger,Vitória Setúbal,Loan,out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Castanheira,30,Central Midfield,Leixões,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Kazeem,19,Attacking Midfield,Trofense,Loan,out,Nigeria;,0,Liga Nos,2007,2007/2008
+SC Braga,Hussein Yasser,25,Attacking Midfield,Boavista,Loan,out,Qatar;Egypt;,0,Liga Nos,2007,2007/2008
+SC Braga,Filipe Gonçalves,22,Defensive Midfield,Vitória Setúbal,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Luisinho,22,Left-Back,Moreirense,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+SC Braga,Pedro Pereira,23,Right Winger,Estrela Amadora,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+SC Braga,Wellington,26,Centre-Back,Portimonense,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+SC Braga,Vítor Hugo,19,Right-Back,Maria da Fonte,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Anilton Júnior,27,Centre-Back,Pandurii T.-Jiu,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+SC Braga,João Pedro,21,Right-Back,Beira-Mar,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,João Pinto,36,Second Striker,Retired,-,out,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Lenny,19,Right Winger,Fluminense,"End of loanDec 31, 2007",out,Brazil;,0,Liga Nos,2007,2007/2008
+SC Braga,Wender,32,Left Winger,Sporting CP,"End of loanJun 30, 2007",out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Bruno Gama,19,Right Winger,FC Porto,"End of loanJun 30, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Paíto,24,Left-Back,RCD Mallorca,"End of loanJun 30, 2007",out,Mozambique;Portugal;,0,Liga Nos,2007,2007/2008
+SC Braga,Diego Costa,18,Centre-Forward,Atlético Madrid,"End of loanJun 30, 2007",out,Spain;Brazil;,0,Liga Nos,2007,2007/2008
+SC Braga,Marcin Chmiest,28,Centre-Forward,Odra Wodzislaw,"End of loanJun 30, 2007",out,Poland;,0,Liga Nos,2007,2007/2008
+SC Braga,Maciel,28,Right Winger,FC Porto,"End of loanJun 30, 2007",out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Weldon,27,Centre-Forward,Cruzeiro,Loan fee:£180k,in,Brazil;,0.18,Liga Nos,2007,2007/2008
+Belenenses SAD,Sandro Moreira,20,Central Midfield,Odivelas,£90k,in,Portugal;,0.09,Liga Nos,2007,2007/2008
+Belenenses SAD,Marco Ferreira,29,Right Winger,Benfica,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Hugo Alcântara,28,Centre-Back,Legia Warszawa,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Evandro Roncatto,21,Centre-Forward,Sport Recife,Free transfer,in,Brazil;Italy;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Júlio César,21,Goalkeeper,Botafogo,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Evandro Paulista,19,Centre-Forward,Ituano,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Mendonça,24,Right Midfield,Varzim,Free transfer,in,Angola;Portugal;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Edgaras Jankauskas,32,Centre-Forward,AEK Larnaca,Free transfer,in,Lithuania;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Areias,30,Left-Back,FC Porto,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Edson Henrique,20,Centre-Back,FC Porto,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Thiago Schmidt,23,Goalkeeper,Avaí FC,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Vukasin Devic,23,Centre-Back,Beira-Mar,?,in,Serbia;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Gabriel Gómez,23,Defensive Midfield,Indep. Santa Fe,Loan,in,Panama;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Weverson,19,Defensive Midfield,Treze FC,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Nicolás Muñoz,25,Centre-Forward,CD Águila,?,in,Panama;El Salvador;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Meyong,27,Centre-Forward,Levante,Loan,in,Cameroon;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Rafael Bastos,22,Second Striker,EC Bahia,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,João Paulo,22,Centre-Forward,Gloria,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Carlos Alves,19,Left-Back,Belenenses U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Hugo Leal,27,Central Midfield,Without Club,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Dady,25,Centre-Forward,CA Osasuna,£3.15m,out,Cape Verde;Portugal;,3.15,Liga Nos,2007,2007/2008
+Belenenses SAD,Nivaldo,27,Centre-Back,Saint-Étienne,£2.70m,out,Brazil;,2.7,Liga Nos,2007,2007/2008
+Belenenses SAD,José Luis Garcés,26,Centre-Forward,CSKA Sofia,£405k,out,Panama;,0.405,Liga Nos,2007,2007/2008
+Belenenses SAD,Sandro Moreira,20,Central Midfield,Carregado,Loan fee:£68k,out,Portugal;,0.068,Liga Nos,2007,2007/2008
+Belenenses SAD,Carlitos,30,Right Winger,Vit. Guimarães,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Sandro Gaúcho,33,Defensive Midfield,Foolad,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Pinheiro,30,Attacking Midfield,Trofense,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Thiago Schmidt,23,Goalkeeper,Duque de Caxias,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Marco Pinto,19,Goalkeeper,Mafra,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Eliseu,23,Left-Back,Málaga CF,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Gaspar,32,Centre-Back,Rio Ave FC,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Carlos Alves,19,Left-Back,Atlético CP,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Nicolás Muñoz,25,Centre-Forward,CD Águila,?,out,Panama;El Salvador;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Mendonça,25,Right Midfield,Estrela Amadora,Loan,out,Angola;Portugal;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Ivan Djurdjevic,30,Defensive Midfield,Lech Poznan,?,out,Serbia;Poland;,NA,Liga Nos,2007,2007/2008
+Belenenses SAD,Weverson,19,Defensive Midfield,Treze FC,"End of loanDec 31, 2007",out,Brazil;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Mancuso,26,Defensive Midfield,Without Club,-,out,Brazil;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Sousa,29,Right-Back,Without Club,-,out,Portugal;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Romeu,32,Centre-Forward,Retired,-,out,Portugal;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Marco Aurélio,37,Goalkeeper,Retired,-,out,Portugal;Brazil;,0,Liga Nos,2007,2007/2008
+Belenenses SAD,Roma,28,Centre-Forward,Without Club,-,out,Brazil;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Paulo Sousa,32,Defensive Midfield,APOP Kinyras,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Filipe Anunciacão,28,Defensive Midfield,Desportivo Aves,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Valdir,23,Left-Back,Naval,Free transfer,in,Portugal;Angola;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Dédé,25,Defensive Midfield,Trofense,Free transfer,in,Angola;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Paulo Gomes,32,Defensive Midfield,Leiria,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Fernando Pilar,28,Left Midfield,Porto Caruaru,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Chico Silva,29,Left-Back,Trofense,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Carlos Carneiro,33,Centre-Forward,Walsall,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Furtado,24,Centre-Forward,CSKA Sofia,Free transfer,in,Portugal;Cape Verde;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Rovérsio,23,Centre-Back,Gil Vicente,Free transfer,in,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Wesley,26,Second Striker,Alavés,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Kiko,28,Centre-Back,Coruripe,?,in,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,William,25,Centre-Forward,Cabofriense,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Márcio Carioca,24,Centre-Forward,Ceará SC,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Fábio Paim,19,Right Midfield,Sporting CP,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Édson Di,27,Forward,Coruripe,?,in,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Fábio Pacheco,19,Defensive Midfield,Paços F. U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Márcio Carioca,24,Centre-Forward,Fátima,"End of loanFeb 1, 2008",in,Brazil;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Jorginho,19,Right Winger,Paços F. U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,André Rateira,18,Left Winger,Paços F. U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Phil Jackson Ibargüen,22,Centre-Forward,S. João Ver,"End of loanDec 31, 2007",in,Colombia;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Antonieliton Ferreira,23,Right-Back,Without Club,-,in,Brazil;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Romeu Torres,20,Centre-Forward,Fiães,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Geraldo Alves,26,Centre-Back,AEK Athens,£360k,out,Portugal;Brazil;,0.36,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Vitorino Antunes,20,Left-Back,AS Roma,Loan fee:£270k,out,Portugal;,0.27,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Paulo Gomes,32,Defensive Midfield,Penafiel,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,José Williams,23,Left Winger,Vizela,Free transfer,out,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,João Paulo,27,Centre-Forward,Leiria,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Primo,30,Right-Back,Beira-Mar,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,André Rateira,18,Left Winger,Unknown,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Paulo Sousa,32,Defensive Midfield,APOP Kinyras,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Leanderson,24,Defensive Midfield,Ceará SC,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Édson Di,28,Forward,América-RN,Free transfer,out,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Fábio Pacheco,19,Defensive Midfield,Rebordosa AC,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Nuno Claro,30,Goalkeeper,CFR Cluj,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Elias,25,Defensive Midfield,Vitória Setúbal,Free transfer,out,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Romeu Torres,20,Centre-Forward,Portosantense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Phil Jackson Ibargüen,22,Centre-Forward,Tondela,Loan,out,Colombia;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Márcio Carioca,24,Centre-Forward,Fátima,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Phil Jackson Ibargüen,22,Centre-Forward,S. João Ver,Loan,out,Colombia;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Márcio Carioca,24,Centre-Forward,Fátima,?,out,Brazil;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Émerson,29,Centre-Back,Santa Clara,?,out,Brazil;,NA,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Fahel,25,Defensive Midfield,Marítimo,"End of loanJun 30, 2007",out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+FC Paços de Ferreira,Gualberto Mojica,22,Attacking Midfield,CFR Cluj,"End of loanJun 30, 2007",out,Bolivia;,0,Liga Nos,2007,2007/2008
+Leixões SC,Diogo Valente,22,Left Winger,FC Porto,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Filipe Oliveira,23,Right Winger,Marítimo,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Leixões SC,Jorge Baptista,30,Goalkeeper,Gil Vicente,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Leixões SC,Vieirinha,21,Right Winger,FC Porto,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Paulo Machado,21,Central Midfield,FC Porto,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Jaime,28,Attacking Midfield,Racing Ferrol,Free transfer,in,Brazil;Italy;,NA,Liga Nos,2007,2007/2008
+Leixões SC,Livramento,25,Attacking Midfield,Boavista,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Leixões SC,Paulo Vinícius,22,Centre-Back,Santa Clara,?,in,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+Leixões SC,Udo Nwoko,22,Attacking Midfield,Hibernians FC,?,in,Malta;Nigeria;,NA,Liga Nos,2007,2007/2008
+Leixões SC,João Moreira,21,Centre-Forward,Valencia,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Ezequias,26,Left-Back,FC Porto,Loan,in,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Nuno Diogo,26,Centre-Back,Penafiel,?,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Leixões SC,Tales Schütz,25,Centre-Forward,União Esporte Clube (MT),Loan,in,Brazil;Germany;,0,Liga Nos,2007,2007/2008
+Leixões SC,Castanheira,30,Central Midfield,Braga,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Marques,22,Centre-Forward,Anápolis-GO,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+Leixões SC,Ruben Saldanha,19,Attacking Midfield,Leixões U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Paulo Tavares,22,Attacking Midfield,GD Ribeirão,"End of loanDec 31, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Nuno Silva,20,Right Winger,FC Pedras Rubras,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Malafaia,25,Defensive Midfield,Varzim,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Leixões SC,Livramento,25,Attacking Midfield,Rio Ave FC,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Leixões SC,Ruben Saldanha,19,Attacking Midfield,Padroense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Pedro Moita,27,Left Midfield,GD Ribeirão,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Leixões SC,Cícero,30,Centre-Forward,Fátima,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Leixões SC,Cadinha,23,Attacking Midfield,GD Ribeirão,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Paulo Vinícius,23,Centre-Back,Olhanense,Loan,out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Marco Cadete,29,Right-Back,Gondomar,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Nuno Silva,21,Right Winger,Espinho,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Cleuber,30,Centre-Back,Vizela,?,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Leixões SC,Alexandre,33,Right-Back,União Madeira,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Leixões SC,Paulo Tavares,21,Attacking Midfield,GD Ribeirão,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Paulo Tavares,22,Attacking Midfield,Estoril,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Leandro Tatu,25,Second Striker,Desportivo Aves,?,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Leixões SC,Fonseca,22,Goalkeeper,Moreirense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Nandinho,34,Right Winger,Retired,-,out,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Leão,36,Defensive Midfield,Retired,-,out,Portugal;,0,Liga Nos,2007,2007/2008
+Leixões SC,Jaime,28,Attacking Midfield,Without Club,-,out,Brazil;Italy;,0,Liga Nos,2007,2007/2008
+Leixões SC,João Pedro,32,Centre-Forward,Retired,-,out,Portugal;France;,0,Liga Nos,2007,2007/2008
+Leixões SC,Tales Schütz,26,Centre-Forward,União Esporte Clube (MT),"End of loanDec 31, 2007",out,Brazil;Germany;,0,Liga Nos,2007,2007/2008
+Leixões SC,Xavier,23,Left-Back,Without Club,-,out,Burkina Faso;Cameroon;,0,Liga Nos,2007,2007/2008
+Leixões SC,Filipe Gonçalves,22,Defensive Midfield,Braga,"End of loanJun 30, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,João Paulo,27,Centre-Forward,Paços Ferreira,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Filipe Machado,23,Centre-Back,Pontevedra,Free transfer,in,Brazil;Italy;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Tiago,32,Defensive Midfield,Boavista,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Dani,23,Central Midfield,Odivelas,Free transfer,in,Cape Verde;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Toñito,30,Right Midfield,HNK Rijeka,Free transfer,in,Spain;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Maciel,28,Right Winger,FC Porto,Free transfer,in,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Arvid Smit,27,Central Midfield,Marítimo,Loan,in,Netherlands;,0,Liga Nos,2007,2007/2008
+União de Leiria,Bruno Miguel,24,Centre-Back,Varzim,?,in,Portugal;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Antoni Lukasiewicz,24,Defensive Midfield,Elche CF,Loan,in,Poland;,0,Liga Nos,2007,2007/2008
+União de Leiria,Éder Gaúcho,29,Centre-Back,Sertãozinho,?,in,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Rafael Fava,24,Goalkeeper,CA Juventus,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+União de Leiria,André Marques,20,Left-Back,Sporting CP,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Marcelinho,29,Centre-Forward,Cabofriense,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+União de Leiria,Ousséni Zongo,22,Defensive Midfield,Msida SJ,?,in,Burkina Faso;Malta;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Patrick,26,Left-Back,Guarani,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Harison,27,Right Winger,Goiás EC,"End of loanDec 1, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+União de Leiria,Ferreira,28,Centre-Forward,Náutico,"End of loanDec 31, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+União de Leiria,Hadson Nery,25,Left-Back,Gondomar,"End of loanJun 30, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+União de Leiria,Filipe Falardo,23,Attacking Midfield,Olivais,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Pedro Moreira,24,Centre-Forward,Louletano,"End of loanJun 30, 2007",in,Cape Verde;Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Nélson Sousa,23,Right-Back,Estoril,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Ferreira,28,Centre-Forward,Ipatinga FC,"End of loanJun 30, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+União de Leiria,Marco Airosa,22,Right-Back,Olhanense,"End of loanJun 30, 2007",in,Angola;Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,João Paulo,27,Centre-Forward,Rapid Bucharest,£1.08m,out,Portugal;,1.08,Liga Nos,2007,2007/2008
+União de Leiria,Marco Airosa,22,Right-Back,Fátima,Free transfer,out,Angola;Portugal;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Valdomiro,27,Centre-Back,Trofense,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Hadson Nery,25,Left-Back,Paysandu,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Filipe Falardo,23,Attacking Midfield,Fátima,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Ferreira,29,Centre-Forward,Ulsan,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Paulo Gomes,32,Defensive Midfield,Paços Ferreira,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Filipe Machado,23,Centre-Back,CSKA Sofia,Free transfer,out,Brazil;Italy;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Kata,29,Defensive Midfield,Vizela,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+União de Leiria,Harison,27,Right Winger,Goiás EC,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+União de Leiria,Marco Soares,23,Defensive Midfield,Pandurii T.-Jiu,Loan,out,Cape Verde;Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Ferreira,28,Centre-Forward,Náutico,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+União de Leiria,Ousséni Zongo,23,Defensive Midfield,Gil Vicente,Loan,out,Burkina Faso;Malta;,0,Liga Nos,2007,2007/2008
+União de Leiria,Pedro Moreira,24,Centre-Forward,Fátima,Loan,out,Cape Verde;Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Marcelinho,29,Centre-Forward,Cabofriense,"End of loanApr 1, 2008",out,Brazil;,0,Liga Nos,2007,2007/2008
+União de Leiria,André Marques,20,Left-Back,Sporting CP,"End of loanDec 1, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Alioune Touré,28,Right Winger,Without Club,-,out,France;Mali;,0,Liga Nos,2007,2007/2008
+União de Leiria,Renato,34,Centre-Back,Without Club,-,out,Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Maciel,29,Right Winger,Without Club,-,out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Bartosz Slusarski,25,Centre-Forward,Grodzisk,"End of loanJun 30, 2007",out,Poland;,0,Liga Nos,2007,2007/2008
+União de Leiria,Bruno Vale,24,Goalkeeper,FC Porto,"End of loanJun 30, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Ivanildo,21,Right Winger,FC Porto,"End of loanJun 30, 2007",out,Guinea-Bissau;Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Marcos António,24,Centre-Back,Gil Vicente,"End of loanJun 30, 2007",out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Paulo Machado,21,Central Midfield,FC Porto,"End of loanJun 1, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+União de Leiria,Fabiano Rossato,29,Left-Back,Real Sociedad,"End of loanJun 30, 2007",out,Brazil;Italy;,0,Liga Nos,2007,2007/2008
+CD Nacional,Marcelo Lipatín,30,Centre-Forward,Marítimo,Free transfer,in,Uruguay;Spain;,NA,Liga Nos,2007,2007/2008
+CD Nacional,João Coimbra,21,Attacking Midfield,Benfica,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+CD Nacional,Juninho Arcanjo,24,Attacking Midfield,Atlético-MG,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+CD Nacional,João Moreira,21,Centre-Forward,Valencia,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+CD Nacional,Edson Sitta,24,Defensive Midfield,Corinthians,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Felipe Lopes,19,Centre-Back,RSC Anderlecht,Free transfer,in,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Rafik Halliche,21,Centre-Back,Benfica,Loan,in,Algeria;,0,Liga Nos,2007,2007/2008
+CD Nacional,Fellype Gabriel,21,Attacking Midfield,Flamengo,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+CD Nacional,Fábio Coentrão,19,Left-Back,Benfica,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+CD Nacional,Fabiano Oliveira,20,Centre-Forward,Flamengo,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+CD Nacional,Reinaldo,23,Attacking Midfield,Palmeiras,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+CD Nacional,Edu Sales,29,Centre-Forward,US Créteil,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Pedro Pita,19,Left Midfield,Nacional U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+CD Nacional,Igor Pita,18,Left-Back,Nacional U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+CD Nacional,Vinicius,21,Central Midfield,União Madeira,"End of loanJun 30, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+CD Nacional,Miguel Fidalgo,25,Centre-Forward,AEK Larnaca,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+CD Nacional,Luís Manuel,26,Defensive Midfield,Vizela,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+CD Nacional,Diego Benaglio,24,Goalkeeper,VfL Wolfsburg,£1.35m,out,Switzerland;Italy;,1.35,Liga Nos,2007,2007/2008
+CD Nacional,Ávalos,29,Centre-Back,MSV Duisburg,£180k,out,Argentina;Portugal;,0.18,Liga Nos,2007,2007/2008
+CD Nacional,Zé Vítor,25,Right Midfield,FC St. Gallen,£90k,out,Portugal;,0.09,Liga Nos,2007,2007/2008
+CD Nacional,Edu Sales,30,Centre-Forward,Figueirense FC,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Geufer,27,Centre-Forward,Villa Nova AC,Free transfer,out,Brazil;Germany;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Émerson Nunes,25,Centre-Back,Cruzeiro,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Luciano Fonseca,28,Right Winger,S.E.R. Caxias do Sul (RS),Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Cássio,24,Centre-Forward,CSKA Sofia,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+CD Nacional,Zé Rui,24,Left Winger,CSKA Sofia,Free transfer,out,Cape Verde;Portugal;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Chaínho,33,Defensive Midfield,Alki Larnaca,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Bruno Fernandes,33,Central Midfield,Marítimo,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Adilson Soares Cassama,24,Defensive Midfield,Real SC,Free transfer,out,Guinea-Bissau;Portugal;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Rogerinho,27,Forward,Camacha,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Georgi Chilikov,28,Centre-Forward,CSKA Sofia,£45k,out,Bulgaria;,0.045,Liga Nos,2007,2007/2008
+CD Nacional,Luís Manuel,26,Defensive Midfield,Gil Vicente,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Miguel Fidalgo,25,Centre-Forward,União Madeira,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+CD Nacional,Bruno Basto,29,Left-Back,Shinnik,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CD Nacional,Vinicius,21,Central Midfield,União Madeira,?,out,Brazil;,NA,Liga Nos,2007,2007/2008
+CD Nacional,João Moreira,21,Centre-Forward,Valencia,"End of loanDec 1, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+CD Nacional,Diego Clementino,23,Centre-Forward,Cruzeiro,"End of loanJun 30, 2007",out,Brazil;,0,Liga Nos,2007,2007/2008
+CD Nacional,Leandro Bonfim,23,Attacking Midfield,FC Porto,"End of loanJun 30, 2007",out,Brazil;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Cardoso,22,Centre-Back,Comercial-SP,£135k,in,Brazil;,0.135,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Fábio Nunes,27,Attacking Midfield,Avaí FC,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Hélder Cabral,23,Left-Back,Vit. Guimarães,Free transfer,in,Portugal;Cape Verde;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Wagnão,28,Centre-Back,Rio Claro FC,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Rui Pedro,19,Attacking Midfield,FC Porto,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Jeremiah Ani,22,Centre-Forward,Kercem Ajax FC,Free transfer,in,Nigeria;Malta;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Vítor Moreno,26,Right-Back,Vit. Guimarães,Free transfer,in,Cape Verde;Portugal;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Fernando,20,Defensive Midfield,FC Porto,Loan,in,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Celestino,20,Defensive Midfield,Sporting CP,Loan,in,Portugal;Cape Verde;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Maurício,30,Centre-Back,Pohang Steelers,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Mendonça,25,Right Midfield,Belenenses SAD,Loan,in,Angola;Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Luis Aguiar,21,Central Midfield,FC Porto,Loan,in,Uruguay;Italy;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Mossoró,22,Centre-Forward,Friburguense-RJ,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Pedro Pereira,23,Right Winger,Braga,?,in,Portugal;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Marcelo Goianira,26,Defensive Midfield,Anápolis-GO,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Mateus Borges,24,Attacking Midfield,Anápolis-GO,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Giancarlo,25,Centre-Forward,Náutico,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Adul Baldé,18,Centre-Forward,E. Amadora U19,-,in,Guinea-Bissau;Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Marcelo Resende,20,Attacking Midfield,Olivais,"End of loanDec 1, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Nélson,31,Goalkeeper,Without Club,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Carlos Saavedra,26,Defensive Midfield,Trofense,"End of loanJun 1, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Filipe Mendes,22,Goalkeeper,GD Tourizense,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Bruno Santos,19,Attacking Midfield,Real SC,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Tiago Rosa,21,Right-Back,Torreense,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Cardoso,23,Centre-Back,Pandurii T.-Jiu,£315k,out,Brazil;,0.315,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Johnny,28,Right Winger,Pandurii T.-Jiu,£153k,out,Spain;,0.153,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Daniel,27,Defensive Midfield,Pandurii T.-Jiu,£117k,out,Brazil;,0.117,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Moses Sakyi,26,Centre-Forward,AEL Limassol,Free transfer,out,Ghana;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Jones,23,Centre-Forward,Guanabara,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Dário,30,Centre-Forward,Nea Salamis,Free transfer,out,Mozambique;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Tiago Rosa,21,Right-Back,Atlético CP,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Fábio Nunes,27,Attacking Midfield,Pandurii T.-Jiu,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Rui Borges,33,Right Winger,Trofense,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Zamorano,25,Right-Back,Trofense,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Jeremiah Ani,22,Centre-Forward,Gondomar,Free transfer,out,Nigeria;Malta;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Mossoró,22,Centre-Forward,Democrata,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Carlos Saavedra,26,Defensive Midfield,Odivelas,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Marcelo Resende,20,Attacking Midfield,Sintrense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Paulo Lopes,29,Goalkeeper,Trofense,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Marcelo Resende,20,Attacking Midfield,Olivais,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Bruno Santos,19,Attacking Midfield,GD Tourizense,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Sérgio Marquês,30,Defensive Midfield,Atlético CP,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Pedro Simões,32,Midfielder,Without Club,-,out,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Luis Aguiar,22,Central Midfield,FC Porto,"End of loanDec 31, 2007",out,Uruguay;Italy;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Jordão,35,Defensive Midfield,Retired,-,out,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Cleiton,27,Attacking Midfield,Anápolis-GO,"End of loanJun 30, 2007",out,Brazil;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,José Fonte,23,Centre-Back,Benfica,"End of loanJun 30, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Jaime,28,Attacking Midfield,Braga,"End of loanJun 30, 2007",out,Brazil;Italy;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Tiago Gomes,20,Left-Back,Benfica,"End of loanJun 30, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Amoreirinha,22,Centre-Back,Benfica,"End of loanJun 30, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+CF Estrela Amadora,Luís Loureiro,30,Defensive Midfield,Sporting CP,"End of loanJun 30, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Sambégou Bangoura,25,Centre-Forward,Stoke City,£365k,in,Guinea;Belgium;,0.365,Liga Nos,2007,2007/2008
+Boavista Porto FC,Rafal Grzelak,25,Attacking Midfield,Pogon Szczecin,£315k,in,Poland;,0.315,Liga Nos,2007,2007/2008
+Boavista Porto FC,Rissutt,30,Right-Back,Vit. Guimarães,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Jorge Ribeiro,25,Left Midfield,Desportivo Aves,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Luís Loureiro,31,Defensive Midfield,Anorthosis,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Rodrigo Araújo Gomes Costa,19,Centre-Back,EC Vitória B,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Edgar,29,Right Winger,Málaga CF,Free transfer,in,Portugal;Angola;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,David Fleurival,23,Central Midfield,Tours FC,Free transfer,in,Guadeloupe;France;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Marcelão,26,Centre-Back,Vila Nova FC,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Olufemi Oluyi Oladapo,18,Defensive Midfield,RSC Anderlecht,Free transfer,in,Nigeria;Belgium;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Mateus,23,Left Winger,Gil Vicente,Free transfer,in,Angola;Portugal;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Hussein Yasser,25,Attacking Midfield,Braga,Loan,in,Qatar;Egypt;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Mourtala Diakité,26,Centre-Back,Beira-Mar,?,in,Mali;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Moisés Moura,28,Centre-Back,Cruzeiro,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Laionel,21,Right Winger,Anápolis-GO,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Brayan Angulo,18,Left-Back,CD América,?,in,Colombia;Spain;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Milan Gajic,20,Central Midfield,Napredak,Loan,in,Serbia;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Ikechukwu Obi,22,Forward,Sabah,?,in,Nigeria;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Milos Bosancic,19,Attacking Midfield,Partizan,Loan,in,Serbia;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Zé Kalanga,23,Right Winger,Dinamo Bukarest,Loan,in,Angola;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Pedro Moreira,18,Central Midfield,Boavista U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Pedro Trigueira,19,Goalkeeper,Boavista U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Ivan Santos,18,Left Midfield,Boavista U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Ricardo Neves,18,Goalkeeper,Boavista U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Carlos Fernandes,27,Goalkeeper,Without Club,-,in,Angola;Portugal;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Jaouad Zairi,25,Right Midfield,FC Nantes,"End of loanJun 30, 2007",in,Morocco;France;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Bruno Pinheiro,19,Defensive Midfield,GD Ribeirão,"End of loanJun 30, 2007",in,Portugal;Brazil;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Gilberto,20,Central Midfield,Penalva Castelo,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Paulo Rangel,22,Centre-Forward,AD Lousada,"End of loanJun 30, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Igor Rocha,23,Left-Back,GD Ribeirão,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Rui Gomes,20,Attacking Midfield,Dragões,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Roland Linz,26,Centre-Forward,Braga,£1.80m,out,Austria;,1.8,Liga Nos,2007,2007/2008
+Boavista Porto FC,Kalifa Cissé,23,Centre-Back,Reading,£1.35m,out,Mali;France;,1.35,Liga Nos,2007,2007/2008
+Boavista Porto FC,Ricardo Silva,32,Centre-Back,Shinnik,£270k,out,Portugal;,0.27,Liga Nos,2007,2007/2008
+Boavista Porto FC,Rafal Grzelak,25,Attacking Midfield,Skoda Xanthi,£225k,out,Poland;,0.225,Liga Nos,2007,2007/2008
+Boavista Porto FC,João Lucas,27,Attacking Midfield,Red Star,£49k,out,Portugal;,0.049,Liga Nos,2007,2007/2008
+Boavista Porto FC,Krzysztof Kazimierczak,26,Left-Back,Pol. Warsaw,Free transfer,out,Poland;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Sambégou Bangoura,25,Centre-Forward,Cádiz CF,Loan,out,Guinea;Belgium;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Zé Manuel,32,Right Winger,Braga,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Tiago,32,Defensive Midfield,Leiria,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Marcos António,27,Centre-Forward,Trofense,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Paulo Rangel,22,Centre-Forward,Baraúnas-RN,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,William,39,Goalkeeper,Feirense,Free transfer,out,Cameroon;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Nuno Pinto,20,Left-Back,Trofense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Fernando Dinis,24,Left-Back,Trofense,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Paulo Sousa,26,Defensive Midfield,Trofense,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Marquinhos,24,Right-Back,Vasco da Gama,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Livramento,25,Attacking Midfield,Leixões,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Guy Stephane Essamé,23,Central Midfield,Terek Grozny,Free transfer,out,Cameroon;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Jaouad Zairi,25,Right Midfield,Asteras Tripoli,Free transfer,out,Morocco;France;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Bessa,30,Right-Back,Trofense,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Hélder Rosário,27,Centre-Back,Málaga CF,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Igor Rocha,23,Left-Back,Naval,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Carlos Fernandes,28,Goalkeeper,Foolad,Loan,out,Angola;Portugal;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Javier Liendo,19,Central Midfield,Nacional,?,out,Argentina;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Rui Gomes,20,Attacking Midfield,Espinho,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Boavista Porto FC,Pedro Trigueira,19,Goalkeeper,GD Ribeirão,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Khadim Fayé,36,Goalkeeper,Retired,-,out,Senegal;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Milos Bosancic,19,Attacking Midfield,Partizan,"End of loanNov 1, 2007",out,Serbia;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Przemyslaw Kazmierczak,25,Defensive Midfield,Pogon Szczecin,"End of loanJun 30, 2007",out,Poland;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Rafal Grzelak,25,Attacking Midfield,Pogon Szczecin,"End of loanJun 30, 2007",out,Poland;,0,Liga Nos,2007,2007/2008
+Boavista Porto FC,Ricardo Sousa,28,Attacking Midfield,Hannover 96,"End of loanJun 30, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+CS Marítimo,João Guilherme,21,Centre-Back,Internacional,£126k,in,Brazil;,0.126,Liga Nos,2007,2007/2008
+CS Marítimo,Ariza Makukula,26,Centre-Forward,Sevilla FC,Loan,in,Portugal;DR Congo;,0,Liga Nos,2007,2007/2008
+CS Marítimo,Bruno Fernandes,33,Central Midfield,Nacional,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Antoine van der Linden,31,Centre-Back,FC Groningen,Free transfer,in,Netherlands;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Anderson Gomes,22,Right Winger,Coritiba FC,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Bruno Fogaça,25,Centre-Forward,Skoda Xanthi,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Adriano,28,Defensive Midfield,Paraná,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Fábio Felicio,25,Central Midfield,Rubin Kazan,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+CS Marítimo,Marcelo Boeck,22,Goalkeeper,Internacional,?,in,Brazil;Belgium;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Márcio Mossoró,24,Attacking Midfield,Internacional,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+CS Marítimo,André Pinto,29,Centre-Forward,Kyoto Sanga,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Edder Pérez,23,Left-Back,Caracas FC,?,in,Venezuela;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Ediglê,29,Centre-Back,Internacional,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+CS Marítimo,Ricardo Esteves,27,Right Midfield,Reggina,?,in,Portugal;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Djalma,20,Right Winger,Marítimo B,-,in,Angola;Portugal;,0,Liga Nos,2007,2007/2008
+CS Marítimo,Nilson Sergipano,27,Centre-Forward,Coruripe,"End of loanNov 1, 2007",in,Brazil;,0,Liga Nos,2007,2007/2008
+CS Marítimo,Balú,22,Defensive Midfield,Marítimo B,-,in,Brazil;,0,Liga Nos,2007,2007/2008
+CS Marítimo,João Luiz,22,Defensive Midfield,Marítimo U19,-,in,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+CS Marítimo,Bruno Grassi,20,Goalkeeper,Internacional,,in,Brazil;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Fahel,25,Defensive Midfield,Paços Ferreira,"End of loanJun 30, 2007",in,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+CS Marítimo,Marcelo Lipatín,30,Centre-Forward,Nacional,Free transfer,out,Uruguay;Spain;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Martin Prest,28,Centre-Forward,Burgos CF,Free transfer,out,Argentina;Spain;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Fahel,25,Defensive Midfield,Beira-Mar,Free transfer,out,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Fábio,29,Goalkeeper,Guaratinguetá,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Álex von Schwedler,27,Centre-Back,Alki Larnaca,Free transfer,out,Chile;Germany;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Filipe Oliveira,23,Right Winger,Leixões,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Darl Douglas,27,Right Winger,Willem II,Free transfer,out,Netherlands;Suriname;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Cédric Moukouri,28,Centre-Forward,Trofense,Loan,out,France;,0,Liga Nos,2007,2007/2008
+CS Marítimo,Tiquinho,21,Right Winger,AEL Limassol,?,out,Angola;Portugal;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Arvid Smit,27,Central Midfield,Leiria,Loan,out,Netherlands;,0,Liga Nos,2007,2007/2008
+CS Marítimo,Nilson Sergipano,27,Centre-Forward,AS Confiança-SE,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+CS Marítimo,Pedro Fernandes,22,Goalkeeper,UD Salamanca,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Sergio Pires Lopes,22,Midfielder,Torreense,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Zé Gomes,31,Right-Back,Konyaspor,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+CS Marítimo,Milton do Ó,28,Centre-Back,Trofense,?,out,Brazil;,NA,Liga Nos,2007,2007/2008
+CS Marítimo,Ariza Makukula,26,Centre-Forward,Sevilla FC,"End of loanDec 31, 2007",out,Portugal;DR Congo;,0,Liga Nos,2007,2007/2008
+CS Marítimo,Diogo Valente,22,Left Winger,FC Porto,"End of loanJun 30, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+CS Marítimo,Collins Mbesuma,23,Centre-Forward,Portsmouth,"End of loanJun 30, 2007",out,Zambia;,0,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Marcelinho,22,Centre-Forward,Avaí FC,£342k,in,Brazil;,0.342,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Marinho,24,Right Winger,Fátima,£90k,in,Portugal;,0.09,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Fabricio Lopes,23,Centre-Back,Al-Ain FC,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Diego Ângelo,21,Centre-Back,Ituano,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Tiago Freitas,26,Forward,CRB,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Eanes,26,Midfielder,Coritiba FC,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Nicolas Godemeche,23,Central Midfield,Montpellier,Free transfer,in,France;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Dani,33,Goalkeeper,Algeciras CF,Free transfer,in,Spain;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Wandeir,27,Second Striker,Vardar,Free transfer,in,North Macedonia;Brazil;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Davide Dias,24,Right Winger,Braga,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Bruno Cazarine,24,Centre-Forward,Terrassa FC,Free transfer,in,Brazil;Italy;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Bruno Lazaroni,26,Central Midfield,Vasco da Gama,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Café,22,Goalkeeper,Coritiba FC,?,in,Brazil;Italy;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Hugo Santos,24,Left Winger,Operário,?,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Felipe,22,Central Midfield,Palmeiras,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Igor Rocha,23,Left-Back,Boavista,?,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Wilson Júnior,30,Goalkeeper,Without Club,-,in,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Banjai,25,Centre-Back,Covilhã,"End of loanJun 30, 2007",in,Guinea-Bissau;,0,Liga Nos,2007,2007/2008
+Naval 1º de Maio,João Mendes,20,Defensive Midfield,FC Pampilhosa,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Miguel Afonso,22,Centre-Back,Mirandense,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Nei,27,Centre-Forward,CSKA Sofia,£675k,out,Brazil;Portugal;,0.675,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Orestes,26,Centre-Back,Hansa Rostock,£225k,out,Brazil;Osttimor;,0.225,Liga Nos,2007,2007/2008
+Naval 1º de Maio,André Martins,20,Centre-Forward,Fulham U23,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Fajardo,28,Attacking Midfield,Vit. Guimarães,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Tony,23,Defensive Midfield,Beira-Mar,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Fernando,33,Centre-Back,Beira-Mar,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Valdir,23,Left-Back,Paços Ferreira,Free transfer,out,Portugal;Angola;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Banjai,26,Centre-Back,Louletano,Loan,out,Guinea-Bissau;,0,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Glauber,32,Defensive Midfield,Santa Clara,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Bruno Cazarine,24,Centre-Forward,Bragantino,Free transfer,out,Brazil;Italy;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Osvaldo,23,Centre-Forward,Portimonense,Free transfer,out,Angola;Portugal;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Pimenta,21,Left Winger,Portimonense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Lito,32,Right Winger,Coimbra,Free transfer,out,Cape Verde;Portugal;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Felipe,22,Central Midfield,Louletano,?,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,João Mendes,20,Defensive Midfield,GD Tourizense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Solimar,32,Attacking Midfield,Portimonense,Loan,out,Brazil;,0,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Wandeir,27,Second Striker,Pandurii T.-Jiu,Loan,out,North Macedonia;Brazil;,0,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Miguel Afonso,22,Centre-Back,Anadia,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Pedro Santos,31,Central Midfield,Without Club,-,out,Portugal;,0,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Tiago Fraga,26,Attacking Midfield,Without Club,-,out,Brazil;,0,Liga Nos,2007,2007/2008
+Naval 1º de Maio,Wilson Júnior,30,Goalkeeper,Without Club,-,out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Aguinaldo,18,Centre-Forward,Alta de Lisboa,Free transfer,in,Angola;Portugal;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Markus Berger,22,Centre-Back,SV Ried,Free transfer,in,Austria;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Pedro Costa,25,Right-Back,Braga,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Cléber,25,Left-Back,Marília,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Orlando,27,Centre-Back,Freamunde,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Lito,32,Right Winger,Naval,Free transfer,in,Cape Verde;Portugal;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Licá,18,Second Striker,GDRC Social Lamas,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Irineu,24,Centre-Back,Cruzeiro,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Patrick Vouho,20,Centre-Forward,Sabé,?,in,Cote d'Ivoire;Portugal;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Luis Aguiar,22,Central Midfield,FC Porto,Loan,in,Uruguay;Italy;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Ricardo Nunes,24,Goalkeeper,Varzim,?,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,William Kwabena Tiero,26,Attacking Midfield,Liberty Prof.,?,in,Ghana;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Edgar Silva,20,Centre-Forward,FC Porto,Loan,in,Brazil;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Pedrinho,22,Right-Back,Varzim,?,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Gaoussou Fofana,23,Right Winger,Sabé,?,in,Cote d'Ivoire;France;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Ivanildo,21,Right Winger,FC Porto,Loan,in,Guinea-Bissau;Portugal;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Rui Nereu,21,Goalkeeper,Benfica,?,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Cris,23,Defensive Midfield,Feirense,?,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Pablo Castro,21,Left-Back,Bella Vista,Loan,in,Uruguay;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Milos Pavlovic,23,Defensive Midfield,Vozdovac,?,in,Serbia;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Horacio Peralta,25,Centre-Forward,Nacional,?,in,Uruguay;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Pedrinho,22,Right-Back,Varzim,"End of loanDec 31, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Cristiano,18,Central Midfield,Académica U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Pedro Ribeiro,19,Centre-Forward,Académica U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Ousmane N'Doye,29,Defensive Midfield,Al-Ettifaq,"End of loanJun 30, 2007",in,Senegal;France;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Fausto Lourenço,20,Left Winger,GD Tourizense,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Filipe Teixeira,26,Right Winger,West Brom,£810k,out,Portugal;France;,0.81,Liga Nos,2007,2007/2008
+Académica Coimbra,Dame N'Doye,22,Centre-Forward,Panathinaikos,£720k,out,Senegal;,0.72,Liga Nos,2007,2007/2008
+Académica Coimbra,Ousmane N'Doye,29,Defensive Midfield,FC Vaslui,£450k,out,Senegal;France;,0.45,Liga Nos,2007,2007/2008
+Académica Coimbra,Nuno Luís,32,Right-Back,Omonia Nikosia,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Néstor Álvarez,27,Centre-Forward,UA Maracaibo,Free transfer,out,Colombia;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Danilo Moreira,26,Centre-Back,Juventude,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Lino,30,Left-Back,FC Porto,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Medeiros,30,Centre-Back,Omonia Nikosia,Free transfer,out,Portugal;France;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Pedrinho,22,Right-Back,Varzim,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Héldon,18,Left Winger,Caniçal,Free transfer,out,Cape Verde;South Africa;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Fausto Lourenço,20,Left Winger,Anadia,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Douglas,27,Goalkeeper,Galo Maringá,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Eduardo,28,Goalkeeper,GD Tourizense,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Lira,24,Left-Back,H. Kfar Saba,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Sarmento,22,Right-Back,Varzim,Loan,out,Portugal;Luxembourg;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Sílvio Gomes Nunes,24,Centre-Forward,GD Tourizense,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Szabolcs Gyánó,27,Centre-Forward,Beira-Mar,Loan,out,Hungary;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Pedro Ribeiro,19,Centre-Forward,GD Tourizense,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Roberto Brum,28,Defensive Midfield,Braga,?,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Patrick Vouho,20,Centre-Forward,Portimonense,Loan,out,Cote d'Ivoire;Portugal;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Horacio Peralta,25,Centre-Forward,Bella Vista,?,out,Uruguay;,NA,Liga Nos,2007,2007/2008
+Académica Coimbra,Pablo Castro,21,Left-Back,Bella Vista,"End of loanNov 1, 2007",out,Uruguay;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Hélder Barbosa,20,Left Winger,FC Porto,"End of loanDec 31, 2007",out,Portugal;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Luis Aguiar,22,Central Midfield,FC Porto,"End of loanMay 1, 2008",out,Uruguay;Italy;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Litos,33,Centre-Back,Retired,-,out,Portugal;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Gélson,28,Centre-Forward,Without Club,-,out,Brazil;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Milos Pavlovic,23,Defensive Midfield,Vozdovac,"End of loanJun 30, 2007",out,Serbia;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Fatih Sonkaya,25,Right-Back,FC Porto,"End of loanJun 30, 2007",out,Turkey;Netherlands;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Alexandre Rotweiller,28,Defensive Midfield,Corinthians,"End of loanJun 30, 2007",out,Brazil;,0,Liga Nos,2007,2007/2008
+Académica Coimbra,Cláudio Pitbull,25,Centre-Forward,FC Porto,"End of loanJun 1, 2007",out,Brazil;Italy;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Léo Macaé,24,Centre-Forward,Corinthians,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Ricardo Chaves,29,Defensive Midfield,Braga,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Elias,25,Defensive Midfield,Paços Ferreira,Free transfer,in,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Leandro Branco,24,Right Winger,GE Juventus-SC,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Jorginho,29,Left-Back,Estoril,Free transfer,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Edinho,24,Centre-Forward,Gil Vicente,Free transfer,in,Portugal;Guinea-Bissau;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Léo Bonfim,24,Centre-Back,Ceará SC,Free transfer,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Eduardo,24,Goalkeeper,Braga,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Bruno Severino,21,Right Winger,Gondomar,?,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Robson,23,Centre-Back,Gondomar,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Matheus,24,Right Winger,Braga,Loan,in,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Bruno Gama,19,Right Winger,FC Porto,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Steve Antunes,16,Central Midfield,Team BEJUNE U18,?,in,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Filipe Gonçalves,22,Defensive Midfield,Braga,Loan,in,Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Cláudio Pitbull,25,Centre-Forward,FC Porto,Loan,in,Brazil;Italy;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Paulo Roberto,23,Right-Back,EC Bahia,?,in,Brazil;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Portela,19,Right-Back,Setúbal U19,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Costinha,21,Attacking Midfield,Setúbal B,-,in,Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Mário Carlos,24,Right Winger,Zamora CF,"End of loanJun 30, 2007",in,Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Edinho,25,Centre-Forward,AEK Athens,Loan fee:£135k,out,Portugal;Guinea-Bissau;,0.135,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Léo Macaé,24,Centre-Forward,Coruripe,Free transfer,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,João Meira,20,Centre-Back,Cova Piedade,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Victor Silva,21,Goalkeeper,Foolad,Free transfer,out,Mexico;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Julien Fernandes,22,Central Midfield,Montañeros CF,Free transfer,out,Portugal;France;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Nélson Veríssimo,30,Centre-Back,Fátima,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Kevin Onyekachi Amuneke,21,Centre-Forward,CSKA Sofia,Free transfer,out,Nigeria;Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Costinha,21,Attacking Midfield,Rio Maior,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Nandinho,31,Left-Back,Alki Larnaca,Free transfer,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Binho,29,Defensive Midfield,Iraklis,Free transfer,out,Brazil;Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Émile Mbamba,24,Forward,Arema FC,Free transfer,out,Cameroon;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Ademar,22,Attacking Midfield,PFC Vihren,?,out,Brazil;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Mário Carlos,24,Right Winger,Alki Larnaca,Loan,out,Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Cesar La Paglia,28,Attacking Midfield,Indep. Medellín,?,out,Argentina;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Inzaghi,22,Centre-Forward,Chaves,?,out,Guinea-Bissau;Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Russiano,22,Left-Back,Gela,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Mamadou N'Diaye,23,Centre-Back,Portimonense,?,out,Senegal;Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Flávio,25,Centre-Back,Leça,?,out,Portugal;,NA,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Madior,24,Centre-Back,Without Club,-,out,Senegal;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Matheus,24,Right Winger,Braga,"End of loanDec 31, 2007",out,Brazil;Portugal;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Kwame Ayew,33,Centre-Forward,Retired,-,out,Ghana;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Silvestre Varela,22,Left Winger,Sporting CP,"End of loanJun 30, 2007",out,Portugal;Cape Verde;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,Marcelo Labarthe,22,Defensive Midfield,Sporting CP,"End of loanJun 30, 2007",out,Brazil;,0,Liga Nos,2007,2007/2008
+Vitória Setúbal FC,André Barreto,27,Central Midfield,Wisla Kraków,"End of loanJun 30, 2007",out,Brazil;,0,Liga Nos,2007,2007/2008

@@ -1,0 +1,308 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,nat,fee_cleaned,league_name,year,season
+Spartak Moscow,Maksym Kalinichenko,20,Left Midfield,Dnipro,Free transfer,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Spartak Moscow,Aleksandr Shchegolev,27,Right-Back,Fakel Voronezh,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Spartak Moscow,Nikolay Pisarev,31,Centre-Forward,Dinamo Moscow,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Spartak Moscow,Anatoli Kanishchev,27,Centre-Forward,Spartak V-kavkaz,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Spartak Moscow,Maksim Buznikin,22,Centre-Forward,Saturn,"End of loanDec 1, 1999",in,Russia;,0,Premier Liga,1999,1999/2000
+Spartak Moscow,Viktor Bukievskiy,20,Centre-Back,Spartak II,-,in,Russia;,0,Premier Liga,1999,1999/2000
+Spartak Moscow,Milan Jovic,24,Centre-Back,Vojvodina,,in,Serbia;,NA,Premier Liga,1999,1999/2000
+Spartak Moscow,Vadim Evseev,23,Right-Back,Loko Moscow,£675k,out,Russia;,0.675,Premier Liga,1999,1999/2000
+Spartak Moscow,Anatoli Kanishchev,28,Centre-Forward,Dinamo Moscow,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Spartak Moscow,Ilya Tsymbalar,30,Central Midfield,Loko Moscow,?,out,Russia;Ukraine;,NA,Premier Liga,1999,1999/2000
+Spartak Moscow,Maksim Buznikin,22,Centre-Forward,Saturn,Loan,out,Russia;,0,Premier Liga,1999,1999/2000
+Spartak Moscow,Sergey Yuran,30,Centre-Forward,Sturm Graz,?,out,Russia;Portugal;,NA,Premier Liga,1999,1999/2000
+Spartak Moscow,Peniche,20,Attacking Midfield,Unknown,,out,Brazil;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Moscow,Vadim Evseev,23,Right-Back,Spartak Moscow,£675k,in,Russia;,0.675,Premier Liga,1999,1999/2000
+Lokomotiv Moscow,Dmitri Sennikov,23,Centre-Back,Rubin Kazan,Free transfer,in,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Moscow,Gennadi Nizhegorodov,22,Centre-Back,Lokomotiv NN,Free transfer,in,Russia;Ukraine;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Moscow,Zaur Khapov,35,Goalkeeper,Spartak V-kavkaz,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Moscow,Ilya Tsymbalar,30,Central Midfield,Spartak Moscow,?,in,Russia;Ukraine;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Moscow,Oleg Terekhin,29,Centre-Forward,Dinamo Moscow,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Moscow,Ruslan Pimenov,18,Centre-Forward,Loko Moscow II,-,in,Russia;,0,Premier Liga,1999,1999/2000
+Lokomotiv Moscow,Sergey Gurenko,26,Right-Back,AS Roma,£4.91m,out,Belarus;,4.91,Premier Liga,1999,1999/2000
+Lokomotiv Moscow,Aleksandr Borodyuk,36,Centre-Forward,Torpedo-ZiL,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Moscow,Aleksey Arifullin,29,Right-Back,Lokomotiv 2,-,out,Russia;,0,Premier Liga,1999,1999/2000
+Lokomotiv Moscow,Vitali Veselov,25,Centre-Forward,Torpedo-ZiL,,out,Russia;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Valdas Trakys,20,Centre-Forward,Zalgiris,Free transfer,in,Lithuania;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Marat Makhmutov,24,Right-Back,Shinnik,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Rimantas Žvingilas,26,Forward,KRC Harelbeke,?,in,Lithuania;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Mihai Dragus,26,Centre-Forward,Arges Pitesti,?,in,Romania;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Konstantin Zyryanov,22,Central Midfield,Amkar Perm,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Arsen Avakov,28,Centre-Forward,Lokomotiv NN,?,in,Tajikistan;Russia;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Pavlo Shkapenko,26,Attacking Midfield,Uralan,?,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Dmitri Vyazmikin,27,Centre-Forward,Lokomotiv NN,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Aleksandr Ignatjev,27,Right Midfield,Uralan,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Vyacheslav Kamoltsev,28,Centre-Forward,Kocaelispor,Loan,out,Russia;,0,Premier Liga,1999,1999/2000
+Torpedo Moscow,Serhii Skachenko,26,Centre-Forward,FC Metz,?,out,Ukraine;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Mihai Dragus,26,Centre-Forward,Lokomotiv NN,?,out,Romania;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Viktor Brovchenko,22,Midfielder,Nyva Vinnytsia,?,out,Ukraine;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Aleksandr Averyanov,30,Midfielder,Uralan,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Torpedo Moscow,Aleksey Snigirev,31,Forward,Pskov,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Anzhi Makhachkala,Predrag Randjelovic,22,Centre-Forward,Zvezdara,£117k,in,Serbia;,0.117,Premier Liga,1999,1999/2000
+Anzhi Makhachkala,Zehrudin Kavazovic,23,Centre-Forward,VfL Osnabrück,Free transfer,in,Bosnia-Herzegovina;,NA,Premier Liga,1999,1999/2000
+Anzhi Makhachkala,Dzenan Hosic,23,Centre-Back,FK Sarajevo,?,in,Bosnia-Herzegovina;,NA,Premier Liga,1999,1999/2000
+Anzhi Makhachkala,Aleksandr Zhidkov,34,Goalkeeper,Tzafririm Holon,?,in,Azerbaijan;Russia;,NA,Premier Liga,1999,1999/2000
+Anzhi Makhachkala,Sergey Nekrasov,26,Left-Back,Dinamo Moscow,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Anzhi Makhachkala,Aleksey Gudkov,27,Midfielder,Kristall,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Anzhi Makhachkala,Nebojša Stojkovic,25,Centre-Back,Pobeda Prilep,?,in,Serbia;,NA,Premier Liga,1999,1999/2000
+Anzhi Makhachkala,Aleksandr Gogoberishvili,22,Defensive Midfield,FC Locomotive,?,in,Georgia;,NA,Premier Liga,1999,1999/2000
+Anzhi Makhachkala,Rafael Zangionov,21,Attacking Midfield,Career break,-,in,Russia;,0,Premier Liga,1999,1999/2000
+Anzhi Makhachkala,Murad Ramazanov,20,Central Midfield,Anzhi U19,-,in,Azerbaijan;Russia;,0,Premier Liga,1999,1999/2000
+Anzhi Makhachkala,Paata Berishvili,26,Right Winger,Kuban Krasnodar,?,out,Russia;Georgia;,NA,Premier Liga,1999,1999/2000
+Anzhi Makhachkala,Arif Asadov,28,Defender,Neftchi Baku,?,out,Azerbaijan;,NA,Premier Liga,1999,1999/2000
+Dinamo Moscow,Viktor Voronkov,25,Central Midfield,Ventspils,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Dinamo Moscow,Aleksey Kozlov,24,Centre-Back,Uralan,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Dinamo Moscow,Armen Shahgeldyan,26,Centre-Forward,Lausanne-Sport,?,in,Armenia;,NA,Premier Liga,1999,1999/2000
+Dinamo Moscow,Anatoli Kanishchev,28,Centre-Forward,Spartak Moscow,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Dinamo Moscow,Aleksandr Kulchiy,26,Defensive Midfield,Shinnik,£135k,out,Belarus;Russia;,0.135,Premier Liga,1999,1999/2000
+Dinamo Moscow,Oleg Terekhin,29,Centre-Forward,Loko Moscow,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Dinamo Moscow,Nikolay Pisarev,31,Centre-Forward,Spartak Moscow,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Dinamo Moscow,Alexandru Popovici,22,Centre-Forward,Torpedo-ZiL,?,out,Moldova;Russia;,NA,Premier Liga,1999,1999/2000
+Dinamo Moscow,Evgeni Plotnikov,27,Goalkeeper,Amkar Perm,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Dinamo Moscow,Yuri Kuznetsov,25,Midfielder,Shinnik,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Dinamo Moscow,Sergey Nekrasov,26,Left-Back,Anzhi,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Dinamo Moscow,Andrey Samorukov,29,Goalkeeper,Saturn,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Dinamo Moscow,Sergey Temryukov,21,Centre-Back,PSV Eindhoven,"End of loanDec 1, 1999",out,Russia;Netherlands;,0,Premier Liga,1999,1999/2000
+Dinamo Moscow,Vladislav Radimov,24,Central Midfield,Real Zaragoza,"End of loanDec 1, 1999",out,Russia;,0,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Aleksandr Solop,28,Right-Back,Maccabi Netanya,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Denis Mashkarin,26,Centre-Back,Lotto-MKM Moskau,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Konstantin Kovalenko,24,Centre-Forward,Zhemchuzhina,?,in,Belarus;Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Evgeni Pchelintsev,23,Midfielder,Fabus Br.,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Sergey Lapshin,24,Central Midfield,Lotto-MKM Moskau,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Vladimir Kuzmichev,20,Left Winger,Spartak II,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Oleksandr Pryzetko,28,Defensive Midfield,Arsenal Tula,?,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Oleksandr Svystunov,26,Midfielder,Arsenal Tula,?,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Maksim Shevchenko,19,Midfielder,Neftekhimik,?,in,Kazakhstan;Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Andrey Nikolaev,22,Midfielder,Khimki,Loan,in,Russia;,0,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Leonid Lazaridi,19,Right-Back,Zhemchuzhina,?,in,Russia;Greece;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Serhii Snytko,24,Defensive Midfield,Shinnik,?,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Aleksey Kutsenko,26,Right Winger,Sokol Saratov,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Hans Eric Ekounga,18,Centre-Forward,Cotonsport,Free transfer,out,Cameroon;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Eduard Demin,25,Centre-Back,Torpedo-ZiL,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Vyacheslav Gerashchenko,27,Defender,CSKA Moscow,?,out,Belarus;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Sergey Burdin,28,Centre-Forward,Seongnam Ilhwa,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Aleksey Kutsenko,27,Right Winger,Arsenal Tula,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Aleksandr Solop,28,Right-Back,Volgar-Gazprom,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Oleksandr Shutov,24,Right Midfield,Slavia,?,out,Ukraine;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Konstantin Kamnev,27,Right Midfield,Torpedo-ZiL,?,out,Ukraine;Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Anatoli Vanzhula,24,Midfielder,Nosta,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Chernomorets Novorossijsk,Andrey Nikolaev,23,Midfielder,Khimki,"End of loanDec 31, 1999",out,Russia;,0,Premier Liga,1999,1999/2000
+Zenit St. Petersburg,Dmitri Borodin,22,Goalkeeper,St. Petersburg,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Zenit St. Petersburg,Yuri Yaskov,19,Forward,Kryvbas,?,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Zenit St. Petersburg,Maksim Demenko,23,Central Midfield,Zhemchuzhina,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Zenit St. Petersburg,Vyacheslav Malafeev,20,Goalkeeper,Zenit 2 S-Pb,-,in,Russia;,0,Premier Liga,1999,1999/2000
+Zenit St. Petersburg,Aleksey Katulskiy,22,Centre-Back,Zenit 2 S-Pb,-,in,Russia;,0,Premier Liga,1999,1999/2000
+Zenit St. Petersburg,Alexandru Curtianu,25,Attacking Midfield,Hamburger SV,"End of loanJun 30, 1999",in,Moldova;,0,Premier Liga,1999,1999/2000
+Zenit St. Petersburg,Oleksandr Babiy,31,Left-Back,Stal Alchevsk,Free transfer,out,Ukraine;,NA,Premier Liga,1999,1999/2000
+Zenit St. Petersburg,Igor Zazulin,25,Attacking Midfield,Fakel Voronezh,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Zenit St. Petersburg,Sergey Gerasimets,33,Second Striker,Zalgiris,?,out,Belarus;,NA,Premier Liga,1999,1999/2000
+Zenit St. Petersburg,Roman Maksymyuk,25,Left Midfield,Dynamo Kyiv,?,out,Ukraine;,NA,Premier Liga,1999,1999/2000
+Zenit St. Petersburg,Sergey Prikhodko,37,Goalkeeper,Retired,-,out,Russia;,0,Premier Liga,1999,1999/2000
+CSKA Moscow,Oleg Sischin,24,Right Midfield,Constructorul,£270k,in,Moldova;,0.27,Premier Liga,1999,1999/2000
+CSKA Moscow,Rustam Bulatov,25,Centre-Back,Rubin Kazan,Free transfer,in,Russia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Goran Gutalj,29,Centre-Forward,NS Mura,Free transfer,in,Serbia;Slovenia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Marek Holly,26,Defensive Midfield,Lokomotiv NN,?,in,Slovakia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Artem Enin,23,Central Midfield,Shinnik,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Albert Oskolkov,26,Centre-Back,Torpedo-ZiL,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Vadim Skripchenko,24,Left-Back,BATE Borisov,?,in,Belarus;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Stanislav Lysenko,27,Defensive Midfield,Rubin Kazan,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Maksim Nizovtsev,26,Left Midfield,Baltika,Loan,in,Kazakhstan;Russia;,0,Premier Liga,1999,1999/2000
+CSKA Moscow,Yuri Okroshidze,29,Goalkeeper,Rubin Kazan,?,in,Russia;Georgia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Vyacheslav Gerashchenko,27,Defender,Chernomorets N.,?,in,Belarus;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Aleksey Bychkov,27,Forward,Shinnik,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Igor Kutepov,34,Goalkeeper,Rostselmash,"End of loanDec 31, 1999",in,Ukraine;,0,Premier Liga,1999,1999/2000
+CSKA Moscow,Denis Evsikov,18,Left-Back,CSKA Moscow II,-,in,Russia;,0,Premier Liga,1999,1999/2000
+CSKA Moscow,Goran Gutalj,30,Centre-Forward,ND Gorica,Free transfer,out,Serbia;Slovenia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Dmitri Goncharov,24,Goalkeeper,Fakel Voronezh,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Aleksandr Gerasimov,29,Right Winger,KS Samara,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Denis Pervushin,22,Left Midfield,Slavia,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Viktor Navochenko,29,Midfielder,Saturn,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Aleksey Saveljev,22,Attacking Midfield,Lokomotiv NN,Loan,out,Russia;,0,Premier Liga,1999,1999/2000
+CSKA Moscow,Aleksandr Grishin,28,Central Midfield,Fakel Voronezh,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Aleksandr Borodkin,27,Centre-Back,Torpedo-ZiL,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+CSKA Moscow,Maksim Nizovtsev,27,Left Midfield,Baltika,"End of loanDec 31, 1999",out,Kazakhstan;Russia;,0,Premier Liga,1999,1999/2000
+Saturn Ramenskoe,Andrian Sosnovschi,22,Centre-Back,Spartak II,£68k,in,Moldova;Russia;,0.068,Premier Liga,1999,1999/2000
+Saturn Ramenskoe,Andrey Samorukov,29,Goalkeeper,Dinamo Moscow,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Saturn Ramenskoe,Andrey Movsesyan,24,Centre-Forward,Lokomotiv NN,?,in,Armenia;Russia;,NA,Premier Liga,1999,1999/2000
+Saturn Ramenskoe,Viktor Navochenko,29,Midfielder,CSKA Moscow,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Saturn Ramenskoe,Maksim Buznikin,22,Centre-Forward,Spartak Moscow,Loan,in,Russia;,0,Premier Liga,1999,1999/2000
+Saturn Ramenskoe,Andrey Ospeshinski,20,Centre-Forward,Smena Moskau,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Saturn Ramenskoe,Dmitriy Sokolov,17,Centre-Back,Tor-ZiL Moskau,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Saturn Ramenskoe,Vitali Veselov,26,Centre-Forward,Torpedo-ZiL,,in,Russia;,NA,Premier Liga,1999,1999/2000
+Saturn Ramenskoe,Andrey Ryabov,29,Right Midfield,Stavropol,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Saturn Ramenskoe,Mikhail Zubchuk,31,Centre-Forward,Fakel Voronezh,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Saturn Ramenskoe,Aleksandr Zhidkov,33,Central Midfield,Sokol Saratov,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Saturn Ramenskoe,Sergey Bodak,35,Defender,Retired,-,out,Russia;,0,Premier Liga,1999,1999/2000
+Saturn Ramenskoe,Maksim Buznikin,22,Centre-Forward,Spartak Moscow,"End of loanDec 1, 1999",out,Russia;,0,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Aleksandrs Isakovs,26,Centre-Back,Lokomotiv NN,Free transfer,in,Latvia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Levan Silagadze,23,Centre-Back,Skonto Riga,?,in,Georgia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Ali Alchagirov,33,Centre-Back,Spartak Nalchik,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Vitali Maevici,23,Defender,Uralan,?,in,Moldova;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Mirdzhalol Kasymov,28,Attacking Midfield,Pakhtakor,?,in,Uzbekistan;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Pavel Bugalo,25,Goalkeeper,Pakhtakor,?,in,Uzbekistan;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Mikhail Potskhveria,24,Forward,Shakhtar D.,?,in,Georgia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Serhiy Borysenko,25,Forward,Slo. Bratislava,?,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Aslan Datdeev,26,Centre-Back,Rostselmash,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Mikhail Ashvetia,22,Centre-Forward,Dinamo Tbilisi,?,in,Georgia;Russia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Gheorghe Stratulat,23,Midfielder,Dnipro,?,in,Moldova;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Georgi Botsiev,23,Attacking Midfield,Stavropol,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Ajibade Babalade,27,Centre-Back,Sturm Graz,?,in,Nigeria;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Jefferson Batista,23,Centre-Forward,Guarani,?,in,Brazil;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Alan Kusov,18,Left Midfield,Spartak II,-,in,Russia;,0,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Giorgi Demetradze,22,Centre-Forward,Dynamo Kyiv,£2.88m,out,Georgia;,2.88,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Mirdzhalol Kasymov,29,Attacking Midfield,KS Samara,?,out,Uzbekistan;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Edu,25,Centre-Forward,Sp.-Chukotka,?,out,Brazil;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Anatoli Kanishchev,27,Centre-Forward,Spartak Moscow,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Soso Grishikashvili,25,Goalkeeper,Dinamo Tbilisi,?,out,Georgia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Zaur Khapov,35,Goalkeeper,Loko Moscow,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Gia Chkhaidze,29,Defender,FC Locomotive,?,out,Georgia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Raimondas Zutautas,26,Defensive Midfield,Maccabi Haifa,?,out,Lithuania;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Konstantin Kovalenko,24,Centre-Forward,Zhemchuzhina,?,out,Belarus;Russia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Ara Hakobyan,18,Centre-Forward,Araks Ararat,?,out,Armenia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Oleg Kornienko,26,Centre-Back,FK Astana 1964,?,out,Kazakhstan;Russia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Jefferson Batista,23,Centre-Forward,Uralan,?,out,Brazil;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,Andrey Fedorov,28,Right-Back,Baltika,?,out,Uzbekistan;Russia;,NA,Premier Liga,1999,1999/2000
+Spartak Vladikavkaz,David Chichveishvili,24,Centre-Back,Dinamo Tbilisi,?,out,Georgia;,NA,Premier Liga,1999,1999/2000
+Rotor Volgograd,Roman Pavlyuchenko,18,Centre-Forward,Stavropol,£27k,in,Russia;,0.027,Premier Liga,1999,1999/2000
+Rotor Volgograd,Vladimir Niederhaus,31,Centre-Forward,Maccabi Herzliya,?,in,Russia;Germany;,NA,Premier Liga,1999,1999/2000
+Rotor Volgograd,Valeri Burlachenko,29,Centre-Back,Sokol Saratov,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Rotor Volgograd,Oleg Trifonov,18,Left Midfield,Stavropol,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Rotor Volgograd,Sergey Kopnin,22,Centre-Back,Rotor Vg. II,-,in,Russia;,0,Premier Liga,1999,1999/2000
+Rotor Volgograd,Evgeni Aldonin,19,Defensive Midfield,Rotor Vg. II,-,in,Russia;Ukraine;,0,Premier Liga,1999,1999/2000
+Rotor Volgograd,Roman Romanov,18,Centre-Back,Rotor Vg. II,-,in,Russia;,0,Premier Liga,1999,1999/2000
+Rotor Volgograd,Mikhail Mysin,20,Centre-Forward,Rotor Vg. II,-,in,Russia;,0,Premier Liga,1999,1999/2000
+Rotor Volgograd,Pavel Mogilevskiy,19,Right-Back,Rotor Vg. II,-,in,Russia;,0,Premier Liga,1999,1999/2000
+Rotor Volgograd,Oleg Veretennikov,29,Second Striker,Aris Saloniki,Free transfer,out,Russia;,NA,Premier Liga,1999,1999/2000
+Rotor Volgograd,Albert Borzenkov,26,Centre-Back,Sokol Saratov,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Rotor Volgograd,Platon Zakharchuk,27,Goalkeeper,Sokol Saratov,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Rotor Volgograd,Vladimir Niederhaus,32,Centre-Forward,FK Astana 1964,?,out,Russia;Germany;,NA,Premier Liga,1999,1999/2000
+Rotor Volgograd,Vitali Abramov,24,Attacking Midfield,Shakhtar D.,?,out,Kazakhstan;Russia;,NA,Premier Liga,1999,1999/2000
+Rotor Volgograd,Ilia Borodin,22,Centre-Forward,Stavropol,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Rotor Volgograd,Sergey Kopnin,22,Centre-Back,Rotor Vg. II,-,out,Russia;,0,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Valentyn Slyusar,21,Defensive Midfield,Obolon Kyiv,?,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Andrey Akopyants,22,Attacking Midfield,Pakhtakor,?,in,Uzbekistan;Russia;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Yuri Seleznev,24,Midfielder,Shakhtar D.,?,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Eugene Soppo,20,Goalkeeper,Unknown,?,in,Cameroon;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Ilia Blyzniuk,26,Goalkeeper,Dynamo 2 Kyiv,?,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Tadas Graziunas,21,Centre-Back,FC Flora,?,in,Lithuania;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Arturas Fomenka,22,Centre-Forward,Kareda Kaunas,?,in,Lithuania;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Sergey Lushchan,26,Right Midfield,KS Samara,?,in,Uzbekistan;Russia;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Samat Smakov,21,Defensive Midfield,Irtysh,?,in,Kazakhstan;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Aleksandr Baranov,25,Central Midfield,BATE Borisov,?,in,Belarus;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Anton Rogochiy,17,Centre-Back,Rostselmash II,-,in,Russia;,0,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Nikolay Shirshov,25,Right-Back,Pakhtakor,,in,Uzbekistan;Russia;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Aleksandr Vladimirov,22,Goalkeeper,St. Petersburg,Free transfer,out,Russia;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Igor Bakhtin,26,Central Midfield,Amkar Perm,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Bohdan Yesyp,21,Second Striker,Zirka,?,out,Ukraine;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Sergey Nechay,30,Centre-Back,Stavropol,?,out,Russia;Ukraine;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Oleg Pestryakov,25,Left Midfield,Shakhtar D.,?,out,Ukraine;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Aleksey Gushchin,28,Right-Back,Torpedo-ZiL,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Aslan Datdeev,26,Centre-Back,Spartak V-kavkaz,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Valentyn Slyusar,22,Defensive Midfield,Zakarpattia,?,out,Ukraine;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Yuri Dudnyk,31,Midfielder,Metalurh Z.,?,out,Ukraine;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Oleg Sanko,29,Attacking Midfield,Lokomotiv NN,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Rostselmash Rostov,Igor Kutepov,34,Goalkeeper,CSKA Moscow,"End of loanDec 31, 1999",out,Ukraine;,0,Premier Liga,1999,1999/2000
+Fakel Voronezh,Dmitri Goncharov,24,Goalkeeper,CSKA Moscow,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Serhii Yakovenko,24,Midfielder,Amkar Perm,?,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Mikhail Zubchuk,31,Centre-Forward,Saturn,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Qurban Qurbanov,27,Centre-Forward,Baltika,?,in,Azerbaijan;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Maksim Povorov,22,Right-Back,Kristall,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Igor Zazulin,25,Attacking Midfield,Zenit S-Pb,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Aleksandr Grishin,28,Central Midfield,CSKA Moscow,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Andrey Kovalenko,29,Midfielder,Arsenal Tula,?,in,Belarus;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Aleksandr Cherkes,23,Right-Back,Unknown,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Vitali Safronov,26,Attacking Midfield,Baltika,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Vladislav Matvienko,31,Central Midfield,Unknown,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Vladimir Zinich,30,Centre-Forward,Z. Ostrogozhsk,Free transfer,out,Russia;Ukraine;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Mikhail Zubchuk,31,Centre-Forward,Torpedo NN,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Igor Ermakov,22,Central Midfield,M. Lipetsk,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Aleksey Shiyanov,26,Goalkeeper,Khimki,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Maksim Vasiljev,24,Centre-Back,Loko Liski,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Aleksandr Kudryashov,25,Centre-Back,Volgar-Gazprom,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Yuri Shishkin,36,Goalkeeper,Sp.-Chukotka,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Aleksandr Cherkes,22,Right-Back,Unknown,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Vitali Elsukov,26,Midfielder,Zvezda Serpukho,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Fakel Voronezh,Aleksandr Shchegolev,27,Right-Back,Spartak Moscow,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Anton Bober,17,Attacking Midfield,KamAZ,Free transfer,in,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Oleksandr Kiryukhin,25,Defender,Dynamo Kyiv,Free transfer,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Sergey Ignashevich,20,Centre-Back,Znamya Truda,Free transfer,in,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Alexandr Khvostunov,25,Right-Back,Pakhtakor,?,in,Uzbekistan;Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Ognjen Lakic,21,Central Midfield,Hajduk Kula,?,in,Serbia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Andrey Konovalov,24,Central Midfield,Sokol Saratov,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Mirdzhalol Kasymov,29,Attacking Midfield,Spartak V-kavkaz,?,in,Uzbekistan;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Vladimir Shunejko,25,Defensive Midfield,Dnepr-Transmash,?,in,Belarus;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Aleksandr Gerasimov,29,Right Winger,CSKA Moscow,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Evgeni Ivanov,19,Centre-Back,Loko Kaluga,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Konstantin Kaynov,22,Central Midfield,Fabus Br.,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Aleksandr Borodyuk,37,Centre-Forward,Torpedo-ZiL,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Gennadi Strikalov,30,Goalkeeper,Stavropol,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Oleksii Osipov,24,Central Midfield,SK Tavriya,?,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Sergey Mitin,19,Central Midfield,Loko Kaluga,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Aleksandr Nikulin,20,Left Midfield,Lada Togliatti,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Mamuka Minashvili,27,Centre-Forward,Chkalovets-1936,?,out,Georgia;Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Vasili Slobodko,26,Goalkeeper,Volgar-Gazprom,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Vitali Safronov,26,Attacking Midfield,Baltika,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Zurab Popkhadze,27,Defender,Lokomotiv NN,?,out,Georgia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Sergey Shishkin,26,Right-Back,Uralan,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Artur Mkrtchyan,26,Defender,MIKA Aschtarak,?,out,Armenia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Andrey Nikolaev,22,Midfielder,Khimki,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Vasili Kulkov,33,Centre-Back,Alverca,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Yurii Sak,32,Defensive Midfield,Chornomorets,?,out,Ukraine;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Aleksandr Gerasimov,29,Right Winger,Lyubertsy,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Sergey Lushchan,26,Right Midfield,Rostselmash,?,out,Uzbekistan;Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Sergey Lapshin,24,Central Midfield,Lotto-MKM Moskau,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Serhii Shmatovalenko,32,Centre-Back,Sheriff,?,out,Ukraine;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Sergey Kulichenko,21,Centre-Forward,KV Mechelen,?,out,Russia;Kazakhstan;,NA,Premier Liga,1999,1999/2000
+Krylya Sovetov Samara,Ramiz Mamedov,26,Left-Back,Dynamo Kyiv,,out,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Aleksandrs Isakovs,25,Centre-Back,Din. Daugavpils,Free transfer,in,Latvia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Aleksey Rogachev,20,Goalkeeper,Unknown,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Nikolai Ryndyuk,21,Centre-Forward,BATE Borisov,?,in,Belarus;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Oleg Sanko,29,Attacking Midfield,Rostselmash,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Zurab Popkhadze,27,Defender,KS Samara,?,in,Georgia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Arsen Tlekhugov,23,Centre-Forward,Spartak Nalchik,?,in,Kazakhstan;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Viktor Brovchenko,23,Midfielder,Nyva Vinnytsia,?,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Vasyl Mazur,29,Sweeper,Sokol Saratov,?,in,Ukraine;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Gocha Gogrichiani,34,Forward,Zhemchuzhina,?,in,Georgia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Aleksey Saveljev,22,Attacking Midfield,CSKA Moscow,Loan,in,Russia;,0,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Dmitri Gradilenko,30,Defender,Zhemchuzhina,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Mihai Dragus,26,Centre-Forward,Torpedo Moscow,?,in,Romania;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Marek Holly,25,Defensive Midfield,Sigma Olomouc,?,in,Slovakia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Gennadi Nizhegorodov,22,Centre-Back,Loko Moscow,Free transfer,out,Russia;Ukraine;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Andrey Talalaev,26,Centre-Forward,Tom Tomsk,Free transfer,out,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Aleksandrs Isakovs,26,Centre-Back,Spartak V-kavkaz,Free transfer,out,Latvia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Richard Höger,26,Midfielder,Tzafririm Holon,?,out,Slovakia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Aleksandr Lipko,24,Centre-Back,Shinnik,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Marek Holly,26,Defensive Midfield,CSKA Moscow,?,out,Slovakia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Dmitri Kuznetsov,34,Right Midfield,Sokol Saratov,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Oleg Garin,32,Centre-Forward,Uralan,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Andrey Movsesyan,24,Centre-Forward,Saturn,?,out,Armenia;Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Dmitri Vyazmikin,27,Centre-Forward,Torpedo Moscow,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Gocha Gogrichiani,35,Forward,Zhemchuzhina,?,out,Georgia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Karel Urbanek,27,Defender,FK Jablonec,?,out,Czech Republic;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Artur Petrosyan,27,Central Midfield,Shirak Gyumri,?,out,Armenia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Vladimir Tatarchuk,33,Left Midfield,Sokol Saratov,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Arsen Avakov,28,Centre-Forward,Torpedo Moscow,?,out,Tajikistan;Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Aleksandr Tsarenko,32,Right Midfield,Energetik Uren,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Lokomotiv Nizhniy Novgorod,Aleksey Gerasimov,26,Centre-Forward,Torpedo-ZiL,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Oleksii Khramtsov,24,Centre-Back,Prykarpattia,Free transfer,in,Ukraine;Russia;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Oleg Garin,32,Centre-Forward,Lokomotiv NN,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Vidas Dancenka,25,Forward,Kareda Kaunas,?,in,Lithuania;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Jefferson Batista,23,Centre-Forward,Spartak V-kavkaz,?,in,Brazil;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Júnior,21,Central Midfield,Santa Cruz,?,in,Brazil;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Garnik Avalyan,36,Centre-Forward,Shinnik,?,in,Armenia;Russia;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Sergey Shishkin,26,Right-Back,KS Samara,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Aleksandr Averyanov,30,Midfielder,Torpedo Moscow,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Vyacheslav Vishnevskiy,21,Right Winger,Tom Tomsk,?,in,Russia;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Artur Voskanyan,22,Defensive Midfield,Araks Ararat,?,in,Armenia;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Vitali Maevici,23,Defender,Sheriff,?,in,Moldova;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Eduard Uchurov,19,Defensive Midfield,K.Prohladny,"End of loanDec 1, 1999",in,Russia;,0,Premier Liga,1999,1999/2000
+Uralan Elista,Dmitri Andreev,19,Centre-Back,Ur. Elista U19,-,in,Russia;,0,Premier Liga,1999,1999/2000
+Uralan Elista,Oleg Garin,33,Centre-Forward,Lada Togliatti,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Yuri Aksenov,26,Defender,FK Astana 1964,?,out,Russia;Kazakhstan;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Pavlo Shkapenko,26,Attacking Midfield,Torpedo Moscow,?,out,Ukraine;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Dmitri Alekseev,26,Goalkeeper,Shinnik,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Aleksandr Ignatjev,27,Right Midfield,Torpedo Moscow,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Vyacheslav Vishnevskiy,22,Right Winger,Baltika,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Aleksey Kozlov,24,Centre-Back,Dinamo Moscow,?,out,Russia;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Vitali Maevici,23,Defender,Spartak V-kavkaz,?,out,Moldova;,NA,Premier Liga,1999,1999/2000
+Uralan Elista,Mikhail Lunin,21,Attacking Midfield,KRC Harelbeke,?,out,Russia;,NA,Premier Liga,1999,1999/2000

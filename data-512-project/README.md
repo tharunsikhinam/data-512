@@ -48,9 +48,16 @@ Data collection and analysis procedure is recorded in this [IPython Notebook](./
 - The rise TV rights revenue can be an explanation for the rise in Premier League Transfer Spending (https://www.usatoday.com/story/sports/soccer/2019/05/21/english-premier-league-broadcast-rights-rise-to-12-billion/39500789/) 
 ###  <b>Q2. Which clubs spent the most and received the most transfer fee on players from 2010-2018?</b>
 Which clubs spent the most on players from 2010-2018?
-![Visualization](./images/q21.png)
+![Visualization](./images/q21.png)   
+
+
 Which clubs received the highest transfer fees on players from 2010-2018?
 ![Visualization](./images/q22.png)
+
+### Results
+- The highest spending clubs are Manchester City, Chelsea and PSG. It would be interesting to know how the transfer trends have changed for these three clubs (explored in q5)
+- The club with highest transfer fees received is Monaco a relatively small club from Ligue 1 (France). We also notice Benfica another club from Liga Nos (Portugal) that receives high transfer fees. This goes to show that the club spending the highest doesn't necessarily sell their players for a high value
+- 4 of the top 10 highest spending clubs are from the English Premier League, which leads us into the next question.
 
 ### <b> Q3. How have transfers fees moved betwen the leagues from 2010-2018? </b> . 
 League with highest imports - Premier League (England)
@@ -60,9 +67,8 @@ League with highest imports - Premier League (England)
 League with highest exports - La Liga (Spain)
 ![Visualization](./images/q32.png)
 ### Results
-- The highest spending clubs are Manchester City, Chelsea and PSG. It would be interesting to know how the transfer trends have changed for these three clubs (explored in q5)
-- The club with highest transfer fees received is Monaco a relatively small club from Ligue 1 (France). We also notice Benfica another club from Liga Nos (Portugal) that receives high transfer fees. This goes to show that the club spending the highest doesn't necessarily sell their players for a high value
-- 4 of the top 10 highest spending clubs are from the English Premier League, which leads us into the next question. 
+- The league importing the maximum talent is the English Premier League. This also explains the high transfer spending in that league.
+- The league exporting most talent is La Liga (Spain). The Spanish League exports players to nearly all leagues with the highest being to English Premier League.  
 
 ### <b> Q4. How has the wealth gap changed amongst the European elite? </b>
 ![Visualization](./images/q4.png)

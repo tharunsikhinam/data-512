@@ -38,7 +38,6 @@ This dataset consists of all transfers in the European football market from 1991
 ## IV. Folder structure
 ```
 .
-├── A4_\ Project\ Proposal.pdf
 ├── A4_Project_Proposal.md
 ├── A5_Project_Plan.md
 ├── Data-512-Analysis.ipynb

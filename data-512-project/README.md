@@ -35,6 +35,34 @@ This dataset consists of all transfers in the European football market from 1991
 
 <b>Ethical considerations:</b> Player names and ages have been removed from the dataset and will not be used as part of the analysis. This analysis doesn't aim to disrespect any player or country. The results of the analysis are aimed at the governing bodies of different leagues and sport lawmakers. Individual clubs are singled out over the analysis.
 
+## IV. Folder structure
+```
+.
+├── A4_\ Project\ Proposal.pdf
+├── A4_Project_Proposal.md
+├── A5_Project_Plan.md
+├── Data-512-Analysis.ipynb
+├── README.md
+├── cleanData
+│   ├── allSeasons.csv
+│   ├── allSeasonsClean.csv
+│   ├── inflation.csv
+│   └── transfers.db
+├── images
+│   ├── q1.png
+│   ├── q21.png
+│   ├── q22.png
+│   ├── q31.png
+│   ├── q32.png
+│   ├── q4.png
+│   └── q5.png
+├── rawData
+│   └── {league_name}_{year}.csv     
+└── scrapingScripts
+    ├── 00-setup.R
+    └── 01-scrape.R
+```
+
 ## IV. Research Questions
 
 Data collection and analysis procedure is recorded in this [IPython Notebook](./Data-512-Analysis.ipynb)

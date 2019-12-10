@@ -1,0 +1,975 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,nat,fee_cleaned,league_name,year,season
+Cardiff City,Alan Lee,24,Centre-Forward,Rotherham,£1.08m,in,Ireland;,1.08,Championship,2003,2003/2004
+Cardiff City,Richard Langley,23,Attacking Midfield,QPR,£270k,in,Jamaica;England;,0.27,Championship,2003,2003/2004
+Cardiff City,Lee Bullock,22,Central Midfield,York City,£135k,in,England;,0.135,Championship,2003,2003/2004
+Cardiff City,Paul Parry,23,Left Midfield,Hereford Utd.,£104k,in,Wales;,0.104,Championship,2003,2003/2004
+Cardiff City,John Robinson,31,Midfielder,Charlton,Free transfer,in,Wales;Zimbabwe;,NA,Championship,2003,2003/2004
+Cardiff City,James Collins,19,Centre-Back,Cardiff U23,-,in,Wales;,0,Championship,2003,2003/2004
+Cardiff City,Tony Vidmar,33,Left-Back,Without Club,-,in,Australia;Italy;,0,Championship,2003,2003/2004
+Cardiff City,Mark Bonner,29,Defensive Midfield,Oldham Athletic,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Cardiff City,Andy Jordan,23,Defender,Hartlepool Utd.,Free transfer,out,Scotland;,NA,Championship,2003,2003/2004
+Cardiff City,Steve Jenkins,31,Defender,Notts County,Free transfer,out,Wales;,NA,Championship,2003,2003/2004
+Cardiff City,Gareth Ainsworth,30,Right Midfield,QPR,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Cardiff City,Leyton Maxwell,24,Central Midfield,Swansea,Free transfer,out,Wales;,NA,Championship,2003,2003/2004
+Cardiff City,Gethin Jones,21,Centre-Back,Merthyr Town,Free transfer,out,Wales;,NA,Championship,2003,2003/2004
+Cardiff City,Michael Simpkins,24,Defender,Rochdale,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Cardiff City,Derrick Hamilton,26,Midfielder,Grimsby Town,?,out,England;,NA,Championship,2003,2003/2004
+Cardiff City,Zhiyi Fan,33,Centre-Back,HK Rangers,?,out,China;,NA,Championship,2003,2003/2004
+Cardiff City,Andy Legg,36,Left-Back,Peterborough,?,out,Wales;,NA,Championship,2003,2003/2004
+Fulham FC,Collins John,18,Centre-Forward,FC Twente,£3.15m,in,Netherlands;Liberia;,3.15,Championship,2003,2003/2004
+Fulham FC,Ian Pearce,29,Centre-Back,West Ham,£1.44m,in,England;,1.44,Championship,2003,2003/2004
+Fulham FC,Moritz Volz,20,Right-Back,Arsenal,£900k,in,Germany;,0.9,Championship,2003,2003/2004
+Fulham FC,Brian McBride,31,Centre-Forward,Columbus Crew,£720k,in,United States;,0.72,Championship,2003,2003/2004
+Fulham FC,Mark Pembridge,32,Left Midfield,Everton,£675k,in,Wales;,0.675,Championship,2003,2003/2004
+Fulham FC,Mark Crossley,34,Goalkeeper,Middlesbrough,£675k,in,Wales;England;,0.675,Championship,2003,2003/2004
+Fulham FC,Liam Rosenior,19,Right-Back,Bristol City,£72k,in,England;Sierra Leone;,0.072,Championship,2003,2003/2004
+Fulham FC,Bobby Petta,29,Left Midfield,Celtic,Loan,in,Netherlands;Indonesia;,0,Championship,2003,2003/2004
+Fulham FC,Jérôme Bonnissel,29,Left-Back,Rangers,Free transfer,in,France;,NA,Championship,2003,2003/2004
+Fulham FC,Dave Beasant,44,Goalkeeper,Brighton,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Fulham FC,Carlos Bocanegra,23,Centre-Back,Chicago Fire,Free transfer,in,United States;Mexico;,NA,Championship,2003,2003/2004
+Fulham FC,Moritz Volz,20,Right-Back,Arsenal,Loan,in,Germany;,0,Championship,2003,2003/2004
+Fulham FC,Mark Hudson,21,Centre-Back,Fulham U23,-,in,England;,0,Championship,2003,2003/2004
+Fulham FC,Jon Harley,24,Left-Back,West Ham,"End of loanApr 1, 2004",in,England;,0,Championship,2003,2003/2004
+Fulham FC,Elvis Hammond,22,Centre-Forward,Norwich,"End of loanSep 1, 2003",in,Ghana;England;,0,Championship,2003,2003/2004
+Fulham FC,Malik Buari,19,Right Midfield,Fulham U18,-,in,Ghana;England;,0,Championship,2003,2003/2004
+Fulham FC,Dean Leacock,19,Centre-Back,Fulham U18,-,in,England;Barbados;,0,Championship,2003,2003/2004
+Fulham FC,Zesh Rehman,19,Centre-Back,Fulham U18,-,in,Pakistan;England;,0,Championship,2003,2003/2004
+Fulham FC,Maik Taylor,32,Goalkeeper,Birmingham,"End of loanMar 21, 2004",in,Northern Ireland;Germany;,0,Championship,2003,2003/2004
+Fulham FC,Calum Willock,21,Centre-Forward,Bristol Rovers,"End of loanSep 1, 2003",in,St. Kitts & Nevis;England;,0,Championship,2003,2003/2004
+Fulham FC,Liam Rosenior,19,Right-Back,Torquay United,"End of loanMay 1, 2004",in,England;Sierra Leone;,0,Championship,2003,2003/2004
+Fulham FC,Ross Flitney,19,Goalkeeper,Brighton,"End of loanOct 29, 2003",in,England;,0,Championship,2003,2003/2004
+Fulham FC,Mark Hudson,21,Centre-Back,Oldham Athletic,"End of loanDec 27, 2003",in,England;,0,Championship,2003,2003/2004
+Fulham FC,Zesh Rehman,20,Centre-Back,Brighton,"End of loanJan 10, 2004",in,Pakistan;England;,0,Championship,2003,2003/2004
+Fulham FC,Darren Pratley,18,Central Midfield,Fulham U18,-,in,England;Jamaica;,0,Championship,2003,2003/2004
+Fulham FC,Ross Flitney,19,Goalkeeper,Brighton,"End of loanJan 24, 2004",in,England;,0,Championship,2003,2003/2004
+Fulham FC,Ross Flitney,19,Goalkeeper,Fulham U18,-,in,England;,0,Championship,2003,2003/2004
+Fulham FC,Mark Hudson,22,Centre-Back,Crystal Palace,"End of loanApr 23, 2004",in,England;,0,Championship,2003,2003/2004
+Fulham FC,Mark Hudson,21,Centre-Back,Oldham Athletic,"End of loanOct 25, 2003",in,England;,0,Championship,2003,2003/2004
+Fulham FC,Adam Green,19,Left-Back,Fulham U18,-,in,England;,0,Championship,2003,2003/2004
+Fulham FC,Stuart Noble,20,Centre-Forward,Woking FC,"End of loanDec 31, 2003",in,Scotland;,0,Championship,2003,2003/2004
+Fulham FC,Stuart Noble,19,Centre-Forward,St. Johnstone,"End of loanJun 30, 2003",in,Scotland;,0,Championship,2003,2003/2004
+Fulham FC,Louis Saha,25,Centre-Forward,Man Utd,£15.75m,out,France;Guadeloupe;,15.75,Championship,2003,2003/2004
+Fulham FC,Steve Finnan,27,Right-Back,Liverpool,£4.73m,out,Ireland;,4.73,Championship,2003,2003/2004
+Fulham FC,Maik Taylor,32,Goalkeeper,Birmingham,£2.03m,out,Northern Ireland;Germany;,2.03,Championship,2003,2003/2004
+Fulham FC,Mark Hudson,21,Centre-Back,Oldham Athletic,Loan,out,England;,0,Championship,2003,2003/2004
+Fulham FC,Stuart Noble,20,Centre-Forward,Woking FC,Loan,out,Scotland;,0,Championship,2003,2003/2004
+Fulham FC,Maik Taylor,31,Goalkeeper,Birmingham,Loan,out,Northern Ireland;Germany;,0,Championship,2003,2003/2004
+Fulham FC,Liam Rosenior,19,Right-Back,Torquay United,Loan,out,England;Sierra Leone;,0,Championship,2003,2003/2004
+Fulham FC,Mark Hudson,21,Centre-Back,Oldham Athletic,Loan,out,England;,0,Championship,2003,2003/2004
+Fulham FC,Luke Cornwall,22,Centre-Forward,Bradford,Free transfer,out,England;Australia;,NA,Championship,2003,2003/2004
+Fulham FC,Ross Flitney,19,Goalkeeper,Brighton,Loan,out,England;,0,Championship,2003,2003/2004
+Fulham FC,Martín Herrera,32,Goalkeeper,Estudiantes,Loan,out,Argentina;,0,Championship,2003,2003/2004
+Fulham FC,Elvis Hammond,22,Centre-Forward,Norwich,Loan,out,Ghana;England;,0,Championship,2003,2003/2004
+Fulham FC,Jon Harley,24,Left-Back,West Ham,Loan,out,England;,0,Championship,2003,2003/2004
+Fulham FC,Ross Flitney,19,Goalkeeper,Brighton,Loan,out,England;,0,Championship,2003,2003/2004
+Fulham FC,Calum Willock,21,Centre-Forward,Bristol Rovers,Loan,out,St. Kitts & Nevis;England;,0,Championship,2003,2003/2004
+Fulham FC,Steve Marlet,29,Centre-Forward,Marseille,Loan,out,France;Martinique;,0,Championship,2003,2003/2004
+Fulham FC,Zesh Rehman,19,Centre-Back,Brighton,Loan,out,Pakistan;England;,0,Championship,2003,2003/2004
+Fulham FC,Bjarne Goldbaek,34,Central Midfield,RW Essen,Free transfer,out,Denmark;,NA,Championship,2003,2003/2004
+Fulham FC,Calum Willock,21,Centre-Forward,Peterborough,£36k,out,St. Kitts & Nevis;England;,0.036,Championship,2003,2003/2004
+Fulham FC,Abdeslam Ouaddou,24,Centre-Back,Stade Rennais,Loan,out,Morocco;France;,0,Championship,2003,2003/2004
+Fulham FC,Mark Hudson,21,Centre-Back,Crystal Palace,Loan,out,England;,0,Championship,2003,2003/2004
+Fulham FC,Andy Melville,34,Centre-Back,West Ham,?,out,Wales;,NA,Championship,2003,2003/2004
+Fulham FC,John Collins,35,Left Midfield,Retired,-,out,Scotland;,0,Championship,2003,2003/2004
+Fulham FC,Moritz Volz,20,Right-Back,Arsenal,"End of loanDec 1, 2003",out,Germany;,0,Championship,2003,2003/2004
+Fulham FC,Junichi Inamoto,24,Defensive Midfield,Gamba Osaka,"End of loanDec 31, 2003",out,Japan;,0,Championship,2003,2003/2004
+Fulham FC,Pierre Womé,24,Left-Back,Bologna,"End of loanJun 30, 2003",out,Cameroon;,0,Championship,2003,2003/2004
+Huddersfield Town,Pawel Abbott,21,Centre-Forward,Preston NE,£158k,in,Poland;England;,0.158,Championship,2003,2003/2004
+Huddersfield Town,Steve Yates,33,Defender,Sheffield Utd.,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Huddersfield Town,Rob Edwards,33,Left-Back,Chesterfield FC,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Huddersfield Town,Paul Rachubka,22,Goalkeeper,Charlton,Loan,in,England;United States;,0,Championship,2003,2003/2004
+Huddersfield Town,Lee Fowler,20,Central Midfield,Coventry,Free transfer,in,Wales;,NA,Championship,2003,2003/2004
+Huddersfield Town,Efe Sodje,30,Centre-Back,Crewe Alexandra,Free transfer,in,Nigeria;England;,NA,Championship,2003,2003/2004
+Huddersfield Town,Tyrone Thompson,21,Midfielder,Sheffield Utd.,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Huddersfield Town,Tony Carss,27,Midfielder,Oldham Athletic,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Huddersfield Town,Jon Newby,24,Centre-Forward,Bury,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Huddersfield Town,Iffy Onuora,36,Midfielder,Tranmere Rovers,Free transfer,in,Scotland;Nigeria;,NA,Championship,2003,2003/2004
+Huddersfield Town,Ian Gray,28,Goalkeeper,Rotherham,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Huddersfield Town,Ian Hughes,28,Defender,Blackpool,Free transfer,in,Wales;,NA,Championship,2003,2003/2004
+Huddersfield Town,Gary Harkins,19,Attacking Midfield,Blackburn,Loan,in,Scotland;,0,Championship,2003,2003/2004
+Huddersfield Town,Fola Onibuje,19,Centre-Forward,Preston NE,Loan,in,Nigeria;,0,Championship,2003,2003/2004
+Huddersfield Town,Paul Evans,30,Goalkeeper,Rush. & Diamon.,?,in,South Africa;Australia;,NA,Championship,2003,2003/2004
+Huddersfield Town,Andy Holdsworth,19,Defensive Midfield,Huddersf. U18,-,in,England;,0,Championship,2003,2003/2004
+Huddersfield Town,John McCombe,18,Centre-Back,Huddersf. U18,-,in,England;,0,Championship,2003,2003/2004
+Huddersfield Town,John McAliskey,18,Centre-Forward,Huddersf. U18,-,in,England;,0,Championship,2003,2003/2004
+Huddersfield Town,David Mirfin,18,Centre-Back,Huddersf. U18,-,in,England;,0,Championship,2003,2003/2004
+Huddersfield Town,Adnan Ahmed,19,Central Midfield,Huddersf. U18,-,in,Pakistan;England;,0,Championship,2003,2003/2004
+Huddersfield Town,Jon Stead,20,Centre-Forward,Blackburn,£1.69m,out,England;,1.69,Championship,2003,2003/2004
+Huddersfield Town,Thomas Heary,24,Centre-Back,Bohemians,Free transfer,out,Ireland;,NA,Championship,2003,2003/2004
+Huddersfield Town,Eddie Youds,33,Defender,Grays Athletic FC,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Huddersfield Town,Kevin Sharp,28,Left-Back,Scunthorpe Utd.,Free transfer,out,Canada;England;,NA,Championship,2003,2003/2004
+Huddersfield Town,Adie Moses,28,Centre-Back,Crewe Alexandra,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Huddersfield Town,Chris Senior,21,Centre-Forward,Scarborough,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Huddersfield Town,Simon Baldry,27,Right Winger,Notts County,?,out,England;,NA,Championship,2003,2003/2004
+Huddersfield Town,Gianfranco Labarthe,18,Centre-Forward,Derby,?,out,Peru;,NA,Championship,2003,2003/2004
+Huddersfield Town,Gareth Evans,22,Defender,Blackpool,?,out,England;,NA,Championship,2003,2003/2004
+Huddersfield Town,John Thorrington,24,Right Midfield,Grimsby Town,?,out,United States;South Africa;,NA,Championship,2003,2003/2004
+Huddersfield Town,Martin Smith,28,Centre-Forward,Northampt. Town,?,out,England;,NA,Championship,2003,2003/2004
+Huddersfield Town,Paul Macari,27,Forward,Retired,-,out,Scotland;,0,Championship,2003,2003/2004
+Huddersfield Town,Paul Rachubka,23,Goalkeeper,Charlton,"End of loanMay 31, 2004",out,England;United States;,0,Championship,2003,2003/2004
+Huddersfield Town,Fola Onibuje,19,Centre-Forward,Preston NE,"End of loanDec 1, 2003",out,Nigeria;,0,Championship,2003,2003/2004
+Huddersfield Town,Gary Harkins,19,Attacking Midfield,Blackburn,"End of loanMay 31, 2004",out,Scotland;,0,Championship,2003,2003/2004
+Huddersfield Town,Kenny Irons,32,Midfielder,Retired,-,out,England;,0,Championship,2003,2003/2004
+Huddersfield Town,Jon Dyson,31,Defender,Retired,-,out,England;,0,Championship,2003,2003/2004
+Leeds United,Roque Júnior,26,Centre-Back,Milan,Loan fee:£90k,in,Brazil;,0.09,Championship,2003,2003/2004
+Leeds United,Steven Caldwell,23,Centre-Back,Newcastle,Loan,in,Scotland;,0,Championship,2003,2003/2004
+Leeds United,Salomon Olembé,22,Left Midfield,Marseille,Loan,in,Cameroon;France;,0,Championship,2003,2003/2004
+Leeds United,Jermaine Pennant,20,Right Winger,Arsenal,Loan,in,England;Jamaica;,0,Championship,2003,2003/2004
+Leeds United,Jody Morris,24,Central Midfield,Chelsea,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Leeds United,Cyril Chapuis,24,Centre-Forward,Marseille,Loan,in,France;,0,Championship,2003,2003/2004
+Leeds United,Paul Harrison,19,Goalkeeper,Liverpool,Loan,in,England;,0,Championship,2003,2003/2004
+Leeds United,Didier Domi,25,Left-Back,Paris SG,Loan,in,France;Martinique;,0,Championship,2003,2003/2004
+Leeds United,Zoumana Camara,24,Centre-Back,Lens,Loan,in,France;Senegal;,0,Championship,2003,2003/2004
+Leeds United,Lamine Sakho,25,Left Winger,Marseille,Loan,in,Senegal;France;,0,Championship,2003,2003/2004
+Leeds United,Paul Okon,31,Defensive Midfield,Vicenza,"End of loanJan 31, 2004",in,Australia;Belgium;,0,Championship,2003,2003/2004
+Leeds United,Michael Bridges,25,Centre-Forward,Newcastle,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+Leeds United,Stephen McPhail,23,Left Midfield,Nottm Forest,"End of loanNov 26, 2003",in,Ireland;England;,0,Championship,2003,2003/2004
+Leeds United,Scott Carson,17,Goalkeeper,Leeds U18,-,in,England;,0,Championship,2003,2003/2004
+Leeds United,Andy Keogh,17,Centre-Forward,Leeds U18,-,in,Ireland;,0,Championship,2003,2003/2004
+Leeds United,Shaun Allaway,20,Goalkeeper,Walsall,"End of loanJan 24, 2004",in,England;,0,Championship,2003,2003/2004
+Leeds United,Danny Mills,26,Right-Back,Middlesbrough,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+Leeds United,Matthew Kilgallon,19,Centre-Back,West Ham,"End of loanNov 1, 2003",in,England;,0,Championship,2003,2003/2004
+Leeds United,Frazer Richardson,21,Right-Back,Stoke City,"End of loanDec 10, 2003",in,England;,0,Championship,2003,2003/2004
+Leeds United,Martin Woods,17,Central Midfield,Leeds U18,-,in,Scotland;,0,Championship,2003,2003/2004
+Leeds United,Nick Barmby,30,Left Midfield,Nottm Forest,"End of loanMar 1, 2004",in,England;,0,Championship,2003,2003/2004
+Leeds United,James Milner,17,Central Midfield,Swindon Town,"End of loanOct 2, 2003",in,England;,0,Championship,2003,2003/2004
+Leeds United,Harpal Singh,22,Left Midfield,Bury,"End of loanMay 1, 2004",in,India;England;,0,Championship,2003,2003/2004
+Leeds United,Harpal Singh,22,Left Midfield,Bury,"End of loanNov 1, 2003",in,India;England;,0,Championship,2003,2003/2004
+Leeds United,Aaron Lennon,16,Right Winger,Leeds U18,-,in,England;Ireland;,0,Championship,2003,2003/2004
+Leeds United,Shaun Allaway,20,Goalkeeper,Reading,"End of loanJun 30, 2003",in,England;,0,Championship,2003,2003/2004
+Leeds United,Olivier Dacourt,28,Defensive Midfield,AS Roma,"End of loanJun 30, 2003",in,France;Guadeloupe;,0,Championship,2003,2003/2004
+Leeds United,Harry Kewell,24,Left Winger,Liverpool,£9.00m,out,Australia;England;,9,Championship,2003,2003/2004
+Leeds United,Olivier Dacourt,28,Defensive Midfield,AS Roma,£4.73m,out,France;Guadeloupe;,4.73,Championship,2003,2003/2004
+Leeds United,Nigel Martyn,37,Goalkeeper,Everton,£720k,out,England;,0.72,Championship,2003,2003/2004
+Leeds United,Jamie McMaster,21,Central Midfield,Chesterfield FC,Loan,out,Australia;England;,0,Championship,2003,2003/2004
+Leeds United,Michael Bridges,25,Centre-Forward,Newcastle,Loan,out,England;,0,Championship,2003,2003/2004
+Leeds United,Matthew Kilgallon,19,Centre-Back,West Ham,Loan,out,England;,0,Championship,2003,2003/2004
+Leeds United,Jody Morris,25,Central Midfield,Rotherham,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Leeds United,Harpal Singh,21,Left Midfield,Bury,Loan,out,India;England;,0,Championship,2003,2003/2004
+Leeds United,Frazer Richardson,21,Right-Back,Stoke City,Loan,out,England;,0,Championship,2003,2003/2004
+Leeds United,Paul Okon,31,Defensive Midfield,KV Oostende,Free transfer,out,Australia;Belgium;,NA,Championship,2003,2003/2004
+Leeds United,Tom Newey,20,Left-Back,Leyton Orient,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Leeds United,Harpal Singh,22,Left Midfield,Bury,Loan,out,India;England;,0,Championship,2003,2003/2004
+Leeds United,Stephen McPhail,23,Left Midfield,Nottm Forest,Loan,out,Ireland;England;,0,Championship,2003,2003/2004
+Leeds United,James Milner,17,Central Midfield,Swindon Town,Loan,out,England;,0,Championship,2003,2003/2004
+Leeds United,Paul Keegan,19,Central Midfield,Scunthorpe Utd.,Loan,out,Ireland;,0,Championship,2003,2003/2004
+Leeds United,Shaun Allaway,20,Goalkeeper,Walsall,Loan,out,England;,0,Championship,2003,2003/2004
+Leeds United,Nick Barmby,29,Left Midfield,Nottm Forest,Loan,out,England;,0,Championship,2003,2003/2004
+Leeds United,Danny Mills,26,Right-Back,Middlesbrough,Loan,out,England;,0,Championship,2003,2003/2004
+Leeds United,Shane Cansdell-Sherriff,20,Centre-Back,Aarhus GF,£27k,out,Australia;,0.027,Championship,2003,2003/2004
+Leeds United,Paul Okon,31,Defensive Midfield,Vicenza,Loan,out,Australia;Belgium;,0,Championship,2003,2003/2004
+Leeds United,Steven Caldwell,23,Centre-Back,Newcastle,"End of loanMay 1, 2004",out,Scotland;,0,Championship,2003,2003/2004
+Leeds United,Lamine Sakho,26,Left Winger,Marseille,"End of loanMay 1, 2004",out,Senegal;France;,0,Championship,2003,2003/2004
+Leeds United,Salomon Olembé,23,Left Midfield,Marseille,"End of loanMay 1, 2004",out,Cameroon;France;,0,Championship,2003,2003/2004
+Leeds United,Roque Júnior,27,Centre-Back,Milan,"End of loanDec 1, 2003",out,Brazil;,0,Championship,2003,2003/2004
+Leeds United,Didier Domi,25,Left-Back,Paris SG,"End of loanMay 1, 2004",out,France;Martinique;,0,Championship,2003,2003/2004
+Leeds United,Jermaine Pennant,21,Right Winger,Arsenal,"End of loanMay 31, 2004",out,England;Jamaica;,0,Championship,2003,2003/2004
+Leeds United,Cyril Chapuis,24,Centre-Forward,Marseille,"End of loanJan 6, 2004",out,France;,0,Championship,2003,2003/2004
+Leeds United,Jacob Burns,25,Defensive Midfield,Without Club,-,out,Australia;,0,Championship,2003,2003/2004
+Leeds United,Teddy Lucic,30,Centre-Back,AIK,"End of loanJun 30, 2003",out,Sweden;Croatia;,0,Championship,2003,2003/2004
+Leeds United,Raúl Bravo,22,Centre-Back,Real Madrid,"End of loanJun 30, 2003",out,Spain;,0,Championship,2003,2003/2004
+West Bromwich Albion,Geoff Horsfield,30,Centre-Forward,Wigan,£1.35m,in,England;,1.35,Championship,2003,2003/2004
+West Bromwich Albion,Rob Hulse,23,Centre-Forward,Crewe Alexandra,£1.13m,in,England;,1.13,Championship,2003,2003/2004
+West Bromwich Albion,Bernt Haas,25,Right-Back,Sunderland,£990k,in,Switzerland;Austria;,0.99,Championship,2003,2003/2004
+West Bromwich Albion,Thomas Gaardsöe,24,Centre-Back,Ipswich,£720k,in,Denmark;,0.72,Championship,2003,2003/2004
+West Bromwich Albion,Paul Robinson,24,Centre-Back,Watford,£338k,in,England;,0.338,Championship,2003,2003/2004
+West Bromwich Albion,Artim Sakiri,29,Left Midfield,CSKA Sofia,£270k,in,North Macedonia;,0.27,Championship,2003,2003/2004
+West Bromwich Albion,Sekou Berthé,25,Centre-Back,Troyes,Free transfer,in,Mali;,NA,Championship,2003,2003/2004
+West Bromwich Albion,Mark Kinsella,31,Defensive Midfield,Aston Villa,Free transfer,in,Ireland;,NA,Championship,2003,2003/2004
+West Bromwich Albion,Kevin Pressman,36,Goalkeeper,Sheff Wed,Loan,in,England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Simon Miotto,34,Goalkeeper,St. Johnstone,Free transfer,in,Australia;Italy;,NA,Championship,2003,2003/2004
+West Bromwich Albion,Morten Skoubo,23,Centre-Forward,Bor. M'gladbach,Loan,in,Denmark;,0,Championship,2003,2003/2004
+West Bromwich Albion,Delroy Facey,23,Centre-Forward,Bolton,Free transfer,in,Grenada;England;,NA,Championship,2003,2003/2004
+West Bromwich Albion,Joost Volmer,29,Centre-Back,AZ Alkmaar,?,in,Netherlands;,NA,Championship,2003,2003/2004
+West Bromwich Albion,James O'Connor,23,Central Midfield,Stoke City,?,in,Ireland;,NA,Championship,2003,2003/2004
+West Bromwich Albion,Alassane N'Dour,21,Defensive Midfield,Saint-Étienne,Loan,in,Senegal;,0,Championship,2003,2003/2004
+West Bromwich Albion,Adam Chambers,23,Defensive Midfield,Sheff Wed,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Lee Marshall,25,Central Midfield,Hull City,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Lloyd Dyer,21,Left Midfield,Kidderminster,"End of loanDec 31, 2003",in,England;Montserrat;,0,Championship,2003,2003/2004
+West Bromwich Albion,Simon Brown,20,Midfielder,Kidderminster,"End of loanApr 1, 2004",in,England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Danny Dichio,29,Centre-Forward,Derby,"End of loanNov 1, 2003",in,England;Italy;,0,Championship,2003,2003/2004
+West Bromwich Albion,Ronnie Wallwork,26,Central Midfield,Bradford,"End of loanMar 1, 2004",in,England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Jason Roberts,25,Centre-Forward,Portsmouth,"End of loanDec 1, 2003",in,Grenada;England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Jason Roberts,25,Centre-Forward,Wigan,£1.89m,out,Grenada;England;,1.89,Championship,2003,2003/2004
+West Bromwich Albion,Ifeanyi Udeze,22,Left-Back,PAOK Salonika,£225k,out,Nigeria;,0.225,Championship,2003,2003/2004
+West Bromwich Albion,Danny Dichio,29,Centre-Forward,Millwall,£198k,out,England;Italy;,0.198,Championship,2003,2003/2004
+West Bromwich Albion,Mark Scott,20,Defender,Redditch,Free transfer,out,England;,NA,Championship,2003,2003/2004
+West Bromwich Albion,Lee Marshall,24,Central Midfield,Hull City,Loan,out,England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Bob Taylor,36,Centre-Forward,Cheltenham,Free transfer,out,England;,NA,Championship,2003,2003/2004
+West Bromwich Albion,Adam Chambers,23,Defensive Midfield,Sheff Wed,Loan,out,England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Mark Briggs,21,Central Midfield,Herfölge BK,Free transfer,out,England;,NA,Championship,2003,2003/2004
+West Bromwich Albion,Chris Adamson,24,Goalkeeper,St. Patricks,Free transfer,out,England;,NA,Championship,2003,2003/2004
+West Bromwich Albion,Danny Dichio,28,Centre-Forward,Derby,Loan,out,England;Italy;,0,Championship,2003,2003/2004
+West Bromwich Albion,Simon Brown,20,Midfielder,Kidderminster,Loan,out,England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Lloyd Dyer,20,Left Midfield,Kidderminster,Loan,out,England;Montserrat;,0,Championship,2003,2003/2004
+West Bromwich Albion,Ronnie Wallwork,26,Central Midfield,Bradford,Loan,out,England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Jason Roberts,25,Centre-Forward,Portsmouth,Loan,out,Grenada;England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Brian Jensen,28,Goalkeeper,Burnley,Free transfer,out,Denmark;,NA,Championship,2003,2003/2004
+West Bromwich Albion,Derek McInnes,31,Defensive Midfield,Dundee United,Free transfer,out,Scotland;,NA,Championship,2003,2003/2004
+West Bromwich Albion,Phil Gilchrist,30,Centre-Back,Rotherham,Loan,out,England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Igor Balis,33,Right-Back,Dunajska Streda,?,out,Slovakia;,NA,Championship,2003,2003/2004
+West Bromwich Albion,Des Lyttle,31,Defender,Without Club,-,out,England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Jordão,31,Defensive Midfield,Without Club,-,out,Portugal;,0,Championship,2003,2003/2004
+West Bromwich Albion,Michael Appleton,28,Midfielder,Retired,-,out,England;,0,Championship,2003,2003/2004
+West Bromwich Albion,Kevin Pressman,36,Goalkeeper,Sheff Wed,"End of loanFeb 27, 2004",out,England;,0,Championship,2003,2003/2004
+Derby County,Michael Johnson,29,Centre-Back,Birmingham,£203k,in,Jamaica;England;,0.203,Championship,2003,2003/2004
+Derby County,Ian Taylor,35,Midfielder,Aston Villa,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Derby County,Marco Reich,26,Left Midfield,Werder Bremen,Free transfer,in,Germany;,NA,Championship,2003,2003/2004
+Derby County,Jamie Vincent,28,Left-Back,Portsmouth,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Derby County,Jeff Kenna,33,Right-Back,Birmingham,Free transfer,in,Ireland;,NA,Championship,2003,2003/2004
+Derby County,Rob Edwards,21,Centre-Back,Aston Villa,Loan,in,Wales;,0,Championship,2003,2003/2004
+Derby County,Mathias Svensson,28,Centre-Forward,Charlton,Loan,in,Sweden;,0,Championship,2003,2003/2004
+Derby County,Noel Whelan,29,Centre-Forward,Millwall,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Derby County,Júnior,27,Centre-Forward,Walsall,Free transfer,in,Brazil;,NA,Championship,2003,2003/2004
+Derby County,Lee Bradbury,28,Centre-Forward,Portsmouth,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Derby County,Peter Kennedy,30,Left-Back,Wigan,Loan,in,Northern Ireland;,0,Championship,2003,2003/2004
+Derby County,Leon Osman,22,Central Midfield,Everton,Loan,in,England;,0,Championship,2003,2003/2004
+Derby County,Paul Peschisolido,32,Centre-Forward,Sheffield Utd.,Free transfer,in,Canada;Italy;,NA,Championship,2003,2003/2004
+Derby County,Gary Caldwell,21,Centre-Back,Newcastle,Loan,in,Scotland;,0,Championship,2003,2003/2004
+Derby County,Danny Dichio,28,Centre-Forward,West Brom,Loan,in,England;Italy;,0,Championship,2003,2003/2004
+Derby County,Dave Walton,30,Centre-Back,Crewe Alexandra,?,in,England;,NA,Championship,2003,2003/2004
+Derby County,Candido Costa,22,Right Midfield,FC Porto,Loan,in,Portugal;,0,Championship,2003,2003/2004
+Derby County,Gianfranco Labarthe,18,Centre-Forward,Huddersfield,?,in,Peru;,NA,Championship,2003,2003/2004
+Derby County,Lee Holmes,16,Left Winger,Derby U18,-,in,England;,0,Championship,2003,2003/2004
+Derby County,Chris Palmer,20,Left Midfield,Hereford Utd.,"End of loanFeb 18, 2004",in,England;,0,Championship,2003,2003/2004
+Derby County,Fahrudin Kuduzovic,18,Attacking Midfield,Derby U18,-,in,Bosnia-Herzegovina;England;,0,Championship,2003,2003/2004
+Derby County,Adam Murray,21,Central Midfield,Kidderminster,"End of loanSep 1, 2003",in,England;,0,Championship,2003,2003/2004
+Derby County,Gary Twigg,20,Centre-Forward,Bristol Rovers,"End of loanMay 1, 2004",in,Scotland;,0,Championship,2003,2003/2004
+Derby County,Tom Huddlestone,16,Defensive Midfield,Derby U18,-,in,England;,0,Championship,2003,2003/2004
+Derby County,Lee Camp,19,Goalkeeper,Burton Albion,"End of loanFeb 1, 2004",in,Northern Ireland;England;,0,Championship,2003,2003/2004
+Derby County,Gary Twigg,19,Centre-Forward,Burton Albion,"End of loanMar 1, 2004",in,Scotland;,0,Championship,2003,2003/2004
+Derby County,Lee Camp,19,Goalkeeper,QPR,"End of loanMay 1, 2004",in,Northern Ireland;England;,0,Championship,2003,2003/2004
+Derby County,Paul Boertien,25,Left-Back,Notts County,"End of loanFeb 1, 2004",in,England;,0,Championship,2003,2003/2004
+Derby County,Izale McLeod,19,Centre-Forward,Sheffield Utd.,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+Derby County,Malcolm Christie,24,Right Winger,Middlesbrough,£4.05m,out,England;,4.05,Championship,2003,2003/2004
+Derby County,Lee Morris,23,Centre-Forward,Leicester,£162k,out,England;,0.162,Championship,2003,2003/2004
+Derby County,Warren Barton,34,Right-Back,QPR,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Derby County,Dave Walton,30,Centre-Back,Stockport,Loan,out,England;,0,Championship,2003,2003/2004
+Derby County,Ian Evatt,21,Centre-Back,Chesterfield FC,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Derby County,Matt O'Halloran,20,Midfielder,Oldham Athletic,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Derby County,Lee Bradbury,28,Centre-Forward,Walsall,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Derby County,Lewis Hunt,21,Right-Back,Southend United,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Derby County,Paul Boertien,24,Left-Back,Notts County,Loan,out,England;,0,Championship,2003,2003/2004
+Derby County,Barry Molloy,20,Central Midfield,Drogheda United,Free transfer,out,Northern Ireland;Ireland;,NA,Championship,2003,2003/2004
+Derby County,Adam Murray,21,Central Midfield,Kidderminster,Loan,out,England;,0,Championship,2003,2003/2004
+Derby County,Lee Camp,19,Goalkeeper,QPR,Loan,out,Northern Ireland;England;,0,Championship,2003,2003/2004
+Derby County,Steve Elliott,25,Centre-Back,Blackpool,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Derby County,Craig Burley,31,Attacking Midfield,Dundee FC,Free transfer,out,Scotland;,NA,Championship,2003,2003/2004
+Derby County,Chris Palmer,20,Left Midfield,Hereford Utd.,Loan,out,England;,0,Championship,2003,2003/2004
+Derby County,Rob Lee,37,Central Midfield,West Ham,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Derby County,Lee Camp,19,Goalkeeper,Burton Albion,Loan,out,Northern Ireland;England;,0,Championship,2003,2003/2004
+Derby County,Izale McLeod,19,Centre-Forward,Sheffield Utd.,Loan,out,England;,0,Championship,2003,2003/2004
+Derby County,Gary Twigg,19,Centre-Forward,Burton Albion,Loan,out,Scotland;,0,Championship,2003,2003/2004
+Derby County,Gary Twigg,20,Centre-Forward,Bristol Rovers,Loan,out,Scotland;,0,Championship,2003,2003/2004
+Derby County,Adam Murray,22,Central Midfield,Notts County,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Derby County,Branko Strupar,33,Centre-Forward,Dinamo Zagreb,Free transfer,out,Belgium;Croatia;,NA,Championship,2003,2003/2004
+Derby County,Luciano Zavagno,26,Left-Back,Ancona,?,out,Argentina;Italy;,NA,Championship,2003,2003/2004
+Derby County,Rob Edwards,21,Centre-Back,Aston Villa,"End of loanMay 1, 2004",out,Wales;,0,Championship,2003,2003/2004
+Derby County,Danny Dichio,29,Centre-Forward,West Brom,"End of loanNov 1, 2003",out,England;Italy;,0,Championship,2003,2003/2004
+Derby County,Fabrizio Ravanelli,34,Centre-Forward,Without Club,-,out,Italy;,0,Championship,2003,2003/2004
+Derby County,Gary Caldwell,21,Centre-Back,Newcastle,"End of loanOct 7, 2003",out,Scotland;,0,Championship,2003,2003/2004
+Derby County,Leon Osman,22,Central Midfield,Everton,"End of loanMay 10, 2004",out,England;,0,Championship,2003,2003/2004
+Derby County,Peter Kennedy,30,Left-Back,Wigan,"End of loanDec 1, 2003",out,Northern Ireland;,0,Championship,2003,2003/2004
+Derby County,Giorgi Kinkladze,29,Attacking Midfield,Without Club,-,out,Georgia;,0,Championship,2003,2003/2004
+Derby County,Mathias Svensson,29,Centre-Forward,Charlton,"End of loanDec 31, 2003",out,Sweden;,0,Championship,2003,2003/2004
+Derby County,Paul Ritchie,27,Centre-Back,Man City,"End of loanJun 30, 2003",out,Scotland;,0,Championship,2003,2003/2004
+Middlesbrough FC,Malcolm Christie,24,Right Winger,Derby,£4.05m,in,England;,4.05,Championship,2003,2003/2004
+Middlesbrough FC,Gaizka Mendieta,29,Right Midfield,Lazio,Loan fee:£3.15m,in,Spain;,3.15,Championship,2003,2003/2004
+Middlesbrough FC,Ricardinho,27,Attacking Midfield,São Paulo,£1.80m,in,Brazil;Italy;,1.8,Championship,2003,2003/2004
+Middlesbrough FC,Doriva,31,Right Midfield,Celta de Vigo,£180k,in,Brazil;Italy;,0.18,Championship,2003,2003/2004
+Middlesbrough FC,Danny Mills,26,Right-Back,Leeds,Loan,in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Carlo Nash,30,Goalkeeper,Man City,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Middlesbrough FC,Alan Wright,31,Left-Back,Aston Villa,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Middlesbrough FC,Boudewijn Zenden,26,Left Winger,Chelsea,Loan,in,Netherlands;,0,Championship,2003,2003/2004
+Middlesbrough FC,Danny Graham,18,Centre-Forward,Darlington,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Phil Gulliver,21,Centre-Back,Bury,"End of loanDec 1, 2003",in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Danny Graham,17,Centre-Forward,Boro U18,-,in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,David Murphy,20,Left-Back,Barnsley FC,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Sam Russell,20,Goalkeeper,Scunthorpe Utd.,"End of loanOct 1, 2003",in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Stewart Downing,18,Left Midfield,Boro U18,-,in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Stewart Downing,19,Left Midfield,Sunderland,"End of loanDec 11, 2003",in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Ross Turnbull,18,Goalkeeper,Boro U18,-,in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Gary Smith,19,Central Midfield,Boro U18,-,in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Phil Gulliver,21,Centre-Back,Scunthorpe Utd.,"End of loanFeb 1, 2004",in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Brad Jones,21,Goalkeeper,Rotherham,"End of loanSep 1, 2003",in,Australia;England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Ross Turnbull,19,Goalkeeper,Barnsley FC,"End of loanMay 9, 2004",in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Ross Turnbull,18,Goalkeeper,Darlington,"End of loanNov 20, 2003",in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Brian Close,21,Right-Back,Boro U21,-,in,Northern Ireland;,0,Championship,2003,2003/2004
+Middlesbrough FC,Brad Jones,21,Goalkeeper,Blackpool,"End of loanDec 1, 2003",in,Australia;England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Carlos Marinelli,21,Attacking Midfield,Torino,"End of loanJul 1, 2003",in,Argentina;Italy;,0,Championship,2003,2003/2004
+Middlesbrough FC,Allan Johnston,29,Right Midfield,Sheff Wed,"End of loanJun 30, 2003",in,Scotland;,0,Championship,2003,2003/2004
+Middlesbrough FC,Sam Russell,20,Goalkeeper,Darlington,"End of loanJun 30, 2003",in,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Mark Crossley,34,Goalkeeper,Fulham,£675k,out,Wales;England;,0.675,Championship,2003,2003/2004
+Middlesbrough FC,Luke Wilkshire,21,Right-Back,Bristol City,£338k,out,Australia;United Kingdom;,0.338,Championship,2003,2003/2004
+Middlesbrough FC,Craig Dove,20,Midfielder,York City,Loan,out,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Phil Gulliver,21,Centre-Back,Scunthorpe Utd.,Loan,out,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Brad Jones,21,Goalkeeper,Rotherham,Loan,out,Australia;England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Brian Close,22,Right-Back,Darlington,Free transfer,out,Northern Ireland;,NA,Championship,2003,2003/2004
+Middlesbrough FC,Stewart Downing,19,Left Midfield,Sunderland,Loan,out,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Gary Smith,20,Central Midfield,Wimbledon FC,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Middlesbrough FC,Ross Turnbull,18,Goalkeeper,Darlington,Loan,out,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Noel Whelan,28,Centre-Forward,Millwall,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Middlesbrough FC,Robbie Stockdale,24,Right-Back,West Ham,Loan,out,Scotland;England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Phil Gulliver,21,Centre-Back,Bury,Loan,out,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Danny Graham,18,Centre-Forward,Darlington,Loan,out,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Brad Jones,21,Goalkeeper,Blackpool,Loan,out,Australia;England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Jamie Cade,19,Right Winger,Colchester Utd.,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Middlesbrough FC,Colin Cooper,36,Left-Back,Sunderland,Loan,out,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Sam Russell,20,Goalkeeper,Scunthorpe Utd.,Loan,out,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,David Murphy,20,Left-Back,Barnsley FC,Loan,out,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Alan Wright,32,Left-Back,Sheffield Utd.,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Middlesbrough FC,Ross Turnbull,19,Goalkeeper,Barnsley FC,Loan,out,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Arthuro,20,Centre-Forward,Racing,?,out,Brazil;Italy;,NA,Championship,2003,2003/2004
+Middlesbrough FC,Carlos Marinelli,21,Attacking Midfield,Boca Juniors,?,out,Argentina;Italy;,NA,Championship,2003,2003/2004
+Middlesbrough FC,Jason Gavin,23,Defender,Bradford,?,out,Ireland;,NA,Championship,2003,2003/2004
+Middlesbrough FC,Tony Vidmar,32,Left-Back,Without Club,-,out,Australia;Italy;,0,Championship,2003,2003/2004
+Middlesbrough FC,Danny Mills,26,Right-Back,Leeds,"End of loanMay 1, 2004",out,England;,0,Championship,2003,2003/2004
+Middlesbrough FC,Alen Boksic,33,Centre-Forward,Retired,-,out,Croatia;,0,Championship,2003,2003/2004
+Middlesbrough FC,Doriva,31,Right Midfield,Celta de Vigo,"End of loanJun 30, 2003",out,Brazil;Italy;,0,Championship,2003,2003/2004
+Bristol City,Lee Miller,20,Centre-Forward,Falkirk FC,£405k,in,Scotland;,0.405,Championship,2003,2003/2004
+Bristol City,Luke Wilkshire,21,Right-Back,Middlesbrough,£338k,in,Australia;United Kingdom;,0.338,Championship,2003,2003/2004
+Bristol City,Scott Murray,29,Right Midfield,Reading,£180k,in,Scotland;,0.18,Championship,2003,2003/2004
+Bristol City,Marc Goodfellow,22,Right Midfield,Stoke City,£59k,in,England;,0.059,Championship,2003,2003/2004
+Bristol City,Michael Symons,16,Centre-Forward,Barnstaple Town,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Bristol City,Anthony Rougier,32,Midfielder,Brentford,?,in,Trinidad and Tobago;,NA,Championship,2003,2003/2004
+Bristol City,Kevin Amankwaah,21,Right-Back,Cheltenham,"End of loanOct 1, 2003",in,England;Ghana;,0,Championship,2003,2003/2004
+Bristol City,Lee Matthews,24,Central Midfield,Darlington,"End of loanDec 31, 2003",in,England;,0,Championship,2003,2003/2004
+Bristol City,Sekani Simpson,20,Right-Back,Forest Green,"End of loanMay 5, 2004",in,England;,0,Championship,2003,2003/2004
+Bristol City,Darren Hawkins,19,Right Winger,Bristol City U18,-,in,England;,0,Championship,2003,2003/2004
+Bristol City,Darren Jones,20,Centre-Back,Cheltenham,"End of loanNov 25, 2003",in,Wales;,0,Championship,2003,2003/2004
+Bristol City,Darren Hawkins,20,Right Winger,Bath City,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+Bristol City,Scott Murray,29,Right Midfield,Reading,£878k,out,Scotland;,0.878,Championship,2003,2003/2004
+Bristol City,Liam Rosenior,19,Right-Back,Fulham,£72k,out,England;Sierra Leone;,0.072,Championship,2003,2003/2004
+Bristol City,Peter Beadle,31,Forward,Brentford,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Bristol City,Darren Hawkins,19,Right Winger,Bath City,Loan,out,England;,0,Championship,2003,2003/2004
+Bristol City,Sekani Simpson,19,Right-Back,Forest Green,Loan,out,England;,0,Championship,2003,2003/2004
+Bristol City,Darren Jones,19,Centre-Back,Cheltenham,Loan,out,Wales;,0,Championship,2003,2003/2004
+Bristol City,Robin Hulbert,23,Defensive Midfield,Telford Utd,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Bristol City,Darren Jones,20,Centre-Back,Newport County,Free transfer,out,Wales;,NA,Championship,2003,2003/2004
+Bristol City,Kevin Amankwaah,21,Right-Back,Cheltenham,Loan,out,England;Ghana;,0,Championship,2003,2003/2004
+Bristol City,Lee Matthews,24,Central Midfield,Darlington,Loan,out,England;,0,Championship,2003,2003/2004
+Bristol City,Simon Clist,22,Left Midfield,Barnet,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Bristol City,Ben Cleverley,21,Midfielder,Cheltenham,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Bristol City,Antoine Hey,32,Right Midfield,Without Club,-,out,Germany;,0,Championship,2003,2003/2004
+Bristol City,Keith Millen,36,Defender,Retired,-,out,England;,0,Championship,2003,2003/2004
+Nottingham Forest,Marlon King,23,Centre-Forward,Gillingham FC,£1.26m,in,Jamaica;England;,1.26,Championship,2003,2003/2004
+Nottingham Forest,Gareth Taylor,30,Centre-Forward,Burnley,£675k,in,Wales;,0.675,Championship,2003,2003/2004
+Nottingham Forest,David Tarka,20,Centre-Back,Perth Glory,£90k,in,Australia;Croatia;,0.09,Championship,2003,2003/2004
+Nottingham Forest,Nick Barmby,29,Left Midfield,Leeds,Loan,in,England;,0,Championship,2003,2003/2004
+Nottingham Forest,James Beaumont,18,Defensive Midfield,Newcastle U18,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Nottingham Forest,Ross Gardner,18,Midfielder,Newcastle U18,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Nottingham Forest,Danny Sonner,31,Defensive Midfield,Walsall,Free transfer,in,Northern Ireland;England;,NA,Championship,2003,2003/2004
+Nottingham Forest,Michael Chopra,20,Centre-Forward,Newcastle,Loan,in,England;,0,Championship,2003,2003/2004
+Nottingham Forest,Stephen McPhail,23,Left Midfield,Leeds,Loan,in,Ireland;England;,0,Championship,2003,2003/2004
+Nottingham Forest,Michael Stewart,22,Central Midfield,Man Utd,Loan,in,Scotland;,0,Championship,2003,2003/2004
+Nottingham Forest,Brynjar Gunnarsson,27,Defensive Midfield,Stoke City,Free transfer,in,Iceland;,NA,Championship,2003,2003/2004
+Nottingham Forest,Alan Rogers,27,Left-Back,Leicester,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Nottingham Forest,Paul Evans,29,Central Midfield,Bradford,£36k,in,Wales;England;,0.036,Championship,2003,2003/2004
+Nottingham Forest,Gregor Robertson,19,Left-Back,Nottingham U18,-,in,Scotland;,0,Championship,2003,2003/2004
+Nottingham Forest,James Biggins,18,Right-Back,Nottingham U18,-,in,England;,0,Championship,2003,2003/2004
+Nottingham Forest,Scott Tynan,20,Goalkeeper,Telford Utd,"End of loanFeb 1, 2004",in,England;,0,Championship,2003,2003/2004
+Nottingham Forest,Andy Haskins,19,Midfielder,Nottingham U18,-,in,England;,0,Championship,2003,2003/2004
+Nottingham Forest,James Perch,17,Right-Back,Nottingham U18,-,in,England;Jamaica;,0,Championship,2003,2003/2004
+Nottingham Forest,Chris Doig,22,Centre-Back,Northampt. Town,"End of loanOct 26, 2003",in,Scotland;,0,Championship,2003,2003/2004
+Nottingham Forest,Brynjar Gunnarsson,28,Defensive Midfield,Stoke City,"End of loanMay 1, 2004",in,Iceland;,0,Championship,2003,2003/2004
+Nottingham Forest,Mickaël Antoine-Curier,20,Centre-Forward,Brentford,"End of loanJun 30, 2003",in,Guadeloupe;France;,0,Championship,2003,2003/2004
+Nottingham Forest,Marlon Harewood,24,Centre-Forward,West Ham,£675k,out,England;Barbados;,0.675,Championship,2003,2003/2004
+Nottingham Forest,Riccardo Scimeca,28,Centre-Back,Leicester,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Nottingham Forest,Andy Reid,18,Goalkeeper,Motherwell FC,Free transfer,out,Scotland;,NA,Championship,2003,2003/2004
+Nottingham Forest,Chris Doig,22,Centre-Back,Northampt. Town,Loan,out,Scotland;,0,Championship,2003,2003/2004
+Nottingham Forest,Pascal Formann,21,Goalkeeper,Grantham,Loan,out,Germany;,0,Championship,2003,2003/2004
+Nottingham Forest,Brynjar Gunnarsson,28,Defensive Midfield,Stoke City,Loan,out,Iceland;,0,Championship,2003,2003/2004
+Nottingham Forest,Jack Lester,27,Centre-Forward,Sheffield Utd.,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Nottingham Forest,Mickaël Antoine-Curier,20,Centre-Forward,Oldham Athletic,Free transfer,out,Guadeloupe;France;,NA,Championship,2003,2003/2004
+Nottingham Forest,Scott Tynan,20,Goalkeeper,Telford Utd,Loan,out,England;,0,Championship,2003,2003/2004
+Nottingham Forest,Jim Brennan,26,Left Midfield,Norwich,Free transfer,out,Canada;Scotland;,NA,Championship,2003,2003/2004
+Nottingham Forest,Jon Olav Hjelde,30,Centre-Back,Pusan I'Cons,Free transfer,out,Norway;,NA,Championship,2003,2003/2004
+Nottingham Forest,Stephen McPhail,23,Left Midfield,Leeds,"End of loanNov 26, 2003",out,Ireland;England;,0,Championship,2003,2003/2004
+Nottingham Forest,Nick Barmby,30,Left Midfield,Leeds,"End of loanMar 1, 2004",out,England;,0,Championship,2003,2003/2004
+Nottingham Forest,Michael Chopra,20,Centre-Forward,Newcastle,"End of loanMar 7, 2004",out,England;,0,Championship,2003,2003/2004
+Swansea City,Lee Trundle,26,Centre-Forward,Wrexham,Free transfer,in,England;Ireland;,NA,Championship,2003,2003/2004
+Swansea City,Leon Britton,20,Central Midfield,West Ham U21,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Swansea City,Andy Robinson,23,Left Midfield,Tranmere Rovers,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Swansea City,Stuart Roberts,23,Forward,Wycombe,Free transfer,in,Wales;,NA,Championship,2003,2003/2004
+Swansea City,Anthony Williams,26,Goalkeeper,Hartlepool Utd.,Loan,in,Wales;,0,Championship,2003,2003/2004
+Swansea City,Izzy Iriekpen,21,Centre-Back,West Ham,Free transfer,in,England;Nigeria;,NA,Championship,2003,2003/2004
+Swansea City,Kevin Austin,30,Centre-Back,Bristol Rovers,Free transfer,in,Trinidad and Tobago;England;,NA,Championship,2003,2003/2004
+Swansea City,Alan Tate,21,Centre-Back,Man Utd,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Swansea City,Alan Tate,21,Centre-Back,Man Utd,Loan,in,England;,0,Championship,2003,2003/2004
+Swansea City,Lee Fieldwick,21,Defender,Brentford,Loan,in,England;,0,Championship,2003,2003/2004
+Swansea City,Shaun Byrne,22,Left-Back,West Ham,Loan,in,Ireland;,0,Championship,2003,2003/2004
+Swansea City,Leyton Maxwell,24,Central Midfield,Cardiff,Free transfer,in,Wales;,NA,Championship,2003,2003/2004
+Swansea City,Brian Murphy,20,Goalkeeper,Man City Res.,Free transfer,in,Ireland;,NA,Championship,2003,2003/2004
+Swansea City,Paul Connor,24,Forward,Rochdale,£45k,in,England;,0.045,Championship,2003,2003/2004
+Swansea City,Karl Connolly,33,Left Winger,QPR,?,in,Wales;,NA,Championship,2003,2003/2004
+Swansea City,Richard Duffy,17,Centre-Back,Swansea U18,-,in,Wales;,0,Championship,2003,2003/2004
+Swansea City,Ryan Harrison,17,Goalkeeper,Swansea U21,-,in,England;,0,Championship,2003,2003/2004
+Swansea City,Shaun MacDonald,15,Central Midfield,Swansea U18,-,in,Wales;,0,Championship,2003,2003/2004
+Swansea City,Kyle Letheren,15,Goalkeeper,Swansea U18,-,in,Wales;,0,Championship,2003,2003/2004
+Swansea City,Richard Duffy,18,Centre-Back,Portsmouth,£405k,out,Wales;,0.405,Championship,2003,2003/2004
+Swansea City,John Williams,35,Centre-Forward,Kidderminster,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Swansea City,Neil Sharp,25,Centre-Back,Woking FC,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Swansea City,Bari Morgan,22,Midfielder,Aberystwyth,?,out,Wales;,NA,Championship,2003,2003/2004
+Swansea City,Terry Evans,27,Right-Back,Newport County,?,out,Wales;,NA,Championship,2003,2003/2004
+Swansea City,Kieron Durkan,30,Midfielder,Caernarfon Town,?,out,Ireland;,NA,Championship,2003,2003/2004
+Swansea City,Jamie Wood,24,Forward,The New Saints,?,out,Cayman-Inseln;England;,NA,Championship,2003,2003/2004
+Swansea City,Alan Tate,21,Centre-Back,Man Utd,"End of loanDec 29, 2003",out,England;,0,Championship,2003,2003/2004
+Swansea City,Lee Fieldwick,21,Defender,Brentford,"End of loanMay 9, 2004",out,England;,0,Championship,2003,2003/2004
+Swansea City,Anthony Williams,26,Goalkeeper,Hartlepool Utd.,"End of loanDec 1, 2003",out,Wales;,0,Championship,2003,2003/2004
+Swansea City,Shaun Byrne,23,Left-Back,West Ham,"End of loanMar 1, 2004",out,Ireland;,0,Championship,2003,2003/2004
+Swansea City,David Smith,35,Attacking Midfield,Retired,-,out,England;,0,Championship,2003,2003/2004
+Swansea City,Leon Britton,20,Central Midfield,West Ham U21,"End of loanJun 1, 2003",out,England;,0,Championship,2003,2003/2004
+Brentford FC,Tommy Wright,19,Centre-Forward,Leicester,Loan,in,England;,0,Championship,2003,2003/2004
+Brentford FC,Matt Harrold,18,Centre-Forward,Harlow,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Brentford FC,Peter Beadle,31,Forward,Bristol City,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Brentford FC,Ben May,19,Centre-Forward,Millwall,Loan,in,England;,0,Championship,2003,2003/2004
+Brentford FC,Joel Kitamirike,19,Centre-Back,Chelsea,Loan,in,Uganda;England;,0,Championship,2003,2003/2004
+Brentford FC,Danny Naisbitt,24,Goalkeeper,Harlow,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Brentford FC,Tommy Wright,18,Centre-Forward,Leicester,Loan,in,England;,0,Championship,2003,2003/2004
+Brentford FC,Stuart Nelson,22,Goalkeeper,Hucknall Town FC,£14k,in,England;,0.014,Championship,2003,2003/2004
+Brentford FC,Alex Rhodes,21,Centre-Forward,Unknown,£9k,in,England;,0.009,Championship,2003,2003/2004
+Brentford FC,Jani Viander,28,Goalkeeper,Plymouth,?,in,Finland;,NA,Championship,2003,2003/2004
+Brentford FC,Jide Olugbodi,25,Centre-Forward,A. Lustenau,?,in,Nigeria;,NA,Championship,2003,2003/2004
+Brentford FC,Ronnie Bull,23,Left-Back,Millwall,Loan,in,England;,0,Championship,2003,2003/2004
+Brentford FC,Anthony Rougier,31,Midfielder,Reading,?,in,Trinidad and Tobago;,NA,Championship,2003,2003/2004
+Brentford FC,Lloyd Blackman,20,Forward,Cambridge City,"End of loanMay 9, 2004",in,England;,0,Championship,2003,2003/2004
+Brentford FC,Lloyd Blackman,20,Forward,Scarborough,"End of loanOct 19, 2003",in,England;,0,Championship,2003,2003/2004
+Brentford FC,Lloyd Blackman,20,Forward,Chelmsford City,"End of loanNov 30, 2003",in,England;,0,Championship,2003,2003/2004
+Brentford FC,Lee Fieldwick,21,Defender,Swansea,"End of loanMay 9, 2004",in,England;,0,Championship,2003,2003/2004
+Brentford FC,Jay Tabb,19,Left Midfield,Crawley Town,"End of loanJun 1, 2003",in,Ireland;England;,0,Championship,2003,2003/2004
+Brentford FC,Paul Smith,24,Goalkeeper,Southampton,£675k,out,England;,0.675,Championship,2003,2003/2004
+Brentford FC,Peter Beadle,31,Forward,Barnet,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Brentford FC,Leo Roget,26,Defender,Rush. & Diamon.,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Brentford FC,Lloyd Blackman,20,Forward,Chelmsford City,Loan,out,England;,0,Championship,2003,2003/2004
+Brentford FC,Lee Fieldwick,21,Defender,Swansea,Loan,out,England;,0,Championship,2003,2003/2004
+Brentford FC,Martin Rowlands,24,Central Midfield,QPR,Free transfer,out,Ireland;England;,NA,Championship,2003,2003/2004
+Brentford FC,Leon Constantine,25,Centre-Forward,Southend United,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Brentford FC,Scott Marshall,30,Centre-Back,Wycombe,Free transfer,out,Scotland;,NA,Championship,2003,2003/2004
+Brentford FC,Lloyd Blackman,20,Forward,Cambridge City,Loan,out,England;,0,Championship,2003,2003/2004
+Brentford FC,Danny Naisbitt,25,Goalkeeper,Cambridge City,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Brentford FC,Jay Lovett,25,Centre-Back,Farnborough,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Brentford FC,Bobby Traynor,20,Centre-Forward,Crawley Town,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Brentford FC,Lloyd Blackman,19,Forward,Scarborough,Loan,out,England;,0,Championship,2003,2003/2004
+Brentford FC,Jamie Fullarton,28,Midfielder,Southend United,Free transfer,out,Scotland;,NA,Championship,2003,2003/2004
+Brentford FC,Jani Viander,28,Goalkeeper,FC Ashdod,?,out,Finland;,NA,Championship,2003,2003/2004
+Brentford FC,Anthony Rougier,32,Midfielder,Bristol City,?,out,Trinidad and Tobago;,NA,Championship,2003,2003/2004
+Brentford FC,Efan Ekoku,36,Centre-Forward,Retired,-,out,Nigeria;England;,0,Championship,2003,2003/2004
+Brentford FC,Ronnie Bull,23,Left-Back,Millwall,"End of loanMay 1, 2004",out,England;,0,Championship,2003,2003/2004
+Brentford FC,Jide Olugbodi,26,Centre-Forward,Retired,-,out,Nigeria;,0,Championship,2003,2003/2004
+Brentford FC,Ben May,20,Centre-Forward,Millwall,"End of loanMay 13, 2004",out,England;,0,Championship,2003,2003/2004
+Brentford FC,Tommy Wright,19,Centre-Forward,Leicester,"End of loanMay 9, 2004",out,England;,0,Championship,2003,2003/2004
+Brentford FC,Tommy Wright,19,Centre-Forward,Leicester,"End of loanNov 20, 2003",out,England;,0,Championship,2003,2003/2004
+Brentford FC,Joel Kitamirike,20,Centre-Back,Chelsea,"End of loanMay 1, 2004",out,Uganda;England;,0,Championship,2003,2003/2004
+Brentford FC,Mickaël Antoine-Curier,20,Centre-Forward,Nottm Forest,"End of loanJun 30, 2003",out,Guadeloupe;France;,0,Championship,2003,2003/2004
+Sheffield Wednesday,David Lucas,25,Goalkeeper,Preston NE,£135k,in,England;,0.135,Championship,2003,2003/2004
+Sheffield Wednesday,Guylain Ndumbu-Nsungu,20,Forward,SC Amiens,Free transfer,in,France;DR Congo;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Adam Chambers,23,Defensive Midfield,West Brom,Loan,in,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Mark Robins,33,Centre-Forward,Rotherham,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Chris Brunt,19,Left Midfield,Boro U18,Free transfer,in,Northern Ireland;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Graeme Lee,25,Centre-Back,Hartlepool Utd.,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Eric Nixon,40,Goalkeeper,Tranmere Rovers,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Richard Evans,20,Left Winger,Birmingham,Free transfer,in,Wales;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Mickaël Antoine-Curier,20,Centre-Forward,Rochdale,Free transfer,in,Guadeloupe;France;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Paul Smith,27,Right Winger,Hartlepool Utd.,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Robbie Mustoe,34,Central Midfield,Charlton,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Kim Olsen,24,Centre-Forward,FC Midtjylland,£27k,in,Denmark;,0.027,Championship,2003,2003/2004
+Sheffield Wednesday,Terry Cooke,26,Right Midfield,Grimsby Town,?,in,England;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Ola Tidman,24,Goalkeeper,Stockport,?,in,Sweden;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Mark Burchill,23,Centre-Forward,Portsmouth,Loan,in,Scotland;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Michael Reddy,23,Centre-Forward,Sunderland,Loan,in,Ireland;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Leigh Bromby,23,Right-Back,Norwich,"End of loanDec 31, 2003",in,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Craig Armstrong,28,Left Midfield,Grimsby Town,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Jon Shaw,20,Centre-Forward,York City,"End of loanDec 31, 2003",in,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Richard Wood,17,Centre-Back,Sheff Wed U18,-,in,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Lewis McMahon,18,Midfielder,Sheff Wed U18,-,in,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Alan Quinn,24,Central Midfield,Sunderland,"End of loanDec 31, 2003",in,Ireland;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Kevin Pressman,36,Goalkeeper,West Brom,"End of loanFeb 27, 2004",in,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Trond Soltvedt,37,Attacking Midfield,Hovding IL,Free transfer,out,Norway;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Craig Armstrong,28,Left Midfield,Grimsby Town,Loan,out,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Jon Shaw,19,Centre-Forward,York City,Loan,out,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Steve Haslam,23,Right-Back,Halifax Town,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Jon Beswetherick,25,Left-Back,Macclesfield,Loan,out,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Michele Di Piedi,22,Centre-Forward,AS Sora Calcio,Free transfer,out,Italy;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Kevin Pressman,36,Goalkeeper,West Brom,Loan,out,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Alan Quinn,24,Central Midfield,Sunderland,Loan,out,Ireland;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Simon Donnelly,28,Right Winger,St. Johnstone,Free transfer,out,Scotland;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Ryan Green,22,Right-Back,Hereford Utd.,Free transfer,out,Wales;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Phil O'Donnell,31,Central Midfield,Motherwell FC,Free transfer,out,Scotland;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Leigh Bromby,23,Right-Back,Norwich,Loan,out,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Shefki Kuqi,26,Centre-Forward,Ipswich,Free transfer,out,Finland;Kosovo;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Mickaël Antoine-Curier,20,Centre-Forward,Notts County,Free transfer,out,Guadeloupe;France;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Lloyd Owusu,26,Centre-Forward,Reading,Free transfer,out,Ghana;England;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Grant Holt,22,Centre-Forward,Rochdale,£14k,out,England;,0.014,Championship,2003,2003/2004
+Sheffield Wednesday,Alan Cawley,21,Central Midfield,UCD,?,out,Ireland;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Paul Evans,29,Goalkeeper,Rush. & Diamon.,?,out,South Africa;Australia;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Terry Cooke,27,Right Midfield,Sunderland,?,out,England;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Ashley Westwood,26,Centre-Back,Northampt. Town,?,out,England;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,Danny Maddix,35,Right-Back,Barnet,?,out,Jamaica;England;,NA,Championship,2003,2003/2004
+Sheffield Wednesday,David Burrows,34,Left-Back,Retired,-,out,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Mark Burchill,23,Centre-Forward,Portsmouth,"End of loanDec 31, 2003",out,Scotland;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Adam Chambers,23,Defensive Midfield,West Brom,"End of loanMay 1, 2004",out,England;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Michael Reddy,23,Centre-Forward,Sunderland,"End of loanDec 31, 2003",out,Ireland;,0,Championship,2003,2003/2004
+Sheffield Wednesday,Allan Johnston,29,Right Midfield,Middlesbrough,"End of loanJun 30, 2003",out,Scotland;,0,Championship,2003,2003/2004
+Hull City,Boaz Myhill,21,Goalkeeper,Aston Villa,£68k,in,Wales;United States;,0.068,Championship,2003,2003/2004
+Hull City,Jonathan Walters,20,Right Winger,Bolton,£68k,in,Ireland;England;,0.068,Championship,2003,2003/2004
+Hull City,Jason Price,26,Centre-Forward,Tranmere Rovers,Free transfer,in,Wales;,NA,Championship,2003,2003/2004
+Hull City,Andy Dawson,24,Left-Back,Scunthorpe Utd.,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Hull City,Richard Hinds,22,Centre-Back,Tranmere Rovers,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Hull City,Alan Fettis,32,Goalkeeper,Sheffield Utd.,Free transfer,in,Northern Ireland;,NA,Championship,2003,2003/2004
+Hull City,Alton Thelwell,22,Centre-Back,Spurs,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Hull City,Michel Kuipers,29,Goalkeeper,Brighton,Loan,in,Netherlands;,0,Championship,2003,2003/2004
+Hull City,Lee Marshall,24,Central Midfield,West Brom,Loan,in,England;,0,Championship,2003,2003/2004
+Hull City,Junior Lewis,30,Left Winger,Leicester,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Hull City,Ryan France,22,Right Winger,Alfreton,£23k,in,England;,0.023,Championship,2003,2003/2004
+Hull City,Daniel Allsopp,24,Centre-Forward,Notts County,?,in,Australia;,NA,Championship,2003,2003/2004
+Hull City,Clayton Donaldson,19,Centre-Forward,Scarborough Athletic,"End of loanSep 1, 2003",in,Jamaica;England;,0,Championship,2003,2003/2004
+Hull City,Clayton Donaldson,20,Centre-Forward,Halifax Town,"End of loanMar 1, 2004",in,Jamaica;England;,0,Championship,2003,2003/2004
+Hull City,Shaun Smith,32,Defender,Carlisle United,"End of loanNov 23, 2003",in,England;,0,Championship,2003,2003/2004
+Hull City,Scott Wiseman,17,Right-Back,Hull U18,-,in,Gibraltar;England;,0,Championship,2003,2003/2004
+Hull City,Shaun Smith,32,Defender,Stockport,"End of loanOct 4, 2003",in,England;,0,Championship,2003,2003/2004
+Hull City,Andy Holt,26,Midfielder,Shrewsbury,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+Hull City,Steve Melton,25,Right Midfield,Boston United,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Hull City,Shaun Smith,32,Defender,Carlisle United,Loan,out,England;,0,Championship,2003,2003/2004
+Hull City,Greg Strong,28,Centre-Back,Boston United,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Hull City,Lee Philpott,33,Midfielder,Weymouth FC,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Hull City,Clayton Donaldson,19,Centre-Forward,Scarborough Athletic,Loan,out,Jamaica;England;,0,Championship,2003,2003/2004
+Hull City,Alan Fettis,32,Goalkeeper,Grimsby Town,Free transfer,out,Northern Ireland;,NA,Championship,2003,2003/2004
+Hull City,Ryan Williams,25,Midfielder,Bristol Rovers,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Hull City,Clayton Donaldson,19,Centre-Forward,Halifax Town,Loan,out,Jamaica;England;,0,Championship,2003,2003/2004
+Hull City,Daniel Webb,20,Centre-Back,Cambridge Utd.,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Hull City,Alan Fettis,32,Goalkeeper,Sheffield Utd.,Free transfer,out,Northern Ireland;,NA,Championship,2003,2003/2004
+Hull City,Matt Bloomer,24,Defender,Lincoln City,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Hull City,Shaun Smith,32,Defender,Stockport,Loan,out,England;,0,Championship,2003,2003/2004
+Hull City,Dean Keates,25,Attacking Midfield,Kidderminster,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Hull City,Carl Regan,23,Right-Back,Chester City,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Hull City,Andy Holt,25,Midfielder,Shrewsbury,Loan,out,England;,0,Championship,2003,2003/2004
+Hull City,Shaun Smith,32,Defender,Rochdale,?,out,England;,NA,Championship,2003,2003/2004
+Hull City,Theodore Whitmore,30,Attacking Midfield,Livingston FC,?,out,Jamaica;,NA,Championship,2003,2003/2004
+Hull City,Ben Morley,22,Midfielder,Gainsborough Trinity,?,out,England;,NA,Championship,2003,2003/2004
+Hull City,Lee Marshall,25,Central Midfield,West Brom,"End of loanMay 1, 2004",out,England;,0,Championship,2003,2003/2004
+Hull City,Michel Kuipers,29,Goalkeeper,Brighton,"End of loanSep 1, 2003",out,Netherlands;,0,Championship,2003,2003/2004
+Preston North End,Scot Gemmill,32,Central Midfield,Everton,Loan,in,Scotland;,0,Championship,2003,2003/2004
+Preston North End,Jeff Smith,23,Attacking Midfield,Bolton,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Preston North End,Claude Davis,24,Centre-Back,Portmore United,Free transfer,in,Jamaica;,NA,Championship,2003,2003/2004
+Preston North End,Craig Burley,32,Attacking Midfield,Dundee FC,Free transfer,in,Scotland;,NA,Championship,2003,2003/2004
+Preston North End,Lee Briscoe,27,Left-Back,Burnley,?,in,England;,NA,Championship,2003,2003/2004
+Preston North End,Joe O'Neill,21,Centre-Forward,Bury,"End of loanMay 9, 2004",in,England;,0,Championship,2003,2003/2004
+Preston North End,Darran Kempson,18,Centre-Back,Preston U18,-,in,England;,0,Championship,2003,2003/2004
+Preston North End,Kelvin Langmead,18,Centre-Back,Tamworth,"End of loanOct 1, 2003",in,England;,0,Championship,2003,2003/2004
+Preston North End,Fola Onibuje,19,Centre-Forward,Huddersfield,"End of loanDec 1, 2003",in,Nigeria;,0,Championship,2003,2003/2004
+Preston North End,Darran Kempson,19,Centre-Back,Accrington,"End of loanApr 1, 2004",in,England;,0,Championship,2003,2003/2004
+Preston North End,Joe O'Neill,21,Forward,Bury,"End of loanMay 9, 2004",in,Scotland;,0,Championship,2003,2003/2004
+Preston North End,David Elebert,17,Centre-Back,Preston U18,-,in,Ireland;,0,Championship,2003,2003/2004
+Preston North End,Dave Hankin,18,Right Midfield,Preston U18,-,in,England;,0,Championship,2003,2003/2004
+Preston North End,John Bailey,19,Midfielder,Hamilton Acad.,"End of loanDec 31, 2003",in,England;,0,Championship,2003,2003/2004
+Preston North End,Kelvin Langmead,19,Centre-Back,Carlisle United,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+Preston North End,Fola Onibuje,18,Centre-Forward,Preston U18,-,in,Nigeria;,0,Championship,2003,2003/2004
+Preston North End,Pawel Abbott,21,Centre-Forward,Huddersfield,£158k,out,Poland;England;,0.158,Championship,2003,2003/2004
+Preston North End,David Lucas,25,Goalkeeper,Sheff Wed,£135k,out,England;,0.135,Championship,2003,2003/2004
+Preston North End,Darran Kempson,19,Centre-Back,Accrington,Loan,out,England;,0,Championship,2003,2003/2004
+Preston North End,Iain Anderson,25,Right Winger,Grimsby Town,Free transfer,out,Scotland;,NA,Championship,2003,2003/2004
+Preston North End,Kelvin Langmead,18,Centre-Back,Tamworth,Loan,out,England;,0,Championship,2003,2003/2004
+Preston North End,Colin Murdock,27,Centre-Back,Hibernian FC,Free transfer,out,Northern Ireland;,NA,Championship,2003,2003/2004
+Preston North End,Teuvo Moilanen,29,Goalkeeper,Heart of Midl.,Free transfer,out,Finland;,NA,Championship,2003,2003/2004
+Preston North End,Eric Skora,22,Attacking Midfield,Kilmarnock FC,Loan,out,France;Slovakia;,0,Championship,2003,2003/2004
+Preston North End,John Bailey,19,Midfielder,Hamilton Acad.,Loan,out,England;,0,Championship,2003,2003/2004
+Preston North End,Kelvin Langmead,18,Centre-Back,Carlisle United,Loan,out,England;,0,Championship,2003,2003/2004
+Preston North End,Joe O'Neill,20,Centre-Forward,Bury,Loan,out,England;,0,Championship,2003,2003/2004
+Preston North End,Simon Lynch,21,Centre-Forward,Stockport,Loan,out,Scotland;Canada;,0,Championship,2003,2003/2004
+Preston North End,Fola Onibuje,19,Centre-Forward,Huddersfield,Loan,out,Nigeria;,0,Championship,2003,2003/2004
+Preston North End,Craig Burley,32,Attacking Midfield,Walsall,Loan,out,Scotland;,0,Championship,2003,2003/2004
+Preston North End,Lee Cartwright,31,Right Winger,Stockport,?,out,England;,NA,Championship,2003,2003/2004
+Preston North End,Joe O'Neill,20,Forward,Bury,Loan,out,Scotland;,0,Championship,2003,2003/2004
+Preston North End,Kelham O'Hanlon,41,Goalkeeper,Retired,-,out,Ireland;,0,Championship,2003,2003/2004
+Blackburn Rovers,Barry Ferguson,25,Defensive Midfield,Rangers,£8.78m,in,Scotland;,8.78,Championship,2003,2003/2004
+Blackburn Rovers,Steven Reid,22,Right-Back,Millwall,£3.24m,in,Ireland;England;,3.24,Championship,2003,2003/2004
+Blackburn Rovers,Brett Emerton,24,Right Midfield,Feyenoord,£2.70m,in,Australia;,2.7,Championship,2003,2003/2004
+Blackburn Rovers,Lorenzo Amoruso,32,Centre-Back,Rangers,£1.89m,in,Italy;,1.89,Championship,2003,2003/2004
+Blackburn Rovers,Jon Stead,20,Centre-Forward,Huddersfield,£1.69m,in,England;,1.69,Championship,2003,2003/2004
+Blackburn Rovers,Vratislav Gresko,25,Left-Back,AC Parma,£1.62m,in,Slovakia;,1.62,Championship,2003,2003/2004
+Blackburn Rovers,Peter Enckelman,26,Goalkeeper,Aston Villa,£194k,in,Finland;,0.194,Championship,2003,2003/2004
+Blackburn Rovers,Markus Babbel,30,Centre-Back,Liverpool,Loan,in,Germany;,0,Championship,2003,2003/2004
+Blackburn Rovers,Michael Gray,29,Left-Back,Sunderland,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Peter Enckelman,26,Goalkeeper,Aston Villa,Loan,in,Finland;,0,Championship,2003,2003/2004
+Blackburn Rovers,David Yelldell,21,Goalkeeper,St. Kickers II,Free transfer,in,United States;Germany;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Martin Andresen,26,Central Midfield,Stabæk,Loan,in,Norway;,0,Championship,2003,2003/2004
+Blackburn Rovers,Alan Morgan,19,Left Midfield,Blackburn U18,-,in,Scotland;,0,Championship,2003,2003/2004
+Blackburn Rovers,Alan Morgan,19,Left Midfield,Darlington,"End of loanNov 1, 2003",in,Scotland;,0,Championship,2003,2003/2004
+Blackburn Rovers,Gary Harkins,19,Attacking Midfield,Huddersfield,"End of loanMay 31, 2004",in,Scotland;,0,Championship,2003,2003/2004
+Blackburn Rovers,Neil Danns,21,Central Midfield,Blackpool,"End of loanDec 31, 2003",in,Guyana;England;,0,Championship,2003,2003/2004
+Blackburn Rovers,Gary Harkins,18,Attacking Midfield,Blackburn U18,-,in,Scotland;,0,Championship,2003,2003/2004
+Blackburn Rovers,Jonathan Douglas,21,Central Midfield,Blackpool,"End of loanNov 2, 2003",in,Ireland;,0,Championship,2003,2003/2004
+Blackburn Rovers,Jerome Watt,19,Central Midfield,Blackburn U18,-,in,England;,0,Championship,2003,2003/2004
+Blackburn Rovers,Alan Mahon,25,Left Midfield,Ipswich,"End of loanDec 1, 2003",in,Ireland;,0,Championship,2003,2003/2004
+Blackburn Rovers,Paul Gallagher,18,Central Midfield,Blackburn U18,-,in,Scotland;,0,Championship,2003,2003/2004
+Blackburn Rovers,Andy Todd,29,Centre-Back,Burnley,"End of loanOct 1, 2003",in,England;,0,Championship,2003,2003/2004
+Blackburn Rovers,Matt Jansen,26,Centre-Forward,Coventry,"End of loanDec 1, 2003",in,England;,0,Championship,2003,2003/2004
+Blackburn Rovers,Michael Taylor,20,Centre-Back,Rochdale,"End of loanJun 1, 2003",in,England;,0,Championship,2003,2003/2004
+Blackburn Rovers,Damien Duff,24,Right Midfield,Chelsea,£22.05m,out,Ireland;,22.05,Championship,2003,2003/2004
+Blackburn Rovers,David Dunn,23,Attacking Midfield,Birmingham,£7.43m,out,England;,7.43,Championship,2003,2003/2004
+Blackburn Rovers,Martin Taylor,24,Centre-Back,Birmingham,£1.44m,out,England;,1.44,Championship,2003,2003/2004
+Blackburn Rovers,Alan Mahon,25,Left Midfield,Wigan,Free transfer,out,Ireland;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Hakan Sükür,31,Centre-Forward,Galatasaray,Free transfer,out,Turkey;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Andy Todd,28,Centre-Back,Burnley,Loan,out,England;,0,Championship,2003,2003/2004
+Blackburn Rovers,Egil Östenstad,31,Centre-Forward,Rangers,Loan,out,Norway;,0,Championship,2003,2003/2004
+Blackburn Rovers,Jim Corbett,22,Midfielder,Southend United,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Gary Harkins,19,Attacking Midfield,Huddersfield,Loan,out,Scotland;,0,Championship,2003,2003/2004
+Blackburn Rovers,Jonathan Douglas,21,Central Midfield,Blackpool,Loan,out,Ireland;,0,Championship,2003,2003/2004
+Blackburn Rovers,Keith Gillespie,28,Central Midfield,Leicester,Free transfer,out,Northern Ireland;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Alan Morgan,19,Left Midfield,Darlington,Loan,out,Scotland;,0,Championship,2003,2003/2004
+Blackburn Rovers,Marc Richards,20,Centre-Forward,Northampt. Town,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Blackburn Rovers,John Curtis,24,Right-Back,Leicester,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Darren Hockenhull,20,Defender,Halifax Town,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Neil Danns,21,Central Midfield,Hartlepool Utd.,Loan,out,Guyana;England;,0,Championship,2003,2003/2004
+Blackburn Rovers,Neil Danns,20,Central Midfield,Blackpool,Loan,out,Guyana;England;,0,Championship,2003,2003/2004
+Blackburn Rovers,Alan Mahon,25,Left Midfield,Ipswich,Loan,out,Ireland;,0,Championship,2003,2003/2004
+Blackburn Rovers,Ryan Robinson,20,Goalkeeper,Southend United,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Craig Hignett,33,Right Winger,Leicester,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Sebastian Pelzer,23,Centre-Back,Eintracht Trier,Free transfer,out,Germany;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Corrado Grabbi,28,Centre-Forward,Ancona,?,out,Italy;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Henning Berg,33,Right-Back,Rangers,?,out,Norway;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Darren Dunning,22,Midfielder,York City,?,out,England;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Stig Inge Björnebye,33,Left-Back,Retired,-,out,Norway;,0,Championship,2003,2003/2004
+Blackburn Rovers,Peter Enckelman,26,Goalkeeper,Aston Villa,"End of loanDec 1, 2003",out,Finland;,0,Championship,2003,2003/2004
+Blackburn Rovers,Alan Miller,33,Goalkeeper,Retired,,out,England;,NA,Championship,2003,2003/2004
+Blackburn Rovers,Vratislav Gresko,25,Left-Back,AC Parma,"End of loanJun 30, 2003",out,Slovakia;,0,Championship,2003,2003/2004
+Blackburn Rovers,Yordi,28,Centre-Forward,Real Zaragoza,"End of loanJun 30, 2003",out,Spain;,0,Championship,2003,2003/2004
+Stoke City,Darel Russell,22,Defensive Midfield,Norwich,£167k,in,England;St. Lucia;,0.167,Championship,2003,2003/2004
+Stoke City,Clint Hill,24,Centre-Back,Oldham Athletic,£158k,in,England;,0.158,Championship,2003,2003/2004
+Stoke City,Richard Johnson,29,Midfielder,Watford,Free transfer,in,Australia;,NA,Championship,2003,2003/2004
+Stoke City,Keith Andrews,22,Central Midfield,Wolves,Loan,in,Ireland;,0,Championship,2003,2003/2004
+Stoke City,Gerry Taggart,33,Centre-Back,Leicester,Free transfer,in,Northern Ireland;,NA,Championship,2003,2003/2004
+Stoke City,Ade Akinbiyi,28,Centre-Forward,Crystal Palace,Free transfer,in,Nigeria;England;,NA,Championship,2003,2003/2004
+Stoke City,Frazer Richardson,21,Right-Back,Leeds,Loan,in,England;,0,Championship,2003,2003/2004
+Stoke City,Paul Williams,32,Centre-Back,Southampton,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Stoke City,Carl Asaba,30,Centre-Forward,Sheffield Utd.,Free transfer,in,England;Nigeria;,NA,Championship,2003,2003/2004
+Stoke City,Gifton Noel-Williams,23,Centre-Forward,Watford,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Stoke City,Sebastian Svärd,20,Defensive Midfield,Arsenal,Loan,in,Denmark;,0,Championship,2003,2003/2004
+Stoke City,Brynjar Gunnarsson,28,Defensive Midfield,Nottm Forest,Loan,in,Iceland;,0,Championship,2003,2003/2004
+Stoke City,Ed de Goey,36,Goalkeeper,Chelsea,Free transfer,in,Netherlands;,NA,Championship,2003,2003/2004
+Stoke City,John Eustace,23,Defensive Midfield,Coventry,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Stoke City,John Halls,21,Defensive Midfield,Arsenal,£45k,in,England;,0.045,Championship,2003,2003/2004
+Stoke City,Gareth Owen,21,Centre-Back,Oldham Athletic,"End of loanFeb 1, 2004",in,Wales;England;,0,Championship,2003,2003/2004
+Stoke City,Karl Henry,21,Defensive Midfield,Cheltenham,"End of loanMay 1, 2004",in,England;Jamaica;,0,Championship,2003,2003/2004
+Stoke City,Gareth Owen,20,Centre-Back,Stoke U18,-,in,Wales;England;,0,Championship,2003,2003/2004
+Stoke City,Andy Wilkinson,19,Right-Back,Telford Utd,"End of loanFeb 1, 2004",in,England;,0,Championship,2003,2003/2004
+Stoke City,Jay Denny,17,Midfielder,Stoke U18,-,in,United States;England;,0,Championship,2003,2003/2004
+Stoke City,Chris Iwelumo,25,Centre-Forward,Brighton,"End of loanMay 31, 2004",in,Scotland;Nigeria;,0,Championship,2003,2003/2004
+Stoke City,Andy Wilkinson,18,Right-Back,Stoke U18,-,in,England;,0,Championship,2003,2003/2004
+Stoke City,Ryan Hutchinson,19,Centre-Forward,Stoke U18,-,in,England;,0,Championship,2003,2003/2004
+Stoke City,Jani Viander,27,Goalkeeper,FC Midtjylland,"End of loanJun 30, 2003",in,Finland;,0,Championship,2003,2003/2004
+Stoke City,Brian Wilson,20,Right-Back,Cheltenham,£68k,out,England;,0.068,Championship,2003,2003/2004
+Stoke City,Marc Goodfellow,22,Right Midfield,Bristol City,£59k,out,England;,0.059,Championship,2003,2003/2004
+Stoke City,Steve Banks,31,Goalkeeper,Wimbledon FC,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Stoke City,Karl Henry,21,Defensive Midfield,Cheltenham,Loan,out,England;Jamaica;,0,Championship,2003,2003/2004
+Stoke City,Chris Iwelumo,25,Centre-Forward,Brighton,Loan,out,Scotland;Nigeria;,0,Championship,2003,2003/2004
+Stoke City,Brynjar Gunnarsson,27,Defensive Midfield,Nottm Forest,Free transfer,out,Iceland;,NA,Championship,2003,2003/2004
+Stoke City,Andy Wilkinson,19,Right-Back,Telford Utd,Loan,out,England;,0,Championship,2003,2003/2004
+Stoke City,Souleymane Oulare,31,Centre-Forward,Heusden-Zolder,Free transfer,out,Guinea;Belgium;,NA,Championship,2003,2003/2004
+Stoke City,Gareth Owen,21,Centre-Back,Oldham Athletic,Loan,out,Wales;England;,0,Championship,2003,2003/2004
+Stoke City,Bjarni Gudjónsson,24,Right Midfield,VfL Bochum,Free transfer,out,Iceland;,NA,Championship,2003,2003/2004
+Stoke City,Pétur Haflidi Marteinsson,30,Right-Back,Hammarby,Free transfer,out,Iceland;,NA,Championship,2003,2003/2004
+Stoke City,Jani Viander,28,Goalkeeper,Plymouth,?,out,Finland;,NA,Championship,2003,2003/2004
+Stoke City,James O'Connor,23,Central Midfield,West Brom,?,out,Ireland;,NA,Championship,2003,2003/2004
+Stoke City,Peter Handyside,29,Centre-Back,Barnsley FC,?,out,Scotland;,NA,Championship,2003,2003/2004
+Stoke City,Lee Mills,32,Forward,Telford Utd,?,out,England;,NA,Championship,2003,2003/2004
+Stoke City,Sergey Shtanyuk,29,Centre-Back,Shinnik,?,out,Belarus;,NA,Championship,2003,2003/2004
+Stoke City,Brynjar Gunnarsson,28,Defensive Midfield,Nottm Forest,"End of loanMay 1, 2004",out,Iceland;,0,Championship,2003,2003/2004
+Stoke City,Keith Andrews,23,Central Midfield,Wolves,"End of loanNov 7, 2003",out,Ireland;,0,Championship,2003,2003/2004
+Stoke City,Frazer Richardson,21,Right-Back,Leeds,"End of loanDec 10, 2003",out,England;,0,Championship,2003,2003/2004
+Birmingham City,David Dunn,23,Attacking Midfield,Blackburn,£7.43m,in,England;,7.43,Championship,2003,2003/2004
+Birmingham City,Luciano Figueroa,22,Centre-Forward,CA Rosario,£3.38m,in,Argentina;Italy;,3.38,Championship,2003,2003/2004
+Birmingham City,Maik Taylor,32,Goalkeeper,Fulham,£2.03m,in,Northern Ireland;Germany;,2.03,Championship,2003,2003/2004
+Birmingham City,Martin Taylor,24,Centre-Back,Blackburn,£1.44m,in,England;,1.44,Championship,2003,2003/2004
+Birmingham City,Mikael Forssell,22,Centre-Forward,Chelsea,Loan fee:£675k,in,Finland;,0.675,Championship,2003,2003/2004
+Birmingham City,Neil Kilkenny,18,Defensive Midfield,Arsenal U18,Free transfer,in,Australia;England;,NA,Championship,2003,2003/2004
+Birmingham City,Maik Taylor,31,Goalkeeper,Fulham,Loan,in,Northern Ireland;Germany;,0,Championship,2003,2003/2004
+Birmingham City,Andy Barrowman,18,Centre-Forward,Birmingham U18,-,in,Scotland;,0,Championship,2003,2003/2004
+Birmingham City,Carl Motteram,18,Midfielder,Birmingham U18,-,in,England;,0,Championship,2003,2003/2004
+Birmingham City,Tom Williams,23,Left-Back,QPR,"End of loanSep 7, 2003",in,Cyprus;England;,0,Championship,2003,2003/2004
+Birmingham City,Martin Grainger,31,Left-Back,Coventry,"End of loanJan 1, 2004",in,England;,0,Championship,2003,2003/2004
+Birmingham City,Colin Doyle,18,Goalkeeper,Birmingham U18,-,in,Ireland;,0,Championship,2003,2003/2004
+Birmingham City,Nico Vaesen,34,Goalkeeper,Bradford,"End of loanDec 31, 2003",in,Belgium;,0,Championship,2003,2003/2004
+Birmingham City,Tom Williams,23,Left-Back,Peterborough,"End of loanMay 31, 2004",in,Cyprus;England;,0,Championship,2003,2003/2004
+Birmingham City,Andy Barrowman,18,Centre-Forward,Crewe Alexandra,"End of loanNov 1, 2003",in,Scotland;,0,Championship,2003,2003/2004
+Birmingham City,Curtis Woodhouse,23,Attacking Midfield,Rotherham,"End of loanJun 30, 2003",in,England;,0,Championship,2003,2003/2004
+Birmingham City,Geoff Horsfield,29,Centre-Forward,Wigan,£1.35m,out,England;,1.35,Championship,2003,2003/2004
+Birmingham City,Michael Johnson,29,Centre-Back,Derby,£203k,out,Jamaica;England;,0.203,Championship,2003,2003/2004
+Birmingham City,Paul Devlin,31,Attacking Midfield,Watford,£203k,out,Scotland;England;,0.203,Championship,2003,2003/2004
+Birmingham City,Richard Evans,20,Left Winger,Sheff Wed,Free transfer,out,Wales;,NA,Championship,2003,2003/2004
+Birmingham City,Michael Hughes,31,Attacking Midfield,Crystal Palace,Free transfer,out,Northern Ireland;,NA,Championship,2003,2003/2004
+Birmingham City,Craig Fagan,21,Centre-Forward,Colchester Utd.,Free transfer,out,England;Jamaica;,NA,Championship,2003,2003/2004
+Birmingham City,Curtis Woodhouse,23,Attacking Midfield,Peterborough,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Birmingham City,Nico Vaesen,34,Goalkeeper,Bradford,Loan,out,Belgium;,0,Championship,2003,2003/2004
+Birmingham City,Joey Hutchinson,21,Defender,Darlington,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Birmingham City,Tommy Mooney,31,Centre-Forward,Swindon Town,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Birmingham City,Tony Capaldi,21,Left-Back,Plymouth,Free transfer,out,Northern Ireland;Norway;,NA,Championship,2003,2003/2004
+Birmingham City,Nico Vaesen,34,Goalkeeper,Crystal Palace,Loan,out,Belgium;,0,Championship,2003,2003/2004
+Birmingham City,Peter Gilbert,19,Left-Back,Plymouth,Free transfer,out,Wales;England;,NA,Championship,2003,2003/2004
+Birmingham City,Jeff Kenna,33,Right-Back,Derby,Free transfer,out,Ireland;,NA,Championship,2003,2003/2004
+Birmingham City,Andy Marriott,32,Goalkeeper,Beira-Mar,Free transfer,out,Wales;England;,NA,Championship,2003,2003/2004
+Birmingham City,Clint Davies,20,Goalkeeper,Bradford,Free transfer,out,Australia;,NA,Championship,2003,2003/2004
+Birmingham City,Jovan Kirovski,27,Right Winger,LA Galaxy,Free transfer,out,United States;North Macedonia;,NA,Championship,2003,2003/2004
+Birmingham City,Tom Williams,23,Left-Back,QPR,Loan,out,Cyprus;England;,0,Championship,2003,2003/2004
+Birmingham City,Tom Williams,23,Left-Back,Peterborough,Loan,out,Cyprus;England;,0,Championship,2003,2003/2004
+Birmingham City,Andy Barrowman,18,Centre-Forward,Crewe Alexandra,Loan,out,Scotland;,0,Championship,2003,2003/2004
+Birmingham City,Martin Grainger,30,Left-Back,Coventry,Loan,out,England;,0,Championship,2003,2003/2004
+Birmingham City,Maik Taylor,32,Goalkeeper,Fulham,"End of loanMar 21, 2004",out,Northern Ireland;Germany;,0,Championship,2003,2003/2004
+Birmingham City,Christophe Dugarry,31,Centre-Forward,Without Club,-,out,France;,0,Championship,2003,2003/2004
+Birmingham City,Steve Vickers,35,Defender,Retired,-,out,England;,0,Championship,2003,2003/2004
+Birmingham City,Piotr Swierczewski,31,Defensive Midfield,Marseille,"End of loanJun 30, 2003",out,Poland;France;,0,Championship,2003,2003/2004
+Birmingham City,Ferdinand Coly,29,Right-Back,Lens,"End of loanJun 30, 2003",out,Senegal;France;,0,Championship,2003,2003/2004
+Wigan Athletic,Jason Roberts,25,Centre-Forward,West Brom,£1.89m,in,Grenada;England;,1.89,Championship,2003,2003/2004
+Wigan Athletic,Geoff Horsfield,29,Centre-Forward,Birmingham,£1.35m,in,England;,1.35,Championship,2003,2003/2004
+Wigan Athletic,Alan Rogers,26,Left-Back,Leicester,Loan,in,England;,0,Championship,2003,2003/2004
+Wigan Athletic,Gareth Farrelly,28,Left Midfield,Bolton,Free transfer,in,Ireland;,NA,Championship,2003,2003/2004
+Wigan Athletic,Alan Mahon,25,Left Midfield,Blackburn,Free transfer,in,Ireland;,NA,Championship,2003,2003/2004
+Wigan Athletic,Jamie Lawrence,33,Central Midfield,Walsall,Loan,in,Jamaica;England;,0,Championship,2003,2003/2004
+Wigan Athletic,Gary Walsh,35,Goalkeeper,Bradford,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Wigan Athletic,Mark Burchill,22,Centre-Forward,Portsmouth,Loan,in,Scotland;,0,Championship,2003,2003/2004
+Wigan Athletic,Gregg Traynor,18,Left Midfield,Wigan U18,-,in,England;,0,Championship,2003,2003/2004
+Wigan Athletic,Peter Kennedy,30,Left-Back,Derby,"End of loanDec 1, 2003",in,Northern Ireland;,0,Championship,2003,2003/2004
+Wigan Athletic,Tony Dinning,29,Midfielder,Blackpool,"End of loanMay 31, 2004",in,England;,0,Championship,2003,2003/2004
+Wigan Athletic,Chris Lynch,18,Right-Back,Wigan U18,-,in,England;,0,Championship,2003,2003/2004
+Wigan Athletic,Magno Vieira,18,Centre-Forward,Wigan U18,-,in,Brazil;,0,Championship,2003,2003/2004
+Wigan Athletic,Tony Dinning,28,Midfielder,Walsall,"End of loanDec 19, 2003",in,England;,0,Championship,2003,2003/2004
+Wigan Athletic,Magno Vieira,19,Centre-Forward,Northampt. Town,"End of loanMay 1, 2004",in,Brazil;,0,Championship,2003,2003/2004
+Wigan Athletic,Ryan Yeomans,17,Goalkeeper,Wigan U18,-,in,England;,0,Championship,2003,2003/2004
+Wigan Athletic,Geoff Horsfield,30,Centre-Forward,West Brom,£1.35m,out,England;,1.35,Championship,2003,2003/2004
+Wigan Athletic,Tony Dinning,28,Midfielder,Blackpool,Loan,out,England;,0,Championship,2003,2003/2004
+Wigan Athletic,Tony Dinning,28,Midfielder,Walsall,Loan,out,England;,0,Championship,2003,2003/2004
+Wigan Athletic,Magno Vieira,18,Centre-Forward,Northampt. Town,Loan,out,Brazil;,0,Championship,2003,2003/2004
+Wigan Athletic,Peter Kennedy,30,Left-Back,Derby,Loan,out,Northern Ireland;,0,Championship,2003,2003/2004
+Wigan Athletic,Mark Burchill,23,Centre-Forward,Portsmouth,"End of loanSep 1, 2003",out,Scotland;,0,Championship,2003,2003/2004
+Wigan Athletic,Alan Rogers,26,Left-Back,Leicester,"End of loanDec 31, 2003",out,England;,0,Championship,2003,2003/2004
+Wigan Athletic,Jamie Lawrence,33,Central Midfield,Walsall,"End of loanDec 31, 2003",out,Jamaica;England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Tony Thorpe,29,Centre-Forward,Luton,£68k,in,England;,0.068,Championship,2003,2003/2004
+Queens Park Rangers,Richard Edghill,28,Right-Back,Sheffield Utd.,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Ruben Zadkovich,17,Defensive Midfield,Wolves FC,Free transfer,in,Australia;Croatia;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Tom Williams,23,Left-Back,Birmingham,Loan,in,Cyprus;England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Marcus Bignot,29,Right-Back,Rush. & Diamon.,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Martin Rowlands,24,Central Midfield,Brentford,Free transfer,in,Ireland;England;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Jamie Cureton,28,Centre-Forward,Pusan I'Cons,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Eric Sabin,27,Centre-Forward,Swindon Town,Free transfer,in,Martinique;France;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Lee Camp,19,Goalkeeper,Derby,Loan,in,Northern Ireland;England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Warren Barton,34,Right-Back,Derby,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Gareth Ainsworth,30,Right Midfield,Cardiff,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Dean Marney,19,Central Midfield,Spurs,Loan,in,England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Wes Daly,19,Midfielder,Gravesend & Northfleet FC,"End of loanNov 6, 2003",in,England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Arthur Gnohéré,24,Centre-Back,Burnley,Loan,in,France;Cote d'Ivoire;,0,Championship,2003,2003/2004
+Queens Park Rangers,Jake Cole,18,Goalkeeper,Hayes & Yeading,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Jake Cole,17,Goalkeeper,QPR U18,-,in,England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Richard Pacquette,20,Centre-Forward,Dag & Red FC,"End of loanDec 31, 2003",in,Dominica;England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Richard Pacquette,21,Centre-Forward,Mansfield Town,"End of loanMar 1, 2004",in,Dominica;England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Dennis Oli,19,Right Winger,Gravesend & Northfleet FC,"End of loanJan 1, 2004",in,England;Nigeria;,0,Championship,2003,2003/2004
+Queens Park Rangers,Dennis Oli,20,Right Winger,Farnborough,"End of loanMar 1, 2004",in,England;Nigeria;,0,Championship,2003,2003/2004
+Queens Park Rangers,Ben Walshe,20,Midfielder,GNFC,"End of loanMay 6, 2004",in,England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Richard Langley,23,Attacking Midfield,Cardiff,£270k,out,Jamaica;England;,0.27,Championship,2003,2003/2004
+Queens Park Rangers,Jake Cole,18,Goalkeeper,Hayes & Yeading,Loan,out,England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Patrick Gradley,20,Midfielder,GNFC,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Warren Barton,34,Right-Back,Wimbledon FC,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Richard Pacquette,20,Centre-Forward,Dag & Red FC,Loan,out,Dominica;England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Richard Pacquette,21,Centre-Forward,Mansfield Town,Loan,out,Dominica;England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Oliver Burgess,21,Midfielder,Northampt. Town,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Andy Thomson,32,Centre-Forward,Partick Thistle,Free transfer,out,Scotland;,NA,Championship,2003,2003/2004
+Queens Park Rangers,David Wattley,19,Defender,Lincoln City,?,out,England;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Andrew Thomson,32,Forward,Partick Thistle,?,out,Scotland;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Ben Walshe,20,Midfielder,GNFC,Loan,out,England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Karl Connolly,33,Left Winger,Swansea,?,out,Wales;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Doudou,23,Forward,Farnborough,?,out,DR Congo;France;,NA,Championship,2003,2003/2004
+Queens Park Rangers,Dennis Oli,19,Right Winger,Gravesend & Northfleet FC,Loan,out,England;Nigeria;,0,Championship,2003,2003/2004
+Queens Park Rangers,Dennis Oli,20,Right Winger,Farnborough,Loan,out,England;Nigeria;,0,Championship,2003,2003/2004
+Queens Park Rangers,Dean Marney,20,Central Midfield,Spurs,"End of loanFeb 1, 2004",out,England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Lee Camp,19,Goalkeeper,Derby,"End of loanMay 1, 2004",out,Northern Ireland;England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Brian Fitzgerald,19,Midfielder,Retired,-,out,England;,0,Championship,2003,2003/2004
+Queens Park Rangers,Tom Williams,23,Left-Back,Birmingham,"End of loanSep 7, 2003",out,Cyprus;England;,0,Championship,2003,2003/2004
+Reading FC,Scott Murray,29,Right Midfield,Bristol City,£878k,in,Scotland;,0.878,Championship,2003,2003/2004
+Reading FC,Shaun Goater,33,Centre-Forward,Man City,£630k,in,Bermuda;,0.63,Championship,2003,2003/2004
+Reading FC,Dave Kitson,23,Centre-Forward,Cambridge Utd.,£203k,in,England;,0.203,Championship,2003,2003/2004
+Reading FC,Ívar Ingimarsson,26,Centre-Back,Wolves,£135k,in,Iceland;,0.135,Championship,2003,2003/2004
+Reading FC,Omar Daley,22,Right Midfield,Portmore United,Free transfer,in,Jamaica;,NA,Championship,2003,2003/2004
+Reading FC,Paul Brooker,27,Attacking Midfield,Leicester,Loan,in,England;,0,Championship,2003,2003/2004
+Reading FC,Lloyd Owusu,26,Centre-Forward,Sheff Wed,Free transfer,in,Ghana;England;,NA,Championship,2003,2003/2004
+Reading FC,Kelvin Jack,27,Goalkeeper,SJ Jabloteh,Free transfer,in,Trinidad and Tobago;,NA,Championship,2003,2003/2004
+Reading FC,Dean Gordon,31,Left-Back,Coventry,Loan,in,England;,0,Championship,2003,2003/2004
+Reading FC,Dean Morgan,20,Centre-Forward,Colchester Utd.,Free transfer,in,Montserrat;England;,NA,Championship,2003,2003/2004
+Reading FC,Jamie Ashdown,23,Goalkeeper,Rush. & Diamon.,"End of loanMar 14, 2004",in,England;,0,Championship,2003,2003/2004
+Reading FC,Darius Henderson,22,Centre-Forward,Brighton,"End of loanOct 1, 2003",in,England;,0,Championship,2003,2003/2004
+Reading FC,Joe Gamble,22,Central Midfield,Barnet,"End of loanMay 1, 2004",in,Ireland;,0,Championship,2003,2003/2004
+Reading FC,Andre Boucaud,19,Central Midfield,Peterborough,"End of loanOct 10, 2003",in,Trinidad and Tobago;England;,0,Championship,2003,2003/2004
+Reading FC,Jamie Young,17,Goalkeeper,Reading U18,-,in,England;Australia;,0,Championship,2003,2003/2004
+Reading FC,Andre Boucaud,18,Central Midfield,Peterborough,"End of loanJun 30, 2003",in,Trinidad and Tobago;England;,0,Championship,2003,2003/2004
+Reading FC,Martin Butler,28,Centre-Forward,Rotherham,£203k,out,England;,0.203,Championship,2003,2003/2004
+Reading FC,Scott Murray,29,Right Midfield,Bristol City,£180k,out,Scotland;,0.18,Championship,2003,2003/2004
+Reading FC,Nathan Tyson,21,Centre-Forward,Wycombe,£126k,out,England;Barbados;,0.126,Championship,2003,2003/2004
+Reading FC,Jamie Cureton,28,Centre-Forward,Pusan I'Cons,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Reading FC,Sammy Igoe,27,Central Midfield,Swindon Town,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Reading FC,Darius Henderson,21,Centre-Forward,Brighton,Loan,out,England;,0,Championship,2003,2003/2004
+Reading FC,Adi Viveash,33,Centre-Back,Swindon Town,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Reading FC,Joe Gamble,21,Central Midfield,Barnet,Loan,out,Ireland;,0,Championship,2003,2003/2004
+Reading FC,John Mackie,27,Centre-Back,Leyton Orient,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Reading FC,Jamie Ashdown,22,Goalkeeper,Rush. & Diamon.,Loan,out,England;,0,Championship,2003,2003/2004
+Reading FC,Andre Boucaud,18,Central Midfield,Peterborough,Loan,out,Trinidad and Tobago;England;,0,Championship,2003,2003/2004
+Reading FC,Phil Whitehead,33,Goalkeeper,Tamworth,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Reading FC,Alex Smith,27,Defender,Chester City,?,out,England;,NA,Championship,2003,2003/2004
+Reading FC,Omar Daley,23,Right Midfield,Portmore United,?,out,Jamaica;,NA,Championship,2003,2003/2004
+Reading FC,Anthony Rougier,31,Midfielder,Brentford,?,out,Trinidad and Tobago;,NA,Championship,2003,2003/2004
+Reading FC,Dean Gordon,31,Left-Back,Coventry,"End of loanMay 1, 2004",out,England;,0,Championship,2003,2003/2004
+Reading FC,Adrian Whitbread,31,Centre-Back,Retired,-,out,England;,0,Championship,2003,2003/2004
+Reading FC,Paul Brooker,27,Attacking Midfield,Leicester,"End of loanMay 10, 2004",out,England;,0,Championship,2003,2003/2004
+Reading FC,Chris Casper,28,Defender,Retired,-,out,England;,0,Championship,2003,2003/2004
+Reading FC,Shaun Allaway,20,Goalkeeper,Leeds,"End of loanJun 30, 2003",out,England;,0,Championship,2003,2003/2004
+Millwall FC,Danny Dichio,29,Centre-Forward,West Brom,£198k,in,England;Italy;,0.198,Championship,2003,2003/2004
+Millwall FC,John Sutton,20,Centre-Forward,Raith Rovers,£81k,in,England;,0.081,Championship,2003,2003/2004
+Millwall FC,Júan,21,Attacking Midfield,Arsenal,Loan,in,Brazil;Spain;,0,Championship,2003,2003/2004
+Millwall FC,Noel Whelan,28,Centre-Forward,Middlesbrough,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Millwall FC,Nick Chadwick,21,Centre-Forward,Everton,Loan,in,England;,0,Championship,2003,2003/2004
+Millwall FC,Aboubacar Fofana,20,Left Midfield,Juventus,Free transfer,in,France;Cote d'Ivoire;,NA,Championship,2003,2003/2004
+Millwall FC,Brendan Markey,27,Forward,Dundalk FC,Free transfer,in,Ireland;,NA,Championship,2003,2003/2004
+Millwall FC,Andy Marshall,28,Goalkeeper,Ipswich,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Millwall FC,Kevin Muscat,29,Centre-Back,Rangers,Free transfer,in,Australia;Malta;,NA,Championship,2003,2003/2004
+Millwall FC,Tim Clancy,19,Right-Back,Belvedere FC,?,in,Ireland;,NA,Championship,2003,2003/2004
+Millwall FC,Bob Peeters,29,Centre-Forward,Vitesse,?,in,Belgium;,NA,Championship,2003,2003/2004
+Millwall FC,Curtis Weston,16,Central Midfield,Millwall U18,-,in,England;,0,Championship,2003,2003/2004
+Millwall FC,Ben May,20,Centre-Forward,Brentford,"End of loanMay 13, 2004",in,England;,0,Championship,2003,2003/2004
+Millwall FC,Mark Quigley,17,Centre-Forward,Millwall U18,-,in,Ireland;,0,Championship,2003,2003/2004
+Millwall FC,Tim Clancy,19,Right-Back,Weymouth FC,"End of loanMay 2, 2004",in,Ireland;,0,Championship,2003,2003/2004
+Millwall FC,Ronnie Bull,22,Left-Back,Yeovil Town,"End of loanOct 1, 2003",in,England;,0,Championship,2003,2003/2004
+Millwall FC,Cherno Samba,18,Centre-Forward,Millwall U18,-,in,The Gambia;England;,0,Championship,2003,2003/2004
+Millwall FC,Trevor Robinson,18,Midfielder,Millwall U18,-,in,England;Jamaica;,0,Championship,2003,2003/2004
+Millwall FC,Anton Robinson,17,Central Midfield,Millwall U18,-,in,England;,0,Championship,2003,2003/2004
+Millwall FC,Ronnie Bull,23,Left-Back,Brentford,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+Millwall FC,Matthew Rees,20,Centre-Back,Aldershot Town,"End of loanSep 1, 2003",in,Wales;,0,Championship,2003,2003/2004
+Millwall FC,Barry Cogan,18,Right Midfield,Millwall U18,-,in,Ireland;,0,Championship,2003,2003/2004
+Millwall FC,Alex Tiesse,17,Centre-Forward,Millwall U18,-,in,England;Cote d'Ivoire;,0,Championship,2003,2003/2004
+Millwall FC,Chad Harpur,20,Goalkeeper,Basingstoke,"End of loanJun 1, 2003",in,South Africa;Ireland;,0,Championship,2003,2003/2004
+Millwall FC,Steven Reid,22,Right-Back,Blackburn,£3.24m,out,Ireland;England;,3.24,Championship,2003,2003/2004
+Millwall FC,David McCartney,19,Goalkeeper,AFC Hornchurch,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Millwall FC,Noel Whelan,29,Centre-Forward,Derby,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Millwall FC,Matthew Rees,20,Centre-Back,Aldershot Town,Loan,out,Wales;,0,Championship,2003,2003/2004
+Millwall FC,Matthew Rees,21,Centre-Back,Dag & Red FC,Loan,out,Wales;,0,Championship,2003,2003/2004
+Millwall FC,Steve Claridge,37,Centre-Forward,Weymouth FC,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Millwall FC,Stuart Nethercott,30,Centre-Back,Wycombe,Loan,out,England;,0,Championship,2003,2003/2004
+Millwall FC,Ben May,19,Centre-Forward,Brentford,Loan,out,England;,0,Championship,2003,2003/2004
+Millwall FC,Tim Clancy,19,Right-Back,Weymouth FC,Loan,out,Ireland;,0,Championship,2003,2003/2004
+Millwall FC,Kevin Grogan,21,Midfielder,Bray Wanderers,?,out,Ireland;,NA,Championship,2003,2003/2004
+Millwall FC,Ronnie Bull,22,Left-Back,Yeovil Town,Loan,out,England;,0,Championship,2003,2003/2004
+Millwall FC,Sergiy Baltacha Jr.,24,Left-Back,Petershill FC,?,out,Ukraine;Scotland;,NA,Championship,2003,2003/2004
+Millwall FC,Ronnie Bull,23,Left-Back,Brentford,Loan,out,England;,0,Championship,2003,2003/2004
+Millwall FC,Christophe Kinet,28,Left Midfield,FC Brüssel,?,out,Belgium;,NA,Championship,2003,2003/2004
+Millwall FC,Nick Chadwick,21,Centre-Forward,Everton,"End of loanMay 1, 2004",out,England;,0,Championship,2003,2003/2004
+Millwall FC,Richard Sadlier,24,Centre-Forward,Retired,-,out,Ireland;,0,Championship,2003,2003/2004
+Millwall FC,Júan,21,Attacking Midfield,Arsenal,"End of loanSep 1, 2003",out,Brazil;Spain;,0,Championship,2003,2003/2004
+Luton Town,Courtney Pitt,21,Left Winger,Portsmouth,Loan,in,England;,0,Championship,2003,2003/2004
+Luton Town,Marlon Beresford,34,Goalkeeper,Bradford,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Luton Town,Rudy Marchal,22,Forward,F91 Dudelange,Free transfer,in,France;,NA,Championship,2003,2003/2004
+Luton Town,Enoch Showunmi,21,Centre-Forward,Unknown,Free transfer,in,Nigeria;England;,NA,Championship,2003,2003/2004
+Luton Town,Morten Hyldgaard,25,Goalkeeper,Hibernian FC,Free transfer,in,Denmark;,NA,Championship,2003,2003/2004
+Luton Town,Paul Underwood,30,Left-Back,Rush. & Diamon.,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Luton Town,Gary McSheffrey,20,Left Winger,Coventry,Loan,in,England;,0,Championship,2003,2003/2004
+Luton Town,Nathan Abbey,25,Goalkeeper,Stevenage,Free transfer,in,England;Nigeria;,NA,Championship,2003,2003/2004
+Luton Town,Keith Keane,17,Defensive Midfield,Luton U18,-,in,Ireland;England;,0,Championship,2003,2003/2004
+Luton Town,Kevin Foley,18,Right-Back,Luton U18,-,in,Ireland;England;,0,Championship,2003,2003/2004
+Luton Town,Dean Crowe,24,Forward,York City,"End of loanOct 26, 2003",in,England;,0,Championship,2003,2003/2004
+Luton Town,Dean Brill,17,Goalkeeper,Luton U18,-,in,England;,0,Championship,2003,2003/2004
+Luton Town,Curtis Davies,18,Centre-Back,Luton U18,-,in,England;Sierra Leone;,0,Championship,2003,2003/2004
+Luton Town,Leon Barnett,17,Centre-Back,Luton U18,-,in,England;Jamaica;,0,Championship,2003,2003/2004
+Luton Town,Tony Thorpe,29,Centre-Forward,QPR,£68k,out,England;,0.068,Championship,2003,2003/2004
+Luton Town,Dean Crowe,24,Forward,Oldham Athletic,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Luton Town,Duncan Jupp,28,Right-Back,Southend United,Free transfer,out,Scotland;,NA,Championship,2003,2003/2004
+Luton Town,Dean Crowe,24,Forward,York City,Loan,out,England;,0,Championship,2003,2003/2004
+Luton Town,Courtney Pitt,21,Left Winger,Coventry,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Luton Town,Rob Gilman,19,Centre-Back,Ashford Town FC,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Luton Town,Mark Ovendale,29,Goalkeeper,Barry Town,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Luton Town,Marlon Beresford,34,Goalkeeper,Barnsley FC,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Luton Town,Nathan Abbey,25,Goalkeeper,Macclesfield,Free transfer,out,England;Nigeria;,NA,Championship,2003,2003/2004
+Luton Town,Carl Emberson,29,Goalkeeper,Southend United,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Luton Town,Carl Griffiths,31,Centre-Forward,Harlow,?,out,England;,NA,Championship,2003,2003/2004
+Luton Town,Alan Kimble,37,Defender,Dag & Red FC,?,out,England;,NA,Championship,2003,2003/2004
+Luton Town,Cédric Berthelin,26,Goalkeeper,Crystal Palace,?,out,France;,NA,Championship,2003,2003/2004
+Luton Town,Marvin Johnson,34,Centre-Back,Retired,-,out,England;,0,Championship,2003,2003/2004
+Luton Town,Courtney Pitt,21,Left Winger,Portsmouth,"End of loanOct 1, 2003",out,England;,0,Championship,2003,2003/2004
+Luton Town,Aaron Skelton,28,Defender,Retired,-,out,England;,0,Championship,2003,2003/2004
+Luton Town,Gary McSheffrey,21,Left Winger,Coventry,"End of loanJan 1, 2004",out,England;,0,Championship,2003,2003/2004
+Barnsley FC,Daniel Nardiello,21,Centre-Forward,Man Utd U23,£90k,in,Wales;England;,0.09,Championship,2003,2003/2004
+Barnsley FC,Tony Caig,29,Goalkeeper,Newcastle,Loan,in,England;,0,Championship,2003,2003/2004
+Barnsley FC,Arron Davies,19,Right Midfield,Southampton U21,Loan,in,Wales;,0,Championship,2003,2003/2004
+Barnsley FC,Garry Monk,24,Centre-Back,Southampton,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Barnsley FC,Ross Turnbull,19,Goalkeeper,Middlesbrough,Loan,in,England;,0,Championship,2003,2003/2004
+Barnsley FC,Sasa Ilic,30,Goalkeeper,Portsmouth,Free transfer,in,Serbia;Australia;,NA,Championship,2003,2003/2004
+Barnsley FC,Marlon Beresford,34,Goalkeeper,Luton,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Barnsley FC,Craig Ireland,27,Centre-Back,Notts County,Free transfer,in,Scotland;,NA,Championship,2003,2003/2004
+Barnsley FC,Craig Rocastle,22,Right Midfield,Chelsea,Loan,in,Grenada;England;,0,Championship,2003,2003/2004
+Barnsley FC,Jonathan Walters,20,Right Winger,Bolton,Loan,in,Ireland;England;,0,Championship,2003,2003/2004
+Barnsley FC,Gavin Ward,33,Goalkeeper,Coventry,Loan,in,England;,0,Championship,2003,2003/2004
+Barnsley FC,Tony Vaughan,28,Left-Back,Mansfield Town,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Barnsley FC,Mark Stallard,29,Centre-Forward,Notts County,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Barnsley FC,Michael Boulding,27,Centre-Forward,Grimsby Town,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Barnsley FC,Tony Gallimore,31,Defender,Grimsby Town,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Barnsley FC,David Murphy,20,Left-Back,Middlesbrough,Loan,in,England;,0,Championship,2003,2003/2004
+Barnsley FC,Paul Warhurst,34,Centre-Back,Chesterfield FC,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Barnsley FC,Peter Handyside,29,Centre-Back,Stoke City,?,in,Scotland;,NA,Championship,2003,2003/2004
+Barnsley FC,Stephen Carson,22,Right Winger,Dundee United,?,in,Northern Ireland;,NA,Championship,2003,2003/2004
+Barnsley FC,Nathan Jarman,16,Centre-Forward,Barnsley U18,-,in,England;,0,Championship,2003,2003/2004
+Barnsley FC,Nicky Wroe,17,Central Midfield,Barnsley U18,-,in,England;,0,Championship,2003,2003/2004
+Barnsley FC,Jacob Burns,25,Defensive Midfield,Without Club,-,in,Australia;,0,Championship,2003,2003/2004
+Barnsley FC,Dale Tonge,18,Right-Back,Barnsley U18,-,in,England;,0,Championship,2003,2003/2004
+Barnsley FC,Robbie Williams,18,Left-Back,Barnsley U18,-,in,England;,0,Championship,2003,2003/2004
+Barnsley FC,Isaiah Rankin,25,Centre-Forward,Grimsby Town,"End of loanMay 1, 2004",in,England;,0,Championship,2003,2003/2004
+Barnsley FC,Kevin Donovan,32,Central Midfield,Rochdale,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Barnsley FC,Isaiah Rankin,25,Centre-Forward,Grimsby Town,Loan,out,England;,0,Championship,2003,2003/2004
+Barnsley FC,Bruce Dyer,28,Centre-Forward,Watford,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Barnsley FC,Mitchum Ward,32,Midfielder,York City,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Barnsley FC,Sasa Ilic,31,Goalkeeper,Sheffield Utd.,Free transfer,out,Serbia;Australia;,NA,Championship,2003,2003/2004
+Barnsley FC,Gary Jones,26,Central Midfield,Rochdale,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Barnsley FC,Chris Morgan,25,Centre-Back,Sheffield Utd.,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Barnsley FC,Paul Warhurst,34,Centre-Back,Carlisle United,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Barnsley FC,Rory Fallon,21,Centre-Forward,Swindon Town,Free transfer,out,New Zealand;England;,NA,Championship,2003,2003/2004
+Barnsley FC,Stephen Carson,23,Right Winger,Hartlepool Utd.,?,out,Northern Ireland;,NA,Championship,2003,2003/2004
+Barnsley FC,Allan Pearce,20,Centre-Forward,Lincoln City,?,out,New Zealand;,NA,Championship,2003,2003/2004
+Barnsley FC,Matthew Ghent,22,Goalkeeper,Retired,-,out,England;,0,Championship,2003,2003/2004
+Barnsley FC,Jonathan Walters,20,Right Winger,Bolton,"End of loanDec 12, 2003",out,Ireland;England;,0,Championship,2003,2003/2004
+Barnsley FC,Craig Rocastle,22,Right Midfield,Chelsea,"End of loanMar 21, 2004",out,Grenada;England;,0,Championship,2003,2003/2004
+Barnsley FC,Gavin Ward,33,Goalkeeper,Coventry,"End of loanMay 1, 2004",out,England;,0,Championship,2003,2003/2004
+Barnsley FC,Arron Davies,19,Right Midfield,Southampton U21,"End of loanMay 1, 2004",out,Wales;,0,Championship,2003,2003/2004
+Barnsley FC,David Mulligan,21,Defensive Midfield,Without Club,-,out,New Zealand;England;,0,Championship,2003,2003/2004
+Barnsley FC,Tony Caig,29,Goalkeeper,Newcastle,"End of loanFeb 17, 2004",out,England;,0,Championship,2003,2003/2004
+Barnsley FC,David Murphy,20,Left-Back,Middlesbrough,"End of loanMay 1, 2004",out,England;,0,Championship,2003,2003/2004
+Barnsley FC,Ross Turnbull,19,Goalkeeper,Middlesbrough,"End of loanMay 9, 2004",out,England;,0,Championship,2003,2003/2004
+Charlton Athletic,Matt Holland,29,Central Midfield,Ipswich,£1.13m,in,Ireland;,1.13,Championship,2003,2003/2004
+Charlton Athletic,Jerome Thomas,20,Left Winger,Arsenal Res.,£135k,in,England;Guyana;,0.135,Championship,2003,2003/2004
+Charlton Athletic,Chris Perry,30,Centre-Back,Spurs,£90k,in,England;,0.09,Championship,2003,2003/2004
+Charlton Athletic,Simon Royce,31,Goalkeeper,Leicester,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Charlton Athletic,Sérgio Leite,23,Goalkeeper,Boavista,Free transfer,in,Portugal;,NA,Championship,2003,2003/2004
+Charlton Athletic,Carlton Cole,19,Centre-Forward,Chelsea,Loan,in,England;Sierra Leone;,0,Championship,2003,2003/2004
+Charlton Athletic,Paolo Di Canio,34,Centre-Forward,West Ham,Free transfer,in,Italy;,NA,Championship,2003,2003/2004
+Charlton Athletic,Stephen Hughes,26,Defensive Midfield,Watford,Free transfer,in,England;,NA,Championship,2003,2003/2004
+Charlton Athletic,Paul Konchesky,22,Left-Back,Spurs,"End of loanDec 24, 2003",in,England;,0,Championship,2003,2003/2004
+Charlton Athletic,Paul Rachubka,22,Goalkeeper,Burnley,"End of loanFeb 29, 2004",in,England;United States;,0,Championship,2003,2003/2004
+Charlton Athletic,Paul Rachubka,23,Goalkeeper,Huddersfield,"End of loanMay 31, 2004",in,England;United States;,0,Championship,2003,2003/2004
+Charlton Athletic,Lloyd Sam,18,Right Winger,Charlton U18,-,in,Ghana;England;,0,Championship,2003,2003/2004
+Charlton Athletic,Mathias Svensson,29,Centre-Forward,Derby,"End of loanDec 31, 2003",in,Sweden;,0,Championship,2003,2003/2004
+Charlton Athletic,Lloyd Sam,19,Right Winger,Leyton Orient,"End of loanApr 1, 2004",in,Ghana;England;,0,Championship,2003,2003/2004
+Charlton Athletic,Stacy Long,18,Left Winger,Charlton U18,-,in,England;,0,Championship,2003,2003/2004
+Charlton Athletic,Jamal Campbell-Ryce,20,Right Winger,Wimbledon FC,"End of loanMar 6, 2004",in,Jamaica;England;,0,Championship,2003,2003/2004
+Charlton Athletic,Adrian Deane,20,Midfielder,Charlton U18,-,in,Ireland;,0,Championship,2003,2003/2004
+Charlton Athletic,Adam Cottrell,16,Defender,Charlton U18,-,in,England;,0,Championship,2003,2003/2004
+Charlton Athletic,Michael Turner,19,Centre-Back,Leyton Orient,"End of loanJun 30, 2003",in,England;,0,Championship,2003,2003/2004
+Charlton Athletic,Scott Parker,23,Central Midfield,Chelsea,£12.60m,out,England;,12.6,Championship,2003,2003/2004
+Charlton Athletic,Jesper Blomqvist,29,Left Midfield,Djurgarden,£450k,out,Sweden;,0.45,Championship,2003,2003/2004
+Charlton Athletic,Chris Bart-Williams,29,Attacking Midfield,Ipswich,Free transfer,out,England;Sierra Leone;,NA,Championship,2003,2003/2004
+Charlton Athletic,Paul Robson,19,Right-Back,Bridlington,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Charlton Athletic,Jamal Campbell-Ryce,20,Right Winger,Wimbledon FC,Loan,out,Jamaica;England;,0,Championship,2003,2003/2004
+Charlton Athletic,John Robinson,31,Midfielder,Cardiff,Free transfer,out,Wales;Zimbabwe;,NA,Championship,2003,2003/2004
+Charlton Athletic,Robbie Mustoe,34,Central Midfield,Sheff Wed,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Charlton Athletic,Paul Rachubka,22,Goalkeeper,Burnley,Loan,out,England;United States;,0,Championship,2003,2003/2004
+Charlton Athletic,Mark DeBolla,20,Forward,Chesterfield FC,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Charlton Athletic,Mathias Svensson,28,Centre-Forward,Derby,Loan,out,Sweden;,0,Championship,2003,2003/2004
+Charlton Athletic,Ben Roberts,28,Goalkeeper,Brighton,Free transfer,out,England;,NA,Championship,2003,2003/2004
+Charlton Athletic,Neil McCafferty,19,Central Midfield,Cambridge Utd.,Free transfer,out,Ireland;,NA,Championship,2003,2003/2004
+Charlton Athletic,Paul Konchesky,22,Left-Back,Spurs,Loan,out,England;,0,Championship,2003,2003/2004
+Charlton Athletic,Lloyd Sam,19,Right Winger,Leyton Orient,Loan,out,Ghana;England;,0,Championship,2003,2003/2004
+Charlton Athletic,Paul Rachubka,22,Goalkeeper,Huddersfield,Loan,out,England;United States;,0,Championship,2003,2003/2004
+Charlton Athletic,Tahar El Khalej,35,Centre-Back,Retired,-,out,Morocco;,0,Championship,2003,2003/2004
+Charlton Athletic,Martin Pringle,32,Centre-Forward,Retired,-,out,Sweden;,0,Championship,2003,2003/2004
+Charlton Athletic,Carlton Cole,20,Centre-Forward,Chelsea,"End of loanMay 20, 2004",out,England;Sierra Leone;,0,Championship,2003,2003/2004

@@ -1,0 +1,946 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,nat,fee_cleaned,league_name,year,season
+FC Internazionale,Ricardo Quaresma,24,Right Winger,FC Porto,£22.14m,in,Portugal;,22.14,Serie A,2008,2008/2009
+FC Internazionale,Sulley Muntari,23,Central Midfield,Portsmouth,£12.60m,in,Ghana;,12.6,Serie A,2008,2008/2009
+FC Internazionale,Mancini,27,Left Winger,AS Roma,£11.70m,in,Brazil;Italy;,11.7,Serie A,2008,2008/2009
+FC Internazionale,Luis Jiménez,24,Attacking Midfield,Ternana,£5.67m,in,Chile;Italy;,5.67,Serie A,2008,2008/2009
+FC Internazionale,Philippe Coutinho,16,Attacking Midfield,Vasco U17,£3.42m,in,Brazil;Portugal;,3.42,Serie A,2008,2008/2009
+FC Internazionale,Riccardo Meggiorini,23,Second Striker,Cittadella,£2.25m,in,Italy;,2.25,Serie A,2008,2008/2009
+FC Internazionale,Victor Obinna,21,Second Striker,Chievo Verona,£1.08m,in,Nigeria;Italy;,1.08,Serie A,2008,2008/2009
+FC Internazionale,Hernán Crespo,32,Centre-Forward,Chelsea,Free transfer,in,Argentina;Italy;,NA,Serie A,2008,2008/2009
+FC Internazionale,Zule,18,Left Winger,Málaga CF,?,in,Spain;,NA,Serie A,2008,2008/2009
+FC Internazionale,Paolo Tornaghi,20,Goalkeeper,Inter U19,-,in,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Gabriele Puccio,18,Central Midfield,Inter U19,-,in,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Davide Santon,17,Left-Back,Inter U19,-,in,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Dennis Esposito,20,Centre-Back,Inter U19,-,in,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Luca Siligardi,20,Right Winger,Inter U19,-,in,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Alberto Gerbo,19,Central Midfield,Inter U19,-,in,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Andrea Mei,19,Centre-Back,Inter U19,-,in,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Nicolas Desenclos,19,Centre-Back,Inter U19,-,in,France;Armenia;,0,Serie A,2008,2008/2009
+FC Internazionale,Pelé,20,Central Midfield,FC Porto,£5.40m,out,Portugal;,5.4,Serie A,2008,2008/2009
+FC Internazionale,Sebastián Ribas,20,Centre-Forward,Dijon,£900k,out,Uruguay;Italy;,0.9,Serie A,2008,2008/2009
+FC Internazionale,Tijani Belaid,20,Attacking Midfield,Slavia Prague,£360k,out,Tunisia;France;,0.36,Serie A,2008,2008/2009
+FC Internazionale,David Suazo,28,Centre-Forward,Benfica,Loan fee:£180k,out,Honduras;Italy;,0.18,Serie A,2008,2008/2009
+FC Internazionale,Álvaro Recoba,32,Second Striker,Panionios,Free transfer,out,Uruguay;Italy;,NA,Serie A,2008,2008/2009
+FC Internazionale,Domenico Germinale,21,Centre-Forward,Foggia,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+FC Internazionale,Olivier Dacourt,34,Defensive Midfield,Fulham,Loan,out,France;Guadeloupe;,0,Serie A,2008,2008/2009
+FC Internazionale,Santiago Solari,31,Left Midfield,San Lorenzo,Free transfer,out,Argentina;Spain;,NA,Serie A,2008,2008/2009
+FC Internazionale,Ricardo Quaresma,25,Right Winger,Chelsea,Loan,out,Portugal;,0,Serie A,2008,2008/2009
+FC Internazionale,Rincón,21,Centre-Back,Ancona,Loan,out,Brazil;,0,Serie A,2008,2008/2009
+FC Internazionale,Adriano,27,Centre-Forward,Flamengo,Free transfer,out,Brazil;,NA,Serie A,2008,2008/2009
+FC Internazionale,Dennis Esposito,20,Centre-Back,Reggiana,Loan,out,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Ivan Fatic,20,Centre-Back,Salernitana,Loan,out,Montenegro;Serbia;,0,Serie A,2008,2008/2009
+FC Internazionale,Matteo Lombardo,23,Left Midfield,Legnano,Loan,out,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Luca Siligardi,21,Right Winger,Piacenza,Loan,out,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Gianluca Litteri,20,Centre-Forward,Slavia Prague,Loan,out,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Paolo Tornaghi,20,Goalkeeper,Como,Loan,out,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Giacomo Bindi,21,Goalkeeper,Monza,Loan,out,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Nicolas Desenclos,19,Centre-Back,Racing Ferrol,Loan,out,France;Armenia;,0,Serie A,2008,2008/2009
+FC Internazionale,Enrico Alfonso,20,Goalkeeper,AC Pisa,Loan,out,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Giacomo Bindi,21,Goalkeeper,Pistoiese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Philippe Coutinho,16,Attacking Midfield,Vasco da Gama,Loan,out,Brazil;Portugal;,0,Serie A,2008,2008/2009
+FC Internazionale,Attila Filkor,19,Central Midfield,Sassuolo,Loan,out,Hungary;,0,Serie A,2008,2008/2009
+FC Internazionale,Luca Siligardi,20,Right Winger,Bari,Loan,out,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Ivan Fatic,19,Centre-Back,Vicenza,Loan,out,Montenegro;Serbia;,0,Serie A,2008,2008/2009
+FC Internazionale,Leonardo Bonucci,21,Centre-Back,AC Pisa,Loan,out,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Ibrahim Maaroufi,20,Defensive Midfield,Vicenza,Loan,out,Morocco;Belgium;,0,Serie A,2008,2008/2009
+FC Internazionale,Fabrizio Biava,24,Midfielder,Spezia,?,out,Italy;,NA,Serie A,2008,2008/2009
+FC Internazionale,Gabriele Puccio,18,Central Midfield,Hellas Verona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,César,33,Left Midfield,Without Club,-,out,Brazil;Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Hernán Crespo,32,Centre-Forward,Chelsea,"End of loanJun 30, 2008",out,Argentina;Italy;,0,Serie A,2008,2008/2009
+FC Internazionale,Maniche,30,Central Midfield,Atlético Madrid,"End of loanJun 30, 2008",out,Portugal;,0,Serie A,2008,2008/2009
+FC Internazionale,Luis Jiménez,24,Attacking Midfield,Ternana,"End of loanJun 30, 2008",out,Chile;Italy;,0,Serie A,2008,2008/2009
+AS Roma,Jérémy Ménez,21,Right Winger,Monaco,£10.80m,in,France;,10.8,Serie A,2008,2008/2009
+AS Roma,Júlio Baptista,26,Attacking Midfield,Real Madrid,£9.00m,in,Brazil;Spain;,9,Serie A,2008,2008/2009
+AS Roma,John Arne Riise,27,Left-Back,Liverpool,£4.50m,in,Norway;,4.5,Serie A,2008,2008/2009
+AS Roma,Simone Loria,31,Centre-Back,Siena,£2.52m,in,Italy;,2.52,Serie A,2008,2008/2009
+AS Roma,Vitorino Antunes,21,Left-Back,Paços Ferreira,£1.08m,in,Portugal;,1.08,Serie A,2008,2008/2009
+AS Roma,Artur Moraes,27,Goalkeeper,Siena,£675k,in,Brazil;Italy;,0.675,Serie A,2008,2008/2009
+AS Roma,Souleymane Diamoutene,25,Centre-Back,Lecce,Loan fee:£135k,in,Mali;Italy;,0.135,Serie A,2008,2008/2009
+AS Roma,Leandro Greco,21,Central Midfield,Hellas Verona,£135k,in,Italy;,0.135,Serie A,2008,2008/2009
+AS Roma,Filipe,21,Defensive Midfield,Fiorentina U19,Free transfer,in,Brazil;Portugal;,NA,Serie A,2008,2008/2009
+AS Roma,Marco Motta,22,Right-Back,Udinese,Loan,in,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Lorenzo Poli,18,Left-Back,Vibonese,?,in,Italy;,NA,Serie A,2008,2008/2009
+AS Roma,Paolo Seppani,21,Right-Back,Atessa Val di Sangro,?,in,Italy;,NA,Serie A,2008,2008/2009
+AS Roma,Alessandro Ianniciello,20,Centre-Back,Roma U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Lorenzo Poli,18,Left-Back,Roma U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Mirco Zazza,18,Centre-Back,Roma U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AS Roma,João Paulo,19,Right Midfield,Roma U19,-,in,Brazil;Italy;,0,Serie A,2008,2008/2009
+AS Roma,Cristian Palumbo,19,Defender,Roma U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Giuliano Falco,19,Centre-Back,Roma U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Emiliano Tortolano,19,Right Winger,Roma U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Alessandro Triola,17,Right Winger,Roma U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Federico Maria Erba,19,Centre-Back,Roma U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Manuel Mancini,19,Left Midfield,Roma U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Marco Viviano,19,Central Midfield,Roma U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Claudio Della Penna,19,Right Winger,Roma U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Mancini,27,Left Winger,Inter,£11.70m,out,Brazil;Italy;,11.7,Serie A,2008,2008/2009
+AS Roma,Ludovic Giuly,32,Right Winger,Paris SG,£2.25m,out,France;,2.25,Serie A,2008,2008/2009
+AS Roma,Gianluca Curci,22,Goalkeeper,Siena,£1.58m,out,Italy;,1.58,Serie A,2008,2008/2009
+AS Roma,Alessio Cerci,21,Right Winger,Atalanta,Loan fee:£225k,out,Italy;,0.225,Serie A,2008,2008/2009
+AS Roma,Vitorino Antunes,21,Left-Back,Lecce,Loan fee:£180k,out,Portugal;,0.18,Serie A,2008,2008/2009
+AS Roma,Simone Palermo,20,Central Midfield,Treviso,£180k,out,Italy;,0.18,Serie A,2008,2008/2009
+AS Roma,Dario Polverini,21,Centre-Back,Pro Patria,£90k,out,Italy;,0.09,Serie A,2008,2008/2009
+AS Roma,Ahmed Barusso,23,Defensive Midfield,Siena,Loan,out,Ghana;,0,Serie A,2008,2008/2009
+AS Roma,Leandro Greco,22,Central Midfield,AC Pisa,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Valerio Virga,22,Right-Back,Novara,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Matteo Ferrari,28,Centre-Back,Genoa,Free transfer,out,Italy;Guinea;,NA,Serie A,2008,2008/2009
+AS Roma,Carlo Zotti,25,Goalkeeper,Cittadella,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+AS Roma,Lorenzo Poli,18,Left-Back,Vibonese,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+AS Roma,Alessandro Triola,18,Right Winger,ASD Sarzanese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Stefano Okaka,19,Centre-Forward,Brescia,Loan,out,Italy;Nigeria;,0,Serie A,2008,2008/2009
+AS Roma,João Paulo,19,Right Midfield,Vibonese,Loan,out,Brazil;Italy;,0,Serie A,2008,2008/2009
+AS Roma,Giuliano Falco,19,Centre-Back,Vibonese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Claudio Della Penna,19,Right Winger,Pistoiese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Aleandro Rosi,21,Right-Back,AS Livorno,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Mauro Esposito,29,Right Winger,Chievo Verona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Manuel Mancini,19,Left Midfield,Rieti,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Mirco Zazza,18,Centre-Back,ASD Sarzanese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Massimiliano Marsili,20,Central Midfield,Modena,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Marco Andreolli,22,Centre-Back,Sassuolo,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Giuliano Falco,19,Centre-Back,Pistoiese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Alessandro Ianniciello,20,Centre-Back,Gallipoli,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Marco Viviano,19,Central Midfield,Grosseto,?,out,Italy;,NA,Serie A,2008,2008/2009
+AS Roma,Adrian Pit,24,Left Midfield,AC Pisa,Loan,out,Romania;,0,Serie A,2008,2008/2009
+AS Roma,Keivan Zarineh,23,Centre-Forward,AS Pescina,Loan,out,Iran;Italy;,0,Serie A,2008,2008/2009
+AS Roma,Édgar Álvarez,28,Right Midfield,AC Pisa,Loan,out,Honduras;,0,Serie A,2008,2008/2009
+AS Roma,Federico Maria Erba,19,Centre-Back,Virtus Lanciano,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Daniele Magliocchetti,22,Centre-Back,Cagliari Calcio,?,out,Italy;,NA,Serie A,2008,2008/2009
+AS Roma,Marco Viviano,19,Central Midfield,Virtus Lanciano,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,João Paulo,19,Right Midfield,Virtus Lanciano,Loan,out,Brazil;Italy;,0,Serie A,2008,2008/2009
+AS Roma,Keivan Zarineh,23,Centre-Forward,Paganese,Loan,out,Iran;Italy;,0,Serie A,2008,2008/2009
+AS Roma,Cristian Palumbo,19,Defender,Casale,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Lorenzo Poli,18,Left-Back,Benevento,?,out,Italy;,NA,Serie A,2008,2008/2009
+AS Roma,Andrea Giacomini,21,Left Midfield,Gallipoli,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AS Roma,Vitorino Antunes,21,Left-Back,Paços Ferreira,"End of loanJun 30, 2008",out,Portugal;,0,Serie A,2008,2008/2009
+AC Milan,Ronaldinho,28,Attacking Midfield,FC Barcelona,£21.74m,in,Brazil;Spain;,21.74,Serie A,2008,2008/2009
+AC Milan,Gianluca Zambrotta,31,Right-Back,FC Barcelona,£9.45m,in,Italy;,9.45,Serie A,2008,2008/2009
+AC Milan,Thiago Silva,24,Centre-Back,Fluminense,£9.00m,in,Brazil;France;,9,Serie A,2008,2008/2009
+AC Milan,Marco Borriello,26,Centre-Forward,Genoa,£7.88m,in,Italy;,7.88,Serie A,2008,2008/2009
+AC Milan,Marcus Diniz,21,Centre-Back,AS Livorno,£4.50m,in,Brazil;,4.5,Serie A,2008,2008/2009
+AC Milan,Luca Antonini,25,Left-Back,FC Empoli,£2.61m,in,Italy;,2.61,Serie A,2008,2008/2009
+AC Milan,Philippe Senderos,23,Centre-Back,Arsenal,Loan fee:£2.25m,in,Switzerland;Spain;,2.25,Serie A,2008,2008/2009
+AC Milan,Tabaré Viúdez,18,Right Winger,Defensor,£2.25m,in,Uruguay;,2.25,Serie A,2008,2008/2009
+AC Milan,Mathías Cardacio,20,Central Midfield,Nacional,£1.80m,in,Uruguay;Italy;,1.8,Serie A,2008,2008/2009
+AC Milan,Mathieu Flamini,24,Defensive Midfield,Arsenal,Free transfer,in,France;,NA,Serie A,2008,2008/2009
+AC Milan,Andrii Shevchenko,31,Centre-Forward,Chelsea,Loan,in,Ukraine;,0,Serie A,2008,2008/2009
+AC Milan,David Beckham,33,Right Midfield,LA Galaxy,Loan,in,England;,0,Serie A,2008,2008/2009
+AC Milan,Felipe Mattioni,20,Right-Back,Maga,Loan,in,Brazil;Italy;,0,Serie A,2008,2008/2009
+AC Milan,Davide Facchin,21,Goalkeeper,Milan U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AC Milan,Alberto Paloschi,18,Centre-Forward,Milan U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AC Milan,Alberto Gilardino,25,Centre-Forward,Fiorentina,£12.60m,out,Italy;,12.6,Serie A,2008,2008/2009
+AC Milan,Ricardo Oliveira,28,Centre-Forward,Real Zaragoza,£9.00m,out,Brazil;,9,Serie A,2008,2008/2009
+AC Milan,Davide Astori,21,Centre-Back,Cagliari Calcio,£4.50m,out,Italy;,4.5,Serie A,2008,2008/2009
+AC Milan,Leandro Grimi,23,Left-Back,Sporting CP,£2.25m,out,Argentina;Italy;,2.25,Serie A,2008,2008/2009
+AC Milan,Paolo Sammarco,25,Central Midfield,Sampdoria,£2.16m,out,Italy;,2.16,Serie A,2008,2008/2009
+AC Milan,Alberto Paloschi,18,Centre-Forward,Parma,£2.03m,out,Italy;,2.03,Serie A,2008,2008/2009
+AC Milan,Ignazio Abate,21,Right-Back,Torino,£1.98m,out,Italy;,1.98,Serie A,2008,2008/2009
+AC Milan,Cristian Brocchi,32,Central Midfield,Lazio,£1.80m,out,Italy;,1.8,Serie A,2008,2008/2009
+AC Milan,Davide Di Gennaro,20,Defensive Midfield,Genoa,£1.35m,out,Italy;,1.35,Serie A,2008,2008/2009
+AC Milan,Yoann Gourcuff,21,Attacking Midfield,G. Bordeaux,Loan fee:£1.26m,out,France;,1.26,Serie A,2008,2008/2009
+AC Milan,Lino Marzorati,21,Centre-Back,FC Empoli,£1.13m,out,Italy;,1.13,Serie A,2008,2008/2009
+AC Milan,Romano Perticone,21,Centre-Back,AS Livorno,£1.08m,out,Italy;,1.08,Serie A,2008,2008/2009
+AC Milan,Ferdinando Coppola,30,Goalkeeper,Atalanta,£810k,out,Italy;,0.81,Serie A,2008,2008/2009
+AC Milan,Marcus Diniz,20,Centre-Back,AS Livorno,£540k,out,Brazil;,0.54,Serie A,2008,2008/2009
+AC Milan,Sandro Bloudek,22,Attacking Midfield,Varteks,Loan,out,Slovenia;Croatia;,0,Serie A,2008,2008/2009
+AC Milan,Digão,22,Centre-Back,Standard Liège,Loan,out,Brazil;,0,Serie A,2008,2008/2009
+AC Milan,Massimo Oddo,32,Right-Back,Bayern Munich,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Milan,Dario Simic,32,Centre-Back,Monaco,Free transfer,out,Croatia;,NA,Serie A,2008,2008/2009
+AC Milan,William-Fils Aubameyang,21,Centre-Back,Avellino,Loan,out,Gabon;France;,0,Serie A,2008,2008/2009
+AC Milan,Elia Legati,22,Centre-Back,Novara,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Milan,Davide Facchin,21,Goalkeeper,Padova,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Milan,Patrick Kalambay,24,Right Midfield,Como,Loan,out,Italy;DR Congo;,0,Serie A,2008,2008/2009
+AC Milan,Luca Antonelli,21,Left-Back,Parma,?,out,Italy;,NA,Serie A,2008,2008/2009
+AC Milan,Elia Legati,22,Centre-Back,Monaco,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Milan,Filippo Porcari,24,Defensive Midfield,Novara,?,out,Italy;,NA,Serie A,2008,2008/2009
+AC Milan,Marcus Diniz,21,Centre-Back,Crotone,Loan,out,Brazil;,0,Serie A,2008,2008/2009
+AC Milan,Marco Storari,31,Goalkeeper,Fiorentina,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Milan,Cafú,38,Right-Back,Career break,-,out,Brazil;Italy;,0,Serie A,2008,2008/2009
+AC Milan,Serginho,37,Left Midfield,Retired,-,out,Brazil;,0,Serie A,2008,2008/2009
+AC Milan,Émerson,33,Defensive Midfield,Without Club,-,out,Brazil;Germany;,0,Serie A,2008,2008/2009
+AC Milan,Ibrahim Bá,34,Right Midfield,Retired,-,out,France;Senegal;,0,Serie A,2008,2008/2009
+AC Milan,Ronaldo,31,Centre-Forward,Without Club,-,out,Brazil;Spain;,0,Serie A,2008,2008/2009
+AC Milan,Valerio Fiori,39,Goalkeeper,Retired,-,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Giampaolo Pazzini,24,Centre-Forward,Fiorentina,£8.10m,in,Italy;,8.1,Serie A,2008,2008/2009
+UC Sampdoria,Daniele Dessena,21,Central Midfield,Parma,£6.03m,in,Italy;,6.03,Serie A,2008,2008/2009
+UC Sampdoria,Antonio Cassano,25,Second Striker,Real Madrid,£2.97m,in,Italy;,2.97,Serie A,2008,2008/2009
+UC Sampdoria,Bruno Fornaroli,20,Centre-Forward,Nacional,£2.70m,in,Uruguay;Italy;,2.7,Serie A,2008,2008/2009
+UC Sampdoria,Jonathan Bottinelli,23,Centre-Back,San Lorenzo,£2.70m,in,Argentina;Italy;,2.7,Serie A,2008,2008/2009
+UC Sampdoria,Marius Stankevicius,26,Centre-Back,Brescia,£2.70m,in,Lithuania;,2.7,Serie A,2008,2008/2009
+UC Sampdoria,Antonio Mirante,24,Goalkeeper,Juventus,£2.43m,in,Italy;,2.43,Serie A,2008,2008/2009
+UC Sampdoria,Marco Padalino,24,Right-Back,Piacenza,£2.25m,in,Switzerland;Italy;,2.25,Serie A,2008,2008/2009
+UC Sampdoria,Paolo Sammarco,25,Central Midfield,AC Milan,£2.16m,in,Italy;,2.16,Serie A,2008,2008/2009
+UC Sampdoria,Vasco Regini,18,Centre-Back,Cesena,£540k,in,Italy;,0.54,Serie A,2008,2008/2009
+UC Sampdoria,Andrea Raggi,24,Centre-Back,US Palermo,Loan fee:£360k,in,Italy;,0.36,Serie A,2008,2008/2009
+UC Sampdoria,Francesco Signori,19,Central Midfield,AC Montichiari,£171k,in,Italy;,0.171,Serie A,2008,2008/2009
+UC Sampdoria,Stefano Scappini,20,Centre-Forward,Ternana,£135k,in,Italy;,0.135,Serie A,2008,2008/2009
+UC Sampdoria,Manuel da Costa,22,Centre-Back,Fiorentina,Loan,in,Morocco;Portugal;,0,Serie A,2008,2008/2009
+UC Sampdoria,Michele Ferri,27,Centre-Back,Cagliari Calcio,?,in,Italy;,NA,Serie A,2008,2008/2009
+UC Sampdoria,Matteo Lanzoni,19,Centre-Back,Sampdoria U19,-,in,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Guido Marilungo,18,Centre-Forward,Sampdoria U19,-,in,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Mattia Mustacchio,19,Right Winger,Sampdoria U19,-,in,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Gabriel Ferrari,19,Centre-Forward,Sampdoria U19,-,in,United States;Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Gianluigi Bianco,19,Left-Back,Sampdoria U19,-,in,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Mirko Eramo,18,Central Midfield,Sampdoria U19,-,in,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Christian Maggio,26,Right-Back,SSC Napoli,£7.20m,out,Italy;,7.2,Serie A,2008,2008/2009
+UC Sampdoria,Cristian Zenoni,31,Right-Back,Bologna,£900k,out,Italy;,0.9,Serie A,2008,2008/2009
+UC Sampdoria,Ikechukwu Kalu,24,Centre-Forward,AC Bellinzona,£270k,out,Nigeria;,0.27,Serie A,2008,2008/2009
+UC Sampdoria,Emiliano Bonazzoli,29,Centre-Forward,Fiorentina,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Luigi Sala,34,Centre-Back,Udinese,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+UC Sampdoria,Sergio Volpi,34,Central Midfield,Bologna,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+UC Sampdoria,Leonardo Migliónico,28,Centre-Back,AS Livorno,Loan,out,Uruguay;Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Vladimir Koman,19,Attacking Midfield,Avellino,Loan,out,Hungary;Ukraine;,0,Serie A,2008,2008/2009
+UC Sampdoria,Francesco Virdis,23,Centre-Forward,Legnano,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Matteo Lanzoni,20,Centre-Back,Bari,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Carmine Cucciniello,20,Central Midfield,Paganese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Jonathan Rossini,19,Centre-Back,Legnano,Loan,out,Switzerland;Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Bruno Fornaroli,21,Centre-Forward,San Lorenzo,Loan,out,Uruguay;Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Simone Ciancio,20,Right-Back,Alessandria,?,out,Italy;,NA,Serie A,2008,2008/2009
+UC Sampdoria,Stefano Scappini,20,Centre-Forward,Ternana,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Pietro Arnulfo,19,Forward,Cappiano Romano,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Jonathan Bottinelli,24,Centre-Back,San Lorenzo,Loan,out,Argentina;Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Mirko Eramo,19,Central Midfield,Piacenza,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Alessandro Romeo,21,Centre-Forward,Cavese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Solomon Enow,21,Centre-Back,Legnano,Loan,out,Cameroon;Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Paolo Castellazzi,21,Central Midfield,SPAL,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Fabrizio Cacciatore,21,Right-Back,Triestina,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Giovanni Taormina,20,Left Midfield,Como,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Danilo Soddimo,20,Left Midfield,Ancona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Andrea Poli,18,Central Midfield,Sassuolo,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Massimo Bonanni,26,Left Midfield,Grosseto,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Daniele Padelli,22,Goalkeeper,Avellino,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Massimo Volta,21,Centre-Back,Vicenza,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Matteo Lanzoni,20,Centre-Back,Sambenedettese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Francesco Signori,19,Central Midfield,Foligno,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Jonathan Rossini,19,Centre-Back,Cittadella,Loan,out,Switzerland;Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Paolo Castellazzi,20,Central Midfield,Ternana,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Gabriel Ferrari,19,Centre-Forward,Perugia,Loan,out,United States;Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Alessandro Bastrini,21,Centre-Back,Sassuolo,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Gianluigi Bianco,19,Left-Back,FC Empoli,Loan,out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Paolo Sammarco,25,Central Midfield,AC Milan,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Antonio Cassano,25,Second Striker,Real Madrid,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Vincenzo Montella,34,Centre-Forward,AS Roma,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+UC Sampdoria,Antonio Mirante,24,Goalkeeper,Juventus,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Cesare Bovo,25,Centre-Back,Genoa,£7.07m,in,Italy;,7.07,Serie A,2008,2008/2009
+US Palermo,Antonio Nocerino,23,Central Midfield,Juventus,£6.75m,in,Italy;,6.75,Serie A,2008,2008/2009
+US Palermo,Andrea Raggi,24,Centre-Back,FC Empoli,£6.30m,in,Italy;,6.3,Serie A,2008,2008/2009
+US Palermo,Marco Amelia,26,Goalkeeper,AS Livorno,£5.40m,in,Italy;,5.4,Serie A,2008,2008/2009
+US Palermo,Igor Budan,28,Centre-Forward,Parma,£4.05m,in,Croatia;,4.05,Serie A,2008,2008/2009
+US Palermo,Simon Kjaer,19,Centre-Back,FC Midtjylland,£3.60m,in,Denmark;,3.6,Serie A,2008,2008/2009
+US Palermo,Abel Hernández,18,Centre-Forward,Peñarol,£3.42m,in,Uruguay;,3.42,Serie A,2008,2008/2009
+US Palermo,Moris Carrozzieri,27,Centre-Back,Atalanta,£3.06m,in,Italy;,3.06,Serie A,2008,2008/2009
+US Palermo,Davide Succi,26,Centre-Forward,Ravenna,£2.75m,in,Italy;,2.75,Serie A,2008,2008/2009
+US Palermo,Davide Lanzafame,21,Centre-Forward,Juventus,£2.25m,in,Italy;,2.25,Serie A,2008,2008/2009
+US Palermo,Michel Morganella,19,Right-Back,FC Basel,£1.80m,in,Switzerland;Italy;,1.8,Serie A,2008,2008/2009
+US Palermo,Levan Mchedlidze,18,Centre-Forward,FC Empoli,Loan fee:£1.35m,in,Georgia;,1.35,Serie A,2008,2008/2009
+US Palermo,Mirko Savini,29,Left-Back,SSC Napoli,Free transfer,in,Italy;,NA,Serie A,2008,2008/2009
+US Palermo,Túlio de Melo,23,Centre-Forward,Le Mans UC 72,Free transfer,in,Brazil;France;,NA,Serie A,2008,2008/2009
+US Palermo,Fabio Liverani,32,Defensive Midfield,Fiorentina,Free transfer,in,Italy;Somalia;,NA,Serie A,2008,2008/2009
+US Palermo,Giuseppe Polito,19,Second Striker,Palermo U19,-,in,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Giuseppe Ingrassia,20,Goalkeeper,Palermo U19,-,in,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Samuele Romeo,19,Centre-Back,Palermo U19,-,in,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Francesco Inglese,20,Defender,Palermo U19,-,in,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Paolo Carbonaro,19,Second Striker,Palermo U19,-,in,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Amauri,28,Centre-Forward,Juventus,£20.52m,out,Italy;Brazil;,20.52,Serie A,2008,2008/2009
+US Palermo,Andrea Barzagli,27,Centre-Back,VfL Wolfsburg,£12.60m,out,Italy;,12.6,Serie A,2008,2008/2009
+US Palermo,Cristian Zaccardo,26,Centre-Back,VfL Wolfsburg,£6.30m,out,Italy;,6.3,Serie A,2008,2008/2009
+US Palermo,Leandro Rinaudo,25,Centre-Back,SSC Napoli,£4.95m,out,Italy;,4.95,Serie A,2008,2008/2009
+US Palermo,Túlio de Melo,23,Centre-Forward,LOSC Lille,£3.60m,out,Brazil;France;,3.6,Serie A,2008,2008/2009
+US Palermo,Mariano González,27,Right Midfield,FC Porto,£2.88m,out,Argentina;Italy;,2.88,Serie A,2008,2008/2009
+US Palermo,Franco Brienza,29,Attacking Midfield,Reggina,£1.98m,out,Italy;,1.98,Serie A,2008,2008/2009
+US Palermo,Fabio Caserta,29,Central Midfield,Lecce,£1.44m,out,Italy;,1.44,Serie A,2008,2008/2009
+US Palermo,Marco Pisano,26,Left-Back,Torino,£1.35m,out,Italy;,1.35,Serie A,2008,2008/2009
+US Palermo,Giuseppe Biava,31,Centre-Back,Genoa,£1.08m,out,Italy;,1.08,Serie A,2008,2008/2009
+US Palermo,Andrea Raggi,24,Centre-Back,Sampdoria,Loan fee:£360k,out,Italy;,0.36,Serie A,2008,2008/2009
+US Palermo,Paolo Dellafiore,23,Centre-Back,Torino,Loan fee:£360k,out,Italy;Argentina;,0.36,Serie A,2008,2008/2009
+US Palermo,Giuseppe Polito,20,Second Striker,Vibonese,Loan fee:£90k,out,Italy;,0.09,Serie A,2008,2008/2009
+US Palermo,Boško Janković,24,Right Winger,Genoa,Loan fee:£45k,out,Serbia;,0.045,Serie A,2008,2008/2009
+US Palermo,Alberto Cossentino,19,Centre-Back,Triestina,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Federico Agliardi,25,Goalkeeper,Rimini,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Salvatore Sirigu,21,Goalkeeper,Ancona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Davis Curiale,20,Centre-Forward,Vicenza,Loan,out,Italy;Germany;,0,Serie A,2008,2008/2009
+US Palermo,Paolo Carbonaro,19,Second Striker,Monopoli,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Mirko Velardi,20,Central Midfield,Foggia,£450,out,Italy;,NA,Serie A,2008,2008/2009
+US Palermo,Francesco Inglese,20,Defender,Lucchese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Nicola Ficano,21,Left-Back,Sambenedettese,?,out,Italy;,NA,Serie A,2008,2008/2009
+US Palermo,Davide Lanzafame,21,Centre-Forward,Bari,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Davis Curiale,21,Centre-Forward,Ravenna,Loan,out,Italy;Germany;,0,Serie A,2008,2008/2009
+US Palermo,Luca Di Matteo,20,Left-Back,Cittadella,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Edgar Cani,18,Centre-Forward,Ascoli,Loan,out,Albania;Italy;,0,Serie A,2008,2008/2009
+US Palermo,Maurizio Ciaramitaro,26,Central Midfield,Salernitana,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Ciro Capuano,27,Centre-Back,Catania,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Palermo,Pietro Balistreri,22,Centre-Forward,Monopoli,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SSC Napoli,Christian Maggio,26,Right-Back,Sampdoria,£7.20m,in,Italy;,7.2,Serie A,2008,2008/2009
+SSC Napoli,Germán Denis,26,Centre-Forward,Independiente,£6.78m,in,Argentina;Italy;,6.78,Serie A,2008,2008/2009
+SSC Napoli,Jesús Dátolo,24,Left Midfield,Boca Juniors,£5.85m,in,Argentina;Italy;,5.85,Serie A,2008,2008/2009
+SSC Napoli,Leandro Rinaudo,25,Centre-Back,US Palermo,£4.95m,in,Italy;,4.95,Serie A,2008,2008/2009
+SSC Napoli,Salvatore Aronica,30,Centre-Back,Reggina,£2.41m,in,Italy;,2.41,Serie A,2008,2008/2009
+SSC Napoli,Andrea Russotto,20,Attacking Midfield,AC Bellinzona,Loan fee:£315k,in,Italy;,0.315,Serie A,2008,2008/2009
+SSC Napoli,Luca Lacrimini,30,Left-Back,Ancona,Free transfer,in,Italy;,NA,Serie A,2008,2008/2009
+SSC Napoli,Mario D'Urso,18,Defender,Napoli U19,-,in,Italy;,0,Serie A,2008,2008/2009
+SSC Napoli,Luca Bucci,39,Goalkeeper,Career break,-,in,Italy;,0,Serie A,2008,2008/2009
+SSC Napoli,Maurizio Domizzi,28,Centre-Back,Udinese,£4.05m,out,Italy;,4.05,Serie A,2008,2008/2009
+SSC Napoli,Emanuele Calaiò,26,Centre-Forward,Siena,£3.20m,out,Italy;,3.2,Serie A,2008,2008/2009
+SSC Napoli,György Garics,24,Right-Back,Atalanta,£2.25m,out,Austria;Hungary;,2.25,Serie A,2008,2008/2009
+SSC Napoli,Gaetano Grieco,25,Centre-Forward,Juve Stabia,£90k,out,Italy;,0.09,Serie A,2008,2008/2009
+SSC Napoli,Luca Lacrimini,30,Left-Back,Cavese,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+SSC Napoli,Roberto Sosa,33,Centre-Forward,Gimnasia,Free transfer,out,Argentina;Italy;,NA,Serie A,2008,2008/2009
+SSC Napoli,Marco Capparella,33,Right Midfield,Juve Stabia,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+SSC Napoli,Cristian Bucchi,31,Centre-Forward,Ascoli,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SSC Napoli,Biagio Del Giudice,19,Goalkeeper,Aversa Norm.,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+SSC Napoli,Mirko Savini,29,Left-Back,US Palermo,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+SSC Napoli,Andrea Cupi,32,Centre-Back,FC Empoli,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+SSC Napoli,Roberto De Zerbi,29,Attacking Midfield,Avellino,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SSC Napoli,Carmine Biagio Gatti,20,Goalkeeper,Matera,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SSC Napoli,Mario D'Urso,18,Defender,Giulianova,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SSC Napoli,Erminio Rullo,24,Centre-Back,Triestina,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SSC Napoli,Rubén Maldonado,29,Centre-Back,Gimnasia,?,out,Paraguay;,NA,Serie A,2008,2008/2009
+SSC Napoli,Samuele Dalla Bona,27,Central Midfield,Without Club,-,out,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Amauri,28,Centre-Forward,US Palermo,£20.52m,in,Italy;Brazil;,20.52,Serie A,2008,2008/2009
+Juventus FC,Christian Poulsen,28,Defensive Midfield,Sevilla FC,£8.78m,in,Denmark;,8.78,Serie A,2008,2008/2009
+Juventus FC,Paolo De Ceglie,21,Left-Back,Siena,£3.15m,in,Italy;,3.15,Serie A,2008,2008/2009
+Juventus FC,Alexander Manninger,31,Goalkeeper,Udinese,£2.25m,in,Austria;,2.25,Serie A,2008,2008/2009
+Juventus FC,Dario Knezevic,26,Centre-Back,AS Livorno,Loan fee:£675k,in,Croatia;,0.675,Serie A,2008,2008/2009
+Juventus FC,Mario Kirev,19,Goalkeeper,Slavia Sofia,£540k,in,Bulgaria;,0.54,Serie A,2008,2008/2009
+Juventus FC,Albin Ekdal,18,Defensive Midfield,Brommapojkarna,£540k,in,Sweden;,0.54,Serie A,2008,2008/2009
+Juventus FC,Antonio Chimenti,38,Goalkeeper,Udinese,Free transfer,in,Italy;,NA,Serie A,2008,2008/2009
+Juventus FC,Olof Mellberg,30,Centre-Back,Aston Villa,Free transfer,in,Sweden;,NA,Serie A,2008,2008/2009
+Juventus FC,Dario Venitucci,21,Right Winger,Mantova,?,in,Italy;,NA,Serie A,2008,2008/2009
+Juventus FC,Dario Campagna,20,Right-Back,Juventus U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Nicola Cosentini,20,Defensive Midfield,Juventus U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Cristian Pasquato,18,Attacking Midfield,Juventus U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Alessandro D'Antoni,19,Second Striker,Juventus U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Lorenzo Ariaudo,19,Centre-Back,Juventus U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Giorgio Merlano,19,Goalkeeper,Juventus U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Davide Borin,19,Centre-Back,Juventus U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Domenico Criscito,21,Left-Back,Genoa,£10.35m,out,Italy;,10.35,Serie A,2008,2008/2009
+Juventus FC,Antonio Nocerino,23,Central Midfield,US Palermo,£6.75m,out,Italy;,6.75,Serie A,2008,2008/2009
+Juventus FC,Raffaele Palladino,24,Left Winger,Genoa,£4.50m,out,Italy;,4.5,Serie A,2008,2008/2009
+Juventus FC,Antonio Mirante,24,Goalkeeper,Sampdoria,£2.43m,out,Italy;,2.43,Serie A,2008,2008/2009
+Juventus FC,Davide Lanzafame,21,Centre-Forward,US Palermo,£2.25m,out,Italy;,2.25,Serie A,2008,2008/2009
+Juventus FC,Rey Volpato,21,Centre-Forward,Bari,£900k,out,Italy;,0.9,Serie A,2008,2008/2009
+Juventus FC,Andrea Rossi,21,Left-Back,Siena,£900k,out,Italy;,0.9,Serie A,2008,2008/2009
+Juventus FC,Sergio Almirón,27,Central Midfield,Fiorentina,Loan fee:£450k,out,Argentina;Italy;,0.45,Serie A,2008,2008/2009
+Juventus FC,Alessandro Birindelli,33,Right-Back,AC Pisa,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+Juventus FC,Donato Bottone,20,Centre-Forward,Pro Sesto,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Dario Venitucci,21,Right Winger,Avellino,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Mario Kirev,19,Goalkeeper,Grasshoppers,Loan,out,Bulgaria;,0,Serie A,2008,2008/2009
+Juventus FC,Andrea Pozzato,20,Goalkeeper,FC Canavese,?,out,Italy;,NA,Serie A,2008,2008/2009
+Juventus FC,Andrea Torta,18,Centre-Back,Rovigo Calcio,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Nicola Cosentini,20,Defensive Midfield,Pro Patria,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Emanuele Belardi,30,Goalkeeper,Udinese,?,out,Italy;,NA,Serie A,2008,2008/2009
+Juventus FC,Rubén Olivera,25,Central Midfield,Genoa,Loan,out,Uruguay;,0,Serie A,2008,2008/2009
+Juventus FC,Samon Reider Rodríguez,20,Second Striker,Alessandria,Loan,out,Cuba;,0,Serie A,2008,2008/2009
+Juventus FC,Andrea Pisani,21,Centre-Back,Pro Patria,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Stefano Di Berardino,21,Centre-Back,Pistoiese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Alessandro D'Antoni,19,Second Striker,Giulianova,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Cristian Pasquato,19,Attacking Midfield,FC Empoli,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Dario Venitucci,21,Right Winger,Mantova,?,out,Italy;,NA,Serie A,2008,2008/2009
+Juventus FC,Davide Borin,19,Centre-Back,ProVercelli U19,?,out,Italy;,NA,Serie A,2008,2008/2009
+Juventus FC,Cristiano Novembre,21,Goalkeeper,Figline,?,out,Italy;,NA,Serie A,2008,2008/2009
+Juventus FC,Samon Reider Rodríguez,19,Second Striker,US Poggibonsi,Loan,out,Cuba;,0,Serie A,2008,2008/2009
+Juventus FC,Alessandro Vono,20,Goalkeeper,AS Livorno,?,out,Italy;,NA,Serie A,2008,2008/2009
+Juventus FC,Raffaele Bianco,20,Central Midfield,Bari,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Dario Campagna,20,Right-Back,Hellas Verona,?,out,Italy;,NA,Serie A,2008,2008/2009
+Juventus FC,Oussama Essabr,19,Centre-Forward,Vicenza,Loan,out,Morocco;Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Giorgio Merlano,20,Goalkeeper,Melfi,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Juventus FC,Jorge Andrade,30,Centre-Back,Retired,-,out,Portugal;Cape Verde;,0,Serie A,2008,2008/2009
+Juventus FC,Jess Kedwell Vanstrattan,25,Goalkeeper,Hellas Verona,"End of loanJun 30, 2008",out,Australia;Netherlands;,0,Serie A,2008,2008/2009
+Juventus FC,Guglielmo Stendardo,27,Centre-Back,Lazio,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Diego Milito,29,Centre-Forward,Real Zaragoza,£11.70m,in,Argentina;Italy;,11.7,Serie A,2008,2008/2009
+Genoa CFC,Domenico Criscito,21,Left-Back,Juventus,£10.35m,in,Italy;,10.35,Serie A,2008,2008/2009
+Genoa CFC,Raffaele Palladino,24,Left Winger,Juventus,£4.50m,in,Italy;,4.5,Serie A,2008,2008/2009
+Genoa CFC,Andrea Gasbarroni,26,Second Striker,Parma,£4.50m,in,Italy;,4.5,Serie A,2008,2008/2009
+Genoa CFC,Francesco Modesto,26,Left-Back,Reggina,£4.05m,in,Italy;,4.05,Serie A,2008,2008/2009
+Genoa CFC,Sokratis,20,Centre-Back,AEK Athens,£3.42m,in,Greece;,3.42,Serie A,2008,2008/2009
+Genoa CFC,Giandomenico Mesto,26,Right-Back,Udinese,£2.70m,in,Italy;,2.7,Serie A,2008,2008/2009
+Genoa CFC,Alessandro Potenza,24,Centre-Back,Fiorentina,£1.98m,in,Italy;,1.98,Serie A,2008,2008/2009
+Genoa CFC,Salvatore Bocchetti,21,Centre-Back,Frosinone,£1.98m,in,Italy;,1.98,Serie A,2008,2008/2009
+Genoa CFC,Andrea Ranocchia,20,Centre-Back,Arezzo,£1.62m,in,Italy;,1.62,Serie A,2008,2008/2009
+Genoa CFC,Davide Di Gennaro,20,Defensive Midfield,AC Milan,£1.35m,in,Italy;,1.35,Serie A,2008,2008/2009
+Genoa CFC,Giuseppe Biava,31,Centre-Back,US Palermo,£1.08m,in,Italy;,1.08,Serie A,2008,2008/2009
+Genoa CFC,Steve Pinau,20,Attacking Midfield,Monaco B,£504k,in,France;Guadeloupe;,0.504,Serie A,2008,2008/2009
+Genoa CFC,Boško Janković,24,Right Winger,US Palermo,Loan fee:£45k,in,Serbia;,0.045,Serie A,2008,2008/2009
+Genoa CFC,Matteo Ferrari,28,Centre-Back,AS Roma,Free transfer,in,Italy;Guinea;,NA,Serie A,2008,2008/2009
+Genoa CFC,Salvatore Aurelio,23,Left Winger,Crotone,?,in,Italy;,NA,Serie A,2008,2008/2009
+Genoa CFC,Giuseppe Greco,24,Centre-Forward,Rimini,?,in,Italy;,NA,Serie A,2008,2008/2009
+Genoa CFC,Alessandro Di Maio,21,Centre-Back,Valenzana Mado,?,in,Italy;,NA,Serie A,2008,2008/2009
+Genoa CFC,Armando Padula,22,Defender,Sorrento,?,in,Italy;,NA,Serie A,2008,2008/2009
+Genoa CFC,Nicolás Domingo,22,Defensive Midfield,River Plate,Loan,in,Argentina;Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Davide Brivio,20,Left-Back,Vicenza,Loan,in,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Vincenzo Rennella,19,Centre-Forward,FC Lugano,?,in,Italy;France;,NA,Serie A,2008,2008/2009
+Genoa CFC,Marcel Román,20,Defensive Midfield,Peñarol,?,in,Uruguay;Italy;,NA,Serie A,2008,2008/2009
+Genoa CFC,Rubén Olivera,25,Central Midfield,Juventus,Loan,in,Uruguay;,0,Serie A,2008,2008/2009
+Genoa CFC,Matteo D'Alessandro,19,Central Midfield,Genoa U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Selim Ben Djemia,19,Centre-Back,Genoa U19,-,in,Tunisia;France;,0,Serie A,2008,2008/2009
+Genoa CFC,Jacopo Sbravati,18,Right Winger,Genoa U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Stephan El Shaarawy,16,Left Winger,Genoa U19,-,in,Italy;Egypt;,0,Serie A,2008,2008/2009
+Genoa CFC,Emmanuel Ledesma,20,Right Winger,Genoa U19,-,in,Argentina;Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Umberto Eusepi,19,Centre-Forward,Genoa U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Nicolò Antonelli,18,Centre-Back,Genoa U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Thiago Motta,26,Defensive Midfield,Without Club,-,in,Italy;Brazil;,0,Serie A,2008,2008/2009
+Genoa CFC,Marco Borriello,26,Centre-Forward,AC Milan,£7.88m,out,Italy;,7.88,Serie A,2008,2008/2009
+Genoa CFC,Abdoulay Konko,24,Right-Back,Sevilla FC,£7.65m,out,France;Morocco;,7.65,Serie A,2008,2008/2009
+Genoa CFC,Cesare Bovo,25,Centre-Back,US Palermo,£7.07m,out,Italy;,7.07,Serie A,2008,2008/2009
+Genoa CFC,Julio de León,28,Attacking Midfield,Parma,£3.20m,out,Honduras;,3.2,Serie A,2008,2008/2009
+Genoa CFC,Manuel Coppola,26,Central Midfield,Siena,£1.62m,out,Italy;,1.62,Serie A,2008,2008/2009
+Genoa CFC,Abdelkader Ghezzal,23,Centre-Forward,Siena,£1.35m,out,Algeria;France;,1.35,Serie A,2008,2008/2009
+Genoa CFC,Alessandro Lucarelli,30,Centre-Back,Parma,£1.08m,out,Italy;,1.08,Serie A,2008,2008/2009
+Genoa CFC,Santos,26,Centre-Back,Reggina,£900k,out,Brazil;Italy;,0.9,Serie A,2008,2008/2009
+Genoa CFC,Andrea Gasbarroni,27,Second Striker,Torino,£900k,out,Italy;,0.9,Serie A,2008,2008/2009
+Genoa CFC,Luciano Figueroa,27,Centre-Forward,Boca Juniors,Loan fee:£450k,out,Argentina;Italy;,0.45,Serie A,2008,2008/2009
+Genoa CFC,Marco Di Vaio,32,Centre-Forward,Bologna,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Marcel Román,20,Defensive Midfield,Frosinone,Loan,out,Uruguay;Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Steve Pinau,20,Attacking Midfield,Hibernian FC,Loan,out,France;Guadeloupe;,0,Serie A,2008,2008/2009
+Genoa CFC,Danilo Sacramento,25,Attacking Midfield,Celta de Vigo,Free transfer,out,Brazil;Italy;,NA,Serie A,2008,2008/2009
+Genoa CFC,Vincenzo Rennella,19,Centre-Forward,FC Lugano,Loan,out,Italy;France;,0,Serie A,2008,2008/2009
+Genoa CFC,Tiago Pires,21,Centre-Back,Potenza Youth,Loan,out,Portugal;,0,Serie A,2008,2008/2009
+Genoa CFC,Michele Tarallo,27,Centre-Forward,Pergolettese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Tiago Pires,21,Centre-Back,Gloria Buzau,Loan,out,Portugal;,0,Serie A,2008,2008/2009
+Genoa CFC,Giuseppe Greco,24,Centre-Forward,AC Pisa,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Stefano Botta,21,Central Midfield,Vicenza,Loan,out,Italy;Switzerland;,0,Serie A,2008,2008/2009
+Genoa CFC,Alessandro Di Maio,21,Centre-Back,Cappiano Romano,?,out,Italy;,NA,Serie A,2008,2008/2009
+Genoa CFC,Matías Masiero,20,Second Striker,AC Pisa,Loan,out,Uruguay;Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Umberto Eusepi,19,Centre-Forward,Ancona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Alessandro Potenza,24,Centre-Back,Catania,?,out,Italy;,NA,Serie A,2008,2008/2009
+Genoa CFC,Danilo Russo,20,Goalkeeper,Pergolettese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Nicolò Antonelli,18,Centre-Back,Virtus Entella,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Emmanuel Ledesma,20,Right Winger,Salernitana,Loan,out,Argentina;Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Andrea Ranocchia,20,Centre-Back,Bari,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Davide Di Gennaro,20,Defensive Midfield,Reggina,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Diogo Tavares,21,Centre-Forward,Frosinone,?,out,Portugal;,NA,Serie A,2008,2008/2009
+Genoa CFC,Fabiano,29,Left-Back,Celta de Vigo,Loan,out,Brazil;Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Gianluca Pegolo,27,Goalkeeper,Parma,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Damián Lanza,27,Goalkeeper,CS Emelec,?,out,Ecuador;Argentina;,NA,Serie A,2008,2008/2009
+Genoa CFC,Fernando Forestieri,18,Second Striker,Vicenza,Loan,out,Italy;Argentina;,0,Serie A,2008,2008/2009
+Genoa CFC,Jacopo Sbravati,18,Right Winger,ProVercelli U19,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Mariano Stendardo,25,Centre-Back,Grosseto,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Emmanuel Ledesma,20,Right Winger,QPR,Loan,out,Argentina;Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Silvano Raggio Garibaldi,19,Defensive Midfield,AC Pisa,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Wilson,23,Centre-Forward,Sport Recife,Loan,out,Brazil;,0,Serie A,2008,2008/2009
+Genoa CFC,Gaetano De Rosa,35,Centre-Back,Retired,-,out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Tommaso Ghinassi,21,Centre-Back,Pistoiese,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Genoa CFC,Domenico Criscito,21,Left-Back,Juventus,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Alberto Gilardino,25,Centre-Forward,AC Milan,£12.60m,in,Italy;,12.6,Serie A,2008,2008/2009
+ACF Fiorentina,Juan Manuel Vargas,24,Left-Back,Catania,£10.80m,in,Peru;,10.8,Serie A,2008,2008/2009
+ACF Fiorentina,Stevan Jovetic,18,Centre-Forward,Partizan,£7.20m,in,Montenegro;Serbia;,7.2,Serie A,2008,2008/2009
+ACF Fiorentina,Felipe Melo,25,Defensive Midfield,UD Almería,£7.20m,in,Brazil;Spain;,7.2,Serie A,2008,2008/2009
+ACF Fiorentina,Gianluca Comotto,29,Right-Back,Torino,£4.32m,in,Italy;,4.32,Serie A,2008,2008/2009
+ACF Fiorentina,Sergio Almirón,27,Central Midfield,Juventus,Loan fee:£450k,in,Argentina;Italy;,0.45,Serie A,2008,2008/2009
+ACF Fiorentina,Luciano Zauri,30,Right-Back,Lazio,Loan fee:£360k,in,Italy;,0.36,Serie A,2008,2008/2009
+ACF Fiorentina,Emiliano Bonazzoli,29,Centre-Forward,Sampdoria,Loan,in,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Marco Storari,31,Goalkeeper,AC Milan,Loan,in,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Pape Diakhatè,19,Defensive Midfield,Fiorentina U19,-,in,Senegal;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Manuel Nocciolini,19,Centre-Forward,Fiorentina U19,-,in,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Simone D'Anna,18,Left Winger,Fiorentina U19,-,in,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Giacomo Casoli,19,Right Winger,Fiorentina U19,-,in,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Lorenzo Morelli,20,Centre-Forward,Fiorentina U19,-,in,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Luca Petri,19,Centre-Back,Fiorentina U19,-,in,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Giampaolo Pazzini,24,Centre-Forward,Sampdoria,£8.10m,out,Italy;,8.1,Serie A,2008,2008/2009
+ACF Fiorentina,Daniel Osvaldo,23,Centre-Forward,Bologna,£6.30m,out,Italy;Argentina;,6.3,Serie A,2008,2008/2009
+ACF Fiorentina,Alessandro Potenza,24,Centre-Back,Genoa,£1.98m,out,Italy;,1.98,Serie A,2008,2008/2009
+ACF Fiorentina,David Mateo,21,Centre-Back,Lecco,Loan,out,Brazil;Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Tomás Ujfalusi,30,Centre-Back,Atlético Madrid,Free transfer,out,Czech Republic;,NA,Serie A,2008,2008/2009
+ACF Fiorentina,Christian Vieri,34,Centre-Forward,Atalanta,Free transfer,out,Italy;Australia;,NA,Serie A,2008,2008/2009
+ACF Fiorentina,Jan Hable,19,Central Midfield,Banik Ostrava,Loan,out,Czech Republic;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Samuel Di Carmine,19,Centre-Forward,QPR,Loan,out,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Henry Okoroji,24,Centre-Back,Vastese,Free transfer,out,Nigeria;Italy;,NA,Serie A,2008,2008/2009
+ACF Fiorentina,Arturo Lupoli,21,Centre-Forward,Norwich,Loan,out,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Arturo Lupoli,21,Centre-Forward,Sheffield Utd.,Loan,out,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Fabio Liverani,32,Defensive Midfield,US Palermo,Free transfer,out,Italy;Somalia;,NA,Serie A,2008,2008/2009
+ACF Fiorentina,Guly,26,Attacking Midfield,Pro Patria,Free transfer,out,Brazil;Italy;,NA,Serie A,2008,2008/2009
+ACF Fiorentina,Matthias Lepiller,20,Second Striker,KAS Eupen,Loan,out,France;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Cristiano Lupatelli,30,Goalkeeper,Cagliari Calcio,?,out,Italy;,NA,Serie A,2008,2008/2009
+ACF Fiorentina,Nikola Gulan,19,Left-Back,1860 Munich,Loan,out,Serbia;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Giacomo Casoli,19,Right Winger,Cassino,Loan,out,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Simone D'Anna,18,Left Winger,Casarano,Loan,out,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Andrea Paolucci,21,Central Midfield,Taranto,Loan,out,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Manuel da Costa,22,Centre-Back,Sampdoria,Loan,out,Morocco;Portugal;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Matthias Lepiller,20,Second Striker,Grasshoppers,Loan,out,France;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Lorenzo Morelli,20,Centre-Forward,SSC Venezia,Loan,out,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Manuel Nocciolini,19,Centre-Forward,Cappiano Romano,Loan,out,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Davide Carcuro,21,Central Midfield,Crotone,Loan,out,Italy;,0,Serie A,2008,2008/2009
+ACF Fiorentina,N'Diaye Papa Waigo,24,Right Winger,Lecce,Loan,out,Senegal;,0,Serie A,2008,2008/2009
+ACF Fiorentina,Luca Petri,19,Centre-Back,Montevarchi,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Luca Cigarini,22,Defensive Midfield,Parma,£9.45m,in,Italy;,9.45,Serie A,2008,2008/2009
+Atalanta BC,György Garics,24,Right-Back,SSC Napoli,£2.25m,in,Austria;Hungary;,2.25,Serie A,2008,2008/2009
+Atalanta BC,Federico Peluso,24,Left-Back,UC AlbinoLeffe,£900k,in,Italy;,0.9,Serie A,2008,2008/2009
+Atalanta BC,Ferdinando Coppola,30,Goalkeeper,AC Milan,£810k,in,Italy;,0.81,Serie A,2008,2008/2009
+Atalanta BC,Gianvito Plasmati,26,Centre-Forward,Catania,Loan fee:£270k,in,Italy;,0.27,Serie A,2008,2008/2009
+Atalanta BC,Alessio Cerci,21,Right Winger,AS Roma,Loan fee:£225k,in,Italy;,0.225,Serie A,2008,2008/2009
+Atalanta BC,Jaime Valdés,27,Central Midfield,Lecce,Free transfer,in,Chile;,NA,Serie A,2008,2008/2009
+Atalanta BC,Christian Vieri,34,Centre-Forward,Fiorentina,Free transfer,in,Italy;Australia;,NA,Serie A,2008,2008/2009
+Atalanta BC,Christian Tiboni,20,Centre-Forward,Udinese,?,in,Italy;,NA,Serie A,2008,2008/2009
+Atalanta BC,Francesco Parravicini,27,Defensive Midfield,Parma,Loan,in,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Michele Rinaldi,21,Centre-Back,Udinese,?,in,Italy;,NA,Serie A,2008,2008/2009
+Atalanta BC,Nicola Barbetti,19,Centre-Back,Atalanta U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Simone Colombi,17,Goalkeeper,Atalanta U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Nicolò Crotti,19,Attacking Midfield,Atalanta U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Cristian Tissone,20,Defensive Midfield,Atalanta U19,-,in,Argentina;Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Michele Marconi,19,Centre-Forward,Atalanta U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Matteo Gentili,18,Centre-Back,Atalanta U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Michael Girasole,19,Central Midfield,Atalanta U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Andrea Lazzari,23,Central Midfield,Cagliari Calcio,£4.32m,out,Italy;,4.32,Serie A,2008,2008/2009
+Atalanta BC,Fernando Tissone,21,Central Midfield,Udinese,£3.78m,out,Argentina;Italy;,3.78,Serie A,2008,2008/2009
+Atalanta BC,Moris Carrozzieri,27,Centre-Back,US Palermo,£3.06m,out,Italy;,3.06,Serie A,2008,2008/2009
+Atalanta BC,Claudio Rivalta,30,Centre-Back,Torino,£720k,out,Italy;,0.72,Serie A,2008,2008/2009
+Atalanta BC,Zlatan Muslimovic,27,Centre-Forward,PAOK Salonika,£540k,out,Bosnia-Herzegovina;Sweden;,0.54,Serie A,2008,2008/2009
+Atalanta BC,George Forsyth,26,Goalkeeper,Alianza Lima,£90k,out,Peru;Germany;,0.09,Serie A,2008,2008/2009
+Atalanta BC,Giacomo Bonaventura,19,Central Midfield,Pergolettese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Antonio Langella,31,Left Winger,Udinese,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+Atalanta BC,Matteo Gentili,18,Centre-Back,Pergolettese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Nicola Barbetti,19,Centre-Back,AS Pizzighettone,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Daniele Gasparetto,20,Centre-Back,Modena,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Dario Bergamelli,21,Centre-Back,Hellas Verona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Karamoko Cissé,20,Centre-Forward,UC AlbinoLeffe,?,out,Guinea;Italy;,NA,Serie A,2008,2008/2009
+Atalanta BC,Andrea Arrigoni,19,Defensive Midfield,AC Mezzocorona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Alessio Manzoni,21,Central Midfield,Parma,?,out,Italy;,NA,Serie A,2008,2008/2009
+Atalanta BC,Nicolò Crotti,19,Attacking Midfield,Prato,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Michael Cia,19,Central Midfield,Triestina,?,out,Italy;,NA,Serie A,2008,2008/2009
+Atalanta BC,Antonino D'Agostino,30,Right Midfield,Parma,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Michele Rinaldi,21,Centre-Back,Rimini,?,out,Italy;,NA,Serie A,2008,2008/2009
+Atalanta BC,Stefano Mauri,20,Left Midfield,Ternana,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Ivan Radovanovic,19,Defensive Midfield,AC Pisa,Loan,out,Serbia;,0,Serie A,2008,2008/2009
+Atalanta BC,Michele Marconi,19,Centre-Forward,Grosseto,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Alberto Filippini,21,Attacking Midfield,Padova,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Christian Tiboni,20,Centre-Forward,Hellas Verona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Christian Vieri,35,Centre-Forward,Retired,-,out,Italy;Australia;,0,Serie A,2008,2008/2009
+Atalanta BC,Andrea Ivan,35,Goalkeeper,Without Club,-,out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Manuel Belleri,30,Right-Back,Lazio,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Simone Inzaghi,32,Centre-Forward,Lazio,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Riccardo Fissore,28,Centre-Back,Vicenza,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Ferdinando Coppola,30,Goalkeeper,AC Milan,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Atalanta BC,Michele Paolucci,22,Centre-Forward,Udinese,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Juan Pablo Carrizo,24,Goalkeeper,River Plate,£6.75m,in,Argentina;,6.75,Serie A,2008,2008/2009
+SS Lazio,Stefan Radu,21,Centre-Back,Dinamo Bukarest,£3.47m,in,Romania;,3.47,Serie A,2008,2008/2009
+SS Lazio,David Rozehnal,27,Centre-Back,Newcastle,£3.24m,in,Czech Republic;,3.24,Serie A,2008,2008/2009
+SS Lazio,Mauro Zárate,21,Second Striker,Al Sadd,Loan fee:£3.15m,in,Argentina;Chile;,3.15,Serie A,2008,2008/2009
+SS Lazio,Cristian Brocchi,32,Central Midfield,AC Milan,£1.80m,in,Italy;,1.8,Serie A,2008,2008/2009
+SS Lazio,Libor Kozak,19,Centre-Forward,SFC Opava,£1.08m,in,Czech Republic;,1.08,Serie A,2008,2008/2009
+SS Lazio,Stephan Lichtsteiner,24,Right-Back,LOSC Lille,£1.08m,in,Switzerland;,1.08,Serie A,2008,2008/2009
+SS Lazio,Matuzalém,28,Defensive Midfield,Real Zaragoza,Loan fee:£720k,in,Brazil;Italy;,0.72,Serie A,2008,2008/2009
+SS Lazio,Simone Sannibale,23,Centre-Back,Isola Liri,?,in,Italy;,NA,Serie A,2008,2008/2009
+SS Lazio,Vincent Degre,19,Goalkeeper,Lazio U19,-,in,France;,0,Serie A,2008,2008/2009
+SS Lazio,Federico Chirico,19,Centre-Back,Lazio U19,-,in,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Riccardo Capogna,20,Centre-Forward,Lazio U19,-,in,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Alessandro Tuia,18,Centre-Back,Lazio U19,-,in,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Ettore Mendicino,18,Centre-Forward,Lazio U19,-,in,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Valon Behrami,23,Defensive Midfield,West Ham,£5.67m,out,Switzerland;Kosovo;,5.67,Serie A,2008,2008/2009
+SS Lazio,Gaby Mudingayi,26,Defensive Midfield,Bologna,£5.40m,out,Belgium;DR Congo;,5.4,Serie A,2008,2008/2009
+SS Lazio,Luciano Zauri,30,Right-Back,Fiorentina,Loan fee:£360k,out,Italy;,0.36,Serie A,2008,2008/2009
+SS Lazio,Marco Ballotta,44,Goalkeeper,Calcara,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+SS Lazio,Fabio Vignaroli,32,Centre-Forward,Panthrakikos,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+SS Lazio,Stephen Makinwa,25,Centre-Forward,Chievo Verona,Loan,out,Nigeria;Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Roberto Baronio,30,Defensive Midfield,Brescia,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Fabio Firmani,30,Central Midfield,Al-Wasl,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Federico Chirico,19,Centre-Back,Aversa Norm.,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Fabio Zaccardi,21,Defender,Celano,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Matteo Merini,20,Centre-Forward,Melfi,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Tommaso Berni,25,Goalkeeper,Salernitana,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Simone Santarelli,19,Goalkeeper,Sangiorgese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Guglielmo Stendardo,27,Centre-Back,Lecce,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Riccardo Bonetto,29,Left-Back,AS Livorno,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Ivan Artipoli,22,Centre-Back,Modena,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Manuel Belleri,31,Right-Back,Bologna,?,out,Italy;,NA,Serie A,2008,2008/2009
+SS Lazio,Alberto Quadri,25,Defensive Midfield,Monza,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Daniele Greco,20,Central Midfield,Sorrento,?,out,Italy;,NA,Serie A,2008,2008/2009
+SS Lazio,Riccardo Capogna,20,Centre-Forward,AC Mezzocorona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Lucas Correa,24,Defensive Midfield,Pro Patria,Loan,out,Argentina;Spain;,0,Serie A,2008,2008/2009
+SS Lazio,Massimo Mutarelli,30,Central Midfield,Without Club,-,out,Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Igli Tare,34,Centre-Forward,Retired,-,out,Albania;Italy;,0,Serie A,2008,2008/2009
+SS Lazio,Stefan Radu,21,Centre-Back,Dinamo Bukarest,"End of loanJun 30, 2008",out,Romania;,0,Serie A,2008,2008/2009
+SS Lazio,David Rozehnal,27,Centre-Back,Newcastle,"End of loanJun 30, 2008",out,Czech Republic;,0,Serie A,2008,2008/2009
+AC Siena,Emanuele Calaiò,26,Centre-Forward,SSC Napoli,£3.20m,in,Italy;,3.2,Serie A,2008,2008/2009
+AC Siena,Manuel Coppola,26,Central Midfield,Genoa,£1.62m,in,Italy;,1.62,Serie A,2008,2008/2009
+AC Siena,Gianluca Curci,22,Goalkeeper,AS Roma,£1.58m,in,Italy;,1.58,Serie A,2008,2008/2009
+AC Siena,Nicola Belmonte,21,Centre-Back,Bari,£1.35m,in,Italy;,1.35,Serie A,2008,2008/2009
+AC Siena,Camilo Zúñiga,22,Right-Back,Atl. Nacional,£1.35m,in,Colombia;,1.35,Serie A,2008,2008/2009
+AC Siena,Abdelkader Ghezzal,23,Centre-Forward,Genoa,£1.35m,in,Algeria;France;,1.35,Serie A,2008,2008/2009
+AC Siena,Houssine Kharja,25,Central Midfield,Piacenza,£1.08m,in,Morocco;France;,1.08,Serie A,2008,2008/2009
+AC Siena,Andrea Rossi,21,Left-Back,Juventus,£900k,in,Italy;,0.9,Serie A,2008,2008/2009
+AC Siena,Cristiano Del Grosso,25,Left-Back,Cagliari Calcio,£720k,in,Italy;,0.72,Serie A,2008,2008/2009
+AC Siena,Cosmin Moti,23,Centre-Back,Dinamo Bukarest,Loan fee:£540k,in,Romania;,0.54,Serie A,2008,2008/2009
+AC Siena,Gianluca Sansone,21,Centre-Forward,AS Pescina,£450k,in,Italy;,0.45,Serie A,2008,2008/2009
+AC Siena,Antonio Zito,22,Left Midfield,Taranto,£270k,in,Italy;,0.27,Serie A,2008,2008/2009
+AC Siena,Manuel Mancini,24,Central Midfield,Taranto,£270k,in,Italy;,0.27,Serie A,2008,2008/2009
+AC Siena,Lorenzo Del Prete,22,Right-Back,Virtus Lanciano,£90k,in,Italy;,0.09,Serie A,2008,2008/2009
+AC Siena,Gonçalo Brandão,21,Centre-Back,Belenenses SAD,Free transfer,in,Portugal;,NA,Serie A,2008,2008/2009
+AC Siena,Ahmed Barusso,23,Defensive Midfield,AS Roma,Loan,in,Ghana;,0,Serie A,2008,2008/2009
+AC Siena,Marco Di Crescenzo,20,Centre-Forward,Sangiustese,?,in,Italy;,NA,Serie A,2008,2008/2009
+AC Siena,Nicola Amoruso,34,Centre-Forward,Torino,Loan,in,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Manuel Mancini,25,Central Midfield,Rieti,?,in,Italy;,NA,Serie A,2008,2008/2009
+AC Siena,Marcelo Larrondo,19,Centre-Forward,River Plate,Loan,in,Argentina;Chile;,0,Serie A,2008,2008/2009
+AC Siena,Matteo Prandelli,19,Centre-Forward,Siena U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Emanuele Manitta,31,Goalkeeper,Without Club,-,in,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Marco Di Crescenzo,19,Centre-Forward,Siena U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Carlo Crociani,18,Left-Back,Siena U19,-,in,Italy;Mexico;,0,Serie A,2008,2008/2009
+AC Siena,Luca Pietrobattista,20,Attacking Midfield,Siena U19,-,in,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Paolo De Ceglie,21,Left-Back,Juventus,£3.15m,out,Italy;,3.15,Serie A,2008,2008/2009
+AC Siena,Simone Loria,31,Centre-Back,AS Roma,£2.52m,out,Italy;,2.52,Serie A,2008,2008/2009
+AC Siena,Alexander Manninger,31,Goalkeeper,Udinese,£1.62m,out,Austria;,1.62,Serie A,2008,2008/2009
+AC Siena,Artur Moraes,27,Goalkeeper,AS Roma,£675k,out,Brazil;Italy;,0.675,Serie A,2008,2008/2009
+AC Siena,Caetano Calil,24,Centre-Forward,Crotone,£450k,out,Brazil;Italy;,0.45,Serie A,2008,2008/2009
+AC Siena,Alessandro Rigoli,21,Centre-Back,Sangimignano,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+AC Siena,Alberto Valentim,33,Right Midfield,Atlético-PR,Free transfer,out,Brazil;,NA,Serie A,2008,2008/2009
+AC Siena,Enrico Chiesa,37,Centre-Forward,Figline,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+AC Siena,Gianluca Sansone,21,Centre-Forward,Gallipoli,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Thomas Albanese,20,Centre-Forward,Legnano,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Anssi Jaakkola,21,Goalkeeper,VF Colligiana,Loan,out,Finland;,0,Serie A,2008,2008/2009
+AC Siena,Pasquale Iadaresta,22,Centre-Forward,Foligno,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Luca Pietrobattista,20,Attacking Midfield,AS Pescina,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Giovanni Bartolucci,24,Right-Back,Pistoiese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Manuel Mancini,24,Central Midfield,Rieti,?,out,Italy;,NA,Serie A,2008,2008/2009
+AC Siena,Mirko Guadalupi,21,Attacking Midfield,Ancona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Rodrigo Lazzari,28,Centre-Back,VF Colligiana,Loan,out,Brazil;Italy;,0,Serie A,2008,2008/2009
+AC Siena,Richard Porta,25,Centre-Forward,Belenenses SAD,Loan,out,Uruguay;Australia;,0,Serie A,2008,2008/2009
+AC Siena,Tomas Locatelli,32,Attacking Midfield,Mantova,?,out,Italy;,NA,Serie A,2008,2008/2009
+AC Siena,Matteo Prandelli,19,Centre-Forward,AS Pescina,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Gennaro Esposito,23,Defensive Midfield,Gallipoli,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Pasquale Iadaresta,22,Centre-Forward,Vibonese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Maximiliano Re,21,Attacking Midfield,VF Colligiana,Loan,out,Argentina;Italy;,0,Serie A,2008,2008/2009
+AC Siena,Leonardo Blanchard,20,Centre-Back,AS Pescina,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Daniele Corvia,23,Centre-Forward,FC Empoli,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Marco Di Crescenzo,19,Centre-Forward,US Poggibonsi,?,out,Italy;,NA,Serie A,2008,2008/2009
+AC Siena,Alessandro Bettega,21,Central Midfield,Ravenna,Loan,out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Valerio Bertotto,35,Right-Back,Without Club,-,out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Rosario Pepe,21,Central Midfield,Without Club,-,out,Belgium;Italy;,0,Serie A,2008,2008/2009
+AC Siena,Houssine Kharja,25,Central Midfield,Piacenza,"End of loanJun 30, 2008",out,Morocco;France;,0,Serie A,2008,2008/2009
+AC Siena,Andrea Rossi,21,Left-Back,Juventus,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+AC Siena,Christian Riganó,34,Centre-Forward,Levante,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Nicolae Dica,28,Second Striker,Steaua Bukarest,£2.25m,in,Romania;,2.25,Serie A,2008,2008/2009
+Calcio Catania,Pablo Ledesma,24,Central Midfield,Boca Juniors,£2.25m,in,Argentina;Italy;,2.25,Serie A,2008,2008/2009
+Calcio Catania,Andrea Catellani,20,Centre-Forward,Reggiana,£450k,in,Italy;,0.45,Serie A,2008,2008/2009
+Calcio Catania,Julián di Cosmo,23,Centre-Forward,Igea Virtus,Free transfer,in,Argentina;Italy;,NA,Serie A,2008,2008/2009
+Calcio Catania,Tomas Kosicky,22,Goalkeeper,Inter Bratislava,Free transfer,in,Slovakia;,NA,Serie A,2008,2008/2009
+Calcio Catania,Milan Bortel,22,Centre-Back,Manfredonia,?,in,Slovakia;,NA,Serie A,2008,2008/2009
+Calcio Catania,Gianvito Plasmati,25,Centre-Forward,Foggia,?,in,Italy;,NA,Serie A,2008,2008/2009
+Calcio Catania,Paolo Acerbis,27,Goalkeeper,Grosseto,Loan,in,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Vito Falconieri,22,Centre-Forward,Reggiana,?,in,Italy;,NA,Serie A,2008,2008/2009
+Calcio Catania,Michele Paolucci,22,Centre-Forward,Udinese,Loan,in,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Alessandro Potenza,24,Centre-Back,Genoa,?,in,Italy;,NA,Serie A,2008,2008/2009
+Calcio Catania,Ezequiel Carboni,29,Defensive Midfield,RB Salzburg,?,in,Argentina;Italy;,NA,Serie A,2008,2008/2009
+Calcio Catania,Ciro Capuano,27,Centre-Back,US Palermo,Loan,in,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Fabio Sciacca,19,Central Midfield,Catania,-,in,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Juan Manuel Vargas,24,Left-Back,Fiorentina,£10.80m,out,Peru;,10.8,Serie A,2008,2008/2009
+Calcio Catania,Gianvito Plasmati,26,Centre-Forward,Atalanta,Loan fee:£270k,out,Italy;,0.27,Serie A,2008,2008/2009
+Calcio Catania,Andrea Sottil,34,Centre-Back,Rimini,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+Calcio Catania,Ciro Polito,29,Goalkeeper,Grosseto,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Marcello Gazzola,23,Right-Back,Avellino,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Mark Edusei,32,Defensive Midfield,Bari,?,out,Ghana;Italy;,NA,Serie A,2008,2008/2009
+Calcio Catania,Mauro Minelli,27,Centre-Back,Triestina,?,out,Italy;,NA,Serie A,2008,2008/2009
+Calcio Catania,Gennaro Sardo,29,Right-Back,Chievo Verona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Samuele Costanzo,20,Defender,Paganese,?,out,Italy;,NA,Serie A,2008,2008/2009
+Calcio Catania,Julián di Cosmo,24,Centre-Forward,Andria,Loan,out,Argentina;Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Julián di Cosmo,23,Centre-Forward,Paganese,Loan,out,Argentina;Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Rocco Sabato,26,Left-Back,FC Empoli,?,out,Italy;,NA,Serie A,2008,2008/2009
+Calcio Catania,Pablo Álvarez,24,Right-Back,CA Rosario,Loan,out,Argentina;Spain;,0,Serie A,2008,2008/2009
+Calcio Catania,Babù,27,Right Winger,Avellino,Loan,out,Brazil;,0,Serie A,2008,2008/2009
+Calcio Catania,Mirco Antenucci,24,Centre-Forward,AC Pisa,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Giuseppe Colucci,28,Central Midfield,Chievo Verona,?,out,Italy;,NA,Serie A,2008,2008/2009
+Calcio Catania,Raffaele Ioime,20,Goalkeeper,Legnano,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Antonino Profeta,20,Central Midfield,Cosenza,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Riccardo Nardini,25,Central Midfield,Without Club,-,out,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Andrea D'Amico,19,Central Midfield,Catania,-,out,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Generoso Rossi,29,Goalkeeper,Triestina,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Calcio Catania,Piá,26,Left Winger,SSC Napoli,"End of loanJun 30, 2008",out,Brazil;Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Kerlon,20,Attacking Midfield,Cruzeiro,£1.17m,in,Brazil;,1.17,Serie A,2008,2008/2009
+Chievo Verona,Simone Grippo,19,Centre-Back,FC Basel,£720k,in,Switzerland;Italy;,0.72,Serie A,2008,2008/2009
+Chievo Verona,Nicolas Frey,24,Right-Back,Modena,£450k,in,France;,0.45,Serie A,2008,2008/2009
+Chievo Verona,Pablo Granoche,24,Centre-Forward,Triestina,£360k,in,Uruguay;Italy;,0.36,Serie A,2008,2008/2009
+Chievo Verona,Francesco Scardina,26,Centre-Back,Vicenza,£270k,in,Italy;,0.27,Serie A,2008,2008/2009
+Chievo Verona,Stefano Sorrentino,29,Goalkeeper,AEK Athens,Loan fee:£180k,in,Italy;,0.18,Serie A,2008,2008/2009
+Chievo Verona,Mario Yepes,32,Centre-Back,Paris SG,Free transfer,in,Colombia;France;,NA,Serie A,2008,2008/2009
+Chievo Verona,Stephen Makinwa,25,Centre-Forward,Lazio,Loan,in,Nigeria;Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Antonio Langella,31,Left Winger,Udinese,Loan,in,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Nicolò Brighenti,19,Centre-Back,AC Mezzocorona,?,in,Italy;,NA,Serie A,2008,2008/2009
+Chievo Verona,Mahamet Diagouraga,24,Centre-Back,Massese,?,in,Mali;France;,NA,Serie A,2008,2008/2009
+Chievo Verona,Bogdan Pătrașcu,29,Defensive Midfield,Piacenza,Loan,in,Romania;,0,Serie A,2008,2008/2009
+Chievo Verona,Giuseppe Colucci,28,Central Midfield,Catania,?,in,Italy;,NA,Serie A,2008,2008/2009
+Chievo Verona,Mauro Esposito,29,Right Winger,AS Roma,Loan,in,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Santiago Morero,26,Centre-Back,Udinese,?,in,Argentina;Italy;,NA,Serie A,2008,2008/2009
+Chievo Verona,Emanuele D'Anna,26,Defender,AC Pisa,?,in,Italy;,NA,Serie A,2008,2008/2009
+Chievo Verona,Gennaro Sardo,29,Right-Back,Catania,Loan,in,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Giampiero Pinzi,27,Central Midfield,Udinese,Loan,in,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Diego Farias,18,Second Striker,Chievo U19,-,in,Brazil;Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Nicolò Brighenti,18,Centre-Back,Chievo U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Valerio Anastasi,18,Centre-Forward,Chievo U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Andrea Burato,17,Defensive Midfield,Chievo U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Victor Obinna,21,Second Striker,Inter,£1.08m,out,Nigeria;Italy;,1.08,Serie A,2008,2008/2009
+Chievo Verona,Leonardo Moracci,20,Centre-Back,Hellas Verona,£180k,out,Italy;,0.18,Serie A,2008,2008/2009
+Chievo Verona,Pablo Granoche,24,Centre-Forward,Triestina,Loan fee:£90k,out,Uruguay;Italy;,0.09,Serie A,2008,2008/2009
+Chievo Verona,Mattia Passarini,28,Goalkeeper,Bassano,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+Chievo Verona,Tommaso Chiecchi,28,Centre-Back,Lumezzane,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,César,29,Centre-Back,Padova,Loan,out,Brazil;Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Simone Grippo,20,Centre-Back,Piacenza,Loan,out,Switzerland;Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Nicolò Brighenti,19,Centre-Back,AC Mezzocorona,?,out,Italy;,NA,Serie A,2008,2008/2009
+Chievo Verona,Giuseppe Cozzolino,22,Centre-Forward,Cremonese,?,out,Italy;,NA,Serie A,2008,2008/2009
+Chievo Verona,Giovanni Marchese,23,Centre-Back,Salernitana,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Emanuele D'Anna,26,Defender,AC Pisa,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Andrea Mengoni,24,Centre-Back,Piacenza,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Michele Troiano,23,Defensive Midfield,Modena,?,out,Italy;,NA,Serie A,2008,2008/2009
+Chievo Verona,Andrea De Falco,22,Central Midfield,Ancona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Mahamet Diagouraga,24,Centre-Back,Modena,Loan,out,Mali;France;,0,Serie A,2008,2008/2009
+Chievo Verona,Antimo Iunco,24,Second Striker,Salernitana,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Mirco Gasparetto,28,Centre-Forward,AC Pisa,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Philippe Montandon,25,Centre-Back,FC Lugano,Loan,out,Switzerland;,0,Serie A,2008,2008/2009
+Chievo Verona,Cesare Rickler,21,Centre-Back,Piacenza,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Shadi Ghosheh,20,Centre-Back,Bassano,?,out,Jordan;Italy;,NA,Serie A,2008,2008/2009
+Chievo Verona,Federico Cossato,35,Centre-Forward,Retired,-,out,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Federico Giunti,36,Defensive Midfield,Retired,-,out,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Marino Defendi,22,Central Midfield,Atalanta,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Aleandro Rosi,21,Right-Back,AS Roma,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Chievo Verona,Rubén Maldonado,29,Centre-Back,SSC Napoli,"End of loanJun 30, 2008",out,Paraguay;,0,Serie A,2008,2008/2009
+Chievo Verona,Maurizio Ciaramitaro,26,Central Midfield,US Palermo,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Andrea Costa,22,Centre-Back,Bologna,£2.48m,in,Italy;,2.48,Serie A,2008,2008/2009
+Reggina Calcio,Franco Brienza,29,Attacking Midfield,US Palermo,£1.98m,in,Italy;,1.98,Serie A,2008,2008/2009
+Reggina Calcio,Carlos Carmona,21,Defensive Midfield,O'Higgins,£900k,in,Chile;,0.9,Serie A,2008,2008/2009
+Reggina Calcio,Santos,26,Centre-Back,Genoa,£900k,in,Brazil;Italy;,0.9,Serie A,2008,2008/2009
+Reggina Calcio,Alessio Sestu,24,Right Winger,Avellino,£360k,in,Italy;,0.36,Serie A,2008,2008/2009
+Reggina Calcio,Matej Krajcik,30,Right-Back,Slavia Prague,Free transfer,in,Slovakia;,NA,Serie A,2008,2008/2009
+Reggina Calcio,Bernardo Corradi,32,Centre-Forward,Man City,Free transfer,in,Italy;,NA,Serie A,2008,2008/2009
+Reggina Calcio,Bruno Cirillo,31,Centre-Back,Levante,Free transfer,in,Italy;,NA,Serie A,2008,2008/2009
+Reggina Calcio,Davide Di Gennaro,20,Defensive Midfield,Genoa,Loan,in,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Antonio Rizzo,27,Right-Back,Perugia,?,in,Italy;,NA,Serie A,2008,2008/2009
+Reggina Calcio,Djordje Rakic,22,Centre-Forward,RB Salzburg,Loan,in,Serbia;,0,Serie A,2008,2008/2009
+Reggina Calcio,Lóránd Szatmári,19,Central Midfield,Pécsi MFC,?,in,Hungary;,NA,Serie A,2008,2008/2009
+Reggina Calcio,Kris Thackray,20,Centre-Back,Reggina Primaver,-,in,England;,0,Serie A,2008,2008/2009
+Reggina Calcio,Josias Basso,19,Centre-Back,Reggina Primaver,-,in,Brazil;Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Jonis Khoris,19,Second Striker,Reggina Primaver,-,in,Morocco;Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Daniel Adejo,19,Centre-Back,Reggina Primaver,-,in,Nigeria;Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Nicolas Viola,18,Central Midfield,Reggina Primaver,-,in,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Francesco Modesto,26,Left-Back,Genoa,£4.05m,out,Italy;,4.05,Serie A,2008,2008/2009
+Reggina Calcio,Nicola Amoruso,33,Centre-Forward,Torino,£2.70m,out,Italy;,2.7,Serie A,2008,2008/2009
+Reggina Calcio,Salvatore Aronica,30,Centre-Back,SSC Napoli,£2.41m,out,Italy;,2.41,Serie A,2008,2008/2009
+Reggina Calcio,Nenad Novakovic,26,Goalkeeper,Nordsjaelland,Free transfer,out,Serbia;,NA,Serie A,2008,2008/2009
+Reggina Calcio,José Montiel,20,Attacking Midfield,Poli. Iasi,Loan,out,Paraguay;,0,Serie A,2008,2008/2009
+Reggina Calcio,Nenad Novakovic,25,Goalkeeper,Aalesund,Loan,out,Serbia;,0,Serie A,2008,2008/2009
+Reggina Calcio,Daniele Degano,25,Second Striker,AC Pisa,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+Reggina Calcio,Giovanni Lavrendi,22,Central Midfield,Trento,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+Reggina Calcio,Nicki Bille Nielsen,20,Centre-Forward,Nordsjaelland,Free transfer,out,Denmark;,NA,Serie A,2008,2008/2009
+Reggina Calcio,Antonio Rizzo,27,Right-Back,Ravenna,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Mike Tullberg,22,Centre-Forward,Heart of Midl.,Loan,out,Denmark;,0,Serie A,2008,2008/2009
+Reggina Calcio,Gaetano Ungaro,20,Centre-Back,Ravenna,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Pasquale Porcaro,20,Defender,Potenza SC,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Jonis Khoris,19,Second Striker,Ravenna,Loan,out,Morocco;Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Lóránd Szatmári,20,Central Midfield,Monopoli,Loan,out,Hungary;,0,Serie A,2008,2008/2009
+Reggina Calcio,Simone Missiroli,22,Defensive Midfield,Treviso,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Leonardo Pettinari,21,Left Winger,Ravenna,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Kris Thackray,20,Centre-Back,Monopoli,Loan,out,England;,0,Serie A,2008,2008/2009
+Reggina Calcio,Ivan Castiglia,20,Central Midfield,Cittadella,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Lóránd Szatmári,19,Central Midfield,Avellino,Loan,out,Hungary;,0,Serie A,2008,2008/2009
+Reggina Calcio,Francesco Cosenza,22,Centre-Back,Avellino,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Daniele Cerretti,34,Goalkeeper,Catanzaro,?,out,Italy;,NA,Serie A,2008,2008/2009
+Reggina Calcio,Luca Tognozzi,31,Central Midfield,Brescia,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Joelson,25,Right Winger,AC Pisa,Loan,out,Brazil;Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Antonio Rizzo,27,Right-Back,Cremonese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Nicolò Cherubin,21,Centre-Back,Cittadella,?,out,Italy;,NA,Serie A,2008,2008/2009
+Reggina Calcio,Raffaele Barbagallo,19,Central Midfield,Without Club,-,out,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Miguel Garcia,25,Right-Back,Without Club,-,out,Portugal;,0,Serie A,2008,2008/2009
+Reggina Calcio,Franco Brienza,29,Attacking Midfield,US Palermo,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Bruno Cirillo,31,Centre-Back,Levante,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Stephen Makinwa,24,Centre-Forward,Lazio,"End of loanJun 30, 2008",out,Nigeria;Italy;,0,Serie A,2008,2008/2009
+Reggina Calcio,Andrea Costa,22,Centre-Back,Bologna,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Maurizio Domizzi,28,Centre-Back,SSC Napoli,£4.05m,in,Italy;,4.05,Serie A,2008,2008/2009
+Udinese Calcio,Fernando Tissone,21,Central Midfield,Atalanta,£3.78m,in,Argentina;Italy;,3.78,Serie A,2008,2008/2009
+Udinese Calcio,Giovanni Pasquale,26,Left-Back,AS Livorno,£3.15m,in,Italy;,3.15,Serie A,2008,2008/2009
+Udinese Calcio,Odion Ighalo,19,Centre-Forward,FK Lyn,£1.71m,in,Nigeria;Italy;,1.71,Serie A,2008,2008/2009
+Udinese Calcio,Alain Nef,26,Centre-Back,Piacenza,£1.62m,in,Switzerland;,1.62,Serie A,2008,2008/2009
+Udinese Calcio,Alexander Manninger,31,Goalkeeper,Siena,£1.62m,in,Austria;,1.62,Serie A,2008,2008/2009
+Udinese Calcio,Nikola Vujadinovic,22,Centre-Back,CSKA Sofia,£810k,in,Montenegro;Bulgaria;,0.81,Serie A,2008,2008/2009
+Udinese Calcio,Sakari Mattila,19,Defensive Midfield,HJK Helsinki,£720k,in,Finland;,0.72,Serie A,2008,2008/2009
+Udinese Calcio,Dusan Basta,23,Right-Back,Red Star,£630k,in,Serbia;,0.63,Serie A,2008,2008/2009
+Udinese Calcio,Niki Zimling,23,Defensive Midfield,Esbjerg fB,Free transfer,in,Denmark;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Antonio Langella,31,Left Winger,Atalanta,Free transfer,in,Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Luigi Sala,34,Centre-Back,Sampdoria,Free transfer,in,Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Santiago Morero,26,Centre-Back,Tigre,Free transfer,in,Argentina;Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Emanuele Belardi,30,Goalkeeper,Juventus,?,in,Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Cristoforo Correale,20,Midfielder,Juve Stabia,?,in,Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Salvatore Foti,19,Centre-Forward,Messina,?,in,Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Kwadwo Asamoah,19,Left Midfield,AC Bellinzona,Loan,in,Ghana;,0,Serie A,2008,2008/2009
+Udinese Calcio,Jan Koprivec,19,Goalkeeper,Cagliari Calcio,?,in,Slovenia;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Nicolás Crovetto,22,Left-Back,Audax Italiano,?,in,Chile;Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Kelvin Matute,19,Defensive Midfield,Udinese U19,-,in,Cameroon;,0,Serie A,2008,2008/2009
+Udinese Calcio,Felipe Sodinha,19,Second Striker,Udinese U19,-,in,Brazil;Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Alessandro Osso Armellino,21,Forward,Udinese U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Facundo Zampa,19,Central Midfield,Udinese U19,-,in,Argentina;Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Andrea Dossena,26,Left Midfield,Liverpool,£8.10m,out,Italy;,8.1,Serie A,2008,2008/2009
+Udinese Calcio,Asamoah Gyan,22,Centre-Forward,Stade Rennais,£7.20m,out,Ghana;,7.2,Serie A,2008,2008/2009
+Udinese Calcio,Tomás Sivok,24,Centre-Back,Besiktas,£4.23m,out,Czech Republic;,4.23,Serie A,2008,2008/2009
+Udinese Calcio,Tomas Zapotocny,27,Centre-Back,Besiktas,£4.05m,out,Czech Republic;,4.05,Serie A,2008,2008/2009
+Udinese Calcio,Giandomenico Mesto,26,Right-Back,Genoa,£2.70m,out,Italy;,2.7,Serie A,2008,2008/2009
+Udinese Calcio,Alexander Manninger,31,Goalkeeper,Juventus,£2.25m,out,Austria;,2.25,Serie A,2008,2008/2009
+Udinese Calcio,Barreto,22,Second Striker,Bari,Loan fee:£900k,out,Brazil;Italy;,0.9,Serie A,2008,2008/2009
+Udinese Calcio,Salvatore Masiello,26,Left-Back,Bari,£900k,out,Italy;,0.9,Serie A,2008,2008/2009
+Udinese Calcio,Antonio Candreva,21,Right Midfield,AS Livorno,Loan fee:£450k,out,Italy;,0.45,Serie A,2008,2008/2009
+Udinese Calcio,Raffaele De Martino,22,Defensive Midfield,Avellino,£360k,out,Italy;,0.36,Serie A,2008,2008/2009
+Udinese Calcio,Roman Eremenko,21,Attacking Midfield,Dynamo Kyiv,Loan fee:£270k,out,Finland;Russia;,0.27,Serie A,2008,2008/2009
+Udinese Calcio,Marco Motta,22,Right-Back,AS Roma,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Ivan Buonocunto,22,Attacking Midfield,ISM Gradisca,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Facundo Zampa,19,Central Midfield,Gallipoli,Loan,out,Argentina;Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Viktor Budyanskiy,24,Central Midfield,Khimki,Loan,out,Russia;Ukraine;,0,Serie A,2008,2008/2009
+Udinese Calcio,Abdul-Aziz Tetteh,18,Defensive Midfield,Xerez CD,Loan,out,Ghana;,0,Serie A,2008,2008/2009
+Udinese Calcio,Guilherme Siqueira,22,Left-Back,Ancona,Loan,out,Brazil;Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Felipe Sodinha,20,Second Striker,Paganese,Loan,out,Brazil;Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Dusan Basta,23,Right-Back,Lecce,Loan,out,Serbia;,0,Serie A,2008,2008/2009
+Udinese Calcio,Felipe Sodinha,20,Second Striker,Bari,Loan,out,Brazil;Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Moreno,25,Left-Back,KAS Eupen,Loan,out,Brazil;Portugal;,0,Serie A,2008,2008/2009
+Udinese Calcio,Antonio Chimenti,38,Goalkeeper,Juventus,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Mohamadou Sissoko,19,Centre-Back,Gallipoli,Loan,out,France;Mali;,0,Serie A,2008,2008/2009
+Udinese Calcio,Alain Nef,26,Centre-Back,Recr. Huelva,Loan,out,Switzerland;,0,Serie A,2008,2008/2009
+Udinese Calcio,Andrea Peron,21,Centre-Forward,ISM Gradisca,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Cristoforo Correale,20,Midfielder,AC Scafatese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Federico Laurito,18,Centre-Forward,SSC Venezia,Loan,out,Argentina;Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Kelvin Matute,19,Defensive Midfield,Arezzo,Loan,out,Cameroon;,0,Serie A,2008,2008/2009
+Udinese Calcio,Santiago Morero,26,Centre-Back,Chievo Verona,?,out,Argentina;Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Antonio Langella,31,Left Winger,Chievo Verona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Federico Gerardi,20,Centre-Forward,Salernitana,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Schumacher,21,Centre-Forward,Austria Kärnten,Loan,out,Brazil;Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Michele Paolucci,22,Centre-Forward,Catania,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Alessandro Osso Armellino,21,Forward,Celano,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Nicolás Crovetto,22,Left-Back,Albacete,Loan,out,Chile;Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Christian Tiboni,20,Centre-Forward,Atalanta,?,out,Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Federico Gerardi,21,Centre-Forward,Cittadella,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Juan Surraco,20,Second Striker,Ancona,Loan,out,Uruguay;Spain;,0,Serie A,2008,2008/2009
+Udinese Calcio,Igor Djuric,19,Centre-Back,Arezzo,Loan,out,Switzerland;Serbia;,0,Serie A,2008,2008/2009
+Udinese Calcio,Salvatore Foti,19,Centre-Forward,Treviso,?,out,Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Claudio Vargas,22,Defensive Midfield,Olimpia,?,out,Paraguay;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Michele Rinaldi,21,Centre-Back,Atalanta,?,out,Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Matteo Piccinni,22,Centre-Back,AC Pisa,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Ferdinando Sforzini,24,Centre-Forward,Avellino,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Massimo Gotti,22,Left-Back,Portogruaro,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Flavio Lazzari,21,Left Winger,Grosseto,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Alessandro Osso Armellino,21,Forward,VF Colligiana,?,out,Italy;,NA,Serie A,2008,2008/2009
+Udinese Calcio,Giampiero Pinzi,27,Central Midfield,Chievo Verona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Federico Laurito,18,Centre-Forward,AS Livorno,Loan,out,Argentina;Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Abel Aguilar,23,Defensive Midfield,Hércules CF,Loan,out,Colombia;,0,Serie A,2008,2008/2009
+Udinese Calcio,Viktor Budyanskiy,24,Central Midfield,Lecce,Loan,out,Russia;Ukraine;,0,Serie A,2008,2008/2009
+Udinese Calcio,Ferdinando Sforzini,23,Centre-Forward,Grosseto,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Udinese Calcio,Riccardo Colombo,25,Central Midfield,UC AlbinoLeffe,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Torino FC,Rolando Bianchi,25,Centre-Forward,Man City,£6.30m,in,Italy;,6.3,Serie A,2008,2008/2009
+Torino FC,Francesco Pratali,29,Centre-Back,FC Empoli,£2.70m,in,Italy;,2.7,Serie A,2008,2008/2009
+Torino FC,Nicola Amoruso,33,Centre-Forward,Reggina,£2.70m,in,Italy;,2.7,Serie A,2008,2008/2009
+Torino FC,Ignazio Abate,21,Right-Back,AC Milan,£1.98m,in,Italy;,1.98,Serie A,2008,2008/2009
+Torino FC,Elvis Abbruscato,27,Centre-Forward,Lecce,£1.80m,in,Italy;,1.8,Serie A,2008,2008/2009
+Torino FC,Marco Pisano,26,Left-Back,US Palermo,£1.35m,in,Italy;,1.35,Serie A,2008,2008/2009
+Torino FC,Riccardo Colombo,25,Central Midfield,UC AlbinoLeffe,£1.17m,in,Italy;,1.17,Serie A,2008,2008/2009
+Torino FC,Andrea Gasbarroni,27,Second Striker,Genoa,£900k,in,Italy;,0.9,Serie A,2008,2008/2009
+Torino FC,Claudio Rivalta,30,Centre-Back,Atalanta,£720k,in,Italy;,0.72,Serie A,2008,2008/2009
+Torino FC,Paolo Dellafiore,23,Centre-Back,US Palermo,Loan fee:£360k,in,Italy;Argentina;,0.36,Serie A,2008,2008/2009
+Torino FC,Blerim Dzemaili,22,Central Midfield,Bolton,Loan,in,Switzerland;North Macedonia;,0,Serie A,2008,2008/2009
+Torino FC,Jürgen Säumel,23,Central Midfield,Sturm Graz,Free transfer,in,Austria;,NA,Serie A,2008,2008/2009
+Torino FC,Alex Calderoni,32,Goalkeeper,Treviso,?,in,Italy;,NA,Serie A,2008,2008/2009
+Torino FC,Marco Moro,24,Centre-Forward,Messina,?,in,Italy;,NA,Serie A,2008,2008/2009
+Torino FC,Gianluca Comotto,29,Right-Back,Fiorentina,£4.32m,out,Italy;,4.32,Serie A,2008,2008/2009
+Torino FC,Vince Grella,28,Central Midfield,Blackburn,£3.60m,out,Australia;Italy;,3.6,Serie A,2008,2008/2009
+Torino FC,Salvatore Lanna,32,Left-Back,Bologna,£1.35m,out,Italy;,1.35,Serie A,2008,2008/2009
+Torino FC,David Di Michele,32,Centre-Forward,West Ham,Loan fee:£630k,out,Italy;,0.63,Serie A,2008,2008/2009
+Torino FC,Dominique Malonga,20,Centre-Forward,Foggia,Loan,out,Congo;France;,0,Serie A,2008,2008/2009
+Torino FC,Daniel Soares Martelo Humberto,29,Attacking Midfield,Maccabi Netanya,Free transfer,out,Brazil;Portugal;,NA,Serie A,2008,2008/2009
+Torino FC,Masashi Oguro,28,Centre-Forward,Tokyo Verdy,Free transfer,out,Japan;,NA,Serie A,2008,2008/2009
+Torino FC,Nikola Lazetic,30,Right Winger,Red Star,Free transfer,out,Serbia;,NA,Serie A,2008,2008/2009
+Torino FC,Vito Falconieri,22,Centre-Forward,Reggiana,?,out,Italy;,NA,Serie A,2008,2008/2009
+Torino FC,Marco Moro,24,Centre-Forward,SPAL,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Torino FC,Mattia De Stefano,22,Centre-Back,Foligno,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Torino FC,Sasa Bjelanovic,29,Centre-Forward,Vicenza,Loan,out,Croatia;Italy;,0,Serie A,2008,2008/2009
+Torino FC,Nicola Amoruso,34,Centre-Forward,Siena,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Torino FC,Davide Bottone,22,Central Midfield,Vicenza,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Torino FC,Paolo Dellafiore,23,Centre-Back,US Palermo,"End of loanJun 30, 2008",out,Italy;Argentina;,0,Serie A,2008,2008/2009
+Torino FC,Marco Motta,22,Right-Back,Udinese,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Torino FC,Marco Pisano,26,Left-Back,US Palermo,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Torino FC,Álvaro Recoba,32,Second Striker,Inter,"End of loanJun 30, 2008",out,Uruguay;Italy;,0,Serie A,2008,2008/2009
+Torino FC,Kwadwo Asamoah,19,Left Midfield,AC Bellinzona,"End of loanJun 30, 2008",out,Ghana;,0,Serie A,2008,2008/2009
+Cagliari Calcio,Federico Marchetti,25,Goalkeeper,UC AlbinoLeffe,£6.03m,in,Italy;,6.03,Serie A,2008,2008/2009
+Cagliari Calcio,Davide Astori,21,Centre-Back,AC Milan,£4.50m,in,Italy;,4.5,Serie A,2008,2008/2009
+Cagliari Calcio,Andrea Lazzari,23,Central Midfield,Atalanta,£4.32m,in,Italy;,4.32,Serie A,2008,2008/2009
+Cagliari Calcio,Carlos Matheu,23,Centre-Back,Independiente,£1.85m,in,Argentina;Italy;,1.85,Serie A,2008,2008/2009
+Cagliari Calcio,Mikhail Sivakov,21,Centre-Back,BATE Borisov,£405k,in,Belarus;,0.405,Serie A,2008,2008/2009
+Cagliari Calcio,Daniele Magliocchetti,22,Centre-Back,AS Roma,?,in,Italy;,NA,Serie A,2008,2008/2009
+Cagliari Calcio,Cristiano Lupatelli,30,Goalkeeper,Fiorentina,?,in,Italy;,NA,Serie A,2008,2008/2009
+Cagliari Calcio,Alberto Usai,18,Midfielder,Cagliari U19,-,in,Italy;,0,Serie A,2008,2008/2009
+Cagliari Calcio,Cristiano Del Grosso,25,Left-Back,Siena,£720k,out,Italy;,0.72,Serie A,2008,2008/2009
+Cagliari Calcio,Joe Bizera,28,Centre-Back,PAOK Salonika,£270k,out,Uruguay;,0.27,Serie A,2008,2008/2009
+Cagliari Calcio,Davide Marchini,27,Right Midfield,Triestina,£45k,out,Italy;,0.045,Serie A,2008,2008/2009
+Cagliari Calcio,Vincenzo Marruocco,29,Goalkeeper,Cavese,Free transfer,out,Italy;,NA,Serie A,2008,2008/2009
+Cagliari Calcio,Rijat Shala,24,Central Midfield,Sorrento,Free transfer,out,Switzerland;Albania;,NA,Serie A,2008,2008/2009
+Cagliari Calcio,Joaquín Larrivey,24,Centre-Forward,Vélez Sarsfield,Loan,out,Argentina;Italy;,0,Serie A,2008,2008/2009
+Cagliari Calcio,Marco Mancosu,19,Attacking Midfield,Rimini,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Cagliari Calcio,Marco Sau,20,Centre-Forward,UC AlbinoLeffe,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Cagliari Calcio,Salvatore Burrai,21,Defensive Midfield,Ternana,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Cagliari Calcio,Jan Koprivec,19,Goalkeeper,Udinese,?,out,Slovenia;,NA,Serie A,2008,2008/2009
+Cagliari Calcio,Tiziano Bruzzone,23,Centre-Forward,Pontedera,?,out,Italy;,NA,Serie A,2008,2008/2009
+Cagliari Calcio,Michele Ferri,27,Centre-Back,Sampdoria,?,out,Italy;,NA,Serie A,2008,2008/2009
+Cagliari Calcio,Enrico Cotza,19,Central Midfield,Foligno,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Cagliari Calcio,Claudio Pani,22,Defensive Midfield,Triestina,?,out,Italy;,NA,Serie A,2008,2008/2009
+Cagliari Calcio,Daniele Magliocchetti,22,Centre-Back,AS Roma,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Cagliari Calcio,Luca Capecchi,33,Goalkeeper,Ravenna,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Cagliari Calcio,Pasquale Foggia,25,Attacking Midfield,Lazio,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Cagliari Calcio,Marco Storari,31,Goalkeeper,AC Milan,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Cagliari Calcio,Vítor Gomes,20,Central Midfield,Rio Ave FC,"End of loanJun 30, 2008",out,Portugal;,0,Serie A,2008,2008/2009
+Cagliari Calcio,Sebastián Rosano,21,Right Midfield,Wanderers,"End of loanJun 30, 2008",out,Uruguay;,0,Serie A,2008,2008/2009
+Bologna FC 1909,Daniel Osvaldo,23,Centre-Forward,Fiorentina,£6.30m,in,Italy;Argentina;,6.3,Serie A,2008,2008/2009
+Bologna FC 1909,Gaby Mudingayi,26,Defensive Midfield,Lazio,£5.40m,in,Belgium;DR Congo;,5.4,Serie A,2008,2008/2009
+Bologna FC 1909,Marco Bernacci,24,Centre-Forward,Cesena,£3.87m,in,Italy;,3.87,Serie A,2008,2008/2009
+Bologna FC 1909,Miguel Britos,22,Centre-Back,Wanderers,£3.60m,in,Uruguay;,3.6,Serie A,2008,2008/2009
+Bologna FC 1909,Salvatore Lanna,32,Left-Back,Torino,£1.35m,in,Italy;,1.35,Serie A,2008,2008/2009
+Bologna FC 1909,Cristian Zenoni,31,Right-Back,Sampdoria,£900k,in,Italy;,0.9,Serie A,2008,2008/2009
+Bologna FC 1909,Massimo Coda,19,Centre-Forward,Treviso,£360k,in,Italy;,0.36,Serie A,2008,2008/2009
+Bologna FC 1909,Coelho,25,Right-Back,Corinthians,Loan fee:£180k,in,Brazil;Portugal;,0.18,Serie A,2008,2008/2009
+Bologna FC 1909,Sergio Volpi,34,Central Midfield,Sampdoria,Free transfer,in,Italy;,NA,Serie A,2008,2008/2009
+Bologna FC 1909,Marco Di Vaio,32,Centre-Forward,Genoa,Loan,in,Italy;,0,Serie A,2008,2008/2009
+Bologna FC 1909,Diego Rodríguez,21,Left-Back,Peñarol,Loan,in,Uruguay;Italy;,0,Serie A,2008,2008/2009
+Bologna FC 1909,Manuel Belleri,31,Right-Back,Lazio,?,in,Italy;,NA,Serie A,2008,2008/2009
+Bologna FC 1909,Davide Marchini,27,Right Midfield,Triestina,Loan,in,Italy;,0,Serie A,2008,2008/2009
+Bologna FC 1909,Massimo Mutarelli,31,Central Midfield,Without Club,-,in,Italy;,0,Serie A,2008,2008/2009
+Bologna FC 1909,César,34,Left Midfield,Without Club,-,in,Brazil;Italy;,0,Serie A,2008,2008/2009
+Bologna FC 1909,Andrea Costa,22,Centre-Back,Reggina,£2.48m,out,Italy;,2.48,Serie A,2008,2008/2009
+Bologna FC 1909,Michelangelo Albertazzi,17,Left-Back,Milan U19,£1.98m,out,Italy;,1.98,Serie A,2008,2008/2009
+Bologna FC 1909,Massimo Coda,19,Centre-Forward,Cremonese,£135k,out,Italy;,0.135,Serie A,2008,2008/2009
+Bologna FC 1909,Davide Carrus,29,Defensive Midfield,FC Empoli,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Bologna FC 1909,Francesco Della Rocca,20,Central Midfield,Sassuolo,Loan,out,Italy;,0,Serie A,2008,2008/2009
+Bologna FC 1909,Luca Ferrari,22,Central Midfield,Reggiana,?,out,Italy;,NA,Serie A,2008,2008/2009
+Bologna FC 1909,Davide Colomba,19,Left Midfield,Foggia,?,out,Italy;,NA,Serie A,2008,2008/2009
+Bologna FC 1909,Mattia Ascani,19,Goalkeeper,Sambenedettese,?,out,Italy;,NA,Serie A,2008,2008/2009
+Bologna FC 1909,Andrej Galabinov,20,Centre-Forward,Giacomense,Loan,out,Bulgaria;,0,Serie A,2008,2008/2009
+Bologna FC 1909,Daniele Daino,28,Right-Back,Without Club,-,out,Italy;,0,Serie A,2008,2008/2009
+Bologna FC 1909,Davide Di Gennaro,20,Defensive Midfield,AC Milan,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Bologna FC 1909,David Giubilato,31,Centre-Back,Vicenza,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Bologna FC 1909,Riccardo Bonetto,29,Left-Back,Lazio,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Bologna FC 1909,Cristian Bucchi,31,Centre-Forward,SSC Napoli,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+Bologna FC 1909,Dino Fava,31,Centre-Forward,Treviso,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Daniele Cacia,24,Centre-Forward,Piacenza,£2.70m,in,Italy;,2.7,Serie A,2008,2008/2009
+US Lecce,Edinho,25,Defensive Midfield,Internacional,£2.07m,in,Brazil;,2.07,Serie A,2008,2008/2009
+US Lecce,Fabio Caserta,29,Central Midfield,US Palermo,£1.44m,in,Italy;,1.44,Serie A,2008,2008/2009
+US Lecce,José Castillo,32,Centre-Forward,AC Pisa,£1.44m,in,Argentina;Italy;,1.44,Serie A,2008,2008/2009
+US Lecce,Frank Feltscher,20,Centre-Forward,Grasshoppers,£360k,in,Venezuela;Switzerland;,0.36,Serie A,2008,2008/2009
+US Lecce,Vitorino Antunes,21,Left-Back,AS Roma,Loan fee:£180k,in,Portugal;,0.18,Serie A,2008,2008/2009
+US Lecce,Dusan Basta,23,Right-Back,Udinese,Loan,in,Serbia;,0,Serie A,2008,2008/2009
+US Lecce,Dimitrios Papadopoulos,26,Centre-Forward,Panathinaikos,Loan,in,Greece;,0,Serie A,2008,2008/2009
+US Lecce,Léo,24,Centre-Forward,Internacional,Loan,in,Brazil;,0,Serie A,2008,2008/2009
+US Lecce,Viktor Budyanskiy,24,Central Midfield,Udinese,Loan,in,Russia;Ukraine;,0,Serie A,2008,2008/2009
+US Lecce,N'Diaye Papa Waigo,24,Right Winger,Fiorentina,Loan,in,Senegal;,0,Serie A,2008,2008/2009
+US Lecce,Guillermo Giacomazzi,30,Defensive Midfield,FC Empoli,?,in,Uruguay;Italy;,NA,Serie A,2008,2008/2009
+US Lecce,Guglielmo Stendardo,27,Centre-Back,Lazio,Loan,in,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Matteo Legittimo,19,Left-Back,Lecce U19,-,in,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Gianmarco Ingrosso,19,Centre-Back,Lecce U19,-,in,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Elvis Abbruscato,27,Centre-Forward,Torino,£1.80m,out,Italy;,1.8,Serie A,2008,2008/2009
+US Lecce,Anej Lovrecic,21,Central Midfield,NK Celje,£270k,out,Slovenia;,0.27,Serie A,2008,2008/2009
+US Lecce,Souleymane Diamoutene,25,Centre-Back,AS Roma,Loan fee:£135k,out,Mali;Italy;,0.135,Serie A,2008,2008/2009
+US Lecce,Jaime Valdés,27,Central Midfield,Atalanta,Free transfer,out,Chile;,NA,Serie A,2008,2008/2009
+US Lecce,Fabio Franceschini,20,Centre-Back,Giacomense,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Alessandro Camisa,23,Centre-Back,Varese,?,out,Italy;,NA,Serie A,2008,2008/2009
+US Lecce,Matteo Legittimo,19,Left-Back,Paganese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Marcello Cottafava,30,Centre-Back,Triestina,?,out,Italy;,NA,Serie A,2008,2008/2009
+US Lecce,Blazej Vascak,24,Attacking Midfield,FK Teplice,Loan,out,Slovakia;,0,Serie A,2008,2008/2009
+US Lecce,Ugo Gabrieli,19,Goalkeeper,US Poggibonsi,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Mattia Conte,20,Centre-Back,AS Gubbio,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Matteo Legittimo,19,Left-Back,Pistoiese,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Mattia Conte,20,Centre-Back,SSC Venezia,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Patrik Bordon,20,Centre-Forward,FC Koper,Loan,out,Slovenia;Italy;,0,Serie A,2008,2008/2009
+US Lecce,Vittorio Triarico,19,Right Midfield,Crotone,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Davide Giorgino,23,Central Midfield,Taranto,?,out,Italy;,NA,Serie A,2008,2008/2009
+US Lecce,Francesco Giorgetti,22,Left Midfield,AC Mezzocorona,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Drissa Diarra,23,Defensive Midfield,AC Bellinzona,Loan,out,Mali;,0,Serie A,2008,2008/2009
+US Lecce,Frank Feltscher,20,Centre-Forward,AC Bellinzona,Loan,out,Venezuela;Switzerland;,0,Serie A,2008,2008/2009
+US Lecce,Cristian Agnelli,22,Central Midfield,Sorrento,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Italo Mattioli,23,Centre-Forward,Foggia,Loan,out,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Daniele Corvia,23,Centre-Forward,Siena,"End of loanJun 30, 2008",out,Italy;,0,Serie A,2008,2008/2009
+US Lecce,Viktor Budyanskiy,24,Central Midfield,Udinese,"End of loanJun 30, 2008",out,Russia;Ukraine;,0,Serie A,2008,2008/2009

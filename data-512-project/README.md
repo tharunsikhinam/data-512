@@ -62,6 +62,14 @@ This dataset consists of all transfers in the European football market from 1991
     ├── 00-setup.R
     └── 01-scrape.R
 ```
+Scripts to scrape raw data from website is stored in [scrapingScripts](./scrapingScripts). These are written in R and required an R distribution to run the file.
+
+All the raw data is stored under [rawData](./rawData) where the file format is {league_name}_{year}.csv and the cleaned data in stored under [cleanData](./cleanData)   
+[allSeasons](./cleanData/allSeasons.csv) hold's unadjusted transfer values   
+[allSeasonsClean](./cleanData/allSeasonsClean.csv) the transfer fees are adjusted for inflation   
+[transfers.db](./cleanData/transfers.db) Sqlite3 database dump of all the tables used for the analysis. (use this file if you want to skip data collection and pre-processing steps)
+
+Analysis is done in [Data-512-Analysis.ipynb](./Data-512-Analysis.ipynb)
 
 ## IV. Research Questions
 

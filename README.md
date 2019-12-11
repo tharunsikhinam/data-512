@@ -5,4 +5,6 @@ Repository for Data512 assignments
 
 ## [A2:Data Curation](./data-512-a2)
 
+## [Final Project](./data-512-project)
+
 ## [License](./LICENSE)
